@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-04" id="root" itemid="84438" xml:lang="da">
+<title></title>
+<headline> Carlsberg straffes i afventende dansk aktiemarked. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 4 juni (Reuter) - Det danske aktiemarked </p>
+<p> onsdag kl. 12.00:      +/-     * KFX-indeks.................166,16   +0,22     * KFX future juni............166,05   +0,35 </p>
+<p>     * Omsætning i KFX-papirer....170,44 mio. kr. </p>
+<p>     * Carlsberg falder 2,8 pct. efter dårligere end ventet </p>
+<p> halvårsregnskab tirsdag. </p>
+<p>     * EAC 2,5 pct. ned i lyset af fortsat debat om </p>
+<p> giftsalg i Burma. </p>
+<p>     * Cederholm &amp; Voss 9,9 pct. op efter købsforhandlinger </p>
+<p> med Kurt Thorsen. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-04"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

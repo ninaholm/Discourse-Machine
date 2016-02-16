@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-07-24" id="root" itemid="86002" xml:lang="da">
+<title></title>
+<headline> Dansk rentemarked med fokus på Bundesbank. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     Papir       kl. 8.40     kl. 16.15 Stat 7 pct. 2007   107,20/6,03 pct.  107,26/6,03 pct. Dansk-tysk 10-årigt spænd (bp) 52      53 Stat 8 pct. 2006   114,34/5,83 pct.  114,39/5,83 pct. </p>
+<p> ---------------------------------------------------------- </p>
+<p>     KØBENHAVN, 24 juli (Reuter) - Deltagerne på det danske </p>
+<p> rentemarked vil torsdag holde et skarpt øje med rådsmødet </p>
+<p> i Bundesbank. Det sidste inden sommerferien. </p>
+<p>     - Den seneste tids svækkelse af den tyske mark kan </p>
+<p> måske få Bundesbank til at reagere. Eventuelt ved at gøre </p>
+<p> reporenten variabel, siger en handler torsdag morgen. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-24"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-24"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-24"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-24"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-24"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-24"></editdetail></code>
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-24"></editdetail></code>
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-24"></editdetail></code>
+<code code="M131">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-24"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-24"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-07-24"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

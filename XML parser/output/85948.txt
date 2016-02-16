@@ -1,0 +1,12 @@
+Reuters Finans - Estimater på kommende nøgletal.
+
+DATO   NØGLETAL     SNIT  LAV/HØJ   FORRIGE
+23/7   Forbrugerpriser juni
+Måned/måned      -0,1 pct   -0,2/+0,2     +0,7   År/år       +2,1 pct   +2,0/+2,4     +2,1
+23/7   Nettopriser juni
+Måned/måned      -0,1 pct   -0,2/0,0 +0,8   År/år       +2,1 pct   +2,0/+2,2     +2,2
+25/7   Engrospriser juni
+År/år       +2,0 pct   +1,7/+2,3     +1,9
+Tallene bygger på estimater fra BG, Codan Bank, DDB, DMG,
+JPMorgan, Jyske B, Nykredit B, SEB, SHB, Sydbank, Unibank.
+(c) Reuters Limited 1997.

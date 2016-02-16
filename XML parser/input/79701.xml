@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-03" id="root" itemid="79701" xml:lang="da">
+<title></title>
+<headline> DANSKE OBLIGATIONSKURSER REAGERER POSITIVT PÅ USA. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Papir     kl. 8.55   kl. 16.03 Stat 8 pct. 2006   110,46/6,44 pct.  110,22/6,48 pct. Dansk-tysk 10-årigt spænd (bp)  71      72 </p>
+<p> --------------------------------------------------------- </p>
+<p>     KØBENHAVN, 3 februar (Reuter) - Pæne kursstigninger på </p>
+<p> det amerikanske obligationsmarked fredag, gav mandag </p>
+<p> morgen et løft til det danske obligationsmarked. </p>
+<p>     - Vi er en anelse mere optimistiske end sidste uge, </p>
+<p> men forholder os nok lidt afventende frem til mandagens </p>
+<p> NAPM-tal og tirsdagens FOMC-møde, siger en </p>
+<p> obligationshandler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-03"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

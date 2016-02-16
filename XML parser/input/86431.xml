@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-08-08" id="root" itemid="86431" xml:lang="da">
+<title></title>
+<headline> Nationalbankens valutakurser den 8 august. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 8 august (Reuter) - Nationalbanken har </p>
+<p> fastsat følgende middelkurser i dag: </p>
+<p> USD -  714,25  NLG -  338,12  JPY -    6,0417 GBP - 1127,09  ITL -    0,3900     IEP - 1019,09 DEM -  380,97  FIM -  127,39  GRD -    2,436 SEK -   88,65  ISK -    9,75  XEU -  750,11 NOK -   92,67  ATS -   54,143 AUD -  522,40 FRF -  112,95  ESP -    4,515 NZD -  454,33 BEF -   18,449 PTE -    3,764 SDR -  960,12 CHF -  465,98  CAD -  514,96 </p>
+<p>     I det følgende angives tal fra de seneste to hverdage. </p>
+<p>     Middelkurser 7. august: </p>
+<p> USD -  715,30  NLG -  338,14  JPY -    6,0317 GBP - 1145,41  ITL -    0,3893     IEP - 1026,17 DEM -  380,99  FIM -  127,81  GRD -    2,437 SEK -   88,37  ISK -    9,77  XEU -  750,49 NOK -   92,70  ATS -   54,144 AUD -  526,25 FRF -  112,92  ESP -    4,509 NZD -  456,79 BEF -   18,451 PTE -    3,764 SDR -  962,36 CHF -  467,46  CAD -  515,57 </p>
+<p>     Middelkurser 6. august: </p>
+<p> USD -  719,65  NLG -  338,48  JPY -    6,0399 GBP - 1150,36  ITL -    0,3895     IEP - 1024,78 DEM -  381,17  FIM -  128,02  GRD -    2,444 SEK -   88,83  ISK -    9,80  XEU -  751,60 NOK -   92,82  ATS -   54,170 AUD -  529,09 FRF -  112,93  ESP -    4,510 NZD -  461,22 BEF -   18,461 PTE -    3,765 SDR -  965,72 CHF -  468,43  CAD -  521,15. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-08-08"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

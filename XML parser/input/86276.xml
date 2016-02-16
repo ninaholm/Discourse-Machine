@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-08-05" id="root" itemid="86276" xml:lang="da">
+<title></title>
+<headline> Obligationsmarked siver efter tysk Ifo-indeks. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     Papir    kl. 13.15    kl.  8.45 Stat 7 pct. 2007   105,54/6,25 pct.  106,12/6,17 pct. Dansk-tysk 10-årigt spænd (bp) 54      54 Stat 8 pct. 2006   112,61/6,06 pct.  113,20/5,98 pct. </p>
+<p> ---------------------------------------------------------- </p>
+<p>     KØBENHAVN, 5 august (Reuter) - Det danske </p>
+<p> obligationsmarked har tirsdag middag sat sig en smule </p>
+<p> ovenpå morgentimernes kursstigninger. </p>
+<p>     - Det lidt negative Ifo-indeks, kombineret med en </p>
+<p> fortsat usikkerhed omkring den tyske repo-rente, har </p>
+<p> trukket Tyskland ned og dermed Danmark, siger en dealer. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-05"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-05"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-05"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-05"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-05"></editdetail></code>
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-05"></editdetail></code>
+<code code="M131">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-05"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-05"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-08-05"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

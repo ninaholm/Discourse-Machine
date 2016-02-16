@@ -1,0 +1,11 @@
+Oticon og DTU femdobler batterilevetid - blad.
+
+KØBENHAVN, 15 august (Reuter) - Forskere på Danmarks Tekniske Universitet (DTU) har i samarbejde med høreapparatkoncernen William Demant, det tidligere Oticon, udviklet en chip, der femdobler batterilevetiden. Det skriver ComputerWorld fredag.
+- DTU har i samarbejde med Oticon netop udviklet en chip med 90.000 transistorer. Det er blandt verdens største asynkrone kredsløb, og det kan femdoble batteritiden i et høreapparat. Strømbesparelsen skyldes chippens asynkrone måde at arbejde på, skriver bladet.
+Hos Oticon giver resultaterne anledning til glæde.
+- Projektet vil medvirke til at reducere strømforbruget i fremtidige generationer af vore digitale høreapparater, siger adm. dir. Lars Kolind til bladet.
+Lektor Jens Sparsø fra DTU, der har haft en hovedrolle i udviklingen af den nye chip, siger om den:
+- I vores ny asynkrone kredsløb er komponenterne kun i gang, når der er brug for det. I de traditionelle chips køres der for fuld fart hele tiden, og det koster strøm.
+Af en eller anden grund er chip&apos;en bedst, når det gælder lyd. Bærbare computere egner den sig ikke til. Til gengæld vil den være egnet til mobiltelefoner, vurderer forskerne.
+- Carl Johan Corneliussen (+45) 33 96 96 58.
+(c) Reuters Limited 1997.

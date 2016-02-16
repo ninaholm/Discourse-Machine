@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-16" id="root" itemid="84821" xml:lang="da">
+<title></title>
+<headline> Aktier ses på niveau tirsdag efter stille mandag. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 16 juni (Reuter) - Det danske aktiemarked ventes at holde niveauet tirsdag efter en stille mandag, da KFX-indekset satte rekord for fjerde gang på otte dage og lukkede i 171,47 - 0,24 point over fredagens lukkekurs. Det vurderer en aktiechef overfor Reuters Finans. </p>
+<p> - Det lader til, at kunderne er væk fra markedet i øjeblikket. Hvorfor ved jeg ikke rigtigt, siger aktiechefen. </p>
+<p> Omsætningen var beskeden, dog med SAS som en undtagelse, og godt 514.000 af selskabets aktier skiftede ejermand. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-16"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-16"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-16"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-16"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-16"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-16"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-16"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

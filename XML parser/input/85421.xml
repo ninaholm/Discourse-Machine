@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-07-04" id="root" itemid="85421" xml:lang="da">
+<title></title>
+<headline> Aktiemarked fortsætter rekordjagten fredag. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 4 juli (Reuter) - Det danske aktiemarked </p>
+<p> fredag kl. 12.13:        +/- </p>
+<p>     * KFX-indekset............. 178,48    + 2,83 </p>
+<p>     * Juli future på KFX....... 179,25    + 2,85 </p>
+<p>     * Omsætning i KFX-papirer.. 187 mio. kr. </p>
+<p>     * Aktier fortsætter himmelflugt med bankerne i front. </p>
+<p>     * DDB stiger fire pct. til kurs 715, Unidanmark stiger </p>
+<p> tre pct. til kurs 404, BG Bank stiger seks pct. til 395 og </p>
+<p> Jyske Bank stiger to pct. til kurs 395. </p>
+<p>     * Handlere forklarer stigninger med mangel på sælgere. </p>
+<p>     * D/S 1912 genvinder kurstab fra torsdag. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-04"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-04"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-04"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-04"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-04"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-04"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-07-04"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

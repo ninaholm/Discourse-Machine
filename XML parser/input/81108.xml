@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-03-06" id="root" itemid="81108" xml:lang="da">
+<title></title>
+<headline> Danske aktier løftes 1/2 - 1 pct af stærkt USA. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 6 marts (Reuter) - Efter en stigning på 1,4 pct. i det amerikanske Dow Jones indeks onsdag ventes det danske aktiemarked torsdag at stige 1/2 - 1 pct. efter et fald i KFX-indekset på 0,2 pct. til 155,64 onsdag. </p>
+<p> Det amerikanske marked steg efter onsdagens tale af den amerikanske centralbankchef Alan Greenspan i bankkomiteen i Repræsentanternes Hus, hvor han betegnede de amerikanske aktier som korrekt prissatte. </p>
+<p> - Alle indikatorer angiver en fornuftig start. Samtidig er der fortsat pæne købsordrer i markedet, siger en handler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-06"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-06"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-06"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-06"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-06"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-06"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-03-06"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

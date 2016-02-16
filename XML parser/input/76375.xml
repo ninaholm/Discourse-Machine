@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-09-18" id="root" itemid="76375" xml:lang="da">
+<title></title>
+<headline> AKTIEBERETNING - SIDE 4. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> I New York lukkede Dow Jones indekset med et lille minus på 0,09 pct. i 5.883,83. Nedturen fortsatte i Japan, hvor Nikkei 225 indekset faldt 0,72 pct. til 21.156,75. </p>
+<p> Ved dobbeltklik på følgende koder kan oplysninger om den seneste udvikling på det danske aktiemarked ses: - KFX Indekset - Top 10 stigninger i procent - Top 10 tabere i procent - Markedsoverblik inkl. volumen i stk. - KFX september futuren - KFX-aktier seneste kursudvikling. </p>
+<p> [MORE]. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-18"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-18"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-18"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-18"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-18"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-18"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-09-18"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

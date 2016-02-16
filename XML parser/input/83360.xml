@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-05" id="root" itemid="83360" xml:lang="da">
+<title></title>
+<headline> KFX stiger 0,4 pct, halter efter Tyskland. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 5 maj (Reuter) - Det danske aktiemarked </p>
+<p> mandag kl. 12.50:         +/-     * KFX-indeks...................157,54    +0,69     * KFX future maj...............157,90    +1,30 </p>
+<p>     * Omsætning i KFX-papirer......72,90 mio. kr. </p>
+<p>     * DAX-indeks steget knap to pct. til 3.528. </p>
+<p>     * Scanbox Danmark stiger fem kr. til kurs 299. Vil </p>
+<p> udvide aktiekapital. </p>
+<p>     * Oticon mest omsatte aktie pga. to store </p>
+<p> indberetninger. Ligger til plus på 10 kr. i kurs 1080. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-05"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-05"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-05"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-05"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-05"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-05"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-05"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

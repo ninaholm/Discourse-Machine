@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-12-03" id="root" itemid="78023" xml:lang="da">
+<title></title>
+<headline> Presserunde tirsdag 3 december. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Reuters står ikke inde for avisartiklernes nøjagtighed 1) Eli Lilly vinder lille sejr på Novos hjemmemarked, og får Sundhedsstyrelsens blå stempel og der igennem større tilskud til sin medicin. (Børsen side 2) </p>
+<p> 2) Eksportører jubler over det engelske punds styrke. (JP E&amp;Ø side 1) </p>
+<p> 3) Rød finanslov koster firmaer en mia. kr., mener Dansk Arbejdsgiverforening. (Børsen side 12) </p>
+<p> 4) Indenrigs-fly har succes og passagertallet er steget med ni pct., som følge af et øget antal flyafgange. (JP E&amp;Ø side 5). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="I25">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code>
+<code code="I257">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code>
+<code code="I258">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code>
+<code code="I75">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code>
+<code code="ICNP">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-12-03"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

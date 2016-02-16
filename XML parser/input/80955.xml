@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-03-03" id="root" itemid="80955" xml:lang="da">
+<title></title>
+<headline> DANSKE OBLIGATIONER STABILISERES PÅ LAVERE NIVEAU. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Papir  mandag   kl.  12.33    kl. 8.40 Stat 8 pct. 2006   111,60/6,28 pct.  111,54/6,29 pct. Dansk-tysk 10-årigt spænd (bp) 73      71 </p>
+<p> --------------------------------------------------------- </p>
+<p>     KØBENHAVN, 3 marts (Reuter) - De danske obligationer </p>
+<p> synes mandag middag at stabiliseres på et nyt lavere </p>
+<p> niveau efter fredagens kursfald. De såkaldte </p>
+<p> høj-rentelande som Italien, Spanien og Sverige følges </p>
+<p> nøje efter fredagens uro omkring en mulig ØMU-udsættelse. </p>
+<p>     - Det lader til, at vi har fundet en bund på det </p>
+<p> nuværende niveau, men nye fald frygtes, siger en handler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-03"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-03"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-03"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-03"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-03"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-03"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-03-03"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

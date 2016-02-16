@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-18" id="root" itemid="84894" xml:lang="da">
+<title></title>
+<headline> Dansk rentemarked i dvaletilstand onsdag. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>       Papir      kl. 12.45    kl. 8.35 Stat 7 pct. 2007   104,61/6,37 pct.  104,64/6,36 pct. Dansk-tysk 10-årigt spænd (bp) 64      64 Stat 8 pct. 2006   111,98/6,18 pct.  112,00/6,17 pct. </p>
+<p> ---------------------------------------------------------- </p>
+<p>     KØBENHAVN, 18 juni (Reuter) - Stilheden præger det </p>
+<p> danske obligationsmarked onsdag. Omsætningen er minimal, </p>
+<p> og skal man få øje på kursbevægelserne, kræver det lup. </p>
+<p>     - Sådan fortsætter det sandsynligvis resten af </p>
+<p> onsdagen, med mindre de amerikanske produktivitets- og </p>
+<p> løntal for 1. kvartal rykker kurserne, siger en handler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-18"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-18"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-18"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-18"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-18"></editdetail></code>
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-18"></editdetail></code>
+<code code="M131">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-18"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-18"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-18"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

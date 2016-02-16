@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-03-10" id="root" itemid="81237" xml:lang="da">
+<title></title>
+<headline> Danske obligationer åbner uændrede, stille dag. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Papir  mandag   kl. 8.40      kl. 16.15 Stat 8 pct. 2006   111,24/6,32 pct.  111,24/6,32 pct. Dansk-tysk 10-årigt spænd (bp) 65      65 </p>
+<p> --------------------------------------------------------- </p>
+<p>     KØBENHAVN, 10 marts (Reuter) - De danske </p>
+<p> obligationskurser ligger mandag morgen på samme niveau, </p>
+<p> som fredag efter en forholdsvis positiv modtagelse af </p>
+<p> fredagens amerikanske beskæftigelsestal for februar. Den </p>
+<p> 30-årige amerikanske T-bond sluttede således 26/32 </p>
+<p> kurspoint højere i kurs 97 18/32 fredag. </p>
+<p>     - Der er udsigt til en stille dag, siger en handler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-10"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-10"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-10"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-10"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-10"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-10"></editdetail></code>
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-10"></editdetail></code>
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-10"></editdetail></code>
+<code code="M131">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-10"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-10"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-03-10"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

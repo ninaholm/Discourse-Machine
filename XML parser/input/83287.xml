@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-02" id="root" itemid="83287" xml:lang="da">
+<title></title>
+<headline> KFX stiger 0,3 pct i afventende dansk aktiemarked. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 2 maj (Reuter) - Det danske aktiemarked fredag kl. 11.50: +/- </p>
+<p> * KFX-indeks...................156,68 +0,52 </p>
+<p> * KFX future maj...............156,35 +0,15 </p>
+<p> * Omsætning i KFX-papirer......39,70 mio. kr. </p>
+<p> * Dansk Staldindustri stiger 5,8 pct. efter markant løft i svinepriser. </p>
+<p> * Københavns Lufthavne stiger 2,3 pct. efter præsentation af internationale ambitioner. </p>
+<p> * Silcon stiger igen. Op 4,6 pct. efter Spar Nord købsanbefaling torsdag. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-02"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-02"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-02"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-02"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-02"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-02"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-02"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-08-01" id="root" itemid="86182" xml:lang="da">
+<title></title>
+<headline> Reuters Finans - Estimater på kommende nøgletal. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>  DATO  NØGLETAL     SNIT  LAV/HØJ   FORRIGE </p>
+<p>   6/8  Udenrigshandel maj </p>
+<p>   Ex skibe   + 2,6 mia   +2,0/+3,0    + 1,5 </p>
+<p>   6/8  Betal.balance maj    + 1,2 mia   -0,3/+3,1    + 0,1 </p>
+<p>   7/8  Ledighed juni   221.820    220.0/223.1   224.1   (begge sæsonkorr.)     8,0 pct    7,9/8,1  8,1 </p>
+<p>     Tallene bygger på estimater fra Den Danske Bank, </p>
+<p> Unibank, Sydbank, Svenska Handelsbanken, Codan Bank, </p>
+<p> Nykredit Bank og Deutsche Morgan Grenfell. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E51">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="E511">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="E512">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="GJOB">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-08-01"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

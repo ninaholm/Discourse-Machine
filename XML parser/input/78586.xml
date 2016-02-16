@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-12-30" id="root" itemid="78586" xml:lang="da">
+<title></title>
+<headline> Presserunde mandag 30 december. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Reuters står ikke inde for avisartiklernes nøjagtighed 1) Statsminister Poul Nyrup Rasmussen præsenterer sin nye regering mandag formiddag. Alt tyder på, at der bliver det samme antal ministre, fremgår det af flere aviser. (JP 1. sek. s. 1 og Politiken 1. sek. s. 1 og flere andre aviser) </p>
+<p> 2) Eksportvirksomheder ser lyst på det nye år, fremgår det af Jyllands-Postens eksportbarometer, som Sonar har lavet. (JP E&amp;Ø s. 1 og 8) </p>
+<p> 3) Et markant flertal af de adspurgte i en Sonarmåling mener, at der vil blive færre ledige i 1997. (JP E&amp;Ø s. 3). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-30"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-30"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-30"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-30"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="I31">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-30"></editdetail></code>
+<code code="IMET">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-30"></editdetail></code>
+<code code="E11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-30"></editdetail></code>
+<code code="E1125">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-30"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-30"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-30"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-30"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-12-30"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

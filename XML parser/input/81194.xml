@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-03-07" id="root" itemid="81194" xml:lang="da">
+<title></title>
+<headline> Nationalbankens valutakurser den 7. marts. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 7 marts (Reuter) - Nationalbanken har </p>
+<p> fastsat følgende middelkurser i dag: </p>
+<p> USD -  653,25  NLG -  338,52  JPY -    5,3867 GBP - 1049,12  ITL -    0,3844     IEP - 1015,22 DEM -  381,26  FIM -  127,81  GRD -    2,427 SEK -   85,44  ISK -    9,15  XEU -  741,50 NOK -   94,49  ATS -   54,176 AUD -  514,89 FRF -  113,04  ESP -    4,503 NZD -  460,28 BEF -   18,480 PTE -    3,800 SDR -  898,82 CHF -  442,07  CAD -  478,33 </p>
+<p>     I det følgende angives tal fra de seneste to hverdage. </p>
+<p>     Middelkurser 6. marts: </p>
+<p> USD -  655,25  NLG -  338,84  JPY -    5,3934 GBP - 1057,05  ITL -    0,3836     IEP - 1021,86 DEM -  381,29  FIM -  127,84  GRD -    2,431 SEK -   85,39  ISK -    9,20  XEU -  742,14 NOK -   93,79  ATS -   54,175 AUD -  514,24 FRF -  113,04  ESP -    4,508 NZD -  459,53 BEF -   18,484 PTE -    3,802 SDR -  901,01 CHF -  440,24  CAD -  479,76 </p>
+<p>     Middelkurser 5. marts: </p>
+<p> USD -  652,95  NLG -  339,02  JPY -    5,3732 GBP - 1052,56  ITL -    0,3821     IEP - 1020,10 DEM -  381,42  FIM -  127,71  GRD -    2,435 SEK -   85,21  ISK -    9,14  XEU -  741,42 NOK -   93,38  ATS -   54,191 AUD -  512,37 FRF -  113,05  ESP -    4,504 NZD -  457,98 BEF -   18,490 PTE -    3,801 SDR -  898,71 CHF -  440,08  CAD -  476,78. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-07"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-07"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-07"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-07"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-07"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-07"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-07"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-03-07"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

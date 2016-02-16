@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-04" id="root" itemid="84420" xml:lang="da">
+<title></title>
+<headline> Handelsbalance mar ex skibe plus 2.576 mio kr - DS. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 4 juni (Reuter) - Den danske handelsbalance </p>
+<p> for marts 1997 viste et overskud på 2.576 mio. kr. i </p>
+<p> faktiske tal eksklusive skibe mod et overskud på 3.240 </p>
+<p> mio. kr. i februar, oplyser Danmarks Statistik onsdag. </p>
+<p>     I faktiske tal inklusive skibe blev overskuddet på </p>
+<p> 3.092 mio. kr. mod 3.396 mio. i februar. </p>
+<p>     (mio. kr.)    marts 97  feb 97  Faktiske tal ex skibe   2.576   3.240  Faktiske tal  3.092   3.396  Sæsonkorrigerede tal    2.182   3.323 </p>
+<p>     Markedet ventede et sæsonkorrigeret overskud ekskl </p>
+<p> skibe på 2,4 mia. kr. og overskud i faktiske tal ekskl </p>
+<p> skibe på tre mia. kr. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E51">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code>
+<code code="E512">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-04"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

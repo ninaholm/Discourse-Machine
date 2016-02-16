@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-07-18" id="root" itemid="85841" xml:lang="da">
+<title></title>
+<headline> SAS trodser vigende aktiemarked, svag korrektion. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 18 juli (Reuter) - Det danske aktiemarked </p>
+<p> fredag kl. 12.35:         +/-     * KFX-indeks...............194,88    -0,73     * KFX future aug...........194,35    -1,40 </p>
+<p>     * Omsætning i KFX-papirer..403,27 mio. kr. </p>
+<p>     * KFX-indeks falder 0,4 pct. i en moderat negativ </p>
+<p> korrektion efter 14 dages rekordjagt. </p>
+<p>     * Kun to KFX-papirer, SAS og Novo stiger i det </p>
+<p> negative marked - største KFX-fald i Danisco og FLS. </p>
+<p>     * Heksetime gav afregningskurs for KFX future juli på </p>
+<p> 195,50. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-18"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-18"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-18"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-18"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="DDLUFT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-18"></editdetail></code>
+<code code="I75">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-18"></editdetail></code>
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-18"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-18"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-07-18"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>
