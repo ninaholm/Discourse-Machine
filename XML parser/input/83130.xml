@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-29" id="root" itemid="83130" xml:lang="da">
+<title></title>
+<headline> KFX-indeks falder i tyndt dansk aktiemarked. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 29 april (Reuter) - Det danske aktiemarked </p>
+<p> tirsdag kl. 11.55:          +/-     * KFX-indeks..................155,71  -0,55     * KFX future maj..............154,95  +0,15 </p>
+<p>     * Omsætning i KFX-papirer.....50,35 mio. kr. </p>
+<p>     * Omsætning betegnes som meget lav. </p>
+<p>     * Tele Danmark falder 12 kr. til kurs 320 efter </p>
+<p> fragang af udbytte på 17 kr. pr. aktie. </p>
+<p>     * Radiometer falder 18 kr. til kurs 362. Ifølge en </p>
+<p> handler skyldes faldet primært det meget tynde marked. </p>
+<p>     * D/S Norden 20 kr. op til kurs 850 efter skibssalg. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-29"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-29"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-29"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-29"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-29"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-29"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-29"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

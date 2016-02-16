@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-07" id="root" itemid="83478" xml:lang="da">
+<title></title>
+<headline> Fortsat blik på USA i lidt nervøst aktiemarked. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 7 maj (Reuter) - Det danske aktiemarked slutter onsdag eftermiddag med et lille fald. Markedet præges af en vis nervøsitet og der kigges stadig til USA, som åbnede negativt. </p>
+<p> - Markedet faldt op til lukningen, men ellers har det ligget i plus hele dagen med profit taking i de store selskaber. Det præges af lidt nervøsitet, men ligger fint, siger en handler. </p>
+<p> KFX-indekset lukkede med et fald på 0,30 point i 159,74. Dow Jones lå ved 16.15-tiden i 7.183,98 efter et fald på 0,55 pct. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-07"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-07"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-07"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-07"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-07"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-07"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-07"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

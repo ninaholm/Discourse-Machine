@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-07-11" id="root" itemid="85664" xml:lang="da">
+<title></title>
+<headline> Rentekurve flader pga lidt pres på korte papirer. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     Papir       kl.13.00     kl. 8.37 Stat 7 pct. 2007   106,63/6,11 pct.  106,58/6,12 pct. Dansk-tysk 10-årigt spænd (bp) 56      56 Stat 8 pct. 2006   113,87/5,90 pct.  113,82/5,90 pct. </p>
+<p> ---------------------------------------------------------- </p>
+<p>     KØBENHAVN, 11 juli (Reuter) - Det danske </p>
+<p> obligationsmarked har fredag formiddag ligget lidt mere </p>
+<p> stille end de foregående dage. Der har været mest </p>
+<p> opmærksomhed omkring den korte ende, som er blevet trykket </p>
+<p> lidt i kølvandet på den britiske renteforhøjning torsdag. </p>
+<p> Det har betydet en lille fladning af rentekurven. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-11"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-11"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-11"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-11"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-11"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-11"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-07-11"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

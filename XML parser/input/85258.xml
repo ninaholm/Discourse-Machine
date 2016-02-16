@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-30" id="root" itemid="85258" xml:lang="da">
+<title></title>
+<headline> KFX stiger svagt med Carlsberg og Danisco i front. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 30 juni (Reuter) - Det danske aktiemarked </p>
+<p> mandag kl. 12.00:        +/- </p>
+<p>     * KFX-indekset............. 171,10     +0,28 </p>
+<p>     * Juli future på KFX....... 171,70     +0,45 </p>
+<p>     * Omsætning i KFX-papirer.. 53 mio. kr. </p>
+<p>     * KFX stiger 0,2 pct. under behersket omsætning. </p>
+<p>     * Calsberg genvinder det tabte fra fredag. Stiger ni </p>
+<p> kr. til kurs 365. </p>
+<p>     * Danisco stiger tre kr. til kurs 405. </p>
+<p>     * Sophus Berendsen falder under lav aktivitet 10 kr. </p>
+<p>     * Jacob Holm stiger yderligere en kr. til kurs 77. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-30"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-30"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-30"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-30"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-30"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-30"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-30"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

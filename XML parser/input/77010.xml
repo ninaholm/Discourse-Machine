@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-22" id="root" itemid="77010" xml:lang="da">
+<title></title>
+<headline> Presserunde tirsdag 22 oktober. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Reuters står ikke inde for avisartiklernes nøjagtighed 1) Ledelsen i Københavns Lufthavn regner med en stigning på 6-7 pct. i antallet af passagerer i 1996 mod en budgetteret stigning på fem pct. (JP E&amp;Ø s. 7) </p>
+<p> 2) Det danske grovvaremarked slås for livet. 30 pct. overkapacitet og et vigende marked skaber knaldhård konkurrence. (Børsen s. 4) </p>
+<p> 3) Regeringen er på vej til at blokere EU&apos;s store handelspolitiske udspil overfor USA af frygt for problemer omkring grundlovens forhold til Maastricht-traktaten. (JP s. 1). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="KOBLDK">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="KORFOD">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="I41">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="I4221">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="I764">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="ITSP">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="M14">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="M141">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-22"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

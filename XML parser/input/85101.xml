@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-24" id="root" itemid="85101" xml:lang="da">
+<title></title>
+<headline> Aktier faldt mod lukning, ser frem til Danisco-tal. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 24 juni (Reuter) - Det danske aktiemarked formåede det meste af tirsdagen - trods et større kursfald i USA - at holde fast i mandagens kursniveau. Mod lukningen måtte aktierne dog give sig lidt, og KFX-indekset satte sig 0,83 point til 172,28. </p>
+<p> Åbningen i USA tirsdag eftermiddag tyder på, at den negative reaktion mandag var en smule overreageret, og kurserne tikker opad. En handler forventer dog ikke, at det vil få større betydning for de danske papirer. </p>
+<p> - Jeg tror, at vi igen i morgen vil få en stille, afventende dag, siger markedsdeltageren. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-24"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-24"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-24"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-24"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-24"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-24"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-24"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

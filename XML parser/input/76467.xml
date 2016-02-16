@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-09-24" id="root" itemid="76467" xml:lang="da">
+<title></title>
+<headline> Nøgletal - aktier og olie den 24 september. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     Tirsdag    kl 07.00    Seneste Forrige   +/- </p>
+<p>     ------------------------------------------------------ </p>
+<p>     KFX-indekset.........   122,05  122,35   -   0,05     KFX (okt)............   122,00  122,45   -   0,45     KFX (dec)............   123,15  123,15  0,00     DAX..................  2627,04 2646,10   -  19,06     FTSE.................  3919,7  3964,1    -  44,4 </p>
+<p>     Nikkei............... 21167,80     21112,24   +  55,56 </p>
+<p>     Dow Jones Industri...  5894,74 5888,46   +   6,28     Brent 3 mdr (nov)....    22,26   21,99   +   0,27 </p>
+<p>     ------------------------------------------------------. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-24"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-24"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-24"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-24"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-24"></editdetail></code>
+<code code="M14">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-24"></editdetail></code>
+<code code="M143">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-24"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-24"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-09-24"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

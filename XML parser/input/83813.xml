@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-20" id="root" itemid="83813" xml:lang="da">
+<title></title>
+<headline> Nøgletal - obligationer og valuta den 20 maj. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     Tirsdag  kl. 07.07    Seneste   Forrige     +/- </p>
+<p>     ----------------------------------------------------- </p>
+<p>     8 pct dansk stat 2006....  111,44    111,42   +  0,02 </p>
+<p>     6 pct Nykredit 2026......   90,00     89,90   +  0,10 </p>
+<p>     KF rentegennemsnit total.    6,33 6,34   -  0,01 </p>
+<p>     Tysk Bund (juni).........  101,61    102,37   -  0,76 </p>
+<p>     Fransk Matif (juni)......  129,64    130,38   -  0,74 </p>
+<p>     30-yr T-bond, New York...   96-10     96-15   -  5/32 </p>
+<p>     DEM/DKK..................  381,00    380,76   +  0,24 </p>
+<p>     USD/DEM..................  170,35    170,05   +  0,30. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-20"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-20"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-20"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-20"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-20"></editdetail></code>
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-20"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-20"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-20"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-20"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

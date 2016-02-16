@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-11" id="root" itemid="82569" xml:lang="da">
+<title></title>
+<headline> APM-selskaber lægger bund under trist aktiemarked. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 11 april (Reuter) - Pæne stigninger i A. P. Møller papirerne efter torsdagens regnskab formåede fredag at lægge en bund under et trist dansk aktiemarked. Det var dog ikke nok til at undgå et beskedent fald i KFX-indekset på 0,10 indekspoint til 154,08. I nedadgående retning trak blandt andet Sophus Berendsen, der også fremlagde regnskab torsdag. Den generelt negative tendens kan fortsætte mandag, da det amerikanske Dow Jones indeks allerede kl. 16.00 fredag var faldet 0,9 pct. </p>
+<p> - Højere end ventede producentpriser fra USA er skyld i kursfaldet. Det kan fortsætte, vurderer en handler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-11"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-11"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-11"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-11"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-11"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-11"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-11"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

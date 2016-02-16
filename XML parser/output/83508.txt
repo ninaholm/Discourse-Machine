@@ -1,0 +1,10 @@
+Reuters Finans - Estimater på kommende nøgletal.
+
+DATO  NØGLETAL     SNIT  LAV/HØJ   FORRIGE
+12/5  Udenrigshandel feb sæsonkorrigeret
+Ex skibe   + 2,1 mia   +1,0/+2,8    + 2,6
+12/5  Betal.balance feb    + 1,5 mia   -1,0/+3,0    + 3,8
+Tallene bygger på estimater fra BG Bank, Den Danske
+Bank, Jyske Bank, Nykredit Bank, Codan Bank, Unibank,
+PaineWebber, Deutsche Morgan Grenfell.
+(c) Reuters Limited 1997.

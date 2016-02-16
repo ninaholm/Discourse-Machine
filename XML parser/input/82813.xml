@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-21" id="root" itemid="82813" xml:lang="da">
+<title></title>
+<headline> Reuters Finans - Estimater på kommende nøgletal. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> DATO      SNIT  LAV/HØJ   FORRIGE 23/04  Forbrugerpriser mar   +2,1 pct    1,9/2,3 +2,2   md/md       +0,4 pct    0,2/2,7  0,0 23/04  Nettopriser mar  +2,2 pct    2,0/2,4 +2,3   md/md       +0,4 pct    0,3/0,7 +0,0 </p>
+<p> 23/04  Udenrigshandel jan </p>
+<p>   Sæsonk. ex. skibe     +2,5 mia   +2,0/2,8 +3,2 23/04  Betal.balance jan     +4,4 mia   +3,5/5,5 -2,3 </p>
+<p>     Tallene bygger på estimater fra BG Bank, Codan Bank, </p>
+<p> DDB, DMG, IBJ, JPMorgan, Jyske Bank, Lehman Bros., </p>
+<p> Nykredit Bank, PaineWebber, Paribas, Sydbank og Unibank. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-21"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-21"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-21"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-21"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-21"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-21"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-21"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

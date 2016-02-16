@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-11-27" id="root" itemid="77892" xml:lang="da">
+<title></title>
+<headline> OBLIGATER SES FALDE AF MANGEL PÅ KØBERE TORSDAG. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 27 november (Reuter) - Der har ikke været mange egentlige købere i obligationsmarkedet onsdag, og da vi formodentlig ser samme billede i morgen, kan vi se frem til lidt lavere priser torsdag, siger en handler. </p>
+<p> De amerikanske obligationer gik ellers pænt i vejret efter nøgletal fra USA onsdag eftermiddag, men det har ikke afspejlet sig i kurserne i Danmark. </p>
+<p> 8 pct. 2006 slutter onsdagen af med et marginalt plus omkring kurs 108,60-66, og rentespændet til Tyskland er krøbet lidt ind til 93 bp. Spændet startede i morges ved 94 bp. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-27"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-27"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-27"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-27"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-27"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-27"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-11-27"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

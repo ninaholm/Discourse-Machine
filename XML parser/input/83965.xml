@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-22" id="root" itemid="83965" xml:lang="da">
+<title></title>
+<headline> Faldende aktier torsdag peger mod jævn fredag. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 22 maj (Reuter) - Det danske aktiemarked faldt torsdag under en del hjemtagning af gevinster og KFX-indekset sluttede i 165,92 efter et fald på 1,61 point. En handler venter, at markedet fredag holder sig på torsdagens niveau med blikket rettet mod, hvad de sker i USA. </p>
+<p> - Man har været ude og tage gevinster hjem i dag, og så præger usikkerheden om, hvad der sker i USA oven på den uændrede rente tirsdag nat. I den kommende tid vil der derfor være fokus på nøgletal fra USA, siger handleren. </p>
+<p> Dow Jones lå kl. 15.55 7,83 point oppe i 7.298,52. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-22"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-22"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-22"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-22"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-22"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-22"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-22"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

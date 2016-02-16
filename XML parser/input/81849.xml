@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-03-20" id="root" itemid="81849" xml:lang="da">
+<title></title>
+<headline> Danske obligationer finder bund efter stort fald. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Papir       kl. 13.15     kl. 8.37 Stat 8 pct. 2006   107,84/6,79 pct.  107,84/6,79 pct. Dansk-tysk 10-årigt spænd (bp) 85      85 </p>
+<p> --------------------------------------------------------- </p>
+<p>     KØBENHAVN, 20 marts (Reuter) - De danske </p>
+<p> obligationskurser synes torsdag middag at have fundet en </p>
+<p> bund efter et nyt stort kursfald fra morgenstunden. </p>
+<p> Handlere er dog ikke overbeviste om, at det nuværende </p>
+<p> niveau holder dagen ud. </p>
+<p>     - Det er meget volatilt i øjeblikket, vi kan nemt </p>
+<p> falde yderligere, siger en obligationshandler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-20"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-20"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-20"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-20"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-20"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-20"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-03-20"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

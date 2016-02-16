@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-28" id="root" itemid="84127" xml:lang="da">
+<title></title>
+<headline> Lille løft til danske obligationer trods USA-fald. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Papir       kl. 8.36     kl. 16.13 Stat 7 pct. 2007   103,06/6,58 pct.  102,95/6,60 pct. Dansk-tysk 10-årigt spænd (bp) 68      68 Stat 8 pct. 2006   110,52/6,38 pct.  110,45/6,41 pct. </p>
+<p> --------------------------------------------------------- </p>
+<p>     KØBENHAVN, 28 maj (Reuter) - De danske </p>
+<p> obligationskurser stiger onsdag morgen på trods af, at de </p>
+<p> amerikanske kurser faldt tirsdag efter markant højere end </p>
+<p> ventede amerikanske forbrugertillidstal for maj. </p>
+<p>     - Vi så tirsdag en vis dekobling mellem de amerikanske </p>
+<p> og tyske kurser, det kan fortsætte, vurderer en handler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-28"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-28"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-28"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-28"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-28"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-28"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-28"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

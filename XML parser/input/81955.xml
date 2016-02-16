@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-03-21" id="root" itemid="81955" xml:lang="da">
+<title></title>
+<headline> Östgöta Enskilda Bank anbefaler DDB-tilbud. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> STOCKHOLM, 21 marts (Reuter) - Bestyrelsen i Östgöta Enskilda Bank anbefaler bankens aktionærer at acceptere tilbuddet fra Den Danske Bank om køb af de resterende aktier i den svenske regionalbank. Det meddeler Östgöta Enskilda Bank fredag. </p>
+<p> Den Danske Bank meddelte tirsdag, at banken ejer 81,8 pct. af den svenske bank. Den Danske Bank har tilbudt aktionærerne 50,50 svenske kr. per aktie. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-21"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-21"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-21"></editdetail></code>
+<code code="SWED">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-21"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-21"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="DDB">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-21"></editdetail></code>
+<code code="I814">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-21"></editdetail></code>
+<code code="I81402">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-21"></editdetail></code>
+<code code="IBNK">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-21"></editdetail></code>
+<code code="C18">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-21"></editdetail></code>
+<code code="C181">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-21"></editdetail></code>
+<code code="CCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-21"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-03-21"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

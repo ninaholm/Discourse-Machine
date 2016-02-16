@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-28" id="root" itemid="83067" xml:lang="da">
+<title></title>
+<headline> Afventende holdning på rentemarked ses fortsætte. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Papir      kl. 12.07   kl. 8.40 Stat 8 pct. 2006   109,13/6,60 pct.  109,30/6,58 pct. Dansk-tysk 10-årigt spænd (bp) 70      70 </p>
+<p> --------------------------------------------------------- </p>
+<p>     KØBENHAVN, 28 april (Reuter) - Det danske </p>
+<p> obligationsmarked er startet ugen i en meget afventende </p>
+<p> position. Markedet venter på amerikanske nøgletal tirsdag, </p>
+<p> udfaldet af det britiske valg torsdag og endelig </p>
+<p> udviklingen i Frankrig, der går til valg sidst i maj. </p>
+<p>     - Investorerne har sat sig ud på sidelinien. Det er </p>
+<p> meget stille, siger en handler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-28"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-28"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-28"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-28"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-28"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-28"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-28"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

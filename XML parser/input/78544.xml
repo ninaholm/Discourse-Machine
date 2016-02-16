@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-12-23" id="root" itemid="78544" xml:lang="da">
+<title></title>
+<headline> KFX OP I STILLE MARKED, DDB I ÅRETS HØJESTE KURS. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 23 december (Reuter) - Det danske aktiemarked mandag kl. 12.20: +/- </p>
+<p> * KFX-indekset............. 132,85 +0,70 </p>
+<p> * Januar future på KFX..... 133,30 +0,40 </p>
+<p> * Omsætning i KFX-papirer.. 74,4 mio. kr. </p>
+<p> * Dansk Data Elektronik ligger 20 kr. højere i kurs 195, årets højeste. </p>
+<p> * Den Danske Bank i årets højeste kurs 462 kr. </p>
+<p> * Danisco blandt de mest omsatte i årets højeste KFX-aktier: Kurs mandag kl. 12.15 +/-Novo-Nordisk ......... 1.049 +9. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-23"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-23"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-23"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-23"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="KFXINC">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-23"></editdetail></code>
+<code code="NOVO">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-23"></editdetail></code>
+<code code="I1">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-23"></editdetail></code>
+<code code="I14">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-23"></editdetail></code>
+<code code="I25">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-23"></editdetail></code>
+<code code="I257">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-23"></editdetail></code>
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-23"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-23"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-12-23"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

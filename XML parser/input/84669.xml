@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-12" id="root" itemid="84669" xml:lang="da">
+<title></title>
+<headline> Dansk aktiemarked ventes holde niveau torsdag. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 12 juni (Reuter) - Der er udsigt til endnu en dag med små bevægelser i KFX-indekset. Sådan lyder vurderingen efter to dage med bevægelser i KFX-indekset på mindre end 0,1 pct. Onsdag faldt indekset knap 0,1 pct. til 170,27. </p>
+<p> - Igen onsdag så vi et lidt træt marked, hvor der var langt mellem køberne. Det kan fortsætte torsdag, vurderer en aktiehandler. </p>
+<p> Et løft i det amerikanske Dow Jones indeks på 0,5 pct. onsdag og en stærkere USD trækker dog i den positive retning. USD handles torsdag morgen til 1,7225 DEM. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-12"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-12"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-12"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-12"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-12"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-12"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-12"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

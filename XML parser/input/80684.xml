@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-25" id="root" itemid="80684" xml:lang="da">
+<title></title>
+<headline> KØBENHAVNS FONDSBØRS TOTALINDEKS 25 FEBRUAR. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     Basis 1/1-1983 = 100  25/2  24/2   +/- </p>
+<p>     ----------------------------------------------------- </p>
+<p>     Total..................   539,20    541,32    -  2,12 </p>
+<p>     Pengeinstitutter.......   342,61    344,74    -  2,13 </p>
+<p>     Forsikring.............   764,65    766,83    -  2,18 </p>
+<p>     Handel og service......   761,30    759,49    +  1,81 </p>
+<p>     Rederier...............  1180,36   1292,69    - 12,33 </p>
+<p>     Industri...............   490,69    492,26    -  1,57 </p>
+<p>     Investeringsselskaber..   274,34    274,15    +  0,19 </p>
+<p>     ------------------------------------------------------. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-25"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-25"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-25"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-25"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-25"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-25"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-25"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

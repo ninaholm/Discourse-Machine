@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-09-30" id="root" itemid="76580" xml:lang="da">
+<title></title>
+<headline> DDB HANDELSBERETTIGET I HELSINKI FRA 1 OKTOBER. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> HELSINKI, 30 september (Reuter) - Den Danske Bank begynder sine aktiviteter på den finske børs i Helsinki tirsdag den 1. oktober, oplyser Helsinki Børs mandag. </p>
+<p> Den Danske Bank bliver fjernmedlem, og vil handle på den finske børs fra bankens hovedkvarter i København via computersystemer. </p>
+<p> Banken blev allerede godkendt som medlem tidligere på året, men den gang blev det ikke oplyst, hvornår Danmarks største bank kunne begynde sin aktiviteter på børsen i Helsinki. (/olm). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="FIN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="DDB">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="I814">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="I81402">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="IBNK">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="C22">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="CCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-09-30"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

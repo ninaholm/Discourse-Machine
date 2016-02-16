@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-13" id="root" itemid="83639" xml:lang="da">
+<title></title>
+<headline> CIBOR-renten for 3 måneder uændret 3,6340. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 13 maj (Reuter) - Nationalbanken har </p>
+<p> tirsdag fastsat CIBOR-satserne til det følgende: </p>
+<p>   (pct)     tirsdag mandag 1 måned      3,5740     3,5740 2 måneder    3,6020     3,6020 3 måneder    3,6340     3,6340 4 måneder    3,6660     3,6680 5 måneder    3,7000     3,7000 6 måneder    3,7240     3,7280 9 måneder    3,8180     3,8300 12 måneder   3,9120     3,9260. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code>
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code>
+<code code="M131">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-13"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

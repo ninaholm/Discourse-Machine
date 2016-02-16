@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-04" id="root" itemid="84415" xml:lang="da">
+<title></title>
+<headline> Fortsat positivt dansk obligationsmarked onsdag. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>    Papir      kl. 8.40    kl. 16.00 Stat 7 pct. 2007   103,87/6,47 pct.  103,57/6,51 pct. Dansk-tysk 10-årigt spænd (bp) 65      66 Stat 8 pct. 2006   111,30/6,29 pct.  111,00/6,32 pct. </p>
+<p> ---------------------------------------------------------- </p>
+<p>     KØBENHAVN, 4 juni (Reuter) - Kursstigninger på det </p>
+<p> amerikanske obligationsmarked tirsdag, smitter onsdag </p>
+<p> morgen positivt af på det danske marked. De amerikanske </p>
+<p> kurser steg tirsdag blandt andet på baggrund af, at flere </p>
+<p> økonomer har nedjusteret deres skøn for de amerikanske </p>
+<p> beskæftigelsestal for maj, der offentligøres fredag. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-04"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-04"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

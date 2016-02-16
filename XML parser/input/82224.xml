@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-02" id="root" itemid="82224" xml:lang="da">
+<title></title>
+<headline> Unibank overtager Borum Sparekasse. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 2 april (Reuter) - Unibank overtager med virkning fra den 1. april 1997 den lille Borum Sparekasse, oplyser Unibank onsdag. </p>
+<p> Sparekassen har ind-og udlån på henholdsvis 4,7 mio. kr. og 0,5 mio. kr. </p>
+<p> - De nævnte ind-og udlån overføres til Unibanks filial i Tilst, skriver Unibank i en meddelelse til Fondsbørsen. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="PRVTBK">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code>
+<code code="I814">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code>
+<code code="I81402">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code>
+<code code="IBNK">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code>
+<code code="C18">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code>
+<code code="C181">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code>
+<code code="CCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-02"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

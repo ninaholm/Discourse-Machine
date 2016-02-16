@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-07-31" id="root" itemid="86139" xml:lang="da">
+<title></title>
+<headline> Danske aktier kan fortsætte op med udland fredag. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 31 juli (Reuter) - Det danske aktiemarked steg torsdag med udlandet. KFX-indekset sluttede således 0,2 pct. højere i 189,18. Op til weekenden forventes markedet ifølge en handler at stige yderligere. </p>
+<p> - Markedet stiger primært på basis af stigninger i udlandet, og hvis Dow Jones fortsætter sin stigning, så tror jeg Danmark følger med op, siger handleren. </p>
+<p> Dow Jones var dog kort efter åbningen faldet ca. 0,1 pct. til omkring 8.246,30. </p>
+<p> Torsdag var der igen rekord-kurser i A. P. Møller-papirerne. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-31"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-31"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-31"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-31"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-31"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-31"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-07-31"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

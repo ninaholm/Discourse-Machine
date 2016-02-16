@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-09" id="root" itemid="83514" xml:lang="da">
+<title></title>
+<headline> Københavns Fondsbørs totalindeks 9 maj. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     Basis 1/1-1983 = 100 9/5  7/5    +/- </p>
+<p>     ----------------------------------------------------- </p>
+<p>     Total..................   557,07    556,48    +  0,59 </p>
+<p>     Pengeinstitutter.......   351,17    349,75    +  1,42 </p>
+<p>     Forsikring.............   735,47    736,84    -  1,37 </p>
+<p>     Handel og service......   750,21    749,88    +  0,33 </p>
+<p>     Rederier...............  1312,15   1311,77    +  0,38 </p>
+<p>     Industri...............   505,18    504,97    +  0,21 </p>
+<p>     Investeringsselskaber..   278,65    275,76    +  2,89 </p>
+<p>     -----------------------------------------------------. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-09"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-09"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-09"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-09"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-09"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-09"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-09"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

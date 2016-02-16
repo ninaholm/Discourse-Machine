@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-11-13" id="root" itemid="77501" xml:lang="da">
+<title></title>
+<headline> Presserunde onsdag 13 november. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Reuters står ikke inde for avisartiklernes nøjagtighed 1) SAS er verdens næstdårligste flyselskab, når det gælder konkurrenceevnen, fastslår en rapport fra Morgan Stanley. (Børsen s. 1 og 2) </p>
+<p> 2) Tele Danmark har intet arbejde i gang, der skal formulere en ny vision i lyset af det, der sker lige nu, siger adm. direktør Hans Würtzen i et interview. (JP Erhvervs-Magasin s. 8) </p>
+<p> 3) Eksporten til USA styrtdykker. Udenrigsministeriet og DI vil nu starte en kampagne, der skal rette op på det svigtende salg. (JP E&amp;Ø s. 1 og Erhvervsmagasinet s. 6). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-13"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-13"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-13"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-13"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="I75">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-13"></editdetail></code>
+<code code="I7902">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-13"></editdetail></code>
+<code code="E11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-13"></editdetail></code>
+<code code="E1125">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-13"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-13"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-13"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-13"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-11-13"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-03" id="root" itemid="82268" xml:lang="da">
+<title></title>
+<headline> KFX ventes yderligere ned efter fald på 1,5 pct. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 3 april (Reuter) - Det danske aktiemarked </p>
+<p> torsdag kl. 12.40:          +/-     * KFX-indeks....................150,43     -2,32     * KFX april future..............149,20     -1,75 </p>
+<p>     * Omsætning i KFX-papirer.......115,62 mio. kr. </p>
+<p>     * Fald i Dow Jones indekset på 1,42 pct. onsdag </p>
+<p> trækker KFX-indeks ned sammen med øvrige Europa - specielt </p>
+<p> Tyskland. Handler venter fald på 1-2 indekspoint </p>
+<p> yderligere torsdag eftermiddag. </p>
+<p>     * Tysk DAX-indeks 2,62 pct. ned, britisk FTSE-100 </p>
+<p> indeks 0,37 pct. ned og fransk CAC 40 0,44 pct. ned. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-03"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-03"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-03"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-03"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-03"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-03"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-03"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

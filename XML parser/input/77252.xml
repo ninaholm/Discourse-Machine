@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-11-01" id="root" itemid="77252" xml:lang="da">
+<title></title>
+<headline> Presserunde fredag 1 november. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Reuters står ikke inde for avisartiklernes nøjagtighed 1) Danmarks placeringen uden for den fælles mønt i EU giver os mindre og mindre politisk indflydelse, vurderer Marianne Jelved. Det skyldes, at flere lande end først antaget nu har chancen for at kvalificere sig til den fælles valuta. (JP E&amp;Ø side 1) </p>
+<p> 2) Pensionskasseformand og forbundsformand, Poul Winkler, mener, at det er groft tyveri fra pensionsopsparerne, at der i finanslovsforhandlingerne foreslåes indført realrentebeskatning på aktier. (Børsen side 1, 14 og 15). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-01"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-01"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-01"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-01"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-01"></editdetail></code>
+<code code="E1125">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-01"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-01"></editdetail></code>
+<code code="EEC">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-01"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-01"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-01"></editdetail></code>
+<code code="OCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-01"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-11-01"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-23" id="root" itemid="82963" xml:lang="da">
+<title></title>
+<headline> Handelsbal jan ex skibe plus 1.289 mio kr (rettet). </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     (I første version af flashen til denne artikel fremgik </p>
+<p> det, at handelsbalancen i faktiske tal ekskl. skibe i </p>
+<p> januar viste et overskud på 1.485 mio. kr. Det er ikke </p>
+<p> korrekt. Det rigtige tal er 1.289 mio. kr. Reuters Finans </p>
+<p> beklager.) </p>
+<p>     KØBENHAVN, 23 april (Reuter) - Her følger hovedtallene </p>
+<p> for den danske handelsbalance i januar 1997, </p>
+<p> offentliggjort af Danmarks Statistik onsdag. </p>
+<p>     (mio. kr.)     jan 1997     dec 1996  Faktiske tal ex skibe   1.289   2.294  Faktiske tal  1.485   2.451  Sæsonkorrigerede tal    2.645   2.946 </p>
+<p>     En gennemsnit af 13 økonomers skøn, som Reuters Finans </p>
+<p> har indsamlet, lød på et ventet sæsonkorrigeret overskud i </p>
+<p> januar på 2,5 mia. kr. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-23"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-23"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-23"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-23"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E51">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-23"></editdetail></code>
+<code code="E512">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-23"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-23"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-23"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-31" id="root" itemid="77218" xml:lang="da">
+<title></title>
+<headline> POSITIVE FORVENTNINGER TIL BYGGEAKTIVITET - DS. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 31 oktober (Reuter) - Den sammensatte konjunkturindikator viser positive forventninger til det kommende kvartal inden for bygge-og anlægssektoren, oplyser Danmarks Statistik torsdag. </p>
+<p> Det skyldes primært en positiv vurdering af den faktiske ordrebeholdning ved udgangen af tredje kvartal, idet beskæftigelsen i fjerde kvartal forventes at ligge en anelse under niveauet for tredje kvartal. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="I501">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="I502">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="ICRE">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="C31">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="CCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-31"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-27" id="root" itemid="84089" xml:lang="da">
+<title></title>
+<headline> Regeringsprognoser indsnævrer dansk-tysk spænd. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Papir       kl. 12.55    kl. 8.25 Stat 7 pct. 2007   102,66/6,63 pct.  102,58/6,64 pct. Dansk-tysk 10-årigt spænd (bp) 69      71 Stat 8 pct. 2006   110,16/6,44 pct.  110,10/6,45 pct. </p>
+<p> --------------------------------------------------------- </p>
+<p>     KØBENHAVN, 27 maj (Reuter) - Stadigt bedre tal for de </p>
+<p> offentlige finanser i Danmark giver tirsdag en indsnævring </p>
+<p> af det 10-årige dansk-tyske rentespænd. </p>
+<p>     - Med udsigt til et stabilt offentligt overskud må </p>
+<p> statens finansieringsbehov samtidig mindskes. Mindre udbud </p>
+<p> giver højere priser, påpeger en obligationshandler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-27"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-27"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-27"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-27"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-27"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-27"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-27"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>
