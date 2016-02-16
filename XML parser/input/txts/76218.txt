@@ -1,0 +1,9 @@
+IBM ARBEJDER PÅ HOMEBANKING VIA INTERNET TIL DK.
+
+KØBENHAVN, 10 september (Reuter) - IBM har planer om at benytte den model for homebanking, der nu introduceres i USA, til at få homebanking via Internet indført i bl.a. Danmark, fremgår det af en medddelelse fra IBM tirsdag.
+IBM har sammen med 15 storbanker i USA præsenteret et nyt system til elektronisk pengeoverførsel og direkte adgang til bankernes online-service.
+- I Danmark arbejder IBM tæt sammen med PBS om at introducere løsninger til sikre betalingssystemer via Internettet, skriver IBM.
+IBMs danske salgsdirektør, Per Jakobsen, ser store muligheder for at overføre den amerikanske model til bl.a. Danmark.
+Der er dog en række forskelle mellem finansmarkederne i USA og Europa, der skal tages højde for. Bl.a. er den finansielle infrastruktur mere sammensat i Europa, og det teknologiske niveau i både forretningsverdenen og i hjemmene er mere varieret end i USA, skriver IBM.
+- Til gengæld står banksektoren i høj grad over for de samme udfordringer som i USA - nemlig et markant krav om at reducere omkostninger for at gennemføre pengeoverførsler og tilsvarende bankforretninger, skriver IBM. (/uha).
+(c) Reuters Limited 1996.
