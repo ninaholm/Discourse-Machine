@@ -8,9 +8,9 @@ Include the following directories on the same level:
 - parsesgml
 - rtfreader
 
-Navigate to cstlemma/src and run one of the following:
+Navigate to rtfreader/src and run one of the following:
 	make 
-	make cstlemma
+	make rtfreader
 
 This installs the application rtfreader somewhere. Use it from there or move it wherever you'd like.
 You run it by typing:
