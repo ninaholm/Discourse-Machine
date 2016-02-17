@@ -2,6 +2,8 @@ import os
 
 print("xml print test")
 
-test = open(os.getcwd() + "/test1.txt", 'w')
+path = os.path.dirname(__file__)
+
+test = open(path + "/test1.txt", 'w')
 
 test.close()
