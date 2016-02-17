@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="517fabff-55a6-4205-89f8-2793f8956d25" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../first-tfidf-prototype/new_test_scripts.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_test_scripts.py" afterPath="$PROJECT_DIR$/new_test_scripts.py" />
     </list>
     <ignored path="speciale.iws" />
     <ignored path=".idea/workspace.xml" />
