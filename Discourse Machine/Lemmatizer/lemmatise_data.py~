@@ -9,14 +9,14 @@ import os
 
 all_files = os.listdir("data")
 
-for input_file in all_files:
+for file in all_files:
 
 	#Set files and calls
-	input_file = "data/" + input_file
+	input_file = "data/" + file
 
-	rtf_call = "rtfreader -T -i " + input_file
+	rtf_call = "CST_tools/rtfreader -T -i " + input_file
 
-	lem_call = "./cstlemma/src/cstlemma -L -f flexrules -i " + input_file + ".segments"
+	lem_call = "./CST_tools/cstlemma/src/cstlemma -L -f CST_tools/flexrules -i " + input_file + ".segments"
 
 
 	#Tokenize and lemmatize
@@ -34,7 +34,7 @@ for input_file in all_files:
 
 
 	#Save the lemmatized result in its own file
-	output_file = "output/" + input_file + ".lem"
+	output_file = "data/output/" + file + ".lem"
 
 	file_fin = open(output_file, "w")
 
@@ -48,7 +48,8 @@ for input_file in all_files:
 
 			file_fin.write(words[1] + " ")
 
+	file_fin.close()
 
 
-file_fin.close()
+
 
