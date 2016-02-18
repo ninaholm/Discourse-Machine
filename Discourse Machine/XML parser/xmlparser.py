@@ -3,13 +3,13 @@
 import glob
 import os
 
-path = os.getcwd() + '/input'
+path = os.path.dirname(os.path.abspath(__file__)) + '/input'
 
 for filename in glob.glob(os.path.join(path, '*.xml')):
 	doc = open(filename, "r")
 
 	docname = filename[filename.rfind("/")+1:filename.rfind(".xml")]
-	txt = open(os.getcwd() + '/output/' + docname + ".txt", 'w')
+	txt = open(os.path.dirname(os.path.abspath(__file__)) + '/output/' + docname + ".txt", 'w')
 
 	for line in doc:
 		if len(line) < 1:

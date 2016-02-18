@@ -2,11 +2,14 @@ import os
 
 path = os.getcwd()
 
-# XML parser initialized and run
 xmlpath = path + "/XML parser/xmlparser.py"
 
 xmlpath = xmlpath.replace(" ", "*")
 
+print "running: %s" % xmlpath
 os.system("python " + xmlpath)
 
-# Add new subfolder and scripts
+tfidfpath = (path + "/TF-IDF indexer/tediffern.py").replace(" ", "*")
+
+print "running: %s" % tfidfpath
+os.system("python " + tfidfpath)
