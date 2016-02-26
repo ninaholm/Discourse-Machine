@@ -51,7 +51,7 @@ countdb = open(os.path.dirname(os.path.abspath(__file__)) + '/inverted_index.txt
 for entries in sorted_index:
 	articles = ""
 	for x in entries[1][1]:
-		articles += "[%s : %s] " % (x, entries[1][1][x])
+		articles += "[%s:%s] " % (x, entries[1][1][x])
 	hashid = str(entries[0])
 	data = "%s : %s \n" % (hashid, articles)
 	countdb.write(data)

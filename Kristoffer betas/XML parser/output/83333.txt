@@ -1,7 +1,0 @@
-Reuters Finans - Estimater på kommende nøgletal.
-
-DATO  NØGLETAL     SNIT  LAV/HØJ   FORRIGE   05/05 Ledighed marts  223.900    222.0/225.0   226.0   (begge sæsonkorr) 8,0 pct    7,9/8,1  8,1
-BG Bank, Codan Bank, DDB, Deutsche Morgan Grenfell, JP
-Morgan, Jyske Bank, Paine Webber, Sydbank og Unibank har
-skønnet på den danske marts ledighed.
-(c) Reuters Limited 1997.

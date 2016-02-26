@@ -1,7 +1,0 @@
-BELGACOM I COMPUTERALLIANCE MED SUN OG ORACLE.
-
-BRUXELLES, 13 december (Reuter) - Det belgiske teleselskab, Belgacom, oplyste fredag, at det har underskrevet en aftale om udvikling af et computernetværk i Belgien i partnerskab med Sun Microsystems Inc. og Oracle Corp.
-Tele Danmark ejer 16,5 pct. af Belgacom.
-- Der er tale om en rammeaftale, som skal udfyldes med detaljer... men vi vil gerne huse og operere den centrale server, hvor virksomheder kan opbevare data og applikationer, oplyste Belgacoms chef for multimedia divisionen, Alain Deneef, på et pressemøde.
-Belgacoms adm. direktør, John Goossens tilføjede, at partnerne i 2. kvartal 1997 ventes at være i stand til via den såkaldte ADSL-teknologi at kunne bruge almindelige telefonlinier af kobber til et højhastigheds og tovejs datanetværk. (/uha/Reuter).
-(c) Reuters Limited 1996.

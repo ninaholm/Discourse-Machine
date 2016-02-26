@@ -5,7 +5,8 @@ import operator
 
 index = {}
 articlecounts = {}
-inputpath = os.getcwd() + '/input'
+inputpath = os.getcwd() + "/XML parser/output"
+print "tfidf inputpath: %s" % inputpath
 
 doccount = 0
 
@@ -45,7 +46,7 @@ for file in glob.glob(os.path.join(inputpath, '*.txt')):
 
 sorted_index = sorted(index.items(), key=operator.itemgetter(0))
 
-countdb = open('inverted_index.txt', 'w')
+countdb = open(os.path.dirname(os.path.abspath(__file__)) + '/inverted_index.txt', 'w')
 
 for entries in sorted_index:
 	articles = ""
@@ -57,7 +58,7 @@ for entries in sorted_index:
 
 countdb.close()
 
-articledb = open('articlecounts.txt', 'w')
+articledb = open(os.path.dirname(os.path.abspath(__file__)) + '/articlecounts.txt', 'w')
 
 for articleid in articlecounts:
 	count = articlecounts[articleid]
@@ -65,6 +66,5 @@ for articleid in articlecounts:
 
 articledb.close()
 
-print "wordcount: %s" % wordcount
 print "doccount: %s" % doccount
 
