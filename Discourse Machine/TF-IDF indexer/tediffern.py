@@ -1,6 +1,7 @@
 import os
 import glob
 import operator
+import pickle
 
 
 index = {}
@@ -46,24 +47,14 @@ for file in glob.glob(os.path.join(inputpath, '*.txt')):
 
 sorted_index = sorted(index.items(), key=operator.itemgetter(0))
 
-countdb = open(os.path.dirname(os.path.abspath(__file__)) + '/inverted_index.txt', 'w')
-
-for entries in sorted_index:
-	articles = ""
-	for x in entries[1][1]:
-		articles += "[%s:%s] " % (x, entries[1][1][x])
-	hashid = str(entries[0])
-	data = "%s : %s \n" % (hashid, articles)
-	countdb.write(data)
-
+indexpickle = pickle.dumps(index)
+countdb = open(os.path.dirname(os.path.abspath(__file__)) + '/inverted_index.in', 'wb')
+countdb.write(indexpickle)
 countdb.close()
 
-articledb = open(os.path.dirname(os.path.abspath(__file__)) + '/articlecounts.txt', 'w')
-
-for articleid in articlecounts:
-	count = articlecounts[articleid]
-	articledb.write("%s : %s \n" % (articleid, count))
-
+articlepickle = pickle.dumps(articlecounts)
+articledb = open(os.path.dirname(os.path.abspath(__file__)) + '/articlecounts.in', 'wb')
+articledb.write(articlepickle)
 articledb.close()
 
 print "doccount: %s" % doccount
