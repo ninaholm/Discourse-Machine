@@ -1,9 +1,0 @@
-Reuters Finans - Estimater på kommende nøgletal.
-
-DATO  NØGLETAL      SNIT  LAV/HØJ   FORRIGE
-26/05 Engrospriser april
-Måned/måned      +0,3 pct    0,2/0,5 +0,1   År/år       +1,1 pct    1,0/1,3 +1,2  29/05 Ledighed april    220.400   219.4/222.0   222.4   (begge sæsonkorr) 7,9 pct    7,8/8,0  8,0
-Tallene bygger på estimater fra BG Bank, Codan Bank,
-Den Danske Bank, Handelsbanken, JP Morgan, Jyske Bank,
-Nykredit Bank, Sydbank, Unibank.
-(c) Reuters Limited 1997.

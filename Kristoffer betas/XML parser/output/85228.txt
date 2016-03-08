@@ -1,7 +1,0 @@
-Reuters Finans - Estimater på kommende nøgletal.
-
-DATO  NØGLETAL     SNIT  LAV/HØJ   FORRIGE   30/06 BNP, 1. kvartal  +3,4 pct    2,8/3,8    +3,3
-Tallene bygger på estimater fra BG Bank, Codan Bank,
-Den Danske Bank, Deutsche Morgan Grenfell, Jyske Bank,
-Nykredit Bank, Svenska Handelsbanken, Sydbank og Unibank.
-(c) Reuters Limited 1997.
