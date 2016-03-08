@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-04" id="root" itemid="76709" xml:lang="da">
+<title></title>
+<headline> REUTERS FINANS&apos; RENTEPROGNOSE - SAMLET RESULTAT. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 4 oktober (Reuter) - Hermed foreligger det </p>
+<p> samlede resultat af Reuters Finans&apos; kvartalsprognose for </p>
+<p> udviklingen på det danske rentemarked i de kommende 12 </p>
+<p> måneder. </p>
+<p>     I alt 17 danske og udenlandske økonomer har afgivet </p>
+<p> deres bud på udviklingen i tre måneders deposit-renten, </p>
+<p> den toneangivende 10-årige statsobligationsrente, samt det </p>
+<p> 10-årige rentespænd mellem Danmark og Tyskland på hhv. </p>
+<p> tre, seks, og 12 måneders sigt. </p>
+<p> Tre-mdr. pengemarkedsrente    3 mdr 6 mdr 12 mdr Alm. Brand Bank     3,50  3,50    3,75 BG Bank        3,70  3,90    4,60 Jyske Bank     3,85  4,00    4,25 Nykredit Bank       3,70  3,70    3,70 Spar Nord      3,70  4,00    4,40 Unibank        3,75  3,85    4,10 Citibank       3,50  3,60    4,20 Deutsche Morgan Grenfell 3,85  3,85    4,20 Goldman Sachs       3,80  4,20    4,50 IBJ       3,50  -  4,00 James Capel/HSBC    3,70  3,70    4,30 J.P.Morgan     3,75  3,70    4,00 Lehman    3,75  3,90    4,10 Nat.West       3,60  3,70    4,40 Paribas        3,80  3,80    4,30 Salomon Brothers    3,60  3,70    4,20 Anonym    3,50  3,40    3,25 Tre-mdr pengemarkedsrente    3 mdr  6 mdr 12 mdr Gennemsnit     3,68  3,78    4,13 Lav/høj     3,50/3,85  3,40/4,20  3,25/4,60 </p>
+<p> Tre måneders renten er den 4. oktober ca. 3,70 pct. </p>
+<p> 10-årig obligationsrente 3 mdr 6 mdr 12 mdr Alm. Brand Bank      6,75  6,45   6,25 BG Bank    7,50  7,70   7,80 Jyske Bank      7,10  7,40   7,60 Nykredit Bank   7,00  7,10   7,30 Spar Nord       7,25  7,65   8,00 Unibank    7,05  7,00   6,95 Citibank        8,00  8,20   8,00 Deutsche Morgan Grenfell  7,20  7,30   7,35 Goldman Sachs   7,20  7,50   7,70 IBJ        6,70    7,30 James Capel/HSBC     6,80  6,90   7,30 J.P.Morgan      6,75  6,95   7,25 Lehman     6,82  7,10   7,50 Nat.West        7,40  7,30   7,20 Paribas    7,30  7,30   7,60 Salomon Brothers     7,00  7,10   7,15 Anonym     6,85  6,80   6,50 10-årig obligationsrente     3 mdr  6 mdr 12 mdr Gennemsnit      7,10  7,23   7,34 Lav/høj     6,70/8,00  6,45/8,20  6,25/8,00 </p>
+<p> Den 10-årige obligationsrente er den 4. oktober ca. 6,80 </p>
+<p> pct. </p>
+<p> 10-årigt dansk-tysk spænd     3 mdr 6 mdr 12 mdr Alm. Brand Bank      0,75  0,65   0,50 BG Bank    1,00  1,00   1,00 Jyske Bank      0,85  0,90   0,85 Nykredit Bank   1,00  1,00   1,00 Spar Nord       0,85  0,75   0,75 Unibank    0,95  0,95   0,95 Deutsche Morgan Grenfell  0,95  0,95   0,85 Goldman Sachs   0,80  0,70   0,50 IBJ        0,80  0,80   0,80 James Capel/HSBC     0,90  0,80   1,00 J.P.Morgan      0,75  0,75   0,75 Lehman     0,75  0,80   0,75 Paribas    0,90  0,90   1,00 Salomon Brothers     0,75  0,75   0,70 NN         0,85  0,80   0,60 10-årigt dansk-tysk spænd    3 mdr  6 mdr 12 mdr Gennemsnit     0,86  0,83    0,80 Lav/høj     0,75/1,00  0,65/1,00  0,50/1,00 </p>
+<p> Det 10-årige dansk-tyske spænd er den 4. oktober ca. 0,80 </p>
+<p> pct. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-04"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-04"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-04"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-04"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-04"></editdetail></code>
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-04"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-04"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-04"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

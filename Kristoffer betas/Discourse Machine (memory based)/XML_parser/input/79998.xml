@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-10" id="root" itemid="79998" xml:lang="da">
+<title></title>
+<headline> NORSK INFLATION STEG 0,8 PCT I JANUAR. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> OSLO, 10 februar (Reuter) - Den norske inflation steg 0,8 pct. i januar, mens årstigningstaksten lå på tre pct., forlyder det fra Statistisk Sentralbyrå mandag. </p>
+<p> På forhånd havde en række økonomer over for Reuters vurderet, at inflationen i januar ville stige med 0,3 pct. svarende til en årstigning på 2,5 pct. </p>
+<p> I december var inflationen uændret på månedsbasis, mens år/år-stigningen var 1,8 pct. (Reuter/eep). </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-10"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-10"></editdetail></code>
+<code code="NORW">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-10"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-10"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-10"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-10"></editdetail></code>
+<code code="E1103">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-10"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-10"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-10"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>
