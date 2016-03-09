@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-03" id="root" itemid="79686" xml:lang="da">
+<title></title>
+<headline> Valuta - USD stabil - NAPM-tal/FOMC afventes. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 3 februar (Reuter) - Den amerikanske dollar </p>
+<p> ligger mandag middag stabilt over for den tyske mark </p>
+<p> omkring niveauet 164,20-40 DEM for 100 USD efter tidligere </p>
+<p> mandag morgen at have været under kurs 164. </p>
+<p>     Det ventes, at USD-kursen vil bevæge sig tæt på det </p>
+<p> nuværende niveau frem til offentliggørelsen af det </p>
+<p> amerikanske NAPM-indeks for januar kl. 16.00. </p>
+<p>     USD ventes i løbet af ugen specielt påvirket af møder </p>
+<p> i de amerikanske og tyske centralbanker, ligesom den </p>
+<p> kommende weekends G7-finansministermøde i Frankfurt </p>
+<p> vurderes at kunne bevæge markedet. </p>
+<p>     Derudover er der en vis usikkerhed omkring mandagens </p>
+<p> offentliggørelse af en Eurostat-rapport om de fremtidige </p>
+<p> principper for opgørelsen af EU-landenes underskud på de </p>
+<p> offentlige budgetter. Det ventes blandt andet, at </p>
+<p> rapporten vil forsøge at gøre op med den kreative </p>
+<p> bogføring, som visse EU-lande kan have brugt for at </p>
+<p> bringe deres budget-underskud ned. </p>
+<p>        DEM/DKK  USD/DKK  FRF/DKK USD/JPY USD/DEM </p>
+<p> Mandag    11.57  3,8148   6,2695   1,1293  121,98  1,6435 </p>
+<p> Fredag    15.05  3,8145   6,2525   1,1285  121,85  1,6400 </p>
+<p> (stp). </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-03"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

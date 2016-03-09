@@ -1,18 +1,18 @@
-import os
+from XML_parser.XMLparser import parse
+from TFIDF_indexer.TFIDFindexer import index
+from TFIDF_searcher.TFIDFsearcher import search
+import time
 
-path = os.getcwd()
+starttime = time.time()
+parsedCorpus = parse(0)
+print
 
-xmlpath = path + "/XML parser/xmlparser.py"
+indexes = index(parsedCorpus)
+TFIDFindex = indexes[0]
+ARTICLEindex = indexes[1]
+print
 
-xmlpath = xmlpath.replace(" ", "*")
+search(TFIDFindex, ARTICLEindex)
+print
 
-print "running: %s \n" % xmlpath
-os.system("python " + xmlpath)
-
-tfidfindexerpath = (path + "/TF-IDF indexer/tediffern.py").replace(" ", "*")
-print "running: %s \n" % tfidfindexerpath
-os.system("python " + tfidfindexerpath)
-
-tfidfsearchpath = (path + "/TF-IDF searcher/search.py").replace(" ", "*")
-print "running: %s \n" % tfidfsearchpath
-os.system("python " + tfidfsearchpath)
+print "Total time elapsed: %s seconds" % round((time.time() - starttime), 3)

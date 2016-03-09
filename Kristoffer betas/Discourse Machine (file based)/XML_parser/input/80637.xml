@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-25" id="root" itemid="80637" xml:lang="da">
+<title></title>
+<headline> REUTERS FINANS - ESTIMATER PÅ KOMMENDE NØGLETAL. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>  DATO  NØGLETAL    SNIT  LAV/HØJ    FORRIGE </p>
+<p>  25/2  Engrospriser jan </p>
+<p>   Måned/måned     +0,3 pct    0,2/0,4 +0,4   År/år      +1,2 pct    1,1/1,2 +1,2 </p>
+<p>  25/2  Råvarepriser jan </p>
+<p>   Måned/måned     +0,5 pct    0,5/0,5 +0,8   År/år      +5,4 pct    5,3/5,4 +5,7 </p>
+<p>     Tallene bygger på estimater fra Codan Bank, Den Danske </p>
+<p> Bank, Nykredit Bank og Unibank. </p>
+<p>     -- Redaktionen (+45) 33 96 96 56. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-25"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-25"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-25"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-25"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-25"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-25"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-25"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

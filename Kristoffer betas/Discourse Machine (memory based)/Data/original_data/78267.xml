@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-12-12" id="root" itemid="78267" xml:lang="da">
+<title></title>
+<headline> DANSKE AKTIER KLARER SIG DÅRLIGERE END UDLANDET. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 12 december (Reuter) - Aktierne i Danmark halter noget efter de øvrige europæiske aktiemarkeder. </p>
+<p> Mens de fleste udenlandske indeks ligger på niveauet eller højere, er det danske KFX faldet 0,34 point til 130,62 i løbet af torsdag formiddag og middag. </p>
+<p> - Der skyldes primært, at nogle af de største aktier sætter sig lidt, siger en aktiehandler. </p>
+<p> Han tror ikke, at torsdagens eftermiddagshandel vil byde på nogle ændringer i kurserne, og KFX vil derfor lukke på niveauet, vurderer han. Dog kan opgørelsen over inflation fra USA kl. 14.30 spille ind, mener han. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-12"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-12"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-12"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-12"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-12"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-12"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-12-12"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-31" id="root" itemid="77228" xml:lang="da">
+<title></title>
+<headline> RETTELSE TIL TURISTOVERNATNINGER - DS. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 31 oktober (Reuter) - Danmarks Statistik angav den 24. oktober fejlagtigt antallet af overnatninger foretaget af andre nationaliteter i perioden januar til august 1996 til 8.014.400. Det korrekte tal er 7.502.400 oplyser Danmarks Statistik torsdag. </p>
+<p> Fejlen betyder, at faldet i det samlede antal overnatninger for perioden januar til august 1996 på campingpladser er syv pct. i stedet for de angivne to pct. Korrektionen betyder også, at det samlede antal overnatninger på hoteller, feriecentre m.m. i perioden januar til august 1996 er faldet med en pct. i stedet for som tidligere meddelt en stigning på en pct. (/pbt). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="GTOUR">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-31"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

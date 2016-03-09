@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-14" id="root" itemid="80216" xml:lang="da">
+<title></title>
+<headline> DANSKE AKTIER STIGER MOD NY REKORD, ISS I FOKUS. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 14 februar (Reuter) - Det danske </p>
+<p> aktiemarked kl. 12.40:     +/-     * KFX-indekset.............155,51   +1,03     * KFX februar future.......154,95   +1,25 </p>
+<p>     * Omsætning i KFX-papirer..168,22 mio. kr. </p>
+<p>     * ISS stiger 8 kr. til kurs 187, mest omsatte </p>
+<p> KFX-aktie. </p>
+<p>     * Sophus Berendsen stiger 10 kr. til kurs 926. </p>
+<p>     * Aars Bank 3 kr. ned til 17 og Samson, Tange 30 kr. </p>
+<p> ned til 220 efter regnskaber. </p>
+<p>     * Inv. sel. af 30/4-92 25 kr. op til kurs 430. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-14"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-14"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-14"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-14"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-14"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-14"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-14"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

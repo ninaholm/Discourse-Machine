@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-30" id="root" itemid="77181" xml:lang="da">
+<title></title>
+<headline> UDSALG AF KORTE OBLIGATIONER PGA UK-RENTESTIGNING. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 30 oktober (Reuter) - Den engelske renteforhøjelse onsdag eftermiddag har været en afgørende begivenhed for obligationsmarkedet i Danmark, der siver ned mod lavere priser. </p>
+<p> - Det er første gang i lang tid, at et europæisk land sætter renten op. I Danmark har det ført til stor omlægning af korte obligationer til de længere løbetider, og der er stor aktivitet i markedet, siger en travl obligationshandler. </p>
+<p> Den toneangivende 8 pct. 2006 er omsat i 4,5 mia. kr., og er dumpet ned til 107,61/6,86 pct. fra 107,70 i morges. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-30"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

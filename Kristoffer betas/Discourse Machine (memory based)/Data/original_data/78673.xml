@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-01-02" id="root" itemid="78673" xml:lang="da">
+<title></title>
+<headline> Danmarks Nationalbank - effektiv kronekurs. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     Danmarks Nationalbank  ***  effektiv kronekurs  *** </p>
+<p> ---------------+---------------+---------------+--------------- </p>
+<p> 09/12-96 101,84 16/12-96 101,79 23/12-96 101,76 30/12-96 101,77 </p>
+<p> 10/12-96 101,84 17/12-96 101,92 24/12-96   -    31/12-96 101,85 </p>
+<p> 11/12-96 101,94 18/12-96 101,82 25/12-96   -    01/01-97   - </p>
+<p> 12/12-96 101,97 19/12-96 101,78 26/12-96   -    02/01-97 101,98 </p>
+<p> 13/12-96 102,01 20/12-96 101,74 27/12-96 101,79 03/01-97   -. </p>
+<p>     Danmarks Nationalbank  ***  effektiv kronekurs  *** </p>
+<p> ---------------+---------------+---------------+--------------- </p>
+<p> 09/12-96 101,84 16/12-96 101,79 23/12-96 101,76 30/12-96 101,77 </p>
+<p> 10/12-96 101,84 17/12-96 101,92 24/12-96   -    31/12-96   - </p>
+<p> 11/12-96 101,94 18/12-96 101,82 25/12-96   -    01/01-97   - </p>
+<p> 12/12-96 101,97 19/12-96 101,78 26/12-96   -    02/01-97   - </p>
+<p> 13/12-96 102,01 20/12-96 101,74 27/12-96 101,79 03/01-97   -. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-02"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-02"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-02"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-02"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-02"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-02"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-02"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-01-02"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-30" id="root" itemid="77190" xml:lang="da">
+<title></title>
+<headline> CIBOR-RENTEN FOR 3 MÅNEDER FALDER TIL 3,6525 PCT. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 30 oktober (Reuter) - Nationalbanken har </p>
+<p> onsdag fastsat CIBOR-satserne til det følgende: </p>
+<p>   (pct)      onsdag     torsdag 1 måned      3,5975     3,5975 2 måneder    3,6200     3,6225 3 måneder    3,6525     3,6600 4 måneder    3,6775     3,6925 5 måneder    3,7125     3,7300 6 måneder    3,7425     3,7700 9 måneder    3,8400     3,8500 12 måneder   3,9325     3,9450. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-30"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

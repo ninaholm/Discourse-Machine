@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-28" id="root" itemid="80877" xml:lang="da">
+<title></title>
+<headline> Nationalbank ser rolig inflationsudvikling. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 28 februar (Reuter) - Nationalbanken karakteriserer udviklingen i den danske inflation som rolig, når der tages hensyn til den konjunktursituation landet er i, fremgår det af Danmarks Nationalbanks kvartalsoversigt for februar 1997. </p>
+<p> - Der har været en vis opgang i prisstigningstakten gennem året, men stigningstakten må alt i alt betegnes som rolig konjunktursituationen taget i betragtning, hedder det. </p>
+<p> Årsstigningstakten i forbrugerpriserne var 2,4 pct. i fjerde kvartal 1996 og 2,1 pct. for året som helhed. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-28"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-28"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-28"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-28"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-28"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-28"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-28"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

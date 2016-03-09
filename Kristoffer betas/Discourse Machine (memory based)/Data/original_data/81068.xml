@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-03-05" id="root" itemid="81068" xml:lang="da">
+<title></title>
+<headline> Presserunde onsdag 5 marts. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Reuters står ikke inde for avisartiklernes nøjagtighed 1) Helge Adam Møller bliver hos Det konservative Folkeparti trods kollisionskurs med partiets nye leder, Per Stig Møller. (JP 1. sek. s. 4, Berl. Tid. s. 11 og andre aviser) </p>
+<p> 2) Per Stig Møller er sikker på at blive valgt som de konservative landsformand. (Pol. s. 1 og 4) </p>
+<p> 3) Medicinpriserne er alt for høje, mener en analytiker, som vurderer, at der kan spares 70 mio. kr. på det danske forbrug af insulin, som Novo Nordisk er storleverandør af. (Børsen s. 1, 10 og 11). </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-05"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-05"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-05"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-05"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="I25">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-05"></editdetail></code>
+<code code="I257">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-05"></editdetail></code>
+<code code="I258">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-05"></editdetail></code>
+<code code="ICNP">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-05"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-05"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-05"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-05"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-03-05"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

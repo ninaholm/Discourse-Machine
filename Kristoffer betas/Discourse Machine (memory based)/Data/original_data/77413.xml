@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-11-08" id="root" itemid="77413" xml:lang="da">
+<title></title>
+<headline> Presserunde fredag 8 november. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Reuters står ikke inde for avisartiklernes nøjagtighed 1) Regeringen dropper at gennemføre sin skatteplan i forbindelse med finanslovsforhandlingerne. (JP side 6) </p>
+<p> 2) Dansk Industri og Dansk Metal vil have regeringen til at genoptage skattereformen nu. (Børsen side 15) </p>
+<p> 3) Metronome er solgt til Tele Danmark og norske Schibsted for 180 mio. kr. Aftalen offentliggøres i dag, når Schibsteds bestyrelse har godkendt handlen. (Berl. Tidn. side 1 og Erhverv side 5, Børsen side 1 og 3) </p>
+<p> 4) BG Bank har vundet Hvidovre Kommunes bankforretninger fra Den Danske Bank. (Børsen side 27). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code>
+<code code="NORW">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="I7902">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code>
+<code code="I814">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code>
+<code code="I81402">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code>
+<code code="I81501">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code>
+<code code="I8150103">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code>
+<code code="IBNK">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code>
+<code code="E11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code>
+<code code="E1125">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-08"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-11-08"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

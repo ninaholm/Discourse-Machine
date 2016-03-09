@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-01-31" id="root" itemid="79664" xml:lang="da">
+<title></title>
+<headline> NATBANKEN SOLGTE INDSKUDSBEVISER FOR 28,0 MIA. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 31 januar (Reuter) - Nationalbanken solgte fredag indskudsbeviser for 28,0 mia. kr. til en uændret rente på 3,50 pct. Indskudsbeviserne har forfald 14. februar. </p>
+<p> I dag forfaldt en tidligere serie på i alt 17,5 mia. kr. Dermed blev markedets nettolikviditet formindsket med 10,5 mia. kr. </p>
+<p> Ved gårsdagens repo med valør i dag blev 7,3 mia. kr. drænet fra markedet. Den samlede virkning bliver altså, at markedet er blevet drænet for 17,8 mia. (/uha). </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-31"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-31"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-31"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-31"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-31"></editdetail></code>
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-31"></editdetail></code>
+<code code="M131">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-31"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-31"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-01-31"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

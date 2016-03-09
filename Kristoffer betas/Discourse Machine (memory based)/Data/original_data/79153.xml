@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-01-17" id="root" itemid="79153" xml:lang="da">
+<title></title>
+<headline> DANISCOS SUKKERPRODUKTION I 1996 GODT EN MIO TONS. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 17 januar (Reuter) - Danisco har nu opgjort sin samlede produktion af sukker i 1996 til ca. 1.046.000 tons, oplyser selskabet fredag. </p>
+<p> I selskabets halvårsmeddelelse i december, oplyste Danisco, at man ventede en sukkerproduktion på ca. en mio. tons sidste år. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-17"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-17"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-17"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-17"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="DDDFS">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-17"></editdetail></code>
+<code code="I41">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-17"></editdetail></code>
+<code code="C21">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-17"></editdetail></code>
+<code code="CCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-17"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-01-17"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-12-02" id="root" itemid="77992" xml:lang="da">
+<title></title>
+<headline> OBLIGATIONER KLARER SIG GODT I STILLE HANDEL. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 2 december (Reuter) - Danske obligationer klarer sig en spids bedre en det øvrige Europa, efter markedet oplevede en kortvarig korrektion i løbet af formiddagen. </p>
+<p> - Danmark ligger pænt i Europa, men interessen er beskeden og markedet fremstår en smule overkøbt for tiden. siger en obligationshandler. </p>
+<p> Statens 8&apos;06&apos;er handles fortsat til kurs 109,90/6,57 pct., efter kortvarigt at have været nede i 109,70. </p>
+<p> Dealeren venter, at benchmarken holder det nuværende niveau med udsving på 40 ticks til hver side. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-02"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-02"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-02"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-02"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-02"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-02"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-12-02"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

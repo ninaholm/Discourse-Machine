@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-01-15" id="root" itemid="79064" xml:lang="da">
+<title></title>
+<headline> NATIONALBANKENS VALUTAKURSER 15 JANUAR. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 15 januar (Reuter) - Nationalbanken har </p>
+<p> fastsat følgende middelkurser i dag: </p>
+<p> USD -  608,05  NLG -  339,18  JPY -    5,1802 GBP - 1018,18  ITL -    0,3915     IEP -  999,94 DEM -  380,86  FIM -  127,72  GRD -    2,438 SEK -   87,43  ISK -    8,96  XEU -  740,30 NOK -   95,59  ATS -   54,140 AUD -  472,15 FRF -  112,78  ESP -    4,559 NZD -  427,22 BEF -   18,471 PTE -    3,816 SDR -  863,25 CHF -  441,22  CAD -  452,01 </p>
+<p>     I det følgende angives tal fra de seneste to hverdage. </p>
+<p>     Middelkurser 14. januar: </p>
+<p> USD -  605,55  NLG -  339,30  JPY -    5,2028 GBP - 1011,57  ITL -    0,3917     IEP -  995,58 DEM -  381,02  FIM -  127,43  GRD -    2,438 SEK -   87,06  ISK -    8,94  XEU -  740,59 NOK -   94,92  ATS -   54,159 AUD -  470,39 FRF -  112,88  ESP -    4,562 NZD -  424,49 BEF -   18,481 PTE -    3,819 SDR -  861,86 CHF -  440,43  CAD -  448,29 </p>
+<p>     Middelkurser 13. januar: </p>
+<p> USD -  602,90  NLG -  339,17  JPY -    5,1827 GBP - 1009,13  ITL -    0,3918     IEP -  992,61 DEM -  380,74  FIM -  127,85  GRD -    2,434 SEK -   87,52  ISK -    8,93  XEU -  740,24 NOK -   95,08  ATS -   54,115 AUD -  469,18 FRF -  112,86  ESP -    4,566 NZD -  424,86 BEF -   18,468 PTE -    3,820 SDR -  859,38 CHF -  438,44  CAD -  447,42. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-15"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-15"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-15"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-15"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-15"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-15"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-15"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-01-15"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>
