@@ -1,10 +1,15 @@
 from XML_parser.XMLparser import parse
 from TFIDF_indexer.TFIDFindexer import index
 from TFIDF_searcher.TFIDFsearcher import search
+from Lemmatiser.Lemmatiser import *
 import time
 
 starttime = time.time()
 parsedCorpus = parse(0)
+print
+
+lem = Lemmatiser()
+lem.lemmatise_directory("data/xmlparser_output")
 print
 
 indexes = index(parsedCorpus)

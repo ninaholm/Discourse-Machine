@@ -10,19 +10,21 @@ class Lemmatiser:
 		import os
 		import glob
 		import string
+		import time
 		all_files = glob.glob(dir_path + "/*.txt")
 
+		# Statistics and shit
+		print ">>LEMMATISE: Tokenising and lemmatising", len(all_files), "documents."
+		starttime = time.time()
+		
 		for input_file in all_files:
 			#Set files and calls
 			rtf_call = "Lemmatiser/CST_tools/rtfreader -T -E UTF8 -i " + input_file
 			lem_call = "Lemmatiser/CST_tools/cstlemma -L -eU -l -p- -f Lemmatiser/CST_tools/flexrules -i " + input_file + ".segments"
 			
-			#Tokenize and lemmatize
-			print ".....................Tokenising.............."
+			#Tokenise and lemmatize
 			subprocess.call(rtf_call, shell=True)
-			print ".....................Lemmatising.............."
-			lem_dict = subprocess.check_output(lem_call, shell=True)
-
+			lem_dict = subprocess.check_output(lem_call, shell=True, stderr= subprocess.STDOUT)
 			
 			#Remove .segments file to save space
 			os.remove(input_file + ".segments")
@@ -33,12 +35,15 @@ class Lemmatiser:
 			output_file = "data/lemmatiser_output/" + output_file + ".lem"
 			file_fin = open(output_file, "w")
 			line = lem_dict.split("\n")
-			for l in line:
+			for l in line[33:]:
 				words = l.split("\t")
 				if len(words) > 1:
 					if words[1] not in string.punctuation and not words[1].isdigit():
 						file_fin.write(words[1] + " ")
 			file_fin.close()
+		
+		# Print final time stamp
+		print ">>LEMMATISE: Lemmatising completed in", time.time() - starttime, "seconds"
 
 			
 	def lemmatise_inpurt_term(self, input_term):
