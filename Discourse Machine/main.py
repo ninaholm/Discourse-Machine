@@ -21,3 +21,7 @@ search(TFIDFindex, ARTICLEindex)
 print
 
 print "Total time elapsed: %s seconds" % round((time.time() - starttime), 3)
+print
+
+input_term = raw_input("Enter topic term: ")
+lem_input_term = lem.lemmatise_input_term(input_term)

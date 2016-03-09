@@ -46,7 +46,7 @@ class Lemmatiser:
 		print ">>LEMMATISE: Lemmatising completed in", time.time() - starttime, "seconds"
 
 			
-	def lemmatise_inpurt_term(self, input_term):
+	def lemmatise_input_term(self, input_term):
 		import subprocess
 		import sys
 
@@ -54,18 +54,18 @@ class Lemmatiser:
 		# input_term = sys.argv[1]
 
 		# Write input_term to file
-		temp_file = "temp"
+		temp_file = "Lemmatiser/temp"
 		file = open(temp_file, "w")
 		file.write(input_term)
 		file.close()
 
 		# Call the lemmatiser program
-		lem_call = "./CST_tools/cstlemma -L -f CST_tools/flexrules -i " + temp_file
-		lem = subprocess.check_output(lem_call, shell=True)
+		lem_call = "./Lemmatiser/CST_tools/cstlemma -L -eU -l -p- -f Lemmatiser/CST_tools/flexrules -i " + temp_file
+		lem = subprocess.check_output(lem_call, shell=True, stderr=subprocess.STDOUT)
 
 		# Extract the lemmatised term
 		lem = lem.split("\n")
-		lem = lem[2].split("\t")
+		lem = lem[33].split("\t")
 		print "The input term was: \t\t" + input_term
 		print "The lemmatised word is: \t" + lem[1]
 		return lem[1]
