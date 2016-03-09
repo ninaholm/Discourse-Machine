@@ -11,7 +11,7 @@ def parse(self):
 
 	count = 0
 
-	path = os.getcwd() + '/Data/original_data'
+	path = os.getcwd() + '/data/original_data'
 
 	parsedCorpus = {}
 
