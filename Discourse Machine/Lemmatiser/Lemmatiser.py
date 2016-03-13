@@ -13,7 +13,7 @@ class Lemmatiser:
 		import time
 		all_files = glob.glob(dir_path + "/*.txt")
 
-		# Statistics and shit
+		# Statistics
 		print ">>LEMMATISE: Tokenising and lemmatising", len(all_files), "documents."
 		starttime = time.time()
 		
