@@ -1,24 +1,3 @@
-socialdemokrati
-	europa-parlament
-	ivers
-	a-kasse
-	lund
-	federspiel
-	forligsbrud
-	velfærdssamfund
-	hilde
-	john
-	green
-	forskydning
-	sid|sidde
-	torben
-	s-gruppe
-	antons
-	optage
-	bruttoskat
-	pjece
-	lønstigning
-	charlotte
 venstre
 	partilederrund
 	indbyde
@@ -27,7 +6,6 @@ venstre
 	forbrugerombudsmand
 	ændringsforslag
 	pe
-	sonar
 	fup|fuppe
 	budgetredegørelse
 	spritdom
@@ -40,3 +18,84 @@ venstre
 	jacobs
 	justering
 	lederskab
+	indleder|indlede
+	akt
+	pjece
+	udskydelse
+	venstre
+	budgetfifleri
+	mandat
+	rentefradrag
+	finanslovsforlig
+	fogh
+	bxrsnotere|bxrsnoteret
+	hxje
+	landsmxde
+	bxrs
+	nxjagtighed
+	overste
+	stavad
+	jann
+	sjurs
+	konservativ
+	sonar
+	aktieafgift
+	rad
+	sande
+	værftssag
+	velfærdssamfund
+	engell
+	lund
+	tilfredsse
+	udgiftsstramning
+	mastelov
+	emissionsaktivitet
+	investment-bank
+	ro
+	fxrst
+	sf-top
+	skandse
+	udhuling
+	opreklamere|opreklameret
+	eu-beskæftigelsesprojekt
+	tåre
+	beskæftigelsesprojekt
+	græde
+	ten
+	eu-jobprojekt
+	sommer
+	hækkerup
+	april-måling
+	tilbagemelding
+	statusredegørelse
+	fradragsregel
+	pokerspil
+	opklaringsfase
+	sygehusforhandling
+	hovsa-politik
+	sugehusområde
+	sundhedspakke
+	bygge-sektor
+	vognmandsblokade
+	fl97-svar
+	højskoleforstander
+	t
+	trin|trine
+	buksti
+	fidus
+	frafalde|frafalden
+	vandringstabel
+	søfartsekspert
+	tele-kunde
+	hovedaftager|hovedaftage
+	mm
+	thor
+	monto
+	ellemann-jens
+	eu-uenighed
+	jobskabelse
+	åbningstale
+	anlægsprojekt
+	blokpolik
+	løje|lyve
+	gfk-prøvevalg

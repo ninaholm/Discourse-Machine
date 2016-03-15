@@ -19,7 +19,7 @@ print
 articles = searchArticles(TFIDFindex, ARTICLEindex)
 print
 
-searchTopWords(TFIDFindex, ARTICLEindex, articles,20)
+searchTopWords(TFIDFindex, ARTICLEindex, articles, 100)
 print
 
 print "Total time elapsed: %s seconds" % round((time.time() - starttime), 3)

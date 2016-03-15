@@ -22,7 +22,7 @@ def searchArticles(TFIDFindex, ARTICLEindex):
 
 	for term in searchterms:
 		term = str(term).strip()
-		term = lemmatise_input_term(term)
+		# term = lemmatise_input_term(term)
 		tmpresult = []
 		if hash(term) in TFIDFindex:
 			articlehits = TFIDFindex[hash(term)][1]
