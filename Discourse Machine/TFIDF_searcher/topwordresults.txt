@@ -6,7 +6,6 @@ venstre
 	forbrugerombudsmand
 	ændringsforslag
 	pe
-	sonar
 	fup|fuppe
 	budgetredegørelse
 	spritdom
@@ -19,6 +18,7 @@ venstre
 	jacobs
 	justering
 	lederskab
+<<<<<<< HEAD
 flygtning
 	fremskridtsparti
 	side|sid
@@ -61,3 +61,86 @@ tivoli
 	espens
 	malawi
 	tivoli
+=======
+	indleder|indlede
+	akt
+	pjece
+	udskydelse
+	venstre
+	budgetfifleri
+	mandat
+	rentefradrag
+	finanslovsforlig
+	fogh
+	bxrsnotere|bxrsnoteret
+	hxje
+	landsmxde
+	bxrs
+	nxjagtighed
+	overste
+	stavad
+	jann
+	sjurs
+	konservativ
+	sonar
+	aktieafgift
+	rad
+	sande
+	værftssag
+	velfærdssamfund
+	engell
+	lund
+	tilfredsse
+	udgiftsstramning
+	mastelov
+	emissionsaktivitet
+	investment-bank
+	ro
+	fxrst
+	sf-top
+	skandse
+	udhuling
+	opreklamere|opreklameret
+	eu-beskæftigelsesprojekt
+	tåre
+	beskæftigelsesprojekt
+	græde
+	ten
+	eu-jobprojekt
+	sommer
+	hækkerup
+	april-måling
+	tilbagemelding
+	statusredegørelse
+	fradragsregel
+	pokerspil
+	opklaringsfase
+	sygehusforhandling
+	hovsa-politik
+	sugehusområde
+	sundhedspakke
+	bygge-sektor
+	vognmandsblokade
+	fl97-svar
+	højskoleforstander
+	t
+	trin|trine
+	buksti
+	fidus
+	frafalde|frafalden
+	vandringstabel
+	søfartsekspert
+	tele-kunde
+	hovedaftager|hovedaftage
+	mm
+	thor
+	monto
+	ellemann-jens
+	eu-uenighed
+	jobskabelse
+	åbningstale
+	anlægsprojekt
+	blokpolik
+	løje|lyve
+	gfk-prøvevalg
+>>>>>>> fc24e52ca52007f1cfb64cdd456f97a94f588886
