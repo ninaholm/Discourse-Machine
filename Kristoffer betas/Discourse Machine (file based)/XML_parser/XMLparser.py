@@ -9,6 +9,8 @@ def parse(self):
 	starttime = time.time()
 	print ">>PARSE: Started parsing."
 
+	outputpath = os.getcwd() + "/data/xmlparser_output/"
+
 	count = 0
 
 	path = os.path.dirname(os.path.abspath(__file__)) + '/input'
@@ -22,7 +24,7 @@ def parse(self):
 		doc = open(filename, "r")
 
 		docname = filename[filename.rfind("/")+1:filename.rfind(".xml")]
-		txt = open(os.path.dirname(os.path.abspath(__file__)) + '/output/' + docname + ".txt", 'w')
+		txt = open(outputpath + docname + ".txt", 'w')
 
 		for line in doc:
 			if len(line) < 1:
