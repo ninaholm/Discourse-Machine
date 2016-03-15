@@ -9,11 +9,11 @@ def parse(self):
 	starttime = time.time()
 	print ">>PARSE: Started parsing."
 
+	outputpath = os.getcwd() + "/data/xmlparser_output/"
+
 	count = 0
 
-	path = os.getcwd() + '/data/original_data'
-
-	parsedCorpus = {}
+	path = os.path.dirname(os.path.abspath(__file__)) + '/input'
 
 	for filename in glob.glob(os.path.join(path, '*.xml')):
 		count += 1
@@ -23,7 +23,8 @@ def parse(self):
 
 		doc = open(filename, "r")
 
-		articlestring = ""
+		docname = filename[filename.rfind("/")+1:filename.rfind(".xml")]
+		txt = open(outputpath + docname + ".txt", 'w')
 
 		for line in doc:
 			if len(line) < 1:
@@ -31,22 +32,16 @@ def parse(self):
 
 			if line.startswith("<headline>"):
 				endIndex = line.find("</headline>")
-				# txt.write(line[10:endIndex].strip() + "\n")
-				articlestring += line[10:endIndex].strip() + " "
+				txt.write(line[10:endIndex].strip() + "\n")
 
 			if line.startswith("<byline>"):
 				endIndex = line.find("</byline>")
-				# txt.write(line[8:endIndex].strip() + "\n")
-				articlestring += line[8:endIndex].strip() + " "
+				txt.write(line[8:endIndex].strip() + "\n")
 
 			if line.startswith("<p>"):
 				endIndex = line.find("</p>")
-				# txt.write(line[3:endIndex].strip()  + "\n")
-				articlestring += line[3:endIndex].strip() + " "
+				txt.write(line[3:endIndex].strip()  + "\n")
 
-		parsedCorpus[filename] = articlestring
 		doc.close()	
 	print 
 	print ">>PARSE: Parsing completed in %s seconds." % round((time.time() - starttime), 3)
-
-	return parsedCorpus
