@@ -1,6 +1,6 @@
 from XML_parser.XMLparser import parse
 from TFIDF_indexer.TFIDFindexer import index
-from TFIDF_searcher.TFIDFsearcher import search
+from TFIDF_searcher.TFIDFsearcher import searchArticles, searchTopWords
 import time
 
 starttime = time.time()
@@ -12,7 +12,11 @@ TFIDFindex = indexes[0]
 ARTICLEindex = indexes[1]
 print
 
-search(TFIDFindex, ARTICLEindex)
+articles = searchArticles(TFIDFindex, ARTICLEindex)
 print
+
+searchTopWords(TFIDFindex, ARTICLEindex, articles,20)
+print
+
 
 print "Total time elapsed: %s seconds" % round((time.time() - starttime), 3)
