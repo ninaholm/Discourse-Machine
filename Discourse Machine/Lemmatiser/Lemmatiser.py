@@ -26,7 +26,7 @@ def lemmatise_directory(dir_path):
 		output_file = input_file.replace(dir_path, "")
 
 		#Save the lemmatized result in its own file
-		output_file = "data/lemmatiser_output/" + output_file + ".lem"
+		output_file = "data/lemmatiser_output/" + output_file
 		file_fin = open(output_file, "w")
 		line = lem_dict.split("\n")
 		for l in line[33:]:
