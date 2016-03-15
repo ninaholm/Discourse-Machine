@@ -4,6 +4,7 @@ import operator
 import math
 import pickle
 import time
+from Lemmatiser.Lemmatiser import *
 
 
 def searchArticles(TFIDFindex, ARTICLEindex):
@@ -21,6 +22,7 @@ def searchArticles(TFIDFindex, ARTICLEindex):
 
 	for term in searchterms:
 		term = str(term).strip()
+		term = lemmatise_input_term(term)
 		tmpresult = []
 		if hash(term) in TFIDFindex:
 			articlehits = TFIDFindex[hash(term)][1]
