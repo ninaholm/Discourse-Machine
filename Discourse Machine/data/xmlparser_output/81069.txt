@@ -1,0 +1,13 @@
+Reuters Finans - Estimater på kommende nøgletal.
+
+DATO  NØGLETAL   SNIT LAV/HØJ  FORRIGE
+5/3  Udenrigshandel december
+Sæsonkor. eks. skibe     +2,0 mia  +1,8/+2,5   +1,5
+5/3  Udenrigshandel december
+Faktisk eks. skibe  +1,8 mia  +1,5/+2,1   +2,2
+5/3  Betalingsbalance dec     -3,2 mia  -2,3/-3,8   -6,6
+6/3  Ledighed  januar    225.100  223.8/229.0 225.8   (begge sæsonkorr)   8,1  8,0/8,2     8,1
+Tallene bygger på estimater fra BG Bank, Codan Bank,
+DDB, Deutsche MG, Enskilda, Jyske Bank, Lehman Bros.,
+Nykredit Bank, PaineWebber, Paribas, Sydbank og Unibank.
+(c) Reuters Limited 1997.
