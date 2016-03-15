@@ -13,9 +13,9 @@ def parse(self):
 
 	count = 0
 
-	path = os.path.dirname(os.path.abspath(__file__)) + '/input'
+	inputpath = os.getcwd() + "/data/original_data"
 
-	for filename in glob.glob(os.path.join(path, '*.xml')):
+	for filename in glob.glob(os.path.join(inputpath, '*.xml')):
 		count += 1
 
 		sys.stdout.write(">>PARSE: %s documents. \r" % (count) )
