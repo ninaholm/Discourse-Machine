@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-16" id="root" itemid="83767" xml:lang="da">
+<title></title>
+<headline> God stemning på dansk rentemarked efter USA-løft. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Papir       kl. 8.38     kl. 16.00 Stat 7 pct. 2007   104,20/6,43 pct.  103,87/6,47 pct. Dansk-tysk 10-årigt spænd (bp) 75      75 Stat 8 pct. 2006   111,60/6,24 pct.  111,30/6,29 pct. </p>
+<p> --------------------------------------------------------- </p>
+<p>     KØBENHAVN, 16 maj (Reuter) - Kursstigninger på det </p>
+<p> amerikanske obligationsmarked torsdag efter dansk </p>
+<p> markedslukning, smitter fredag morgen positivt af på det </p>
+<p> danske marked, hvor kurserne stiger. </p>
+<p>     - Tonen er god og det lader ikke til, at FOMC-mødet </p>
+<p> lægger en dæmper på den gode tone, siger en handler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-16"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-16"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-16"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-16"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-16"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-16"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-16"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-01" id="root" itemid="82120" xml:lang="da">
+<title></title>
+<headline> Presserunde - Finans/Økonomi tirsdag 1 april. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Reuters står ikke inde for avisartiklernes nøjagtighed: 4) Formanden for Finansrådet, Thorleif Krarup, Unibank, frygter, at overenskomsterne på det danske arbejdsmarked i denne omgang har været en tand for høje, og dermed skader den danske konkurrenceevne. &quot;Danmarks betalingsbalance over for udlandet kan blive forringet, og så risikerer vi på længere sigt et pres på og en stramning af finanspolitikken,&quot; siger Thorleif Krarup. Arbejderbevægelsens Erhvervsråd mener derimod ikke, at lønstigningerne denne gang har været for høje. (Fri Akt. s. 6) </p>
+<p> 5) DA har valgt ikke at modsætte sig, at forligsmand Asbjørn Jensen bryder traditionen og fremsætter to mæglingsforslag. De to forslag skal dermed til afstemning hver for sig og dækker dels de tre-årige forlig (HK-aftalerne, el-overenskomsten plus nogle mindre grupper), dels de et-årige forlig (i byggeriet, transport-, nærings-og nydelsesmiddelindustrien m.fl.) plus de få områder, hvor parterne ikke har kunnet blive enige. (Fri Akt. s. 6) </p>
+<p> 6) Når regeringens grønne afgifter slår fuldt igennem, går det hårdest ud over landboerne, viser en ny undersøgelse. Husholdningerne i landkommunerne vil således blive belastet 20 pct. hårdere end i bykommunerne. Indenrigsminister Birte Weiss (S) mener ikke, at undersøgelsen er overraskende, da folk på landet bl.a. har længere på arbejde og derfor belaster miljøet mere. (Berl. Tid. s. 1) </p>
+<p> 7) Professor Erik Werlauff og kapitalmarkedseksperten Per Vestergaard Andersen retter nu en ualmindelig hård kritik mod de børsprospekter som landets banker og børsmæglere tilbyder deres kunder. De to førende børseksperter kalder prospekterne både misvisende, uigennemskuelige og urealistiske. Samtidig kritiserer de Københavns Fondsbørs for ikke at gribe ind overfor de mangelfulde børsprospekter. (Børsen s. 1, 8 og 9) </p>
+<p> 8) I løbet af de seneste to år er der blevet noteret 297 nye selskaber med en markedsværdi på 81 milliarder kr. på syv nye europæiske vækstbørser. Men udviklingen er gået i en anden retning end forventet. Den tvær-europæiske vækstbørs Easdaq er kommet langsomt fra start, mens London-børsens vækst-børs, AIM, idag er den dominerende i Europa med 265 selskaber og en markedsværdi på 60 mia. kr. (Børsen s. 1 og 22). </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="I814">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="I81402">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="I81501">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="I8150103">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="I81502">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="I831">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="IBNK">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="IINV">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="C17">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="C171">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="C172">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="C18">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="C181">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="CCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="E11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="E1125">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-01"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

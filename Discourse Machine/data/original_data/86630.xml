@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-08-13" id="root" itemid="86630" xml:lang="da">
+<title></title>
+<headline> Resultat af Daniscos 1 sukkerroe-test. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 13 august (Reuter) - Nedenfor følger </p>
+<p> resultatet af Daniscos første prøveoptagning af sukkerroer </p>
+<p> i Danmark, Sverige og Tyskland, som er foretaget den 11. </p>
+<p> august. </p>
+<p>     I parantes angives gennemsnittet for de sidste fem år. </p>
+<p>   tons roer/ha   sukkerpct.    tons sukker/ha </p>
+<p> Danmark     37,1 (30,4)    15,1 (15,6)   5,60 (4,74) </p>
+<p> Sverige     29,0 (27,5)    15,5 (16,0)   4,48 (4,38) </p>
+<p> Tyskland    36,5 (29,2)    13,6 (14,9)   4,96 (4,36). </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-13"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-13"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-13"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-13"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="DDDFS">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-13"></editdetail></code>
+<code code="I0">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-13"></editdetail></code>
+<code code="I01001">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-13"></editdetail></code>
+<code code="I0100136">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-13"></editdetail></code>
+<code code="I41">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-13"></editdetail></code>
+<code code="C21">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-13"></editdetail></code>
+<code code="CCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-13"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-08-13"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

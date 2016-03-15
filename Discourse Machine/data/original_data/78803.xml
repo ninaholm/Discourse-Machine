@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-01-07" id="root" itemid="78803" xml:lang="da">
+<title></title>
+<headline> STIGENDE KFX-AKTIER ER OPPE PÅ INDEKS 138,46. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>    KØBENHAVN, 7 januar (Reuter) - Det danske aktiemarked </p>
+<p> tirsdag kl. 14.16:     +/-     * KFX-indekset................ 138,46  0,80     * Januar future på KFX........ 138,30  0,40 </p>
+<p>     * A. P. Møller-aktierne D/S Svendborg og D/S 1912 er </p>
+<p> steget hhv. 5.000 kr. og 3.000 kr. til kurs 235.000 og </p>
+<p> 163.000. </p>
+<p>     * ISS er faldet to kr. til kurs 152 under en omsæting </p>
+<p> inklusive indberettede handler på 225.000 stk. </p>
+<p>     KFX-aktier: Kurs Tirsdag kl. 14.16     +/- Novo-Nordisk .........   546  +2. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-07"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-07"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-07"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-07"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-07"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-07"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-01-07"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-08" id="root" itemid="82408" xml:lang="da">
+<title></title>
+<headline> Faldende antal tvangsauktioner i marts - DS. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 8 april (Reuter) - Antallet af kundgjorte </p>
+<p> tvangsauktioner i marts 1997 er opgjort til 254, oplyser </p>
+<p> Danmarks Statistik tirsdag. </p>
+<p>     Sammenlignet med marts sidste år er det faktiske antal </p>
+<p> af tvangsauktioner faldet 40 pct. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-08"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-08"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-08"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-08"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="C16">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-08"></editdetail></code>
+<code code="CCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-08"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-08"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

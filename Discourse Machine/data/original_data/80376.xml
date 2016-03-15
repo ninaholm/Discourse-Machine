@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-19" id="root" itemid="80376" xml:lang="da">
+<title></title>
+<headline> Presserunde onsdag den 19 februar. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Reuters står ikke inde for avisartiklernes nøjagtighed 1) Norske Rieber vil, når slaget om Phønix er afsluttet, gå i gang med at forberede nye opkøb på det danske marked. Fokus vil være på fødevare-og emballegevirksomheder. (JP Erhvervsmagasin side 2) </p>
+<p> 2) De statsansatte afviser, at det statslige område er tæt på at indgå en tre-årig overenskomst. (Det Fri Aktuelt s. 6) </p>
+<p> 3) SAS&apos;s samarbejdspartner Lufthansa bekræfter i sit personaleblad, at verdens største fly-alliance blive præsenteret om tre måneder. (Børsen side 8). </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-19"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-19"></editdetail></code>
+<code code="NORW">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-19"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-19"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-19"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="I501">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-19"></editdetail></code>
+<code code="I502">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-19"></editdetail></code>
+<code code="I75">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-19"></editdetail></code>
+<code code="ICRE">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-19"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-19"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-19"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-19"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-19"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

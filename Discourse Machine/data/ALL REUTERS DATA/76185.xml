@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-09-06" id="root" itemid="76185" xml:lang="da">
+<title></title>
+<headline> Danmarks Nationalbank - effektiv kronekurs. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     Danmarks Nationalbank  ***  effektiv kronekurs  *** </p>
+<p> ---------------+---------------+---------------+--------------- </p>
+<p> 12/08-96 103,19 19/08-96 102,81 26/08-96 103,08 02/09-96 103,01 </p>
+<p> 13/08-96 103,06 20/08-96 102,81 27/08-96 103,13 03/09-96 102,98 </p>
+<p> 14/08-96 102,94 21/08-96 103,00 28/08-96 103,10 04/09-96 103,01 </p>
+<p> 15/08-96 102,81 22/08-96 102,78 29/08-96 103,10 05/09-96 103,15 </p>
+<p> 16/08-96 102,66 23/08-96 102,86 30/08-96 103,00 06/09-96 103,05. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-06"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-06"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-06"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-06"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-06"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-06"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-06"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-09-06"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

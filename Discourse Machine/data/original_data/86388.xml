@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-08-08" id="root" itemid="86388" xml:lang="da">
+<title></title>
+<headline> Reuters Finans - seneste meningsmålinger. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>  Indsamlet dato  S   RV    K   CD   SF  KRF   V   FRP  EL  DF </p>
+<p> Greens 4-6/8    27,7 4,7  13,8 2,2  7,5 1,5  29,3 4,4  4,5 3,3 </p>
+<p> Vilstrup 15/7   31,3 5,6  12,6 1,9  8.7 1,1  27,9 2,8  3,6 3,6 </p>
+<p> Gallup 20-26/6  33,0 4,3  12,8 2,9  8,0 --   28,0 2,2  3,0 3,6 </p>
+<p> GfK/BT 21/6     30,5 4,3  10,9 4,4  6,8 1,8  29,1 2,7  3,5 5,3 </p>
+<p> Sonar 16/6 29,0 4,4  11,7 4,0  9,9 1,4  30,2 1,8  2,8 4,3 </p>
+<p> --------------------------------------------------------------- </p>
+<p> Valg 21/9 1994  34,6 4,6  15,0 2,8   7,3 1,9  23,3 6,4 3,1  -. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-08-08"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

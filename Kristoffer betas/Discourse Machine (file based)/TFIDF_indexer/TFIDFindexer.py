@@ -9,7 +9,7 @@ def index(self):
 	print ">>INDEX: TF-IDF indexing started."
 	index = {}
 	articlecounts = {}
-	inputpath = os.getcwd() + "/XML_parser/output"
+	inputpath = os.getcwd() + "/data/lemmatiser_output"
 
 	doccount = 0
 	totalwordcount = 0
@@ -52,15 +52,8 @@ def index(self):
 	print ">>INDEX: %s unique words indexed." % len(index)
 	print ">>INDEX: Document average length is %s." % (totalwordcount / doccount)
 
-	indexpickle = pickle.dumps(index)
-	countdb = open(os.path.dirname(os.path.abspath(__file__)) + '/inverted_index.in', 'wb')
-	countdb.write(indexpickle)
-	countdb.close()
-
-	articlepickle = pickle.dumps(articlecounts)
-	articledb = open(os.path.dirname(os.path.abspath(__file__)) + '/articlecounts.in', 'wb')
-	articledb.write(articlepickle)
-	articledb.close()
+	returndicts = [index, articlecounts]
 
 	print ">>INDEX: TF-IDF indexing completed in %s seconds." % round((time.time() - starttime), 3)
 
+	return returndicts

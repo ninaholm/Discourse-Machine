@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-07-03" id="root" itemid="85380" xml:lang="da">
+<title></title>
+<headline> Aktier siver lidt efter tre dage med stigninger. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 3 juli (Reuter) - Det danske aktiemarked </p>
+<p> torsdag kl. 12.00:       +/- </p>
+<p>     * KFX-indekset............. 175,25    - 0,33 </p>
+<p>     * Juli future på KFX....... 176,50    + 0,50 </p>
+<p>     * Omsætning i KFX-papirer.. 95 mio. kr. </p>
+<p>     * Aktier falder en anelse efter tre dages stigende </p>
+<p> marked. KFX-indeks ligger til minus på 0,2 pct. </p>
+<p>     * Den Danske Bank holder nyt rekordniveau. Er under </p>
+<p> lille omsætning steget en kr. til kurs 681. </p>
+<p>     * NeuroSearch falder 17 kr. til kurs 403. Der er </p>
+<p> handlet godt 30.000 aktier. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="I25">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code>
+<code code="I257">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code>
+<code code="I258">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code>
+<code code="I814">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code>
+<code code="I81402">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code>
+<code code="I81501">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code>
+<code code="I8150103">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code>
+<code code="IBNK">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code>
+<code code="ICNP">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code>
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-03"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-07-03"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

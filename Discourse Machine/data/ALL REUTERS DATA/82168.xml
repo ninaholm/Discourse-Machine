@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-01" id="root" itemid="82168" xml:lang="da">
+<title></title>
+<headline> Dansk aktiemarked fik færre tæv end ventet. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 1 april (Reuter) - Det danske aktiemarked fik langt fra alle de tæv, som de fleste forudså tirsdag morgen. Og det behøver heller ikke at ende med den store nedtur de kommende dage, vurderer en aktiehandler. </p>
+<p> - Det er klart, at det skulle have tæv, fordi vi har haft lukket to handelsdage, hvor der har været gang i den i USA, hvor Dow Jones-indekset er faldet over 300 point. Når det er sagt, så synes jeg, at Danmark har klaret sig pænt i dag, siger dealeren, der forudser et marked på det nuværende nivau de kommende dage. </p>
+<p> KFX-indekset faldt 1,22 pct. til 152,70 tirsdag. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-01"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-01"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

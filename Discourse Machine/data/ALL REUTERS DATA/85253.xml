@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-30" id="root" itemid="85253" xml:lang="da">
+<title></title>
+<headline> Svag fremgang i byerhvervenes omsætning - DS. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 30 juni (Reuter) - Korrigeret for sæsonbevægelser er byerhvervenes omsætning for første kvartal 1997 realt steget en kvart pct. i forhold til fjerde kvartal 1996, når der tages hensyn til en skønnet stigning i priserne på en kvart pct. Det oplyser Danmarks Statistik mandag. </p>
+<p> Årsagen til stigningen er en vækst i eksporten på realt trekvart pct., idet eksportpriserne skønnes at stige med 1,5 pct. For den indenlandske omsætning, er der derimod tale om nulvækst. De indenlandske priser skønnes at være uforandrede, fremgår det. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-30"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-30"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-30"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-30"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-30"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-30"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

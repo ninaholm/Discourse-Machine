@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-27" id="root" itemid="80818" xml:lang="da">
+<title></title>
+<headline> Superfos vil ændre aktiestykstørrelse til 20 kr. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 27 februar (Reuter) - Superfos forslår i forbindelse med offentliggørelsen af årsregnskabsmeddelelsen for 1996, at aktierne splittes op fra 100 kr. til fem 20 kroners aktier. </p>
+<p> - Bestyrelsen indstiller til generalforsamlingen...at der genemføres en opdeling af hver aktie a 100 kr. i fem aktier a 20 kr. som herefter bliver den nominelle stykstørrelse, skriver ledelsen. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-27"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-27"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-27"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-27"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="SUPRFS">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-27"></editdetail></code>
+<code code="I41">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-27"></editdetail></code>
+<code code="C17">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-27"></editdetail></code>
+<code code="C171">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-27"></editdetail></code>
+<code code="CCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-27"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-27"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

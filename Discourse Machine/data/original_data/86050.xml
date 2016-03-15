@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-07-28" id="root" itemid="86050" xml:lang="da">
+<title></title>
+<headline> Nøgletal - obligationer og valuta 28 juli. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     Mandag   kl. 07:04   Seneste    Forrige     +/- </p>
+<p>     ---------------------------------------------------- </p>
+<p>     7 pct dansk stat 2007....  107,04    107,18  -  0,14 </p>
+<p>     6 pct Nykredit 2026......   92,20     93,05  -  0,85 </p>
+<p>     KF rentegennemsnit total.    6,12 6,09  +  0,03 </p>
+<p>     Tysk Bund (sep)..........  103,00    103,04  -  0,04 </p>
+<p>     Fransk Matif (sep).......  130,56    130,68  -  0,12 </p>
+<p>     30-yr T-bond, New York...  102-07    102-14  -  7/32 </p>
+<p>     DEM/DKK..................  380,59    380,68  -  0,21 </p>
+<p>     USD/DEM..................  184,36    183,45  +  0,91 </p>
+<p>     -----------------------------------------------------. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-28"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-28"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-28"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-28"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-28"></editdetail></code>
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-28"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-28"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-28"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-07-28"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-16" id="root" itemid="84782" xml:lang="da">
+<title></title>
+<headline> Københavns Fondsbørs totalindeks 13 juni. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     Basis 1/1-1983 = 100  13/6 12/6    +/- </p>
+<p>     ----------------------------------------------------- </p>
+<p>     Total..................   588,28    587,71    +  1,57 </p>
+<p>     Pengeinstitutter.......   367,33    368,46    -  1,13 </p>
+<p>     Forsikring.............   745,70    741,49    +  4,21 </p>
+<p>     Handel og service......   814,43    809,15    +  5,28 </p>
+<p>     Rederier...............  1462,93   1462,02    +  0,91 </p>
+<p>     Industri...............   519,52    517,44    +  2,08 </p>
+<p>     Investeringsselskaber..   282,67    282,31    +  0,36 </p>
+<p>     -----------------------------------------------------. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-16"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-16"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-16"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-16"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-16"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-16"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-16"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

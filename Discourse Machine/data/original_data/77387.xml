@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-11-07" id="root" itemid="77387" xml:lang="da">
+<title></title>
+<headline> BUNDESBANK UNDLADER AT ÆNDRE DE TYSKE RENTER. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> FRANKFURT, 7 november (Reuter) - Bundesbank undlod på sit 14-dages rådsmøde i Frankfurt torsdag at ændre på de tyske rente, oplyser Bundesbank efter mødet. </p>
+<p> Den tyske diskonto forblev dermed på 2,50 pct. og Lombard-renten på 4,50 pct. </p>
+<p> Bundesbank oplyer desuden, at den tyske repo-rente fastholdes på 3,00 pct. ved de næste to tildelinger. (/Reuter/uha). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-07"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-07"></editdetail></code>
+<code code="GFR">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-07"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-07"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-07"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-07"></editdetail></code>
+<code code="M131">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-07"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-07"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-11-07"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

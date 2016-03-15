@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-11" id="root" itemid="82570" xml:lang="da">
+<title></title>
+<headline> US-tal trækker danske obligationer lavere. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Papir     kl. 16.02      kl. 8.35 Stat 8 pct. 2006   108,70/6,67 pct.  109,00/6,63 pct. Dansk-tysk 10-årigt spænd (bp) 71      71 </p>
+<p> --------------------------------------------------------- </p>
+<p>     KØBENHAVN, 11 april (Reuter) - Amerikanske tal for </p>
+<p> producentpriser og detailsalget i marts er baggrunden for, </p>
+<p> at det danske obligationsmarked slutter fredagen lavere og </p>
+<p> sandsynligvis kan fortsætte nedad mandag. </p>
+<p>     - Tallene peger i retning af endnu en amerikansk </p>
+<p> rentestigning, og det giver en negativ stemning i det </p>
+<p> amerikanske marked, siger en obligationshandler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-11"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-11"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-11"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-11"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-11"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-11"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-11"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

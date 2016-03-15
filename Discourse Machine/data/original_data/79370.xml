@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-01-24" id="root" itemid="79370" xml:lang="da">
+<title></title>
+<headline> BLØD START VENTES PÅ OBLIGATIONSMARKED. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Papir      kl.  8.55   kl. 15.55 Stat 8 pct. 2006  110,71/6,41 pct.   111,03/6,3 pct. Dansk-tysk 10-årigt spænd (bp)   66     64 </p>
+<p> --------------------------------------------------------- </p>
+<p>     KØBENHAVN, 24 januar (Reuter) - Der er lagt op til en </p>
+<p> blød start på det danske obligationsmarked fredag som </p>
+<p> følge af et lavere tysk obligationsmarked, vurderer en </p>
+<p> obligationshandler. </p>
+<p>     - Markedet er generelt lidt skuffet over de tyske M3 </p>
+<p> tal, og der sker nok ikke noget på det tyske rentemarked </p>
+<p> før næste Buba møde den 6. februar, siger handleren. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-24"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-24"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-24"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-24"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-24"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-24"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-01-24"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

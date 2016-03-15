@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-30" id="root" itemid="83205" xml:lang="da">
+<title></title>
+<headline> Aktier ventes at holde niveau i roligt marked. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 30 april (Reuter) - De danske aktier bliver liggende på niveau torsdag, efter at KFX-indekset onsdag faldt med 1,32 point til 154,77, vurderer en handler. </p>
+<p> Han venter en ringe omsætning, fordi markederne i de fleste europæiske lande er lukket 1. maj. </p>
+<p> - Jeg tror ikke, der vil ske det helt store i morgen, siger handleren, som også bemærker, at det amerikanske Dow Jones-indeks kun har reageret svagt på onsdagens BNP-tal fra USA. Ved. 16.10-tiden, godt en halv time efter at det amerikanske marked åbnede, var Dow Jones-indekset faldet med beskedne 14,45 point til 6948,19. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-30"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-30"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-30"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-30"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-30"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-30"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-30"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

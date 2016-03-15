@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-11-22" id="root" itemid="77785" xml:lang="da">
+<title></title>
+<headline> REUTERS FINANS - ESTIMATER PÅ KOMMENDE NØGLETAL. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>  DATO  NØGLETAL     SNIT  LAV/HØJ   FORRIGE </p>
+<p>  25/11 Engrospriser oktober </p>
+<p>   Måned/måned      +0,2 pct  -0,2/+0,5  0,0   År/år       +1,3 pct  +0,8/+1,7 +1,0 </p>
+<p>     Tallene bygger på estimater fra BG Bank, Nykredit Bank </p>
+<p> og Unibank. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-22"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-22"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-22"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-22"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-22"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-22"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-11-22"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

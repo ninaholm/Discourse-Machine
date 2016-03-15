@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-07-25" id="root" itemid="86041" xml:lang="da">
+<title></title>
+<headline> Konsolidering på dansk aktiemarked fortsætter. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 25 juli (Reuter) - De seneste dages konsolideringen på aktiemarkedet med sivende aktiekurser til følge, ser ud til at forsætte ind i næste uge, vurderer en handler på ugens sidste handelsdag. </p>
+<p> - Markedet faldt tilbage under meget tynd omsætning og det var næsten ikke til at opdrive en køber. Udsigten for næste uge lyder nok på et marked omkring niveauet - måske lidt sivende - uden den helt store aktivitet, siger handleren. </p>
+<p> KFX-indekset lukkede 1,30 point lavere i 189,29, mens august futuren på indekset faldt 1,05 point til 190,40. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-25"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-25"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-25"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-25"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-25"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-25"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-07-25"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-01" id="root" itemid="83261" xml:lang="da">
+<title></title>
+<headline> Dansk aktiemarked prøver igen - ses stige på USA. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 1 maj (Reuter) - Det danske aktiemarked forsøger igen. Efter en stigning i det amerikanske Dow Jones indeks på 0,7 pct. til 7008,99 onsdag ventes KFX-indekset torsdag at kunne stige. KFX-indekset faldt overraskende med 0,9 pct. til 154,77 onsdag, efter en stigning i Dow Jones indekset på 2,6 pct. tirsdag. Faldet skyldtes primært en umiddelbar negativt reaktion på højere end ventede BNP-tal fra USA. En reaktion der også blev set på det amerikanske marked. </p>
+<p> - Der vendte stemningen dog hurtigt til det bedre. Men herhjemme er der ikke mange købere, siger en handler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-01"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-01"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-01"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-01"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-01"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-01"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-01"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

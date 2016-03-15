@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-30" id="root" itemid="77164" xml:lang="da">
+<title></title>
+<headline> Presserunde onsdag den 30 oktober. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Reuters står ikke inde for avisartiklernes nøjagtighed 1) Regeringen kan blive svækket af striden mellem Niels Helveg Pedersen og Poul Nyrup Rasmussen om Helvegs bog, der bl.a. beskriver en ny side af formandsopgøret i Socialdemokratiet. (JP side 1, 4 og 5, Berl. Tidn. side 1 og 6, Politiken side 1 og 2) </p>
+<p> 2) En politisk realistisk og acceptabel dansk løsning af Gentofte Kommunes ønske om salg af NESA-aktierne, er at kun halvdelen sælges. Denne løsning kan koste Gentoftes borgere mindst 2,3 mia. kr., vurderes det. (Børsen side 1 og 2). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-30"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

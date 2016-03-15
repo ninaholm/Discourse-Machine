@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-06" id="root" itemid="83403" xml:lang="da">
+<title></title>
+<headline> Nationalbankens valutakurser den 6 maj. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 6 maj (Reuter) - Nationalbanken har </p>
+<p> fastsat følgende middelkurser i dag: </p>
+<p> USD -  658,25  NLG -  338,78  JPY -    5,2350 GBP - 1066,83  ITL -    0,3849     IEP -  988,36 DEM -  381,06  FIM -  126,39  GRD -    2,398 SEK -   83,47  ISK -    9,21  XEU -  742,70 NOK -   92,19  ATS -   54,146 AUD -  512,71 FRF -  112,92  ESP -    4,514 NZD -  451,49 BEF -   18,466 PTE -    3,791 SDR -  899,27 CHF -  447,88  CAD -  478,17 </p>
+<p>     I det følgende angives tal fra de seneste to hverdage. </p>
+<p>     Middelkurser 5. maj: </p>
+<p> USD -  657,70  NLG -  338,57  JPY -    5,1996 GBP - 1065,34  ITL -    0,3846     IEP -  983,59 DEM -  380,86  FIM -  126,34  GRD -    2,397 SEK -   83,34  ISK -    9,20  XEU -  743,07 NOK -   92,21  ATS -   54,109 AUD -  513,27 FRF -  112,89  ESP -    4,517 NZD -  453,09 BEF -   18,457 PTE -    3,795 SDR -  897,72 CHF -  447,35  CAD -  476,39 </p>
+<p>     Middelkurser 2. maj: </p>
+<p> USD -  655,70  NLG -  338,34  JPY -    5,1793 GBP - 1054,43  ITL -    0,3844     IEP -  984,53 DEM -  380,62  FIM -  126,24  GRD -    2,388 SEK -   83,88  ISK -    9,21  XEU -  741,73 NOK -   92,40  ATS -   54,083 AUD -  512,76 FRF -  112,89  ESP -    4,511 NZD -  452,24 BEF -   18,446 PTE -    3,792 SDR -  894,74 CHF -  446,57  CAD -  473,50. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-06"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-06"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-06"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-06"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-06"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-06"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-06"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-06"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

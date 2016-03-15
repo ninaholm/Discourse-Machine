@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-07-25" id="root" itemid="86024" xml:lang="da">
+<title></title>
+<headline> Nationalbankens valutakurser den 25. juli. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 25 juli (Reuter) - Nationalbanken har </p>
+<p> fastsat følgende middelkurser i dag: </p>
+<p> USD -  698,35  NLG -  337,97  JPY -    6,0083 GBP - 1163,59  ITL -    0,3912     IEP - 1020,50 DEM -  380,76  FIM -  128,64  GRD -    2,437 SEK -   88,22  ISK -    9,73  XEU -  753,80 NOK -   92,19  ATS -   54,119 AUD -  517,13 FRF -  112,93  ESP -    4,517 NZD -  457,00 BEF -   18,438 PTE -    3,769 SDR -  953,68 CHF -  462,36  CAD -  505,79 </p>
+<p>     I det følgende angives tal fra de seneste to hverdage. </p>
+<p>     Middelkurser 24. juli: </p>
+<p> USD -  695,80  NLG -  338,03  JPY -    6,0035 GBP - 1164,00  ITL -    0,3914     IEP - 1028,95 DEM -  380,70  FIM -  129,34  GRD -    2,436 SEK -   88,75  ISK -    9,73  XEU -  753,97 NOK -   92,58  ATS -   54,106 AUD -  510,93 FRF -  112,92  ESP -    4,519 NZD -  455,12 BEF -   18,436 PTE -    3,770 SDR -  952,06 CHF -  468,96  CAD -  504,02 </p>
+<p>     Middelkurser 23. juli: </p>
+<p> USD -  696,45  NLG -  338,07  JPY -    6,0372 GBP - 1172,13  ITL -    0,3919     IEP - 1027,82 DEM -  380,68  FIM -  129,26  GRD -    2,439 SEK -   88,84  ISK -    9,68  XEU -  754,46 NOK -   92,58  ATS -   54,102 AUD -  512,80 FRF -  112,94  ESP -    4,523 NZD -  454,99 BEF -   18,439 PTE -    3,773 SDR -  954,22 CHF -  468,36  CAD -  505,55. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-25"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-25"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-25"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-25"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-25"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-25"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-25"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-07-25"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

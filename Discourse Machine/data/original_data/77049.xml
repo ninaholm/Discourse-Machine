@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-23" id="root" itemid="77049" xml:lang="da">
+<title></title>
+<headline> Presserunde onsdag 23 oktober. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Reuters står ikke inde for avisartiklernes nøjagtighed 1) LO kræver nu kontant indflydelse på næste års finanslov. LO kræver bl.a. 200 mio. kr. til efteruddannelse for de kortuddannede. (Information s. 1) </p>
+<p> 2) Mærsk har bebudet en reaktion, efter at SAS til nytår åbner ny udenrigsrute fra Billund. (Ber Erh. s. 4) </p>
+<p> 3) SAS har bvenyttet uorginale reservedele i syv af sine fly, og SAS kan ikke sige om sikkerheden om bord er blevet svækket. Leverandør er sortlistet. (Ber. Erh. s. 5 og Politiken s. 15). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="FALPRO">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code>
+<code code="I75">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code>
+<code code="I951">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-23"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

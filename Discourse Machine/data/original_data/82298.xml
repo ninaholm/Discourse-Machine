@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-04" id="root" itemid="82298" xml:lang="da">
+<title></title>
+<headline> Aktiemarked forventes afventende og fladt fredag. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 4 april (Reuter) - Der er lagt op til en stille dag på det danske aktiemarked, da de i spænding ventede amerikanske jobtal for marts først bliver fremlagt, når det danske aktiemarked lukker. </p>
+<p> - Det bliver en meget stille dag uden de store bevægelser i priserne. Markedet er meget tyndt, siger en aktiehandler, der forventer, at KFX holder niveauet. </p>
+<p> I USA faldt Dow Jones Industrial-indekset torsdag knap 40 point til 6.477. Ifølge den danske handler var det primært et fald i IBM&apos;s aktiekurs, der trak ned, og derfor forventer han ikke den store afsmitning på Danmark. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-04"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-04"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-04"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-04"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-04"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-04"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-04"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

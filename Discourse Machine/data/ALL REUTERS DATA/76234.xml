@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-09-10" id="root" itemid="76234" xml:lang="da">
+<title></title>
+<headline> UDLANDET KØRER FRA SIVENDE DANSKE OBLIGATIONER. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 10 september (Reuter) - De danske obligationer kunne ikke følge med udlandet i løbet af formiddagen, og må se sig distanceret af det tyske obligationsmarked. </p>
+<p> - Vi åbner lidt højere efter USA var gået op, men der er meget lav omsætning i Danmark og lille købsinteresse, så vi kan ikke holde afstanden til Tyskland, der fortsætter op, siger en obligationshandler. </p>
+<p> Statens 8 pct. 2006 handles et halvt dusin ticks lavere end i morges i kurs 104,70/7,27 pct. Dealeren ser en kurs på 104,60-65 sidst på dagen. </p>
+<p> [MORE]. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-10"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-10"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-10"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-10"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-10"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-10"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-09-10"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

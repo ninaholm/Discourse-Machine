@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-10" id="root" itemid="82485" xml:lang="da">
+<title></title>
+<headline> Ledigheden faldt til 8,1 pct i feb - DS. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 10 april (Reuter) - Den sæsonkorrigerede </p>
+<p> ledighed faldt i februar 1997 til 8,1 pct. mod 8,2 </p>
+<p> pct. i januar, oplyser Danmarks Statistik torsdag. </p>
+<p>        feb 1997    jan 1997   feb 1996 Sæsonkorr. ledighed (pct)    8,1    8,2  --- Sæsonkorr. ledighed   226.000     229.700     --- Faktiske tal     244.600     258.500    274.900 </p>
+<p>     Konsensusskøn, indhentet af Reuters Finans, lød inden </p>
+<p> offentliggørelsen på en ledighedsprocent i februar på 8,2 </p>
+<p> pct. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-10"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-10"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-10"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-10"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-10"></editdetail></code>
+<code code="E1116">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-10"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-10"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-10"></editdetail></code>
+<code code="GJOB">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-10"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-10"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-14" id="root" itemid="76835" xml:lang="da">
+<title></title>
+<headline> Nøgletal - obligationer og valuta den 14 oktober. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     Mandag   kl.  07.05  Seneste   Forrige  +/- </p>
+<p>     ----------------------------------------------------- </p>
+<p>     8 pct dansk stat 2006....  108,22    108,55   -  0,33 </p>
+<p>     6 pct Nykredit 2026......   85,55     85,45   +  0,10 </p>
+<p>     KF rentegennemsnit total.    6,69 6,67   +  0,02 </p>
+<p>     Tysk bund (december).....   99,30     99,40   -  0,10 </p>
+<p>     Fransk Matif (december)..  126,20    126,40   -  0,10 </p>
+<p>     30-yr T-bond, New York...   98-25    98-09    + 16/32 </p>
+<p>     DEM/DKK..................  383,36    383,15   +  0,21 </p>
+<p>     USD/DEM..................  152,92    152,80   +  0,12 </p>
+<p>     -----------------------------------------------------. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-14"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-14"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-14"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-14"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-14"></editdetail></code>
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-14"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-14"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-14"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-14"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

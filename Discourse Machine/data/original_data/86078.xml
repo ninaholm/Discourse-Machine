@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-07-29" id="root" itemid="86078" xml:lang="da">
+<title></title>
+<headline> Aktiemarked vil fortsætte korrektion tirsdag. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 29 juli (Reuter) - Efter en kortvarig optur på det danske aktiemarked, hvor KFX-indekset mandag steg 1,31 point til 190,60, lyder udsigten for tirsdag atter på en mindre korrektion i nedadgående retningning. </p>
+<p> - Der var en stor indeksordrer i markedet i går, som trak op i KFX-indekset. Det virkede som om, at han fik alt det han kom efter, og hvis det passer, vil vi opleve en sivende tendens uden den helt store aktivitet i dag. Samtidig vil markedet være afventende indtil offentliggørelsen af det amerikanske Employment Cost Indeks i eftermiddag, vurderer en handler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-29"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-29"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-29"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-29"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-29"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-29"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-07-29"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

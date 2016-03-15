@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-11-19" id="root" itemid="77618" xml:lang="da">
+<title></title>
+<headline> Presserunde tirsdag 19 november. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Reuters står ikke inde for avisartiklernes nøjagtighed 1) Venstrefløjen fik ikke tilstrækkeligt med løfter fra Mogens Lykketoft i går. SF og Enhedslisten vil ikke sikre regeringens liv. (Information s. 1) </p>
+<p> 2) Departementschef i Statsministeriet, Ulrik Federspiel, sidder på lånt tid. Ved en given lejlighed er Nyrup indstillet på at flytte Federspiel - formentlig til en ambassadørpost. (Berl. Tid. s. 1) </p>
+<p> 3) Socialdemokratiet sinker Mimi Jakobsen i at få gennemført en ny konkurrencelov. (Børsen s. 1 og 12). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-19"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-19"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-19"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-19"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-19"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-19"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-19"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-11-19"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

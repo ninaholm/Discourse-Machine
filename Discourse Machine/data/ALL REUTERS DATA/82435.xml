@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-09" id="root" itemid="82435" xml:lang="da">
+<title></title>
+<headline> DAGSKALENDER - Reuters Finans onsdag 9 april. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 9 april (Reuter) - Her følger et udsnit af de begivenheder, der ventes at få indflydelse på de danske finansmarkeder i dag: </p>
+<p> * REGNSKABER: </p>
+<p> A. P. Møller-selskaberne aflægger muligvis regnskab onsdag. Ellers torsdag eller fredag. </p>
+<p> * POLITIK: </p>
+<p> Regeringen afholder seminar på Mogenstrup Kro. Pressemøde kl. 13.00 </p>
+<p> KØBENHAVN: Aktionærforeningen besøger Louis Poulsen, der tirsdag meddelte, at koncernen afvikler de tabsgivende aktiviteter i Berlin. </p>
+<p> * GENERALFORSAMLING: </p>
+<p> Unidanmark, Unikredit, Unibank, Danske Invest og Icopal. </p>
+<p> Reuters Finans: Tlf.: 33 96 96 56. Fax: 33 93 84 57. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-09"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-09"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-09"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-09"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="CCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-09"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-09"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-09"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

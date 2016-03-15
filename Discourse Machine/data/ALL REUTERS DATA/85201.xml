@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-27" id="root" itemid="85201" xml:lang="da">
+<title></title>
+<headline> KFX-aktier stiger 0,2 pct, Jacob Holm 16 pct op. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 27 juni (Reuter) - Det danske aktiemarked </p>
+<p> fredag kl. 11.35:        +/- </p>
+<p>     * KFX-indekset............. 171,58     +0,35 </p>
+<p>     * Juli future på KFX....... 172,00     +0,10 </p>
+<p>     * Omsætning i KFX-papirer.. 82 mio. kr. </p>
+<p>     * KFX stiger svagt under behersket omsætning. </p>
+<p>     * Danisco genvinder lidt terræn med stigning på seks </p>
+<p> kr. til kurs 406. </p>
+<p>     * Jacob Holm stiger 10,50 kr. til kurs 76 efter </p>
+<p> sammenlægning af Danaklon med amerikanske Hercules </p>
+<p>     * Denka stiger 55 kr. til kurs 785 på regnskab. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-27"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-27"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-27"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-27"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-27"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-27"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-27"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-03-20" id="root" itemid="81843" xml:lang="da">
+<title></title>
+<headline> Danske KFX-aktier dratter 2,1 pct efter renteuro. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 20 marts (Reuter) - Det danske aktiemarked </p>
+<p> torsdag kl 12.45:       +/-     * KFX-indekset..................154,73 -3,28     * KFX marts future..............154,35 -3,15 </p>
+<p>     * Omsætning i KFX-aktier........220,10 mio. kr. </p>
+<p>     Kursfald i USA, England og Tyskland, stigende renter </p>
+<p> og en fortsat udvidelse af det dansk-tyske rentespænd får </p>
+<p> skylden for torsdagens markante fald i KFX-indekset. </p>
+<p>     - Der var nærmest tale om panikstemning mellem kl. </p>
+<p> 10.00 og kl. 12.00, men mon ikke vi har fundet en bund nu, </p>
+<p> vurderer en aktiechef torsdag middag. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-20"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-20"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-20"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-20"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-20"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-20"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-03-20"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

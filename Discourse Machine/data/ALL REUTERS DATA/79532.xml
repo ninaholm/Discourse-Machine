@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-01-29" id="root" itemid="79532" xml:lang="da">
+<title></title>
+<headline> KFX-AKTIER STIGER MED STOR FOKUS PÅ SOPHUS B. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 29 januar (Reuter) - Det danske aktiemarked </p>
+<p> onsdag den 29. januar:      +/- </p>
+<p>     * KFX-indekset........................144,79     +0,36 </p>
+<p>     * Februar future på KFX...............144,65     -0,40 </p>
+<p>     * Omsætning i KFX-aktier..............171,55 mio. kr. </p>
+<p>     * Sophus B-aktierne er dagens mest omsatte med næsten </p>
+<p> 100.000 stk. Aktien handles onsdag kl. 13.00 til kurs 839 </p>
+<p> - 21 kr. højere end den startede onsdag morgen. </p>
+<p>     * EAC er faldet tre kr. til kurs 151, og aktien er </p>
+<p> også blandt de mest handlede i dag. Omsætningen er </p>
+<p> inklusive indberetninger på lidt flere end 40.000 aktier. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-29"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-29"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-29"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-29"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-29"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-29"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-01-29"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

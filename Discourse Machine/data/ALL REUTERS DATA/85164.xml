@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-26" id="root" itemid="85164" xml:lang="da">
+<title></title>
+<headline> Nationalbankens valutakurser den 26 juni. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 26 juni (Reuter) - Nationalbanken har </p>
+<p> fastsat følgende middelkurser i dag: </p>
+<p> USD -  657,25  NLG -  338,44  JPY -    5,7775 GBP - 1095,57  ITL -    0,3901     IEP -  996,33 DEM -  380,97  FIM -  127,69  GRD -    2,411 SEK -   85,50  ISK -    9,38  XEU -  746,90 NOK -   90,74  ATS -   54,139 AUD -  493,79 FRF -  112,88  ESP -    4,511 NZD -  451,60 BEF -   18,462 PTE -    3,773 SDR -  916,39 CHF -  456,74  CAD -  470,74 </p>
+<p>     I det følgende angives tal fra de seneste to hverdage. </p>
+<p>     Middelkurser 25. juni: </p>
+<p> USD -  655,60  NLG -  338,37  JPY -    5,7610 GBP - 1090,79  ITL -    0,3897     IEP -  994,87 DEM -  380,87  FIM -  127,09  GRD -    2,415 SEK -   85,18  ISK -    9,36  XEU -  746,47 NOK -   90,50  ATS -   54,124 AUD -  491,96 FRF -  112,84  ESP -    4,510 NZD -  449,94 BEF -   18,457 PTE -    3,775 SDR -  914,40 CHF -  455,97  CAD -  470,81 </p>
+<p>     Middelkurser 24. juni: </p>
+<p> USD -  656,45  NLG -  338,48  JPY -    5,7172 GBP - 1096,53  ITL -    0,3893     IEP -  993,54 DEM -  380,88  FIM -  127,41  GRD -    2,415 SEK -   85,07  ISK -    9,36  XEU -  746,51 NOK -   90,70  ATS -   54,122 AUD -  492,47 FRF -  112,83  ESP -    4,509 NZD -  449,34 BEF -   18,457 PTE -    3,773 SDR -  914,31 CHF -  457,17  CAD -  472,71. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-26"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-26"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-26"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-26"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-26"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-26"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-26"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-26"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>
