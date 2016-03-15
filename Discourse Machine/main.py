@@ -8,8 +8,7 @@ starttime = time.time()
 parsedCorpus = parse(0)
 print
 
-lem = Lemmatiser()
-lem.lemmatise_directory("data/xmlparser_output")
+lemmatise_directory("data/xmlparser_output")
 print
 
 indexes = index(parsedCorpus)
@@ -24,4 +23,4 @@ print "Total time elapsed: %s seconds" % round((time.time() - starttime), 3)
 print
 
 input_term = raw_input("Enter topic term: ")
-lem_input_term = lem.lemmatise_input_term(input_term)
+lem_input_term = lemmatise_input_term(input_term)
