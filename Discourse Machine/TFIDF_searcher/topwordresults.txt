@@ -18,50 +18,6 @@ venstre
 	jacobs
 	justering
 	lederskab
-<<<<<<< HEAD
-flygtning
-	fremskridtsparti
-	side|sid
-	balter
-	sikkerhed
-	behnke
-	kim|kime
-	weis
-	velkommen
-	egen
-	styrelse
-	venstre-leder
-	afpresning
-	leder|lede|led
-	frp-krav
-	bosnier
-	afviser|afvise
-	bistandshjælp
-	børnehave
-	indvandrer
-	venstre
-tivoli
-	tivoli-park
-	thøgers
-	hardy
-	økonomidirektør
-	royal
-	behandling
-	forlystelsespark
-	aktieklasse
-	afkast|afkaste
-	copenhage
-	hlv
-	-3
-	berlin
-	lov|love
-	japansk
-	forbrugsaktie
-	-50
-	espens
-	malawi
-	tivoli
-=======
 	indleder|indlede
 	akt
 	pjece
@@ -143,4 +99,3 @@ tivoli
 	blokpolik
 	løje|lyve
 	gfk-prøvevalg
->>>>>>> fc24e52ca52007f1cfb64cdd456f97a94f588886
