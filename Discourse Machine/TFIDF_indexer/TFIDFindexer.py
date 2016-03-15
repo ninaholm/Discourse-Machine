@@ -1,47 +1,50 @@
 import os
 import glob
 import operator
+import pickle
 import time
 
-def index(parsedCorpus):
+def index(self):
 	starttime = time.time()
 	print ">>INDEX: TF-IDF indexing started."
 	index = {}
 	articlecounts = {}
-	inputpath = os.getcwd() + "/XML_parser/output"
+	inputpath = os.getcwd() + "/data/lemmatiser_output"
 
 	doccount = 0
 	totalwordcount = 0
 
-	for doc in parsedCorpus:
+	for file in glob.glob(os.path.join(inputpath, '*.txt')):
+		doc = open(file, "r")
 		doccount += 1
 		wordcount = 0
+		articleid = os.path.split(file)[1]
 
-		articleid = os.path.split(doc)[1]
+		for line in doc:
+			#print "line: %s" % line
+			line = line.lower().strip()
 
-		line = parsedCorpus[doc].lower().strip().split()
-
-
-		# line = parsedCorpus[doc].split(" ").lower().strip()
-
-
-
-		for word in line:
-			if len(word) < 1:
+			if len(line) < 2:
 				continue
-			wordcount += 1
-			word = word.translate(None, "!@#$,.'")
-			word = word.translate(None, '<[]():^%">?*/_+')
 
-			if hash(word) in index:
-				if articleid in index[hash(word)][1]:
-					index[hash(word)][1][articleid] += 1 
+			line = line.split(" ")
+
+			for word in line:
+				if len(word) < 1:
+					continue
+				wordcount += 1
+				word = word.translate(None, "!@#$,.'")
+				word = word.translate(None, '<[]():^%">?*/_+')
+
+				if hash(word) in index:
+					if articleid in index[hash(word)][1]:
+						index[hash(word)][1][articleid] += 1 
+					else:
+						index[hash(word)][1][articleid] = 1
+			
 				else:
-					index[hash(word)][1][articleid] = 1
-		
-			else:
-				index[hash(word)] = [word, {articleid:1}]
-			#print "articleid: %s" % index[hash(word)]
+					index[hash(word)] = [word, {articleid:1}]
+				#print "articleid: %s" % index[hash(word)]
 		totalwordcount += wordcount
 		articlecounts[articleid] = wordcount
 
