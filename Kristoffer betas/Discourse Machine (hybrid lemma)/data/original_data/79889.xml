@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-06" id="root" itemid="79889" xml:lang="da">
+<title></title>
+<headline> NATIONALBANKENS VALUTAKURSER DEN 6. FEBRUAR. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 6 februar (Reuter) - Nationalbanken har </p>
+<p> fastsat følgende middelkurser i dag: </p>
+<p> USD -  629,45  NLG -  339,44  JPY -    5,0856 GBP - 1032,17  ITL -    0,3881     IEP - 1010,27 DEM -  381,23  FIM -  128,47  GRD -    2,430 SEK -   85,09  ISK -    9,01  XEU -  740,80 NOK -   97,17  ATS -   54,179 AUD -  480,33 FRF -  112,92  ESP -    4,510 NZD -  433,19 BEF -   18,478 PTE -    3,802 SDR -  874,88 CHF -  441,50  CAD -  467,37 </p>
+<p>     I det følgende angives tal fra de seneste to hverdage. </p>
+<p>     Middelkurser 5. februar: </p>
+<p> USD -  627,75  NLG -  339,67  JPY -    5,0987 GBP - 1019,78  ITL -    0,3862     IEP - 1003,77 DEM -  381,52  FIM -  128,03  GRD -    2,419 SEK -   85,25  ISK -    9,00  XEU -  739,05 NOK -   97,43  ATS -   54,210 AUD -  478,22 FRF -  112,86  ESP -    4,503 NZD -  434,53 BEF -   18,493 PTE -    3,792 SDR -  873,03 CHF -  439,66  CAD -  466,45 </p>
+<p>     Middelkurser 4. februar: </p>
+<p> USD -  626,35  NLG -  339,67  JPY -    5,1315 GBP - 1015,31  ITL -    0,3866     IEP - 1001,10 DEM -  381,53  FIM -  128,16  GRD -    2,416 SEK -   85,89  ISK -    9,00  XEU -  738,09 NOK -   97,09  ATS -   54,215 AUD -  477,28 FRF -  112,86  ESP -    4,495 NZD -  430,80 BEF -   18,492 PTE -    3,796 SDR -  872,63 CHF -  441,25  CAD -  466,21. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-06"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-06"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-06"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-06"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-06"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-06"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-06"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-06"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

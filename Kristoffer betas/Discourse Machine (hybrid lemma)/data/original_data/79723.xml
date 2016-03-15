@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-03" id="root" itemid="79723" xml:lang="da">
+<title></title>
+<headline> DANSK AKTIEMARKED TRÆKKES OP AF APM-PAPIRER. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 3 februar (Reuter) - Det danske aktiemarked mandag kl. 13.05 </p>
+<p> * KFX-indekset.....................148,96 +1,08 </p>
+<p> * Marts future på KFX..............148,30 +1,30 </p>
+<p> * Omsætning i KFX-aktier...........138,47 mio. kr. </p>
+<p> * A. P. Møller papirer stiger markant - står for hovedparten af KFX-stigning. DS Svendborg A steget 9000 kr. til kurs 264.000. En aktiehandler forklarer stigningen med &quot;indeksordrer, specielt fra udlandet&quot;. </p>
+<p> * Banker igen kraftig efterspurgt. Unidanmark stiger 5 kr. til kurs 345. Den Danske Bank stiger 3 kr. til 520. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-03"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-03"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

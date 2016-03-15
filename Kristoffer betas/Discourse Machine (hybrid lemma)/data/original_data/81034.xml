@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-03-04" id="root" itemid="81034" xml:lang="da">
+<title></title>
+<headline> Københavns Fondsbørs totalindeks 4 marts. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     Basis 1/1-1983 = 100  4/2 3/2   +/- </p>
+<p>     ----------------------------------------------------- </p>
+<p>     Total..................   538,73    533,91    +  4,82 </p>
+<p>     Pengeinstitutter.......   338,02    336,19    +  1,83 </p>
+<p>     Forsikring.............   760,58    756,21    +  4,37 </p>
+<p>     Handel og service......   760,72    750,52    + 10,20 </p>
+<p>     Rederier...............  1150,23   1147,72    +  2,51 </p>
+<p>     Industri...............   498,33    492,23    +  6,10 </p>
+<p>     Investeringsselskaber..   273,44    275,31    + -1,87 </p>
+<p>     ------------------------------------------------------. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-04"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-04"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-04"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-04"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-04"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-04"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-03-04"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

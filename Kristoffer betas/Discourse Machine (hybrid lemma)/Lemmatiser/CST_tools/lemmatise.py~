@@ -1,0 +1,54 @@
+#apt-get install python-pip
+
+#pip install subprocess
+
+import subprocess
+
+import os
+
+
+all_files = os.listdir("data")
+
+for input_file in all_files:
+
+	#Set files and calls
+	input_file = "data/" + input_file
+
+	rtf_call = "rtfreader -T -i " + input_file
+
+	lem_call = "./cstlemma/src/cstlemma -L -f flexrules -i " + input_file + ".segments"
+
+
+	#Tokenize and lemmatize
+
+	subprocess.call(rtf_call, shell=True)
+
+	lem_dict = subprocess.check_output(lem_call, shell=True)
+
+
+
+	#Remove .segments file to save space
+
+	os.remove(input_file + ".segments")
+
+
+
+	#Save the lemmatized result in its own file
+	output_file = "output/" + input_file + ".lem"
+
+	file_fin = open(output_file, "w")
+
+	line = lem_dict.split("\n")
+
+	for l in line:
+
+		words = l.split("\t")
+
+		if len(words) > 1:
+
+			file_fin.write(words[1] + " ")
+
+
+
+file_fin.close()
+

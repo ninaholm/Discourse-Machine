@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-01-28" id="root" itemid="79497" xml:lang="da">
+<title></title>
+<headline> DANSKE KFX-AKTIER STIGER OMKRING 0,5 INDEKSPOINT. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 28 januar (Reuter) - Det danske aktiemarked </p>
+<p> tirsdag den 28. januar:     +/-     * KFX-indekset......................144,52  +0,45     * Februar future på KFX.............143,90   0,0 </p>
+<p>     * Omsætning i KFX-aktier............107,61 mio. kr. </p>
+<p>     * Tele Danmark er både en af de mest stigende og en af </p>
+<p> de mest omsatte aktier lidt efter tirsdag middag. Kursen </p>
+<p> er fem kr. stærkere i 353, og der er handlet næsten 50.000 </p>
+<p> aktier. </p>
+<p>     Et konsortium med Tele Danmark og DSC Communications </p>
+<p> fik tidligere i dag en kabelordre på 100 mio. kr. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-28"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-28"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-28"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-28"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-28"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-28"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-01-28"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

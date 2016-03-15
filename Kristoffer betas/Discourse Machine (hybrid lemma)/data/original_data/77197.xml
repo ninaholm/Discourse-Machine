@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-30" id="root" itemid="77197" xml:lang="da">
+<title></title>
+<headline> NATIONALBANKENS VALUTAKURSER DEN 30. OKTOBER. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 30 oktober (Reuter) - Nationalbanken har </p>
+<p> fastsat følgende middelkurser i dag: </p>
+<p> USD -  580,60  NLG -  342,60  JPY -    5,0752 GBP -  941,38  ITL -    0,3817     IEP -  947,95 DEM -  384,33  FIM -  128,24  GRD -    2,445 SEK -   88,48  ISK -    8,73  XEU -  735,91 NOK -   90,81  ATS -   54,619 AUD -  459,25 FRF -  113,55  ESP -    4,556 NZD -  409,21 BEF -   18,655 PTE -    3,798 SDR -  838,52 CHF -  462,52  CAD -  431,99 </p>
+<p>     I det følgende angives tal fra de seneste to hverdage. </p>
+<p>     Middelkurser 29. oktober: </p>
+<p> USD -  580,55  NLG -  342,41  JPY -    5,1078 GBP -  932,94  ITL -    0,3823     IEP -  940,72 DEM -  384,09  FIM -  128,11  GRD -    2,442 SEK -   88,47  ISK -    8,76  XEU -  735,96 NOK -   90,72  ATS -   54,589 AUD -  458,63 FRF -  113,63  ESP -    4,552 NZD -  409,58 BEF -   18,644 PTE -    3,797 SDR -  838,45 CHF -  463,22  CAD -  431,57 </p>
+<p>     Middelkurser 28. oktober: </p>
+<p> USD -  584,10  NLG -  341,88  JPY -    5,1192 GBP -  942,04  ITL -    0,3836     IEP -  947,41 DEM -  383,44  FIM -  127,94  GRD -    2,447 SEK -   88,71  ISK -    8,74  XEU -  735,91 NOK -   90,79  ATS -   54,502 AUD -  463,07 FRF -  113,53  ESP -    4,555 NZD -  412,96 BEF -   18,617 PTE -    3,802 SDR -  841,42 CHF -  462,14  CAD -  434,50. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-30"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-30"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

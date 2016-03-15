@@ -1,0 +1,32 @@
+import subprocess
+import os
+import glob
+
+all_files = glob.glob("data/*.txt")
+
+for input_file in all_files:
+	print file
+	#Set files and calls
+	rtf_call = "CST_tools/rtfreader -T -i " + input_file
+	lem_call = "./CST_tools/cstlemma -L -f CST_tools/flexrules -i " + input_file + ".segments"
+
+	#Tokenize and lemmatize
+	subprocess.call(rtf_call, shell=True)
+	lem_dict = subprocess.check_output(lem_call, shell=True)
+
+	#Remove .segments file to save space
+	os.remove(input_file + ".segments")
+
+	output_file = input_file.replace("data/", "")
+
+	#Save the lemmatized result in its own file
+	output_file = "data/output/" + output_file + ".lem"
+	file_fin = open(output_file, "w")
+	line = lem_dict.split("\n")
+	for l in line:
+		words = l.split("\t")
+		if len(words) > 1:
+			file_fin.write(words[1] + " ")
+	file_fin.close()
+
+

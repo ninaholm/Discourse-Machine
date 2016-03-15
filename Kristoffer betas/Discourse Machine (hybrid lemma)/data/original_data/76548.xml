@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-09-26" id="root" itemid="76548" xml:lang="da">
+<title></title>
+<headline> SCHWEIZ SÆNKER DISKONTOEN TIL 1,0 PCT FRA 1,5 PCT. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> ZüRICH, 26 september (Reuter) - Den schweiziske nationalbank har torsdag middag nedsat diskonto-renten med et halv pct.point til 1,0 pct. </p>
+<p> Sidste gang, at diskontoen blev sat ned var den 14 december, hvor der ligeledes blev skåret et halv pct.point af til 1,50 pct. (/Reuter). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-26"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-26"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-26"></editdetail></code>
+<code code="SWITZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-26"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-26"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-26"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-26"></editdetail></code>
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-26"></editdetail></code>
+<code code="M131">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-26"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-26"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-09-26"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-07" id="root" itemid="76719" xml:lang="da">
+<title></title>
+<headline> DANSKE AKTIER FALDER PÅ MANGLENDE KØBSINTERESSE. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 7 oktober (Reuter) - Det danske aktiemarked har været ramt af mangel på købere mandag, og derfor siver kurserne, selv om de øvrige europæiske aktier klarer sig pænt. KFX-indekset er 0,27 point under startniveauet i indeks 124,74. </p>
+<p> - Der har manglet inspiration til at handle det danske marked op, men når køberne kommer ind senere på dagen vil kurserne igen stige, mener en aktiehandler. </p>
+<p> Derfor tror han på et slutniveau i KFX på mellem 124,75 og 125,00 - uforandret til et halvt indekspoint bedre end fra mandag middag. </p>
+<p> [MORE]. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-07"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-07"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-07"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-07"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-07"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-07"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-07"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

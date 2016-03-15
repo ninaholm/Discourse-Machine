@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-31" id="root" itemid="77236" xml:lang="da">
+<title></title>
+<headline> SNAK OM REALRENTEAFGIFT TRÆKKER AKTIERNE NED. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 31 oktober (Reuter) - Aktiemarkedet er præget af en lidt negativ stemning torsdag, og kurserne i Danmark og det mest af Europa er under niveauet fra starten af dagen. </p>
+<p> KFX er faldet lidt mere end et kvart indekspoint til 125,49, og november futuren er 0,80 point lavere i 125,45. </p>
+<p> - Der er stadig nervøsitet for en eventuel kommende realrenteafgift på aktier, og de danske investorer forholder sig afventende, selv om det ser ud til at være svært at få politisk opbakning til en sådan afgift, siger en aktiehandler. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-31"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-31"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

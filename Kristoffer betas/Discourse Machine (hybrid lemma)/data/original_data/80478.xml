@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-20" id="root" itemid="80478" xml:lang="da">
+<title></title>
+<headline> Presserunde torsdag den 20 februar. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Reuters står ikke inde for avisartiklernes nøjagtighed 1) FLS havde i 1996 et overskud på mere end 800 mio. kr., viser Børsens beregninger. Selve ingeniør-forretningen forventes at have fået et overskud på over en halv mia. kr. (Børsen side 4 og 5) </p>
+<p> 2) Udover Cheminova risikerer Danisco også at tabe mio. af kr. på grund af sprøjtegiften glyphosat, der er fundet i grundvandet. Cheminova har investeret 400 mio. kr. i sprøjtegiften, mens Danisco har udviklet en gensplejset sukkerroe, der er resistent over for sprøjtegiften. (Børsen side 6). </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-20"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-20"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-20"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-20"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="I25">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-20"></editdetail></code>
+<code code="I32">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-20"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-20"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-20"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-20"></editdetail></code>
+<code code="M14">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-20"></editdetail></code>
+<code code="M141">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-20"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-20"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-20"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>
