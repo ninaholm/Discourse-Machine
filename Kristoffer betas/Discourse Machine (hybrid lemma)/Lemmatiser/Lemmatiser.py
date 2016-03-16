@@ -40,6 +40,7 @@ def lemmatise_directory(dir_path):
 	print ">>LEMMATISE: Lemmatising completed in", time.time() - starttime, "seconds"
 
 
+
 def lemmatise_input_term(input_term):
 	import subprocess
 	import sys
@@ -60,8 +61,7 @@ def lemmatise_input_term(input_term):
 	# Extract the lemmatised term
 	lem = lem.split("\n")
 	lem = lem[33].split("\t")
-	print "The input term was: \t\t" + input_term
-	print "The lemmatised word is: \t" + lem[1]
+	print ">>LEMMATISE: Lemmatising term", input_term, "as", lem[1]
 	return lem[1]
 
 

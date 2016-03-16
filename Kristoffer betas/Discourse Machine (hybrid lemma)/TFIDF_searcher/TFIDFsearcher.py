@@ -4,6 +4,7 @@ import operator
 import math
 import pickle
 import time
+from Lemmatiser.Lemmatiser import *
 
 
 def searchArticles(TFIDFindex, ARTICLEindex):
@@ -21,6 +22,7 @@ def searchArticles(TFIDFindex, ARTICLEindex):
 
 	for term in searchterms:
 		term = str(term).strip()
+		# term = lemmatise_input_term(term)
 		tmpresult = []
 		if hash(term) in TFIDFindex:
 			articlehits = TFIDFindex[hash(term)][1]
@@ -32,7 +34,7 @@ def searchArticles(TFIDFindex, ARTICLEindex):
 				articlewordcount = ARTICLEindex[article]
 				TF = wordcount / float(articlewordcount)
 				TFIDF = TF * IDF
-				tmpresult.append((article,TFIDF))
+				tmpresult.append((article, TFIDF))
 				# print "TFIDF: %s * %s = %s" % (TF, IDF, TFIDF)
 		else:
 			print ">>SEARCHARTICLES: '%s' \t 0 articles." %term
@@ -55,9 +57,11 @@ def searchArticles(TFIDFindex, ARTICLEindex):
 			resultfile.write(str(articles[0]) + " : " + str(articles[1]) + "\n")
 	resultfile.close()
 
+	print ">>SEARCHARTICLES: Search has completed in %s seconds." % round((time.time() - starttime), 3)
+	
 	return results
 
-	print ">>SEARCHARTICLES: Search has completed in %s seconds." % round((time.time() - starttime), 3)
+
 
 def searchTopWords(TFIDFindex, ARTICLEindex,articles,num):
 	starttime = time.time()
@@ -72,10 +76,15 @@ def searchTopWords(TFIDFindex, ARTICLEindex,articles,num):
 	for topic in articles:
 		term = topic[0]
 
-		articleids = []
+		articleids = {}
 
 		for article in topic[1]:
-			articleids.append(article[0])
+			# print "articleids[%s] = ARTICLEindex[%s] = %s" % (str(article[0]), str(article[0]), str(ARTICLEindex[article[0]]))
+			articleids[article[0]] = ARTICLEindex[article[0]]
+
+
+		# for article in topic[1]:
+		# 	articleids.append(article[0])
 			
 		tmpresult = {}
 
