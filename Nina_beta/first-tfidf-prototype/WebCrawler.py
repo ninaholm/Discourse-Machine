@@ -54,11 +54,10 @@ class WebCrawler():
                 break
 
 
-
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-urls = ["http://politiken.dk", "http://www.bt.dk", "http://www.b.dk"]
+urls = ["http://information.dk"]
 
 for url in urls:
     print "Now crawling", url

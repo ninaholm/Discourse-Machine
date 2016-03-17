@@ -1,37 +1,194 @@
 brugeropret
-Words in dictionary... 35
- 4
-co 1
-etage 1
+Words in dictionary... 192
+leonesingaporesint 1
+telefon 4
+andre 1
+subscriptionnewval 2
+nbsp 1
+alt 1
+gode 1
+luciasaintpierre 1
+polynesienfranske 1
+mayensverigeschweizs 1
+maartenslovakietslov 1
+jan 1
+0 2
+særligt 1
+8 1
+har 1
+politikenlog 1
+postnummer 1
 husnr 1
+dag 1
+return 1
+gratis 2
+som 1
+republik 1
+itemsi 1
+kaledonienomanpakist 1
+ja 1
+abonnementsnumre 1
+tilstand 1
+subscriptioncontaine 5
+du 4
+mod 1
+subscriptionidsvalid 2
+hiddensubscriptionid 3
+dig 1
+l 4
+tobagotchadtjekkiett 1
+item 2
+anbefalinger 1
+opgang 1
+vincent 1
+lige 1
+en 3
+principesaudiarabien 1
+byde 1
+oprettet 1
+her› 1
+republikserbienseych 1
+hver 1
+er 3
+gerne 1
+også 1
+for 1
+sms 1
+adgangskode 1
+subidsappendli 1
+profil 1
+indian 1
+newitem 1
+congokroatienkuwaitc 1
+samoausaandorraangol 1
+caicos248ernetysklan 1
+miglæs 1
+med 1
+lejlighedsvis 1
+mcdonald248ernegr230 1
+islandssydkorearepub 1
+gadenavn 1
+outlying 1
+opretter 1
+bruge 1
+futunazambiazimbabwe 1
+ricacubacura231aodan 1
+sjovest 1
+by 1
+llength 1
+guianafransk 1
+territorybruneibulga 1
+stednavn 1
+og 15
+items 1
+subids 1
+ids 3
+miquelonsaint 1
+newitem 3
+titeltitelhrfr 1
+emiraterunited 1
+tome 1
+south 1
+co 1
+mail 1
+ix 2
+taiwantadsjikistanta 1
 aften 1
 allerede 1
-telefon 3
-navn 1
-nbsp 1
+nyheder 1
+svalbard 1
+thishtml 1
+ebøger 1
+måned 1
+antarktikaantigua 1
 fornavn 1
-er 2
-adgangskode 1
-ja 1
-var 1
-tak 1
-postnummer 1
-postboks 1
-dag 1
+mere 1
+itemtostring 1
+guineaparaguayperupi 1
+her 1
+fri 1
+jomfru248eramerikans 1
+indlogget 1
+idssubstring1 1
+idslength 1
+jeg 1
+var 9
+minor 1
+function 3
+må 1
+true 1
+thisremove 1
+barbudaargentinaarme 1
 efternavn 1
 sidelejl 1
-subscriptionidsv 1
-gadenavn 1
-opret 1
-stednavn 1
-abonnementsnumre 1
-titeltitelhrfr 1
-politikendk 1
-du 1
-sjove 1
-by 1
-må 1
-landafghanistanalban 1
-opgang 1
+georgia 1
+return 1
+om 1
+islandnorgeny 1
+else 1
+jomfru248erjordancam 1
+itemslength 1
 fødselsdato123456789 1
+politikendk 2
+framelde 1
+navn 1
+kontakte 1
+landafghanistanalban 1
+fasoburundicanadacay 1
+additem 1
+ricoqatarr233unionru 1
+ 8
+while 1
+newitemreplace 1
+sydterritorierf230r2 1
+hvad 1
+etage 1
+salvadoreritreaestla 1
+ 13
+buildlist 1
+states 1
+at 2
+ind 1
+marinosao 1
+if 4
+verdenederlandske 1
+kitts 1
+mig 1
+til 2
+ny 1
+kina 1
+får 2
+på 3
+tid 1
+tak 1
+hasitems 3
+nu 1
+hvis 1
+adgang 1
+postboks 1
+sandwich 1
+rettet 1
+grenadinernesalomon2 1
+li 1
+kan 1
+nevissaint 1
+buildlist 3
+helenasaint 1
+lankastorbritanniens 1
+funktioner 1
+subidsempty 1
+0908 1
 politiken 1
+islandsuruguayusbeki 1
+false 1
+republikecuadoregypt 1
+undefined 1
+documentreadyfunctio 1
+buildhidden 2
+i 5
+tilbud 2
+ocean 1
+arabiske 1
+zealandnicaraguanige 1
+antillerkasakhstanke 1
+thisclickfunction 1
