@@ -34,7 +34,7 @@ def searchArticles(TFIDFindex, ARTICLEindex):
 				articlewordcount = ARTICLEindex[article]
 				TF = wordcount / float(articlewordcount)
 				TFIDF = TF * IDF
-				tmpresult.append((article,TFIDF))
+				tmpresult.append((article, TFIDF))
 				# print "TFIDF: %s * %s = %s" % (TF, IDF, TFIDF)
 		else:
 			print ">>SEARCHARTICLES: '%s' \t 0 articles." %term
@@ -76,10 +76,15 @@ def searchTopWords(TFIDFindex, ARTICLEindex,articles,num):
 	for topic in articles:
 		term = topic[0]
 
-		articleids = []
+		articleids = {}
 
 		for article in topic[1]:
-			articleids.append(article[0])
+			# print "articleids[%s] = ARTICLEindex[%s] = %s" % (str(article[0]), str(article[0]), str(ARTICLEindex[article[0]]))
+			articleids[article[0]] = ARTICLEindex[article[0]]
+
+
+		# for article in topic[1]:
+		# 	articleids.append(article[0])
 			
 		tmpresult = {}
 

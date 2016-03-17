@@ -74,8 +74,9 @@ def searchTopWords(TFIDFindex, ARTICLEindex,articles,num):
 
 		articleids = []
 
-		for article in topic[1]:
-			articleids.append(article[0])
+		for 
+		# for article in topic[1]:
+		# 	articleids.append(article[0])
 			
 		tmpresult = {}
 
