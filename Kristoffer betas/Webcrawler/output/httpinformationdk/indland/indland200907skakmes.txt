@@ -1,0 +1,20 @@
+Skakmester Kramnik i angrebshumør
+Den russiske eksverdensmester Kramnik pelsede Arkadij Naiditsch
+
+
+ Vladimir Kramnik har - meget fortjent - ry for at være en fremragende 'tekniksjenko', der i timevis kan sidde og pudse på små positionelle fordele, indtil de vokser sig store og vindende.
+Men selvfølgelig kan den 34-årige russer også blæse til angreb, når lejlighed byder sig - som det skete i fjerde runde af Sparkassen-Chess Meeting i Dortmund, hvor han havde sort mod det lokale håb Arkadij Naiditsch:
+1.e4 e5 2.Sf3 Sf6 3.Sxe5 d6 4.Sf3 Sxe4 5.d4 d5 6.Ld3 Ld6 7.0-0 0-0 8.c4 c6 9.Te1 Lf5 10.c5 Lc7 11.Sc3 Sd7 12.Dc2 Te8 13.Le3 h6 14.b4 Sdf6 15.h3 Dd7 16.Se2. (Se diagrammet)
+Hvid bliver trynet
+Efter dette parti må man finde på noget andet end 16.Se2. For nu bliver hvid pelset:
+16. - Lxh3! 17.Se5 Lxe5 18.dxe5 Txe5 19.f3 Tae8 20.Lf4 Th5 21.fxe4? (bedre måske 21.Sd4) dxe4 22.Lc4 Lxg2 - den hvide konge i strip tease - 23.Sg3 Lf3 24.Db3 Th4 25.Ld6 Dh3 26.Lxf7+ Kh7 27.Db2 Sg4 ...
+Naiditsch opgav. Et flot parti af Kramnik, selv om han overså den hurtigere afslutning 27. - Dxg3+! med pointen 28.Lxg3 Th1+ 29.Kf2 Sg4.
+Efter denne kraftudladning var Kramnik sit gamle fredelige jeg i 5. runde, hvor han remiserede mod Jakovenko efter blot 19 træk. Magnus Carlsen slog Naiditsch og gik dermed alene i spidsen med 3,5 points, et halvt foran Kramnik og Lekó.
+Smukkeste skakfestival
+Lørdag den 18. juli klokken 14. lyder startskuddet til årets udgave af Politiken Cup, som man roligt kan kalde Nordeuropas smukkeste skakfestival.
+Der spilles under optimale forhold på LO-skolen lige nord for Helsingør - to runder søndag den 19. juli, ellers en daglig runde til og med søndag den 26., hvor 10. og sidste runde ikke bare bliver udslaggivende for topplaceringerne, men også for hvem der kan kalde sig nordisk mester, da NM er en integreret del af turneringen. Det har lokket mere end 40 nordmænd og 40 svenskere - plus en række islændige, færinger og finner - til Helsingør.
+I toppen af tabellen finder man den russiske stormester Malakhov (rating 2709), hollænderen Tiviakov, russeren Drejev samt Danmarks førende spiller Peter Heine Nielsen - Heine har for øvrigt selskab af en stor del af den danske elite, ligesom både Ukraine og Israel er repræsenteret med spillere omkring 2650 i rating.
+Man kan læse meget mere på www.politikencup.dk, hvor man til og med den 17. kan tilmelde sig, hvis man har plads på kalenderen de ni dage.
+Turneringen er åben for alle, og der har meldt sig spillere med helt ned til 940 i rating.
+
+

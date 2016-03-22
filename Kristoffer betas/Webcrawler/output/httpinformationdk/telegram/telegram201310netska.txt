@@ -1,0 +1,14 @@
+Nets kæmper stadig med at få styr på NemID
+Danskerne skal fortsat væbne sig med tålmodighed. NemID er nok først oppe at køre igen natten til lørdag.
+
+
+ Det varer endnu en dags tid, inden danske NemID-brugere kan bruge deres elektroniske login på fuld styrke.
+Natten til lørdag skulle alle problemer være løst, så danskerne igen kan opdatere deres computere til den nyeste Java-version og bruge NemID uden problemer.
+- Vores forventninger er, at de sidste udestående ting, vi ikke fik løst i nat, bliver løst i løbet af i dag. Så kan vi opdatere systemet natten til lørdag, og folk vil så igen kunne bruge deres NemID, som de plejer, siger kommunikationschef i Nets, Søren Winge.
+- Vi testede en ny løsning torsdag aften og fik løst de fleste udeståender, men desværre mangler vi én ting, inden vi kommer helt i mål. Men det har vi en stærk forventning om, at vi når fredag, siger han.
+Ifølge Søren Winge har hovedparten af danskerne fundet vej til at bruge NemID trods alt.
+- Men vi må medgive, at problemet ikke er løst endnu, siger han.
+Java er nødvendig for at kunne logge på og bruge for eksempel netbank med NemID, og normalt lyder anbefalingerne fra Nets, at man løbende opdaterer programmet, så man har den nyeste version.
+Men indtil der kommer klar besked - hvilket altså ventes at ske lørdag morgen - lyder anbefalingen altså fortsat, at man ikke opdaterer til den nyeste Java-version, Java 7.45. For den fungerer ikke sammen med NemID.
+NemID er det samme log-in alle steder og består af et bruger-id, en adgangskode og et nøglekort med engangskoder.
+NemID er udviklet af Nets på vegne af Digitaliseringsstyrelsen og den danske banksektor.

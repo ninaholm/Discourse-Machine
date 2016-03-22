@@ -1,0 +1,18 @@
+Skat opdager fejl i 1,2 millioner forskudsopgørelser
+Forskudsopgørelsen for 2016 landede tirsdag hos borgerne, men Skat har opdaget fejl på to punkter.
+
+
+ Hvis du er boligejer eller betaler kontingent til en fagforening, så kan der være fejl i den forskudsopgørelse for 2016, som Skat sendte til dig tirsdag. Skat har nemlig opdaget to fejl i forskudsopgørelsen, oplyser Skat i en pressemeddelelse.
+Den ene fejl handler om fradrag for fagligt kontingent og vedrører op til 1,2 millioner borgere. Den anden fejl vedrører beregningen af ejendomsværdiskat og omfatter op til 440.000 borgere, oplyser Skat.
+- Det er simpelthen forkerte tal, der står, siger Jonatan Schloss, der er kundeservicedirektør i Skat.
+- Vi har identificeret fejlene og går straks i gang med at rette forskudsopgørelsen. Man behøver ikke at foretage sig noget, tilføjer han.
+Jonatan Schloss understreger, at fejlen ikke har umiddelbare konsekvenser for borgere, da det gælder forskudsopgørelsen for 2016. Fejlene rettes senest i midten af næste uge.
+- Det er virkelig ærgerligt, men man kan sige, at det eneste, det går ud over, er Skats image, som nok i forvejen er dårligt. Der er jo ikke nogen borgere, der for eksempel skal betale noget, men derfor er det jo meget beklageligt alligevel, siger Jonatan Schloss.
+Fejlen i forskudsopgørelser fra Skat skyldes programmeringsfejl hos to forskellige leverandører, KMD og CSC.
+Skat havde inden offentliggørelsen af bommerten hørt fra "en håndfuld" borgere, der ikke kunne genkende tallene i deres forskudsopgørelse.
+Hvilke konsekvenser, det får, kan Skat ikke sige noget om. Nu skal man først finde frem til, hvordan det kunne ske.
+- Vi kan endnu ikke sige noget om, hvad der er sket. Leverandørerne er selv i gang med at udrede forløbet.
+- Vi har alle mulige test af det her, så det er virkelig ærgerligt, at det kan ske alligevel. Vi er nødt til at lære af, hvad der er sket hos vores leverandører, siden fejlene ikke er blevet fanget af de test, siger Jonatan Schloss.
+Fejlen vedrørende fradrag for fagligt kontingent bliver rettet automatisk natten til søndag, mens fejlen vedrørende beregningen af ejendomsværdiskat automatisk bliver rettet natten til onsdag.
+Fejlen gælder især ejendomme, som er blevet omberegnet efter 2002, oplyser Skat.
+I alt 4,9 millioner borgere modtog forskudsopgørelsen fra Skat tirsdag.

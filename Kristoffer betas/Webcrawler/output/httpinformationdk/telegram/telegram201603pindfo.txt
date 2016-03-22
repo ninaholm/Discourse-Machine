@@ -1,0 +1,17 @@
+Pind forkaster forslag til internetovervågning
+Det vil koste omkring en milliard kroner om året at indføre den form for sessionslogning, politiet foreslår. Det er ’alt for dyrt’, mener justitsministeren
+
+
+ Det forslag til sessionslogning, der hidtil har været i spil, vil koste en milliard kroner for telebranchen, viser en analyse, som Justitsministeriet har fået foretaget af et eksternt konsulentfirma.
+Det er alt for dyrt, mener justitsminister Søren Pind (V). Politiet og Justitsministeriet vil derfor arbejde på at finde en alternativ model.
+»Forbryderne flytter i stigende grad deres aktiviteter over på nettet. Vi skal sikre, at politiet kan følge med,« siger Søren Pind i en skriftlig kommentar.
+Sessionslogning er en form for overvågning af trafik på internettet. Tidligere justitsminister Karen Hækkerup (S) ophævede reglerne om sessionslogning, fordi det var tvivlsomt, om oplysninger reelt set kunne bruges i politiets efterforskning.
+Rigspolitiet og PET har for nylig foreslået en model til nye regler for logning af internettrafik.
+Regeringen har dog endnu ikke fremsat et lovforslag, fordi det blandt andet var vigtigt for regeringen at få klargjort økonomien i politiets forslag.
+»De foreløbige beregninger fra det eksterne konsulenthus, der har vurderet politiets forslag, viser, at det fører omkostninger med sig for branchen i omegnen af en milliard. Det overstiger grænsen for det acceptable,« siger Søren Pind.
+I de kommende måneder vil Justitsministeriet og politiet derfor sætte sig sammen med branchen for at lave en model.
+Den skal ifølge Søren Pind sikre, at der i næste folketingssamling kan fremsættes et lovforslag, som både tilgodeser politiets behov for at efterforske alvorlig kriminalitet, og som bliver mindre omkostningsfuld for branchen.
+Politiet har forklaret, at sessionslogning er nødvendig, fordi kriminelle i stigende grad kommunikerer over apps såsom Messenger og Skype, der er baseret på internet og ikke gammeldags mobilnetværk.
+»Efterhånden som mere og mere telefonkommunikation bliver baseret på smartphones er der simpelthen nogle muligheder, vi mister,« har politidirektør Svend Larsen, Rigspolitiet, tidligere forklaret.
+Telebranchen har omvendt kritiseret logningen for at være for dyr, og en række debattører har kaldt det systematisk overvågning og krænkelse af privatlivets fred.
+

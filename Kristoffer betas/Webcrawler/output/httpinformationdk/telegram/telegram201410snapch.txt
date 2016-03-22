@@ -1,0 +1,14 @@
+Snapchat-hacking: Gruppen bag kan offentliggøre dit password
+Næste skridt i hackerangrebet på Snapchat kan være en offentligt database med brugernes e-mail og password
+
+
+ Et hackermiljø på hjemmesiden 4chan, der har hacket sig til 200.000 billeder fra billeddelingstjenesten Snapchat, varsler, at der søndag kommer en database med e-mail-adresser og password på brugerne forbundet til billederne. Det advarer dansk IT-ekspert om.
+Dermed kan de brugere, der benytter samme password til flere sociale medier være i fare for uventede besøg på deres andre sociale medier som Facebook, Twitter og Instagram.
+Det siger Peter Kruse, der er IT-ekspert fra IT-sikkerhedsfirmaet CSIS.
+Hackerangrebet er sket i en database til en supplerende app til Snapchat, der hedder Snapsave. Denne app kan gemme de billeder og videoer, som Snapchat ellers automatisk sletter. Der er blevet hacket 200.000 billeder og flere tusinde videoer.
+Datamængden indeholder også passwords og brugernavn, og gruppen bag angrebet varsler, at der søndag kommer en database, hvor man kan søge på e-mail-adresser og få oplyst passwords til de pågældende brugere, oplyser Peter Kruse.
+- De siger, at der også er passwords, der er brugt til Snapsave. Unge mennesker vælger et password, og så bruger de det også gerne på Facebook, Instagram, Twitter, og hvad ved jeg. Så hackerne kan se, om den pågældende person har brugt samme password andre steder, siger han.
+- De har e-mail, password og private billeder. Det kan give nogle rigtig væmmelige kombinationer på langt sigt, mener Peter Kruse.
+Det er brugerne af app'en SnapSave, der har fået hacket sine oplysninger. Derfor er man ikke nødvendigvis i fare, hvis man bruger app'en Snapchat.
+- Hvis du har brugt Snapchat, så behøver du ikke gå i panik. Hvis du har brugt Snapsave, vil jeg sige, at der er god anledning til bekymring. Bordet fanger. Det er ikke noget at gøre, når den her database bliver stillet til rådighed, siger IT-eksperten.
+På grund af måden billederne er delt internt i hackermiljøet 4chan, er det ikke muligt at slette de hackede billeder igen.

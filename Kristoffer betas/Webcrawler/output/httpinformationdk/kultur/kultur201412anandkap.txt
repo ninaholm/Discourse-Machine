@@ -1,0 +1,15 @@
+Anand kaprede førstepladsen i London
+Inderen vandt kun ét parti – men hele turneringen
+Skak
+
+
+ Der var kun seks deltagere til start i årets udgave af London Chess Classic, og da de kun mødte hinanden én gang, blev det blot til sølle fem runder. Efter de første fire lå den russiske eksverdensmester Vladimir Kramnik og den 20-årige hollandske stormester Anish Giri i spidsen med 6 points - man spillede med ’fodboldpoints’: 3 for gevinst, 1 for remis – mens Anand havde spillet samtlige sine partier remis.
+Kramnik og Giri skulle mødes i sidste runde, og skønt Giri var i visse vanskeligheder undervejs, holdt han remis. Og så kunne Anand med en gevinst over en angiveligt stærkt forkølet Michael Adams nå op på 7 points, nok til at vinde turneringen, da reglementet i tilfælde af ligestilling tilsagde, at den spiller, der havde vundet flest partier med sort, skulle tildeles den endelige sejr. Og man behøvede ikke tage den store lommeregner frem. Anand havde som den eneste vundet et parti med de sorte - nemlig det mod Adams fra sidste runde:
+1.e4 e5 2.Sf3 Sc6 3.Lb5 Sf6 4.0–0 Sxe4 5.d4 Sd6 6.Lxc6 dxc6 7.dxe5 Sf5 8.Dxd8+ Kxd8 ...
+Berlinermuren igen, igen. Den fik som bekendt sin renæssance i London 14 år tidligere, da Kramnik med succes brugte den som remisvåben i VM-matchen mod Kasparov.
+9.h3 Ke8 10.Sc3 h5 11.Td1 Le7 12.g3 b6 13.a4 Lb7 14.a5 c5 15.Sd5 Ld8 16.Lg5 Tf8 17.c4 Lxd5 18.Txd5 Lxg5 19.Sxg5 Ke7 20.Kg2 Sd4 21.Td1 Tad8 22.Sf3 c6 23.Txd8 Txd8 24.Sg5 b5 25.cxb5 cxb5 26.Se4 Sc6 27.Txd8 Kxd8 28.e6 fxe6 29.Sxc5 Ke7 30.Sb3 Kd6 31.Kf3 Kd5 32.Kf4 Kc4 33.Sc1 Sxa5 34.Kg5 Sb3 35.Se2 b4 36.Kxh5 a5 ...
+Se diagrammet.
+Anand har fået lov til rigtigt meget i dette parti. Normalt siger man jo, at den sorte bondemajoritet på dronningfløjen i denne variant ikke bør kunne udmønte sig i en fribonde i slutspillet, men i denne stilling er banen jo fri for den sorte a-bonde. Adams opgav forståeligt nok yderligere modstand – efter en virkelig forkølet præstation.
+Slutstilling i London: 1. Anand, Indien, 7 p. 2. Kramnik, Rusland, 7 p. 3. Giri, Holland, 7 p. 4. Nakamura, USA, 6 p. 5. Adams, England, 4 p. 6. Caruana, Italien, 4 p.
+Sidstepladsen kostede Caruana ni ratingpoints. Han ligger med 2820 stadig på andenpladsen på styrkelisten, men afstanden op til den norske verdensetter – og verdensmester – Magnus Carlsen er nu 42 points.
+

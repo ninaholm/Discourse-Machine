@@ -1,0 +1,25 @@
+’Dem, de får fat i her, er bestemt ikke masterminds’
+Anders er blevet dømt for at have skaffet sig uberettiget adgang til et stort antal login- og passwordoplysninger. Det var en forbrydelse, men den havde ingen ofre, siger han
+
+
+ Selv om størstedelen af politiets sigtelser i to store internationale efterforskninger af hackersager er blevet opgivet, så er én person blevet dømt. Hans navn er Anders, og han er 25 år gammel. På en kebabrestaurant på Nørrebro i København har han indvilget i at fortælle om baggrunden for, at han for kort tid siden fik tre måneders betinget fængsel. Anders’ sag er kompliceret, men kort fortalt er den endt med, at han har fået en betinget dom på tre måneder for uberettiget at have anskaffet sig over 1.000 login- og passwordoplysninger.
+»Det kan godt være, at jeg har overtrådt en lov, men jeg synes ikke, at jeg har gjort noget galt. Det er en handling uden et offer,« siger Anders.
+Læs også: Stribevis af hackersager må opgives
+Hans dom udspringer af en international aktion, som dansk politi var en del af, og som var rettet mod brugere af programmer udviklet af organisationen BlackShades. BlackShades solgte blandt andet et program, som gjorde det muligt at inficere en computer og fjernstyre den uden et offers viden.
+»Dem, de får fat i her, er bestemt ikke masterminds,« siger Anders.
+Politiet mødte op på hans kollegieværelse og tog hans computere og usb-stik.
+»Det var lidt uheldigt. Jeg havde siddet indtil kl. fire om morgenen og arbejdet på en eksamensopgave. Men jeg havde ikke lavet en backup,« siger Anders i dag. Han blev taget med på stationen, politiet tog et mug shot, og han fik taget fingeraftryk.
+Solgte til hackere
+Og så fik han lov til at forklare sig. »I begyndelsen af 2011 udviklede jeg et krypteringsprogram. Det har den funktion, at det kan kryptere andet software. Pointen med det var, at hvis du har udviklet et stykke software, som du vil sælge, så kan du undgå, at det bliver piratkopieret, eller at folk omgår dit licenssytem,« siger Anders.
+»Men det kan også have en anden effekt i forhold til hackerværktøjer. Antivirusprogrammer fungerer på den måde, at de skanner indkommen software, men hvis det er krypteret, er det svært at fange for antivirusprogrammet,« tilføjer han. Den forklaring stemmer overens med, hvad Anders har forklaret som vidne i retten, viser Informations gennemgang af dokumenter og lydoptagelser fra retten.
+»Jeg solgte også programmet til hackere. Men når du krypterer et stykke software, så er det ikke altid, at det virker. Mange folk spurgte mig så, om det virkede med BlackShades – om det var kompatibelt med det. Det kunne jeg ikke vide på forhånd,« siger Anders.
+»Blackshades kostede kun 30 eller 40 dollar, så jeg sagde, at jeg nok skulle teste det. Jeg krypterer så min version af BlackShades og får en anden person til at installere det på en mængde inficerede computere, som han har kontrol over. Så jeg sender altså mit krypterede software til ham, og han installerer det på en række computere. Han siger så, hvor mange computere han har installeret det på, og jeg kan så se, hvor mange jeg fik forbindelse til«.
+Det var i den anledning, at Anders fik adgang til de over 1.000 login- og passwordoplysninger, som han er blevet dømt for at have anskaffet sig. Han hævder, at han ikke har haft intentioner om at bruge adgangen til de inficerede computere til egen vinding eller overhovedet at tage kontrol over computerne selv.
+Under retssagen mod Anders var en it-efterforsker fra politiet indkaldt til som vidne. Hans vidneudsagn støtter umiddelbart Anders’ forklaring.
+»Der er ikke fundet beviser for, at han – på den computer, der er undersøgt – har været inde på de inficerede maskiner,« sagde it-efterforskeren under retssagen. Om sagen generelt siger Anders i dag: »Det lyder måske ikke helt plausibelt, men det var det, der skete. Så på den måde har jeg ikke haft noget ondt i tankerne. Jeg vil bare udvikle det her krypteringssoftware. Det er ikke i sig selv ulovligt. Men selvfølgelig har jeg været i ond tro, da jeg har solgt til hackere.«
+Hans opfattelse af sagen er, at dansk politi via FBI har fået fat i en kundedatabase fra firmaet BlackShades, og at dansk politi derigennem har fået oplysninger om ham.
+»Da jeg registrerede mig hos BlackShades havde jeg intet ondt i sinde. Så jeg gav dem mit navn og adresse og telefonnummer. Ligesom så mange andre. Hvis jeg havde haft noget ondt i sinde, så havde jeg jo bare brugt et navn fra fakename.com.«
+Han mener, at det forhold, at han har givet oplysningerne til BlackShades på sin vis beviser, at han ikke har haft en intention om at gøre noget, der kunne skade andre eller kunne give ham problemer. Han siger, at sagen i hans øjne er meningsløs.
+»Jeg tvivler på, at særligt mange brugte BlackShades til noget professionelt.«
+Anders har ikke ønsket at stå frem med sit fulde navn. Men det er redaktionen bekendt
+

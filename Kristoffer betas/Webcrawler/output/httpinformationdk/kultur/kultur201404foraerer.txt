@@ -1,0 +1,79 @@
+Vi forærer gladeligt vores data væk
+Et nyt værdibegreb, der hedder ’data’, er opstået. Hos Facebook og Google betaler vi ikke med penge, men med denne digitale ressource, der ligesom blod kan doneres væk uden et synligt tab. Og vi har kun set begyndelsen
+
+
+ 
+	Husk tilbage. Dengang du først så Facebook. Det var en flot, blå mark. Man kunne græsse frit. Facebook var nyt, spændende og gratis. Det sidste var en selvfølge, for hvis der er noget, vi har lært om nettet, er det, at der er ingen grænser og ingen betalinger.
+
+	Men på et tidspunkt stoppede du op og tænkte: »Hvordan kan det her køre rundt?« Måske var det dér, at du opdagede de små annoncer ude i siden. Og hvordan de alle sammen reklamerede for datingsider, efter du slog op med kæresten. Og da du senere flyttede til Aarhus, fik du kun anbefalet restauranter i Latinerkvarteret. Man forstod pludselig: Facebook læser altid med.
+
+	Ligesom Google, Twitter, Amazon og Netflix vil de vide alt, huske alt og registrere alt. Intet er for småt til at blive inkluderet i de enorme datasæt, der kaldes Big Data.
+
+	Denne intensive indsamling af oplysninger om forbrugsvaner kan udnyttes til mersalg gennem målrettede annoncer og anbefalinger. Og vi har øjensynligt ikke nogen problemer med at afgive alle disse data, når vi får en service den anden vej.
+
+	David Budtz Pedersen, der forsker i videnskabsteori ved Københavns Universitet, ser det som et område, hvor grænserne begynder at flyde ud.
+
+	»Det er et godt spørgsmål, om det er en service, forbrugeren får, eller om det er virksomhederne, der bliver bedre rustet til at sælge produkter til dig, og om den distinktion overhovedet giver mening i Big Data-samfundet,« siger han.
+
+	»I den teknologiske tidsalder bliver grænserne mellem det private, det kommercielle og det statslige meget mere uklare. Jeg tror, at vi kun har set begyndelsen på den udviskning.«
+
+	For videnskaben
+
+	Indsamling af data om menneskers opførsel er ikke nogen ny disciplin – den har bare traditionelt været udøvet af universiteterne frem for virksomhederne. Og flere forskere ser længselsfuldt på de store virksomheders databaser.
+
+	Som professor ved IT Universitetet Rasmus Pagh siger:
+
+	»Der var sociologer, der brugte årevis på at finde ud af, hvem der var venner med hvem i en karateklub, og i dag er det et tryk på en knap – hvis man sidder det rigtige sted, vel at mærke.«
+
+	Det rigtige sted er inden for firmavæggene, hvor man som oftest kun kommer ind med særlige aftaler og klausuler, ellers hvis ens forskning kan medføre mersalg. Det bliver også tydeligt hos Twitter, der uddeler såkaldte Data Grants. Med praksissen anerkender Twitter, at de ligger inde med forskningsrelevante oplysninger og ønsker at dele dem. Men de gør det som en fond, hvor de fordeler dataene i forskningsverdenen, og hvor forskerne sjældent må give dem videre.
+
+	På den måde opstår der monopollignende tilstande, hvor forskere deles op i dem, der har adgang til data, og dem, der står uden for.
+
+	»Spørgsmålet er, om man kan udnytte de muligheder, der ligger for samfundet i, at disse data findes,« siger Rasmus Pagh.
+
+	»Man kunne måske opdage folk, der havde brug for hjælp. Der er uanede perspektiver i det, hvis disse data var mere tilgængelige.«
+
+	Gør det selv
+
+	I sit arbejde med sociale netværk er lektor på Sociologisk Institut Anders Blok langtfra ubekendt med problemerne i firmaejede data. Derfor er han i stil med andre forskere på sit felt begyndt at finde veje uden om virksomhedernes barrikader. En af måderne er gennem såkaldte API’er. Et værktøj lavet til programmører, men som kan tappe data fra Facebook og Twitter.
+
+	Anders Blok er også en del af det tværfaglige forskningsprojekt Social Fabric, der er centreret omkring eksperimentet SensibleDTU.
+
+	Her har man udstyret 1.000 nye studerende fra Danmarks Tekniske Universitet med smartphones, der er særligt modificeret til at registrere deltagernes sms’er, mail, opkald og Facebook-beskeder. Selv når de studerende mødes fysisk, registreres det igennem Bluetooth og sendes efterfølgende til eksperimentets centrale computere.
+
+	»Alt det her er en selvopbygget infrastruktur,« fortæller Anders Blok.
+
+	»Og hvorfor laver man så det? Det gør man, fordi man er utilfreds med, hvad man kan få adgang til via de kommercielle databaser.«
+
+	Doner dine data
+
+	En af eksperimentets etiske grundsten er at se deltagernes bidrag som ’donationer’. Det minder om lægevidenskaben, der spørger efter blod- eller organdonationer. Derved betegner man også data som en værdifuld vare. En vare, der tilhører den enkelte, hvilket man må respektere for at få adgang til den. Derfor har de deltagende i eksperimentet også selv adgang til de data, der opsamles fra deres telefoner.
+
+	Måske er det denne respekt for både deltagere og data, der har gjort, at kun ganske få studerende havde kvaler ved at deltage i projektet.
+
+	»Stort set alle sagde ja til at være med, og de, der alligevel sagde nej, gjorde det ikke af hensyn til privatlivet. Der var i det hele taget ikke nogen, der udtrykte bekymringer i den retning,« siger Anders Blok.
+
+	Forskerne er dog ikke lige så ubekymrede.
+
+	»Vi ligger vågne om natten af forskellige forskningsetiske grunde, men det er også en del af projektet. Vi prøver at finde ud af, hvilke problemstillinger der bliver særligt akutte, når man følger folks sociale liv med den her ekstreme datatæthed,« siger Anders Blok.
+
+	Hovedproblemet for både forskere og virksomheder er arbejdet med at anonymisere dataene.
+
+	Tilbage i 2006 frigav AOL (internetudbyderen America Online, red.) oplysninger om 650.000 unavngivne brugeres søgninger til alle, der kunne have interesse.
+
+	Blandt dem var avisen The New York Times. På få dage fandt et par journalister frem til den 62-årige Thelma Arnold i Lilburn, Georgia. Selv om hendes navn ikke var en del af dataene, så blev hun afsløret af sine søgninger. Hun var blevet afanonymiseret.
+
+	Rasmus Pagh fortæller, hvordan effektiv sløring af Big Data er et helt forskningsfelt:
+
+	»Det kaldes differential privacy. Det går ud på, at man ødelægger dataene en lille smule, så man ikke kan se den enkeltes bidrag, men materialet forbliver nyttigt. Man kan dog roligt sige, at det ikke er noget, som nogen helt har styr på, hvordan man gør på rette vis.«
+
+	Demokratiske data
+
+	I stigende grad begynder folk også at indsamle data om sig selv. Der er en hel bevægelse, som kaldes Quantified Self, hvor man registrerer, hvad man spiser, hvor langt man løber og med hvilken puls og på hvilken tid. Herefter kan man analysere sine data for på den måde at optimere sin præstation og udvikling. En tendens, der måske begyndte hos atleter, men som i dag kan udføres af alle med en smartphone i lommen.
+
+	David Budtz Pedersen forudser en udvikling, hvor stort set alt er kvantificeret og lagt online af os selv:
+
+	»Jeg tror, at den performancekultur, vi ser udvikle sig hos unge mennesker, hvor det handler om at præsentere sig som effektive samfundsborgere i konkurrencestaten, vil gøre, at de unge gladeligt stiller disse data til rådighed. De vil lade sig måle og teste. De vil oploade deres fedtprocent og kredsløbsmålinger hver morgen, når de står op.«
+
+	Jeg skal huske at sige tak, hvis du læser dette på nettet, så vi kan registrere hvornår og hvor lang tid, du har brugt på denne artikel og alle vores andre tekster. Forhåbentlig får vi en bedre avis ud af det. Tak.
+

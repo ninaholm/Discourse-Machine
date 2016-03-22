@@ -1,0 +1,15 @@
+Rokeringer i skakkens verdenselite
+Hou Yifan kan blive verdens stærkeste kvindelige spiller
+
+
+ Verdenskakforbundet FIDE’s styrkeliste for februar 2015 rummer adskillige overraskelser. Top-ti har følgende udseende: 1. Carlsen, Norge, 2865 2. Caruana, Italien, 2811 3. Grischuk, Rusland, 2810 4. Topalov, Bulgarien, 2800 5. Giri, Holland, 2797 6. Anand, Indien, 2797 7. So, USA, 2788 8. Kramnik, Rusland, 2783 9. Aronian, Armenien, 2777 10. Nakamura, USA, 2776.
+Det er ingen sensation, at Fabiano Caruana indtager andenpladsen, men det er opsigtsvækkende, at Levon Aronian - i lang tid betragtet som den største trussel mod Magnus Carlsens status som verdens stærkeste spiller - er gledet helt ned på en niendeplads. Det er også bemærkelsesværdigt, at den 21-årige filippiner Wesley So, der nu spiller for USA, er på hastig fremrykning. Og hvornår har der sidst været lige mange amerikanerne som russere i top-ti? Der er – endnu, da - en dansker i top-100. Peter Heine Nielsen er nemlig nr. 99, men da han ikke længere er så aktiv, er det nok en stakket frist.
+Ser man længere ned i tabellen, står det klart, at Kina er på hastig fremmarch med otte spillere i top-100. En af dem er den kvindelige verdensmester, snart 21-årige Hou Yifan, der med 2672 er nummer 68 på listen. Hou Yifan deltager for øjeblikket i en stor Open i Gilbraltar og synes at kunne rykke forbi ungarske Judit Polfar (hun har 2675), i godt 25 år kvindernes ”dronning”, og dermed få status som verdens stærkeste kvindelige spiller. I 3. runde vandt Hou Yifan med de hvide brikker over Mohamad Naser Al Sayed, en ikke ueffen stormester fra Qatar:
+1.e4 c5 2.Sf3 d6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 a6 6.g3 e5 7.Sb3 Le7 8.Lg2 0–0 9.0–0 b5 10.a4 b4 11.Sd5 Sxd5 12.Dxd5 Ta7 13.Le3 Le6 14.Dd3 Tb7 15.f4 Dc8 16.Sa5 Tc7 17.f5 Lc4 18.Sxc4 Txc4 19.Tfc1 d5 20.exd5 e4 21.Db3 Lc5 22.f6!?
+Balladen begynder.
+22. - gxf6 23.Kh1 Lxe3 24.Dxe3 Te8 25.Te1 Kg7 26.Tad1 Txc2 27.Tf1 Dg4 - sort har modspil, men:
+28.Tde1 Sd7 29.Tf4 Dh5 30.h3 Kh8 31.Txe4 Txe4 32.Dxe4 De5 33.Dxb4 Dxg3 34.Tg1 ...
+Se diagrammet.
+Her ville et træk som 34. - Sc5 måske have holdt gryden i kog for manden fra Qatar. Men han foretager en skæbnesvanger retræte med dronningen:
+34. - Dc7?? 35.De7 - afgørende. Sort spillede 35. - Kg7, men opgav (eller tabte på tidsoverskridelse?) i det samme. Hou Yifan har efter seks runder scoret fem points og ligger på en delt fjerdeplads. Nakamura har med seks af seks gjort rent bord.
+

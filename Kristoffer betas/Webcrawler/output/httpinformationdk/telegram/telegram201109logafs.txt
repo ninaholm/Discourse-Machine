@@ -1,0 +1,15 @@
+Log vil afsløre snushaner i Thorning-sag
+Har ansatte i Skat snuset rundt i Thornings skattepapirer vil register ifølge ekspert let afsløre dem.
+
+
+ Jorden vil hurtig brænde under den eller de skyldige i Skat, hvis en ansat for nylig uberettiget har været inde og snuse rundt i S-formand Helle Thornings-Schmidts skattepapirer.
+Det siger Charlotte Bagger Tranberg, der er lektor og ekspert i datasikkerhed på Aalborg Universitet, efter en ny historie om Helle Thorning-Schmidts skatteforhold er havnet på B.T.
+- Hvis en ansat for nylig har været inde i sagen hos Skat, så vil det være let at se hvem, fordi Skat gemmer en log over alle transaktioner i forhold til personforhold, siger Charlotte Bagger Tranberg.
+Myndighederne skal som udgangspunkt gemme den type oplysninger i seks måneder, men de kan, når der er særlige forhold, lagres i fem år. Charlotte Tranberg vurderer dog, at Skat gemmer den type oplysninger i fem år, fordi det svarer til de generelle frister for forældelse.
+B.T. skriver torsdag, at Helle Thorning-Schmidt fik uberettiget skattefradrag. Avisen refererer til et omkring et år gammelt notat fra Skat, der er fortroligt.
+Dermed kan Skat ifølge Charlotte Tranberg altså formentlig se, hvem der har været inde i S-formandens skattesag.
+Skal det så yderligere føre til en retssag mod en ansat i Skat, skal det dokumenteres, at de fortrolige oplysninger er videregivet til B.T. Og det vil være en opgave for politiet, fastslår Charlotte Tranberg.
+En nysgerrig ansats snuseri i sagen kan også få konsekvenser, også uden der kan dokumenteres et læk. Men det vil være ansættelsesretsligt, lyder det fra Charlotte Tranberg.
+Politiet skal nu undersøge Skats rolle i sagen. Det sker, efter at Skat torsdag bad ordensmagten tjekke, om det er en læk fra myndighederne, der har ført artiklen i B.T. om Helle Thorning-Schmidt.
+Selv afviser Helle Thorning-Schmidt, at hun har et udestående med Skat. Og der er ifølge eksperter heller ikke noget juridisk galt i sagen.
+Det er uvist, om Skats datalog allerede har udpeget kandidater til lækken, men i følge Skats departementschef Peter Loft har han ikke kendskab til medarbejdere, der står bag.

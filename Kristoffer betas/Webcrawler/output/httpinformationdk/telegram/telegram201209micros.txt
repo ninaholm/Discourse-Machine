@@ -1,0 +1,4 @@
+Microsoft lukker sikkerhedshul i Explorer
+Man kan nu downloade et fix, der lukker sikkerhedshullet i Microsofts netbrowser.
+
+

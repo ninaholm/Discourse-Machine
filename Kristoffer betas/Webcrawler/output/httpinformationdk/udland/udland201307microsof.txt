@@ -1,0 +1,49 @@
+Microsoft gav NSA adgang til krypteret kommunikation
+Nye hemmelige papirer fra den tidligere efterretningsagent, Edward Snowden, viser, at den amerikanske softwaregigant har bistået USA’s efterretningstjenester med at aflure webchat og videopkald over Skype
+
+
+ 
+	Microsoft har bistået USA’s efterretningstjenester med at opsnappe brugernes kommunikation, blandt andet ved at hjælpe efterretningstjenesten NSA med at omgå softwarefirmaets egen kryptering. Det fremgår af tophemmelige dokumenter, som The Guardian er kommet i besiddelse af.
+
+	Materialet, som stammer fra den tidligere it-konsulent i NSA, Edward Snowden, der nu er flygtet fra USA, kaster yderligere lys over omfanget af det samarbejde, som har stået på mellem Silicon Valley og efterretningstjenesterne igennem de seneste tre år. Materialet giver også yderligere indblik i det tophemmelige overvågningsprogram, Prism, som The Guardian og Washington Post har afsløret de seneste uger.
+
+	De senest lækkede dokumenter viser, at:
+
+	- Microsoft hjalp NSA med at omgå sin kryptering. Det skete på anmodning fra efterretningstjenesten selv, idet denne var bekymret for, at den ikke ville være i stand til at opsnappe webchat på den nye Outlook.com portal.
+
+	- NSA havde allerede adgang til e-mail på Outlook.com, herunder til Hotmail forud for disses kryptering.
+
+	- Softwaregiganten har arbejdet sammen med FBI om at give NSA lettere adgang via Prism til sin cloud-lagringstjeneste SkyDrive, som har over 250 millioner brugere på verdensplan.
+
+	- Microsoft har også samarbejdet med FBI’s Data Intercept-enhed om at »forstå« de potentielle problemer ved en funktion i Outlook.com, der giver brugerne mulighed for at oprette e-mail-aliaser.
+
+	- I juli sidste år, ni måneder efter at Microsoft havde købt Skype, pralede NSA med, at en ny funktion havde tredoblet mængden af de Skype-videoopkald, som bliver opsamlet via Prism.
+
+	Materiale opsamlet via Prism deles rutinemæssigt med FBI og CIA – en proces, som i et enkelt NSA dokument betegnes som en »holdsport«.
+
+	Direkte adgang
+
+	De seneste afsløringer af NSA’s metoder udstiller yderligere spændingerne mellem Silicon Valley og Obama-administrationen. Alle de store teknologivirksomheder har længe presset regeringen for at gøre det muligt for dem åbent at fortælle om det fulde omfang og karakteren af deres samarbejde med NSA for herved at imødekomme deres kunders bekymring for privatlivets fred.
+
+	I juni kunne The Guardian afsløre, at NSA igennem Prism-programmet gjorde krav på at have »direkte adgang« til mange af de store internet-firmaers systemer, herunder Microsoft, Skype, Apple, Google, Facebook og Yahoo.
+
+	Den hemmelige domstol tillod denne kommunikation at blive opsamlet, uden at der skal foreligge nogen retskendelse for navngivne enkeltpersoner i de tilfælde, hvor NSA’s agenter vurderer, at de bedømmer det som 51 procent sikkert, at deres mål ikke er amerikanske statsborgere og ikke befinder sig på amerikansk jord på tidspunktet.
+
+	’Dit privatliv er vores prioritet’
+
+	Siden Prisms eksistens blev dokumenteret, har Microsoft og de øvrige selskaber, der er anført i NSA’s dokumenter som udbydere, nægtet ethvert kendskab til programmet og insisteret på, at efterretningstjenesterne ikke har nogen hemmelige bagdøre til deres systemer.
+
+	Microsofts nyeste pr-kampagne, der blev lanceret i april, understreger virksomhedens påståede engagement i privatlivets fred med sloganet: »Dit privatliv er vores prioritet.«
+
+	Tilsvarende hedder det i Skypes officielle privatlivspolitik: »Skype er forpligtet til at respektere dit privatliv og fortroligheden omkring dine personlige oplysninger, dine trafikoplysninger og dit kommunikationsindhold.«
+
+	Samarbejdet stikker dybt
+
+	Men de lækkede interne hemmeligt stemplede NSA-nyhedsbreve tyder på, at samarbejdet mellem efterretningstjenesterne og it-virksomhederne stikker dybt og har stået på igennem længere tid.
+
+	De senest lækkede dokumenter stammer fra NSA’s særlige division, Special Source Operations (SSO), som Snowden betegner som tjenestens »kronjuvel«. SSO er ansvarlig for alle programmer, der afsøger de amerikanske kommunikationssystemer gennem virksomhedspartnerskaber såsom Prism.
+
+	Foreholdt disse afsløringer forklarer Microsoft i en erklæring til The Guardian: »Når vi opgraderer eller opdaterer vores produkter, er vi ikke fritaget for at skulle rette os efter eksisterende eller fremtidige love og pålæg (...) Vi tager vores forpligtelser over for vores kunder og til at overholde lovene meget alvorligt, og udleverer altid kun kundedata for at imødekomme en retslig afgørelse.«
+
+© The Guardian og Information. Oversat af Niels Ivar Larsen.
+

@@ -1,0 +1,13 @@
+Her virker din mobiltelefon overhovedet ikke
+Det er umuligt at foretage et mobilopkald fire steder i Danmark. 155 steder har problemer med forbindelsen.
+
+
+ Der findes mindst fire komplette sorte huller på mobildækningskortet i Danmark. Det fremgår af en kortlægning, som Teknologisk Institut har udført på vegne af Erhvervsstyrelsen, skriver netavisen Version2.
+Teknologisk Institut har med fire forskellige mobiltelefoner målt mobildækningen på de fire danske mobilnetværk fra TDC, Telia, Telenor og 3.
+I fire ud af 419 målepunkter var det umuligt at foretage et mobilopkald. De fire steder, Hesnæs på Østfalster, Lystlundvej ved Holstebro, Stevns Klint og Teglkås på Bornholm, var der nemlig slet ingen forbindelse på nogen af de fire netværk uanset mobiltelefon.
+I alt var der problemer i 155 af målepunkterne. Ifølge rapporten fra Teknologisk Institut viste det sig, at der som regel var flere kombinationer af netværk og mobiltelefoner, som gav tilstrækkelig dækning, mens andre måtte give op.
+Derfor kan du prøve et andet teleselskab eller en anden mobiltelefon, hvis du bor i et boligområde med ringe mobildækning.
+Målingerne er også blevet sammenlignet med de dækningskort, som teleselskaberne offentliggør, og ifølge Teknologisk Institut angav teleselskabernes kort en bedre dækning på cirka halvdelen af de steder, hvor der var flest problemer.
+Kortene er altså ofte misvisende, skriver Version2.
+De fire mobiltelefoner i testen var en Nokia C2-01, Nokia 1800, Apple Iphone 4S og Samsung Galaxy S3.
+ IPhone 4S havde suverænt flest problemer, mens Samsung Galaxy S3 havde færrest. Apples iPhone 4S havde i gennemsnit fejl i 10 procent af testene, mens der i gennemsnit kun var cirka fire procent fejl for de tre øvrige telefoner.

@@ -1,0 +1,15 @@
+900.000 danskeres cpr-numre lækket ved en fejl
+900.000 danskere risikerer at blive udsat for datakriminalitet efter en alvorlig fejl på CPR-kontoret.
+
+
+ CPR-kontoret under Økonomi- og Indenrigsministeriet har onsdag ved en fejl lagt 900.000 danskeres cpr-numrene frit frem på internettet. De risikerer dermed at blive ofre for identitetstyveri og anden datakriminalitet, skriver Børsen.dk.
+De danskere, der er berørt af fejlen, har registreret sig på dem såkaldte Robinson-liste, der betyder, at man ikke ønsker adresserede reklamer, samt at virksomheder ringer uopfordret til én med tilbud og reklamer.
+Datalækagen blev ifølge børsen.dk opdaget af Finn Gilling, der driver firmaet Gilling ApS, som i over 10 år har arbejdet med personfølsomme data som statens distributør af ejendomsoplysninger.
+- Vi reagerer med det samme, og skriver til CPR-kontoret, at der er kommet cpr-numre på listen.
+- Vi fik først klokken 19.29 svar fra CPR-kontoret om, at listen var taget ned. Min opfattelse er, at det danske cpr-nummer-system er så kompromitteret, at cpr-nummeret alene ikke mere bør kunne benyttes til nogen former for online-transaktioner, siger Finn Gilling til Børsen.dk.
+Kontorchef på CPR-kontoret Carsten Grage bekræfter ifølge Børsen.dk, at hundredtusindvis af danskeres cpr-numre er blevet lækket.
+- Fejlen er sket hos CSC, der siden 2000 har leveret en datafil hvert kvartal. Af en eller anden grund er cpr-numrene denne gang kommet med sammen med personernes navne og adresser, siger Carsten Grage til Børsen.dk.
+Han forventer en hurtig redegørelse fra CSC om forløbet.
+Ifølge Carsten Grage har lækagen stået på i 50 minutter, før CPR-kontoret lukkede for adgang. Op mod 18 firmaer har i dette tidsrum hentet listen til brug for deres markedsføring. Firmaerne har i dag til klokken 16 til at bekræfte over for CPR-kontoret, at data er slettet, skriver Børsen.
+Sagen om fejlen på CPR-kontoret sker i kølvandet på flere ugers debat om datasikkerhed i Danmark.
+For omkring to uger siden lækkede hackere cpr-numrene på 91 folketingsmedlemmer, der var med til at stemme en lov igennem, som opretter et nyt center for cybersikkerhed.

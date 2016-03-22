@@ -1,0 +1,18 @@
+Carlsen i knusende sejr mod Anand
+Nordmanden vandt Masters Final efter omkamp mod Caruana
+
+
+ Meget overraskende så det længe ud til at den 20-årige Fabiano Caruana ville vinde den superstærke Master Final-turnering. Han førte klart efter første turnus i Sao Paolo, men da man rykkede til Bilbao, kom Magnus Carlsen i lyntempo, slog både italieneren og verdensmesteren Anand – og efter de ti runder havde man denne slutstilling (med fodboldpoints): 1. Carlsen, 17 p. 2. Caruana, 17 p. 3. Aronian, 11 p. 4. Karjakin, 10 p. 5. Anand, 9 p. 6. Pons, 8 p. Carlsen og Caruana spillede derefter lynskak om førstepladsen – her var nordmanden suveræn og vandt ubesværet 2-0.
+Anand var en skygge af sig selv. Hans ni points blev opnået i form af ni remiser. Han vandt altså ikke et eneste parti – og nederlaget mod Carlsen var til at tage og føle på. Da hvid blæste til angreb, blev den indiske verdensmester fejet af brættet:
+1.e4 c5 2.Sf3 d6 3.Lb5+ ...
+Carlsen spiller alt muligt i åbningen.
+3. - Ld7 4.Lxd7+ Dxd7 5.c4 Sf6 6.Sc3 g6 7.d4 cxd4 8.Sxd4 Lg7 9.f3 Dc7 10.b3 Da5 11.Lb2 Sc6 12.0–0 0–0 13.Sce2 Tfd8 14.Lc3 Db6 15.Kh1 d5 16.Sxc6 bxc6 17.De1 Tdc8 18.e5!
+Se diagrammet.
+Here we go! I resten af partiet synes der ligefrem at være klasseforskel!
+18. - Se8 19.e6! fxe6 20.Sf4 Lxc3 21.Dxc3 d4 22.Dd2 c5 23.Tae1 Sg7 24.g4! - sort snøres sammen - Tc6 25.Sh3!
+Planen er gribende enkel: Dh6 og Sg5 vil fremkalde matmuligheder.
+25. - Se8 26.Dh6 Sf6 27.Sg5 d3 28.Te5 - (truer med det snedige 29.Sxh7 Sxh7 30.Dxg6+ og tæppe) - Kh8 29.Td1 Da6 30.a4 ...
+Og Anand opgav. Carlsen var naturligvis meget tilfreds med dette parti - ikke mindst med den omstændighed, at verdensmesteren måtte opgive i en stilling, hvor han materielt var foran med en bonde. Men han var hjælpeløs over for 31.Txd3, hvorefter Carlsen placerer begge tårne i e-linjen og inhalerer begge de sorte bønder der. Plukke, plukke dugget strå ...
+Efter turneringen har Carlsen øget sit forspring på verdensranglisten til 2.848, ny personlig rekord. Aronian er på andenpladsen med 2.815, Kramnik nr. 3 med 2.795, Radjabov nr. 4 med 2.790, Caruana nr. 5 med 2.787, Anand og Karjakin på en delt 6. plads med 2.775.
+Carlsen er nu kun tre points fra Kasparovs legendariske rekord på 2.851 – faktisk ville han have passeret denne milepæl, hvis han havde slået Aronian (med sort) i sidste runde. Men det er kun et spørgsmål om tid, inden det sker.
+

@@ -1,0 +1,16 @@
+Rapport: Skats dyre it-systemer bør droppes
+To af Skats dyre it-systemer har så mange fejl, at de bør udskiftes, lyder konklusionen i ny rapport.
+
+
+ På lang sigt bør Skats it-system EFI, der har kostet flere hundrede millioner, skrottes. Systemet er fyldt med alvorlige fejl, lyder det i et udkast til en rapport fra konsulentfirmaet Accenture.
+Det skriver Berlingske.
+Accenture har lavet en omfattende teknisk analyse af EFI, Et Fælles Inddrivelsessystem, og it-systemet Debitormotor Indrivelse, DMI. Og konklusionen er ikke til at tage fejl af.
+- Der er så fundamentale funktionelle fejl, der ikke kan og aldrig vil kunne blive udbedret i EFI og DMI-systemerne, står der ifølge Berlingske i et udkast til rapporten fra august.
+Skat skal på kort sigt undlade at bruge systemerne og på lang sigt overveje at udskifte de to systemer, lyder Accentures anbefaling.
+- Konklusionen er det endegyldige bevis på, at EFI er en dødssejler i så ringe forfatning, at det ikke står til at redde. Der er tale om en frygtelig skandale, siger lektor ved Datalogisk Institut ved Københavns Universitet Erik Frøkjær til Berlingske.
+Rapporten kommer mindre end en uge efter, at Skat suspenderede al automatiseret inddrivelse af gæld via EFI.
+Det skete på baggrund af en færdig delrapport fra Kammeradvokaten. Her var det beskrevet, at systemet har opkrævet gæld, der egentlig var forældet. Systemet har også været kritiseret for slet ikke at opkræve gæld.
+- Jeg må dog allerede nu sige, at jeg har svært ved at se, at EFI bliver det bærende element i inddrivelsen i de kommende år, sagde skatteminister Karsten Lauritzen (V) dengang til Ritzau.
+ EFI-systemet har været forsinket ad flere omgange de seneste 10 år, og problemerne med systemet er fortsat, efter det blev taget i drift i 2013.
+Rigsvisionen opgjorde ifølge Berlingske i 2014 prisen på EFI til 608 millioner kroner. DMI har ifølge avisens oplysninger kostet omkring 300 millioner.
+

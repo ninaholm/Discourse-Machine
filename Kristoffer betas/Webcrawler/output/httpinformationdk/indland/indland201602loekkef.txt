@@ -1,0 +1,39 @@
+Løkke får kritik for misvisende overvågningsforklaring
+Til Folketinget har Lars Løkke Rasmussen sagt, at det er muligt for politiet at indhente oplysninger om en mistænkts færden, hvis der er tale om en ’meget, meget’ alvorlig forbrydelse. Men netop masteoplysninger, som registreres af teleselskaberne, og som kan afsløre en persons bevægelser, har politiet let adgang til
+Lars Løkke Rasmussen (V) har ifølge en række eksperter ikke helt styr på, hvor meget – eller hvor lidt – det egentlig kræver at få udleveret oplysninger om danskernes bevægelser via teleselskaberne.
+
+
+ Statsminister Lars Løkke Rasmussen (V) sagde i sidste uge til Folketinget, at det med en dommerkendelse er muligt for politiet at indhente oplys- ninger fra teleselskaber om en mistænkts færden, hvis der er tale om en ’meget, meget’ alvorlig forbrydelse.
+Det kan ske via de såkaldte masteoplysninger, som teleselskaberne i dag er forpligtede til at registrere, og som viser, hvilke master en mobiltelefon har forbundet til, når der er blevet foretaget opkald eller sendt og modtaget sms’er.
+Men det er langt fra hele sandheden, at det kan lade sig gøre i tilfælde, hvor der er mistanke om en ’meget, meget’ alvorlig forbrydelse. Det fastslår flere jurister.
+Jørn Vestergaard, der er professor i strafferet på Københavns Universitet, siger, at tærsklen for, hvornår politiet kan indhente oplysninger om en mistænkts bevægelsesmønstre er ’meget lav’.
+»Det kan man sådan set gøre i stort set alle tilfælde, hvor det overhovedet har interesse. Derfor er det også misvisende, når Lars Løkke Rasmussen giver udtryk for, at tærsklen er højere, end den i virkeligheden er,« siger han.
+Søren Sandfeld Jakobsen, der er juraprofessor på Aalborg Universitet, vurderer ligeledes, at masteoplysningerne kan udleveres ’forholdsvis let’ til politiet.
+Lempelig adgang
+Et notat fra Justitsministeriet, der er fra 2014, viser nemlig, at det er muligt for politiet at indhente netop sådanne historiske masteoplysninger »alene« ved hjælp af reglerne om såkaldt edition.
+Det betyder, at det i langt de fleste sager om straffelovsovertrædelser vil være muligt at indhente masteoplysninger, selv om det kræver en dommerkendelse, forklarer Jørn Vestergaard.
+Sådan er det også i praksis, siger advokat Kristian Mølgaard, der er formand for Landsforeningen af Forsvarsadvokater.
+»Min oplevelse er, at det er overordentligt nemt at få en tilladelse til at indhente den type oplysninger,« siger han.
+Jesper Lund, der er formand for IT-Politisk Forening, kritiserer derfor Lars Løkke Rasmussens udtalelser i Folketinget om, at masteoplysninger kan indhentes af politiet i forbindelse med ’meget meget’ alvorlige forbrydelser.
+»Han vil selvfølgelig gerne fremhæve, at der ikke er fri adgang til oplysningerne, men han bruger et dårligt eksempel,« siger Jesper Lund.
+Årsagen til, at oplysningerne om mistænktes bevægelsesmønstre kan udleveres efter de lempelige regler, er, at det at indhente oplysningerne ikke betragtes som et såkaldt indgreb i meddelelseshemmeligheden.
+Modsat betragtes det som et indgreb i meddelelseshemmeligheden, hvis politiet vil have udleveret oplysninger om, hvem der har ringet til hvem og hvornår.
+Men det gælder altså ikke i forhold til masteoplysninger, der kan vise en persons bevægelsesmønstre.
+Juraprofessor Søren Sandfeld Jakobsen mener dog, at den konstruktion virker ’noget tvivlsom’. Han vurderer, at masteoplysningerne utvivlsomt udgør overvågning og dermed et indgreb i privatlivets fred.
+Den vurdering deler også Jesper Lund fra IT-Politisk Forening, som mener, at det er kritisabelt, at det er tilladt at udlevere oplysningerne efter de lempelige regler.
+»Der er ikke rigtig nogen beskyttelse i dansk ret af oplysninger om, hvor du har færdedes. Lovgivningen er ikke gearet til, at det i dag er meget let at følge et stort antal personer med elektroniske midler«.
+Skal adgangen ændres?
+Lars Løkke Rasmussens bemærkninger om masteoplysninger faldt under Folketingets spørgetime, hvor Liberal Alliances politiske leder, Anders Samuelsen, spurgte ind til regeringens planer om at genindføre overvågning af danskernes internetaktivitet.
+Netop masteoplysninger er en af de ting, som skal registreres oftere ifølge Justitsministeriets nye forslag til, hvordan internetovervågningen skal fungere. Det fremgår af mødedokumenter fra ministeriet, som brancheorganisationen Teleindustrien har publiceret.
+Hvor det i dag registreres, hvor en mobiltelefon fysisk befinder sig, når der foretages opkald eller sendes sms’er, så skal det ifølge forslaget også ske ved internetaktivitet.
+Hvordan det præcist skal foregå, er, som Information tidligere har beskrevet, uklart. Men det kan potentielt øge registreringen af danskernes fysiske bevægelser væsentligt, fordi smartphones i dag konstant er forbundet til internettet.
+Om politiet også vil få lempelig adgang til masteoplysninger, der bliver registreret som følge af internetovervågningen, står dog ikke klart.
+’Strengt nødvendigt’
+Justitsministeriet har i forslaget til, hvordan internetovervågningen skal udformes, understreget, at der ikke vil ske nogen ændringer i politiets adgang til de oplysninger, som teleselskaber og internetudbydere registrerer. Det kunne tyde på, at den lempelige adgang til masteoplysninger ikke bliver lavet om.
+Men tilbage i 2014 – efter en skelsættende dom fra EU-Domstolen, hvor domstolen erklærede EU’s såkaldte logningsdirektiv for ugyldigt – analyserede Justitsministeriet de danske logningsregler.
+Og i en fodnote i et notat skrev ministeriet, at det i forbindelse med en kommende revision af logningsreglerne ville »overveje forholdet mellem Danmarks internationale forpligtelser med hensyn til retten til respekt for privatlivet« og myndighedernes adgang til blandt andet masteoplysninger efter de lempelige regler om edition.
+Det skete, efter at EU-Domstolen havde lagt vægt på, at EU-direktivet – som medlemslandene selv skulle implementere – ikke fastsatte nogen grænser, der gjorde, at det kun var i tilfælde, hvor det var ’strengt nødvendigt’, at landenes myndigheder kunne bruge de registrerede oplysninger fra teleselskaber og internetudbydere.
+Juraprofessor Jørn Vestergaard vurderer, at fodnoten i Justitsministeriets notat viser, at ministeriet er klar over, at der kan være grund til at stramme op på de lempelige regler om udlevering af masteoplysninger, hvis de skal leve op til kravet om respekt for privatlivet, som EU-Domstolen har lagt vægt på.
+Information har derfor spurgt Justitsministeriet, om ministeriet har fulgt op på denne vurdering. Men ministeriet svarer blot, at de »overvejelser vil fremgå« i det kommende lovudkast om internetovervågning.
+Information har også spurgt Rigsadvokaten, hvor mange gange politiet har benyttet sig af muligheden for at få udleveret masteoplysninger via reglerne for edition, men det har ikke været muligt at få oplyst. Det har heller ikke været muligt at få en kommentar fra Lars Løkke Rasmussen (V).
+

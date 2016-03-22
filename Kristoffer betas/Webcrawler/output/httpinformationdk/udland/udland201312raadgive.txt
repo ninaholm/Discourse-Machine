@@ -1,0 +1,41 @@
+Rådgivere til Obama: ’Forbyd NSA at registrere telefon-metadata’
+Et undersøgelsespanel nedsat af Det Hvide Hus er klar med flere anbefalinger, der vil svække spiontjenesters beføjelser til at udsætte borgere for ikkemålrettet overvågning
+
+
+ 
+	Det skal være forbudt for den amerikanske efterretningstjeneste National Security Agency (NSA) at undergrave internettets sikkerhed gennem dens aktiviteter, og samme tjeneste bør også få frataget sine beføjelser til at registrere telefonopkaldsdata i samlede mængder. Sådan lyder et par af anbefalingerne fra et undersøgelsespanel nedsat af Det Hvide Hus.
+
+	I en rapport på 300 sider, som panelet har udarbejdet specielt til præsident Obama, fremsættes i alt 46 anbefalinger, deriblandt den, at den myndighedsinstans, der kan give grønt lys for at udspionere udenlandske ledere, må placeres på et højere niveau end i dag.
+
+	Selv om den er langt mere skånsom, end aktivister havde håbet på, og selv om den endnu ikke er ratificeret af præsident Obama, sætter rapporten fra hans Review Group on Intelligence and Communications Technology Det Hvide Hus under stigende pres i forhold til dets såkaldte ’bulk’-indsamlingsprogrammer. Både fra de amerikanske domstole og fra forretningsinteresser.
+
+	I sin rapport anbefaler panelet, der ledes af forskere og tidligere sikkerhedsfolk, at NSA får frataget sin beføjelse til at indsamle meta-data om amerikaneres telefonopkald. I stedet, foreslås det, skal private virksomheder såsom teleselskaber registrere deres kundeoplysninger i et format, som NSA kan få adgang til – men kun på givent forlangende.
+
+	Anbefalingen vil sandsynligvis fremkalde vrede hos efterretningstjenesten, der foretrækker selv at have direkte og permanent adgang, men den kan også komme på tværs i teleselskaberne, som har advaret de udvalg, der tumler med ambitiøse reformer i Kongressen om, at en sådan ordning vil være både upraktisk og potentielt farlig.
+
+	»Efter vores opfattelse kan statsmagtens nuværende registreringer af bulk metadata kompromittere den offentlige tillid, privatlivsbeskyttelsen og borgernes frihed«, hedder det i rapporten.
+
+	»Det bør ikke være tilladt for statsmagten at kunne indsamle og lagre mængder af ikkebearbejdede, ikkeoffentlige personoplysninger om amerikanske borgere med henblik på at muliggøre fremtidige søgninger og data-mining for udenlandske efterretningstjenesters formål«, hedder det videre.
+
+	Hallo ... Frau Merkel?
+
+	Trods afsløringer af, at NSA har aflyttet telefoner tilhørende politiske ledere som Tysklands kansler, Angela Merkel, foreslår rapporten kun minimale reformer, for så vidt angår aktiviteter i forhold til udlændinge. Dog anbefales »højere clearing, således at det bliver muligt at identificere både brug af og grænser for overvågning af udenlandske ledere og i andre lande«.
+
+	Hvad angår internetsikkerhed, erklærer rapportens forfattere, at den amerikanske statsmagt ikke bør »undergrave bestræbelserne på at skabe krypteringsstandarder« og ikke »forpurre, underminere, svække eller gøre kommerciel sikkerhedssoftware sårbar«.
+
+	NSA-dokumenter offentliggjort af The Guardian i september afslørede, hvordan tjenesten havde brugt sin centrale rolle i forhold til at fastsætte krypteringsstandarder til at installere såkaldte bagdørs-anordninger, der kunne overvåge privat internettrafik – et skridt, der fremkaldte en storm af protester blandt internetvirksomheder.
+
+	Men rapportens forfattere gør ikke meget ud af at forholde sig til en række andre af de privatlivskrænkelser, som blev afsløret af NSA-whistleblower Edward Snowden. Flere af deres opfordringer går sågar ud på, at der skal indføres strammere kontrolprocedurer ved medarbejderansættelser og udvælgelse af samarbejdspartnere med adgang til følsomme oplysninger. Hensigten med dette skulle være at gøre det lettere at forebygge flere læk fra flere whistleblowere.
+
+	Electronic Frontier Foundation, en privatlivsbeskyttelses-ngo, som har sagsøgt Obama-regeringen for at have tilladt bulk-registrering, udtrykker skuffelse over undersøgelsespanelets rapport.
+
+	»Panelet søsætter en række interessante reformforslag, og vi er især glade for at se det tage afstand fra NSA’s angreb på kryptering og andre af de sikkerhedssystemer, som folk er afhængige af,« siger advokat Kurt Opsahl fra EFF og fortsætter:
+
+	»Men vi er skuffede over, at anbefalingerne lader en dør stå åben for at kunne fortsætte ikkemålrettet spionage. Masseovervågning er stadig utåleligt, uanset om det er private selskabers servere, der rummer oplysningerne frem for statsmagtens datacentre.«
+
+	Efter et møde med rapportens forfattere onsdag erklærede Det Hvide Hus, at præsident Obama vil tage et eksemplar med sig som læsning i juleferien og træffe beslutning om, hvilke anbefalinger han eventuelt ønsker, der skal gås videre med, inden han skal holde sin State of the Union-tale den 28. januar.
+
+© The Guardian og Information
+
+Oversat af Niels Ivar Larsen
+

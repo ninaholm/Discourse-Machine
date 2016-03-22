@@ -1,0 +1,15 @@
+Caruanas march mod toppen bremset
+Den italienske stormester tabte pusten i Baku
+Skak
+
+
+ Mens en hel skakverden med spænding ser frem mod VM-matchen mellem Magnus Carlsen og Viswanathan Anand, der indledes den 8. november i den russiske kurby Sotji ved Sortehavet, har en række af de øvrige skakstjerner spillet i Baku.
+Der var tale om en af FIDE’s grand prix-turneringer, og den italienske stormester Fabiano Caruana var efter sine forrygende resultater på det seneste klar favorit. Han lagde da også ud med brask og bram, men tabte pusten og led to nederlag i anden halvdel af turneringen, således som hvid i 9. runde mod russeren Alexander Grischuk:
+1.d4 Sf6 2.c4 g6 3.f3 c5 4.dxc5 e6 5.Le3 b6 6.Sc3 La6 7.cxb6 axb6 8.Lg5 h6 9.Lh4 g5 10.Lf2 Lxc4 11.e4 Lxf1 12.Kxf1 Sc6 13.Sge2 Lc5 14.Sd4 De7 15.Scb5 Kf8 16.a3 Sxd4 17.Sxd4 Kg7 18.b4 Lxd4 19.Lxd4 e5 20.Lxb6 De6 21.Le3 d5 22.Db3 Thb8 23.Ke2 Da6+ 24.Dd3 De6 25.Db3 Da6+ 26.Dd3 De6 27.exd5 Sxd5 28.Kf2 Td8 29.Dc4 Df5 30.The1 Tac8 31.Lc5 Sf4 32.Kg1?
+En fejl i en vanskelig stilling. Kongen skulle have været til f1 for at dække tårnet på e1, se blot:
+32. Td2 33.Ta2 Sxg2 34.Txd2 Sxe1 – sic! 35.Tf2 Sxf3+ 36.Kg2 e4 37.Te2 Te8 38.a4 Df4 39.Kh1 Td8 40.Dc3+ f6 41.Dc2 Td3 42.a5 Se1 ... Se diagrammet. Sømmet i hvids ligkiste. Resten behøver ikke mange kommentarer:
+43.Txe1 Td2 44.Dxd2 Dxd2 45.Te3 f5 46.Kg1 Da2 47.Te1 f4 48.a6 e3 49.Ld4+ (eller 49.a7 Df2+ 50.Kh1 Dxe1+ 51.Kg2 Df2+ 52.Kh1 Df1+ og mat) Kg6 50.Ta1 Df2+ 51.Kh1 Df3+ 52.Kg1 Dg4+ – og Caruana opgav, da sort i næste træk spiller f3 med let gevinst.
+Trods dette nederlag lykkedes det Caruana at sikre sig en førsteplads – men på deling med den rutine- rede israelske stormester Boris Gelfand, der i sin tid var en af Sovjetunionens (!) mest lovende spillere og stadig er i stand til at bide, når man stikker hånden i munden på ham. Caruana tabte cirka fem ratingpoint på den såkaldte liveratingliste, der i skrivende stund ser således ud for top-seks’ vedkommende:
+1. Carlsen, Norge, 2.863, 2. Caruana, Italien, 2.839, 3. Topalov, Bulgarien, 2.800, 4. Aronian, Armenien, 2.797, 5. Grischuk, Rusland, 2.795 og 6. Anand, Indien, 2.792.
+Gelfand rykkede med sin præstation i Baku op på en 12. plads med 2.759 point, et mulehår foran manden på 11. pladsen, den russiske eksverdensmester Vladimir Kramnik, der er noteret for 2.760.
+

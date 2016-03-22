@@ -1,0 +1,74 @@
+It-udviklere om nye regler: Vi er nervøse for at blive slagtet
+Nye europæiske patentregler giver store virksomheder mange muligheder for at tage softwarepatenter, hvilket udfordrer selve grundlaget for mindre it-virksomheder, siger kritikere. Et problem er, at den europæiske patentmyndighed tjener på antallet af patenter
+Charlie Nielsen er direktør for og stifter af webbureauet Divendo. Han frygter, at Den Europæiske Patentmyndighed (EPO) vil lade store virksomheder som Microsoft tage patent på software og bremse den vidensdeling, der er softwarebranchens motor.
+
+
+ 
+	De nye europæiske regler for patenter er med til at tørlægge den brønd af ideer, der gav os alt fra Google til underskoven af danske it-virksomheder.
+
+	Sådan lyder advarslen fra en række folk fra softwaremiljøet mod det nye regelsæt for patenter i Europa (enhedspatentet, red.), der skal til afstemning den 25. maj.
+
+	En af dem er Charlie Nielsen, der er direktør for og stifter af webbureauet Divendo. Fra sin base på Amagertorv midt i København arbejder han med at designe og udvikle hjemmesider, webshops og mobil-apps for kunder.
+
+	»Det er vores fremtid, det handler om,« siger han. »Det software, vi arbejder med i dag, er der ikke begrænsninger på. Men vi risikerer meget hurtigt at nå derhen, hvor vi får mere fokus på at undgå tvister end at udvikle nye ideer.«
+
+	Det, Charlie Nielsen og de andre udviklere frygter, er, at Den Europæiske Patentmyndighed (EPO) vil bruge den udvidede magt, de får, til at lade store virksomheder som Microsoft tage patent på software.
+
+	Hvilket vil være i strid med det åbne forhold til vidensdeling, der i mange år har været softwarebranchens motor.
+
+	»Det demotiverer den lille mand, hvis han skal være nervøs for at blive slagtet af patenter,« siger Charlie Nielsen.
+
+	Divendo bruger software-programmer som Drupal og WordPress, der har det til fælles, at de er frit tilgængelige på nettet, deraf navnet Open Source Software.
+
+	Det, Divendo og de andre tjener penge på, er at samle brudstykker af den slags programmer samt specialudvikle og tilpasse dem til den enkelte kundes behov. Altid med det udgangspunkt, at selve softwaren er der ingen, der ejer.
+
+	»Det smukke ved denne vidensdeling er blandt andet, at hvis vi finder en fejl eller mulighed for forbedring, så korrigerer vi dette og indsender kildekoderettelsen til fælles anvendelse for alle. Og så er der hundredtusindvis af andre, der kan drage nytte af det,« siger Charlie Nielsen.
+
+	»Vi samler brudstykker af softwaren og leverer den som et færdigt produkt. Det er det, vi kan tage os betalt for. Men vi må aldrig tage os betalt for softwaren,« tilføjer han.
+
+Open Source Software er et enormt marked, og et program som WordPress er alene installeret mere end 60 millioner steder.
+
+	To ord gør forskellen
+
+	Det, de udviklere tager afstand fra, kan koges ned til to ord: »Som sådan«.
+
+	For i udgangspunktet er det ikke muligt at tage patent på software. I den Europæiske Patentkonvention står der i artikel 52, at »programmer til computere« ikke kan betragtes som opfindelser og dermed heller ikke noget, der kan tages patent på.
+
+	Men artiklen går et skridt videre og skaber en gråzone med rige fortolkningsmuligheder, for i dens paragraf tre står der, at det kun er software »som sådan«, der ikke kan patenteres.
+
+	Ifølge journalist og softwareekspert Glyn Moody har EPO taget dette »som sådan« og brugt det til at lade multinationale virksomheder som Microsoft og IBM tage patenter på software.
+
+	»De fortolker det meget løsere end eksempelvis de danske patentmyndigheder (Patent- og Varemærkestyrelsen, red.),« siger han.
+
+	Glyn Moody peger på, at EPO med kategorien ’computerimplementerede opfindelser’ slår fast, at det er muligt at tage patent på fremgangsmåder, der realiseres »helt eller delvist af et computerprogram«. Hvilket igen fortolkes sådan, at i det øjeblik, computerprogrammet »løser et teknisk problem«, kan det patenteres.
+
+	Det har EPO brugt til at tildele patenter på alt fra onlinesalg og pay-per-use til salg af madopskrifter på nettet.
+
+	EU-Kommissionen har vurderet, at der i 2002 var 30.000 EPO-patenter på computerimplementerede opfindelser. Et tal, der i dag kan være steget til op mod 100.000, vurderer IT-Politisk Forening herhjemme.
+
+	Selv skriver EPO, at computerimplementerede opfindelser er det område, hvor der er størst vækst i antallet af patenter.
+
+	Når de tal fremover kan ryge yderligere i vejret, hænger det sammen med den overbygning på patentsystemet, der er lagt op til med de nye regler kombineret med EPO’s udvidede rolle.
+
+	I dag kan man tage patent på et produkt gennem Patent- og Varemærkestyrelsen (hvilket kun er gældende i Danmark) eller EPO (hvor man krydser af, hvilke lande det skal gælde i).
+
+	Fremover kommer der en overbygning i form af enhedspatentet, som betyder, at et patent automatisk gælder i alle samarbejdets 24 aktive lande. Det system administreres også af EPO.
+
+	Patenter betaler for EPO
+
+	EPO har et indbygget incitament til at udbrede patenter til flest mulige områder, vurderer Glyn Moody. For organisationen, der har mere end 6.000 ansatte, er finansieret af gebyrer, de hiver hjem fra patentansøgninger.
+
+	På samme måde skal den nye fælles patentdomstol også finansieres af gebyrer fra tvister.
+
+	»De får alle deres penge fra gebyrer, mens den danske domstol (Sø- og Handelsretten, red.) er finansieret af staten. Derfor er de også mere optaget af retfærdighed, mens EPO er optaget af omsætning. Det er den menneskelige natur, hvis ens løn er afhængig af indtægter fra patenter, vil man også være mere tilbøjelig til at udstede patenter,« siger han.
+
+	Moody mener man i EU skal starte forfra og opbygge et system, der på samme måde som det danske er finansieret af skattekroner.
+
+	»De ansatte i EPO får bonusser for at udstede ekstra mange patenter. Det viser, der er noget galt med det institutionelle setup. Der er behov for en europæisk struktur, som garanterer at der bliver uddelt patenter af høj kvalitet. Ikke bare mange patenter,« siger han.
+
+	For Charlie Nielsen fra Divendo er frygten nu, at softwarebranchen skal sande til i en situation, hvor store selskaber som Microsoft bruger patenter til at forhindre små- og mellemstore virksomheder i at tænke nyt. Til skade for fremdriften i den ellers så dynamiske branche. Med de mange EPO-patenter på computerimplementerede opfindelser, går det allerede i den retning.
+
+	»De store selskaber vægter ikke innovationen. Sådan nogle som Nokia har ikke opfundet noget revolutionerende det seneste årti. De sidder bare og profiterer, lige så længe de overhovedet kan få lov,« siger han.
+
+	»For dem handler det om økonomi. Des mindre innovation, jo færre omkostninger er der også forbundet med det.«
+

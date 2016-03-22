@@ -1,0 +1,4 @@
+NemID dropper problem-platform til næste år
+Nets vil ikke bruge Java-platform til ny version af NemID efter problemer med login for tusindvis af danskere.
+
+

@@ -1,0 +1,49 @@
+Internetselskabers databaser udspioneres af USA
+En ny læk fra efterretningsagenturet NSA afslører et tophemmeligt program, der kan overvåge alle store internetselskabers databaser. Selskaberne afviser kendskab til programmet. Obama-regeringen kalder lækken en trussel mod USA’s sikkerhed
+ 
+	Den amerikanske efterretningstjeneste NSA, hvos hovedkvarter ses på billedet, har adgang til personoplysninger i selskaber som Microsoft, Google, Apple, Facebook, Skype og YouTube. Foto: Scanpix
+
+
+ 
+	Anonyme kilder i et af USA’s mest hemmelige efterretningsorganer, National Security Agency (NSA), lækkede for anden dag i træk torsdag tophemmelige oplysninger om regeringens udspionering af amerikanere og udlændinge til den britiske avis The Guardian og The Washington Post.
+
+	Onsdag offentliggjorde The Guardian en retskendelse fra en hemmelig domstol, som giver NSA adgang til teleselskabet Verizons telefonnumre, opkald og lokationer, om end ikke samtalernes indhold.
+
+	Denne gang lækkedes en powerpointpræsentation, som benyttes af NSA til at træne efterretningsofficerer i at søge efter personoplysninger i databaser hos amerikanske internetselskaber som Microsoft, Google, Apple, Facebook, Skype, YouTube og andre. Det var for offentligheden ukendt, at NSA har ubegrænset adgang til disse databaser.
+
+	Det hemmelige program hedder PRISM. Det anses for at være en slags arvtager til den ulovlige overvågning af amerikaneres kommunikation, som Bush-regeringen begyndte kort efter terrorangrebet i 2001.
+
+	PRISM blev gjort lovligt under Protect America Act vedtaget af Kongressen i 2007, men kun få medlemmer af Kongressen skal have været fuldt underrettet om NSA’s mulighed for at få adgang til internetselskabernes databaser.
+
+	Formelt kun udlændinge
+
+	Langt størsteparten af den globale internetkommunikation flyder gennem servere baseret i USA. Det angivelige formål med PRISM er at gå efter terrorister, spioner og handel med atomvåbenteknologi. Derfor er efterforskningen formelt begrænset til udenlandske personers kommunikation, men i realiteten omfatter den også mange amerikanere.
+
+	Obama-regeringen reagerede prompte på den nye afsløring ved at fremhæve, at kun udlændinges e-mail, video og anden kommunikation er genstand for udspionering, og at søgningen på databaserne er yderst begrænset.
+
+	Men The Guardian skrev i går, at hver syvende efterretningsrapport genereret af NSA er baseret på PRISM-programmet, og at det drejer sig om cirka 2.000 om måneden.
+
+	Alle de involverede internetselskaber afviser på det bestemteste at have kendskab til PRISM. Nogle af dem – eksempelvis Facebook – benægtede pure at have givet NSA permanent adgang til sin database. Selskaberne understregede dog, at de bliver nødt til at imødekomme lovlige ordrer fra regeringen.
+
+	Et af de fascinerende aspekter ved det seneste par dages opsigtsvækkende afsløringer af tophemmelige data er omstændighederne. Det sker nemlig på baggrund af en hidsig debat i USA om præsident Barack Obamas aggressive forfølgelse af folk, der lækker fortroligt materiale, af hvilke flere bliver retsforfulgt. Den mest prominente er menig Bradley Manning.
+
+	I den aktuelle sag overdrog whistleblowere 41 lysbilleder på powerpoint med forklarende tekst til de to aviser. Det vides ikke, om der er tale om en eller flere whistleblowere.
+
+	The Guardians kommentator, Glen Greenwald, der er en amerikanskfødt advokat og blogger med bopæl i Brasilien, er hovedpersonen i dramaet. Han fortalte i går The New York Times, at hans kilde er »en læser«. Greenwald tilføjede, at advokatvenner har advaret ham om, at regeringen vil søge at hænge ham ud i en retssag. Washington Post nævnte »en efterretningsofficer i NSA« som sin kilde.
+
+	Præsident Obamas efteretningskoordinator i Det Hvide Hus, James Clapper, virkede i går oprevet over afsløringen af de tophemmelige spionprogrammer.
+
+	’Forkastelig læk’
+
+	»Det er forkasteligt, at nogen har lækket informationer om dette vigtige og helt lovlige program (PRISM, red.), som beskytter vores nation mod en lang række trusler,« sagde Clapper.
+
+	NSA har længe frygtet, at offentligt kendskab til PRISM og udspioneringen af amerikanernes telefonlogbøger ville kompromittere internet- og teleselskabernes renommé hos deres kunder. Protester fra kunder, der vender sig mod en åbenlys krænkelse af deres privatliv, kan i sidste instans tvinge selskaberne til at afbryde samarbejdet med NSA.
+
+	Ikke overraskende blev afsløringen af PRISM-programmet i går fordømt over en bred kam af diverse borgerretsgrupper og politikere til højre og venstre. Ledende aviser tog også afstand fra den nationale sikkerhedsstat, som præsident Obama skal have videreudviklet efter sin forgænger, George W. Bush.
+
+	The New York Times fremhævede på lederplads, at Obama i valgkampen i 2007 kritiserede Bush for at have »opstillet et falsk valg mellem de friheder, vi værdsætter så højt og den sikkerhed, vi forventes at levere«.
+
+	Avisen konkluderer: »Regeringen har mistet al sin troværdighed i denne sag. Endnu en gang beviser Obama truismen, at Det Hvide Hus ikke alene vil benytte sig af al den magt, der tilfalder det, men sandsynligvis også vil misbruge beføjelserne.«
+
+	 
+

@@ -1,0 +1,41 @@
+En sensation for diabetespatienter, kemi- og miljøforskningen
+En specialestuderende fra Københavns Universitet har været med til at udvikle en maskine, der på 60 sekunder kan bestemme, hvilke molekyler der er i en gas. Den kan snart bruges til at stille medicinske diagnoser, til pålægspakning - og til at måle luftforurening
+
+
+ Et års ophold på University of Boulder i Colorado skulle blive afgørende for David Balslev-Clausens uddannelse. Her byggede den fysikstuderende fra Københavns Universitet nemlig en ganske særlig maskine:
+"Vi byggede et spektrometer, som kan sige, hvilke molekyler der er i hvilken som helst luft. Det har man kunnet længe, men med vores maskine bliver det både mere præcist, hurtigere og billigere end med de hidtil kendte metoder," siger David Balslev-Clausen. Forskningsgruppen bag maskinen var også noget særligt:
+"En af seniorforskerne fra min forskningsgruppe fik nobelprisen i 2005."
+- Hvordan var det at arbejde sammen med sådan nogle?
+"Man kan sige, at det lagde lidt stilen for, hvad det var for et ambitionsniveau, vi havde." 
+Og det ambitionsniveau levede gruppen op til: "Den version af et spektrometer var aldrig lavet før, og det lykkedes os at få den til at virke. Og med tiden vil der være store potentialer i den." 
+Så stort er potentialet i den nye metode til at bestemme stoffer i en gas, at den vil kunne bruges inden for flere store industrier og forskningsområder. 
+Ny gasmålingsmetode
+David Balslev-Clausen har siden opholdet i USA skrevet speciale om opbygning af maskinen og dens muligheder - helt grundlæggende er der tale om en ny måde at undersøge gasser på:
+"Det nye er, at man på en simpel måde kan finde og skelne mange forskellige stoffer, som findes i selv meget små mængder, og at man kan gøre det på meget kort tid. Faktisk kun 60 sekunder," siger han. Metoden kaldes 'optisk spektroskopi'. Den går ud på, at man tager en laserstråle og sender den igennem en gas. Ved hjælp af to spejle sendes lyset 30.000 gange frem og tilbage gennem gassen, hvor molekylerne vil absorbere bestemte farver af lyset:
+"Alt efter hvilke farver, der mangler, kan man se, hvilke molekyler der er i gassen. Hvis man eksempelvis sender CO2 ind i maskinen, vil det se ud på en bestemt måde."
+Og det er en klart bedre metode end de hidtil kendte:
+"Man har nogle kemiske metoder, som er meget besværlige. Det er sådan noget med at stå og blande væsker. Så har man noget, der hedder massespektroskopi, hvor man splitter molekylerne i ioner. Men det kan være svært at vide, hvilke molekyler, de enkelte ioner kommer fra, og desuden er det også en både dyr og besværlig metode." 
+Diabetes og mikrochip
+Den nye metode kan på sigt blandt andet bruges til at diagnosticere patienter, fortæller David Balslev-Clausen:
+"Vi havde nogle studerende, der åndede ind i maskinen. Og så kunne vi se, om de var rygere, ud fra hvor meget CO, der var. Vi kunne også se ændringer i mængden af CO2, der var i deres udåndingsluft, alt efter hvor længe de holdt vejret. Derfor kan det også bruges til at diagnosticere. Hvis der er bestemte stoffer i udåndingsluften, indikerer det forskellige sygdomme. Eksempelvis diabetes, leverfejl, astma og bestemte typer af cancer."
+- Så hvis jeg puster i maskinen, kan du på 60 sekunder se, om jeg har diabetes?
+"Ikke endnu. Men med tiden vil man kunne gøre det."
+I forbindelse med lufthavnssikkerhed kan teknikken også bruges:
+"Hvis en person eller et stykke bagage udsender stoffer, som f.eks. indikerer en bombe, kan lufthavnspolitiet skride ind."
+Også i produktionen af mikrochip vil teknikken kunne anvendes: "Der skal være meget ren luft, når man producerer mikrochip. Og der vil man kunne gå ind og tage målinger af luften hele tiden for at sikre, at der er rent. Man kan faktisk bare have spektrometret til at lyse ind gennem produktionskammeret, for laserstrålen vil ikke påvirke noget. Det er endnu en fordel ved metoden."
+Også når der skal pakkes pålæg, kan den optiske spektroskopi komme i anvendelse 
+"Flere firmaer bruger massespektroskopi på fødevarepakninger. For at sikre, at der er vakuum. De vil kunne spare meget besvær ved at skifte til optisk spektroskopi," siger Balslev-Clausen.
+Miljø
+I forhold til miljøundersøgelser har man også store forventninger til teknikken - og den del af det, vil David Balslev-Clausen gerne skrive en ph.d. om: "Jeg har søgt en ph.d.-stilling, hvor jeg skal undersøge indlandsisen på Grønland. Indlandsisen udgør et arkiv for nedbøren på Grønland og dækker mere end de sidste 100.000 år. Dele af isen er fyldt med luftbobler, som giver direkte information om tidligere tiders atmosfæriske forhold." 
+Disse luftbobler vil en helt ny forskergruppe åbne, og det vil David Balslev-Clausen gerne være med til: 
+"Med det nye spektrometer vil jeg meget hurtigere kunne se på indholdet af adskillige drivhusgasser, der findes i luftboblerne. Det vil kunne sige en hel masse om klimaudviklingen gennem de seneste 11.000 år."
+- Så skal du jo have sådan en maskine?
+"Ja, så vil jeg bygge et optisk spektrometer her i København."
+Indtil videre har han sammen med sine amerikanske kolleger skrevet en artikel til tidsskriftet Nature om deres maskine, og han regner med, at den bliver optaget: 
+"Jeg har selv svært ved at forstå det, men når mine amerikanske kolleger taler om det, så lyder det som om, at det virkelig er noget, der kommer til at revolutionere flere forskningsområder. Måske ikke så meget fysik - snarere inden for kemi, medicin og geofysik."
+- Det er banebrydende forskning, det her?
+"Nu skal jeg passe på, for nogle gange blæser man jo tingene stort op, og så ender det med ikke at blive så vildt endda. Men det her er et afgørende spring inden for spektroskopien. Det er der ingen tvivl om."
+- Har I husket at tage patent?
+"Det har de husket derovre. Ja."
+
+

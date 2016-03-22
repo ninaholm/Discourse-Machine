@@ -1,0 +1,8 @@
+Her er de forskellige måder at stemme på
+
+
+
+ MANUELT VALG: Den almindelige fremgangsmåde er, at vælgeren afleverer sit valgkort til valglisteføreren i det lokale, hvor der kan stemmes. Valglisteføreren finder herefter vælgeren i valglisten og krydser ham eller hende af, før stemmelisten kan udleveres.
+DIGITALT VALG: De steder, hvor der kan stemmes digitalt, registrerer den valgforordnede vælgeren ved hjælp af en pc og en stregkode-skanner. Stregkoden på valgkortet skannes og accepteres, og vælgeren får sin stemmeseddel.
+BREVSTEMMER: Når en brevstemme modtages i Folkeregistret, skannes følgebrevet ind via stregkoden. Hermed registreres brevet som en brevstemme i protokollen og vil automatisk også blive registreret i den elektroniske valgliste.
+Kilde: KMD.

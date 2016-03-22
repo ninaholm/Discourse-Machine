@@ -1,0 +1,12 @@
+Mange it-problemer hos det offentlige
+Det offentlige har før været plaget af it-problemer, som dem der hærger politiet på Bornholm for tiden.
+
+
+ Nogle eksempler på it-problemer i det offentlige.
+* Rejsekortet. Blev flere år forsinket.
+* Den digitale tinglysning. Blev meget forsinket og plaget af nedbrud, da systemet kom i gang i 2009.
+* Folkeskolen. Den nationale test gik død i april 2010. I 2007 var der så store problemer med afgangsprøverne, at eleverne måtte lave prøven i biologi på papir.
+* Det nye alarmberedskabs system SINE (SIkkerheds NEttet. Gik ned flere gange under klimatopmødet i København 2009.
+* Arbejdsformidlingens it-system Amanda. Det tog ni år fra indledningen af projektet, før en evalueringsrapport i 2003 erklærede systemet tilfredsstillende.
+* De elektroniske patientjournaler. I årevis har det været meningen, at oplysninger om patienter kunne deles mellem lægerne. I 2012 sker det - efter planen.
+* DSB's IC4-tog. Softwaren er endnu ikke helt på skinner. Togene holder stille.

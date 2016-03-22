@@ -1,0 +1,15 @@
+Avis: Program til populær internetbrowser udspionerer dig
+Din færd på nettet bliver sendt til en server i USA, hvis du bruger et tillægsprogram i Google Chrome.
+
+
+ Et populært tillægsprogram - et såkaldt plugin - til Googles internetbrowser Chrome kan tage et billede af hele den hjemmeside, du er inde på, så du kan se den uden at være på internettet.
+Men det er ifølge den svenske avis Dagens Nyheter ikke det eneste, programmet kan og gør.
+For tillægsprogrammet har angiveligt udført "skjult spionage" mod flere store svenske virksomheder og en million intetanende computerbrugere i Sverige.
+Avisen Dagens Nyheter skriver, at programmet ved hjælp af en skjult kode registrerer og videresender data fra alle hjemmesider, som brugere klikker sig ind på.
+Programmet "Webpage Screenshots" markedsføres som en "hurtig og simpel løsning", når man har brug for at gemme skærmbilleder eller såkaldte screenshot af hjemmesider.
+Spion-funktionen skulle være godt gemt i programmet og bliver først aktiveret efter en uge. Herefter bliver brugerens vaner på internettet noteret.
+Hvert minut bliver informationer om Chrome-brugernes trafik på internettet ifølge Dagens Nyheter sendt videre til en server, der er registreret i USA.
+Ifølge Christian Mariolini, der er it-ekspert i sikkerhedsvirksomheden Sentor MSS, der ifølge Dagens Nyheter har gjort opdagelsen, påpeger, at der ikke findes nogen logisk grund til, at oplysningerne bliver indsamlet.
+Han siger yderligere til avisen, at en række store selskaber i Sverige er berørt af "lækkede" oplysninger.
+Google Chrome, Mozilla Firefox og Microsoft's Internet Explorer er blandt de mest populære webbrowsere.
+Tidligere i marts annoncerede Microsoft, at det snart er slut med det engang så populære Internet Explorer, som før i tiden blev brugt af over en milliard mennesker.

@@ -1,0 +1,60 @@
+Internettets anholdte narkopirat ser sig som frihedskæmper
+Internettets sortbørs for stoffer og hælervarer er blevet lagt ned af FBI. Nu spekuleres der i, om lukningen skyldes fodfejl fra bagmandens side eller en sikkerhedsbrist i den teknologi, som sikrer anonymitet for internetbrugere over hele verden
+Portalen Silk Road formidlede salg af narkotika af høj kvalitet til hele verden. Nu er den lukket. Her er honduranaske myndigheder ved at registrere 400 kg kokain, der var på vej til USA via traditionelle smuglerkanaler.
+
+
+ 
+	Tirsdag eftermiddag på et offentligt bibliotek i San Francisco blev det foreløbige punktum sat for et af internettets mest mystiske og sagnomspundne foretagender. Den 29-årige Ross William Ulbricht blev anholdt af FBI og sigtet for at være manden bag identiteten Dread Pirate Roberts, der driver hjemmesiden Silk Road.
+
+	Hjemmesiden er underverdenens svar på eBay, hvor man i stedet for møbler, barbermaskiner og kontorartikler via nettet kan købe ulovlige narkotiske stoffer, bestille hackinger og falske kørekort.
+
+	Med sin intelligente brug af anonymiseringsteknologi fik han den almindelige gadenarkohandel til at fremstå både primitiv og gammeldags. Det blev et digitalt alternativ til den skumle pusher på hjørnet, og ifølge FBI omsatte siden for i alt flere milliarder kroner som »den mest sofistikerede og omfattende kriminelle markedsplads på internettet i dag.«
+
+	Der har altid været dunkle afkroge på internettet, hvor man via brug af kryptering har kunnet foretage transaktioner, der var svære for myndighederne at spore, men Silk Road var nok det hidtil mest veletablerede samlingspunkt for underverdenen på nettet på grund af brugen af udbredelsen af internetvalutaen bitcoin.
+
+	Du kan veksle til bitcoin enten via online-børser eller ved at mødes fysisk med folk og veksle kontanter, og den digitale valuta sikrer, at brugerne anonymt kan foretage økonomisk betaling for eksempelvis stoffer indbyrdes, uden at afsløre deres identitet, hvilket sker når man betaler med kreditkort:
+
+	»Vi har vundet over statens ’krig mod stoffer’ på grund af bitcoin,« som Dread Pirate Roberts formulerede det i et interview i det amerikanske magasin Forbes i august.
+
+	Ud over bitcoin brugte hjemmesiden også anonymiseringsnetværket Tor, som også var en central teknologi for Wikileaks, for at sikre så høj grad af anonymitet mellem brugerne og sidens bagmand som muligt.
+
+	Afpresning og lejemord
+
+	Men Dread Pirate Roberts så imidlertid sig selv som mere end bare et simpelt mellemled mellem købere og sælgere af euforiserende stoffer. Han er åben tilhænger af og fortaler for en libertær ideologi, der ikke anerkender statens magt over borgerne. Folk skal selv have lov at bestemme, hvad de vil gøre med deres kroppe, forklarede han i Forbes.
+
+	»Vi taler om potentialet for et monumentalt skifte i verdens magtstruktur. Befolkningen kan nu selv kontrollere informationsstrømmenes, pengenes bevægelse og fordeling. Sektor for sektor bliver staten trukket ud af ligningen, og magten bliver givet tilbage til individet,« sagde Dread Pirate Roberts i interviewet i Forbes.
+
+	»Vi kan ikke forholde os tavse for evigt. Vi har et vigtigt budskab, og tiden er inde til, at hele verden får det at vide,« sagde han og forklarede, at projektet ikke gik ud på at handle stoffer, men om at »kæmpe for vores rettigheder som mennesker og nægte at indordne os, når vi ikke har gjort noget forkert. Silk Road er et eksempel på det budskab«. Den 29-årige Ross William Ulbricht er nu sigtet for narkohandel, hvidvaskning af penge og computerhacking.
+
+	Hans image som fredelig frihedsaktivist har desuden lidt et knæk, efter FBI har fremlagt beviser for, at han skulle have brugt Silk Road til at bestille et lejemord.
+
+	En af sidens brugere skulle angiveligt have forsøgt at afpresse ham til at betale 500.000 dollar (knap tre mio. kr.), hvis ikke han ville have offentliggjort tusindvis af navne på Silk Roads anonyme brugere.
+
+	Ross William Ulbricht betalte 1.670 bitcoins for mordet, svarende til omkring 150.000 dollar (900.000 kr.), og modtageren af pengene fortalte ham, at mordet var blevet udført.
+
+	FBI har imidlertid ikke kunnet finde nogen beviser for, at mordet på brugeren kaldet FriendlyChemist, faktisk har fundet sted.
+
+	Det store spørgsmål, der har optaget internetmiljøet siden anholdelsen, er især, hvordan det lykkedes FBI at opspore bagmanden Ross William Ulbricht.
+
+	Er det menneskelige fejl?
+
+	For er der tale om brud på sikkerheden i enten bitcoin eller Tor, kan det have konsekvenser for mange andre, mens hvis det er menneskelige fejl kan det isoleres til et enkeltstående tilfælde, og en anden side vil hurtigt kunne opfylde den ledige plads og det behov, som Silk Road efterlader.
+
+	Ifølge FBI’s dokumenter var det en agent involveret i efterforskningen, der fandt de første få referencer til en bruger ved navn ’altoid’, som forsøgte at promovere Silk Road tilbage i januar 2011.
+
+	I oktober samme år var der igen en bruger ved navn ’altoid’, som havde indlæg på et Bitcoin Forum og denne gang med en direkte forbindelse til e-mailadressen rossulbricht@gmail.com.
+
+	Ifølge FBI var det denne emailadresse, som sammen med nogle menneskelige fejltagelser, der ledte myndighederne frem til Dread Pirate Roberts. I en blogpost beskriver folkene bag Tor, at de har holdt øje med Silk Road for at finde ud af, om der er nogle brister i Tor, som de bliver nødt til at korrigere.
+
+	»Indtil videre er der ikke noget i denne sag, som får os til at tro, at der er nye måder at kompromittere Tor på,« skriver de.
+
+	»FBI siger, at den mistænkte begik nogle fejl i sin operationelle sikkerhed og blev fundet via detektivarbejde.«
+
+	Ser den udlægning ud til at holde vand, kan det være et spørgsmål om tid, før en ny tilsvarende side får øget popularitet og tiltrækker de kunder, der nu står uden sted at gå hen efter Silk Roads lukning.
+
+	Men det er dog ikke alle, der tror på FBI’s redegørelse. I en af de mange artikler, der blev skrevet om NSA hen over sommeren, kom det frem, at NSA havde givet informationer videre til enheder i politiet, som efterforskede narkohandel.
+
+	Men for at skjule, at tippet kom fra den masseovervågende sikkerhedstjeneste, blev narkoenheden bedt om at indsamle beviser på andre måder, inden den foretog anholdelser.
+
+	»Silk Road-sagen ser underlig ud. Måske har FBI fået lidt assistance fra Fort Meade (NSA, red.) og senere fået de indsamlede beviser manipuleret for at skjule det,« spekulerer Frank Rieger, en af de fremtrædende hackere i det tyske Chaos Computer Club på Twitter.
+

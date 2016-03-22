@@ -1,0 +1,22 @@
+Pindsvinet bed fra sig
+Magnus bankede Kramnik med de sorte brikker
+
+
+ Den vanskeligste opgave, en skakspiller i disse år kan blive stillet over for, er at skulle møde den russiske eksverdensmester Vladimir Kramnik med de sorte brikker. Og det var, hvad der ventede den 17-årige nordmand Magnus Carlsen i 12. og næstsidste runde af Corus-turneringen i Wijk aan Zee. Magnus havde runden forinden haft Anand alvorligt på hælene, men trådte forkert i tidnøden og tabte. Nu måtte han forsøge at holde stand mod verdens bedste hvid-spiller:
+1.Sf3 Sf6 2.c4 e6 3.Sc3 c5 4.g3 b6 5.Lg2 Lb7 6.0-0 Le7 7.d4 cxd4 8.Dxd4 d6 9.Td1 a6 10.Sg5 Lxg2 11.Kxg2 Sc6 12.Df4 0-0 13.Sce4 Se8 14.b3 Ta7 15.Lb2 Td7 16.Tac1 Sc7 17.Sf3 ...
+Magnus har valgt den såkaldte pindsvineopstilling, hvor sort længe ikke har en brik over 'tredje revle', men pludselig begynder pindsvinet at røre på sig: 
+17. - f5 18.Sc3 g5 19.Dd2 g4 20.Se1 Lg5 21.e3 Tff7 22.Kg1 Se8 23.Se2 Sf6 24.Sf4 De8 25.Dc3 Tg7 26.b4 Se4 27.Db3 Tge7 28.Da4?
+Især sort er ved at være i tidnød her, så Kramnik forsøger sig med et udfald. Men Magnus viser omgående, at det er forfejlet:
+28. - Se5!
+Se diagrammet.	 
+Og her burde Kramnik have trukket følehornene til sig, men han gnasker grådigt i sig:
+29.Dxa6? Ta7! 30.Db5 ...
+Nødvendigt, for efter det (måske) planlagte 30.Dxb6 følger 30. - Teb7 31.Dd4 Lf6 - og den hvide dronning er væk! Men nu bider pindsvinet, og det bider hårdt: 
+30. - Dxb5 31.cxb5 Txa2 32.Tc8+ Kf7 33.Sfd3 Lf6 34.Sxe5+ dxe5 35.Tc2 Tea7 36.Kg2 Sg5! 37.Td6 e4! - forrygende stærkt spillet - 38.Lxf6 Kxf6 39.Kf1 ...
+Kramnik ser i farten, at 39.Txb6 taber til 39. Ta1 40.Te2 Sf3 etc., men får ikke fred: 
+39. - Ta1 40.Ke2 Tb1 41.Td1 Txb4 - hvid bliver plukket i dette slutspil - 42.Sg2 Txb5 43.Sf4 Tc5 44.Tb2 b5 45.Kf1 Tac7 46.Tbb1 Tb7 47.Tb4 Tc4 48.Tb2 b4 49.Tdb1 Sf3 50.Kg2 Td7 51.h3 e5 52.Se2 Td2 53.hxg4 fxg4 54.Txd2 Sxd2 55.Tb2 Sf3 56.Kf1 b3 57.Kg2 Tc2 ...
+Og Kramnik gav hånd. 
+Stillingen inden sidste runde: 1.-2. Carlsen, Norge, og Aronian, Armenien, 7,5 p. 3.-4. Anand, Indien, og Radjabov, Aserbajdsjan, 7 p. 5. Ivanchuk, Ukraine, 6,5 p. 6.-9. Kramnik, Rusland, Mamedyarov, Aserbajdsjan, Adams, England, og Lekó, Ungarn, alle 6 p. 10.-11. Polgar, Ungarn, og Topalov, Bulgarien, 5,5 p. 12. Eljanov, Ukraine, 5 p. 13. Van der Wiel, Holland, 4,5 p. 14. Gelfand, Israel, 4 p. 
+I sidste runde hedder nøgleopgørene: Carlsen-Radjabov, Anand-Kramnik og Polgar-Aronian. 
+
+

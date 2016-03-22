@@ -1,0 +1,14 @@
+It-bøvl skaber tvivl om organdonorers registreringer
+Tusindvis af danskere er måske ikke blevet oprettet som organdonorer på sundhed.dk på grund af serverfejl.
+
+
+ Over 38.000 danskere har fået et brev om, at deres tilmelding til donorregistret og livstestamenteregistret måske ikke er gået igennem alligevel, skriver it-sitet Version 2.
+Det fremgår af en række orienteringsbreve til Folketingets Sundhedsudvalg, som Version 2 har fået udleveret af Sundheds- og Ældreministeriet.
+Problemerne skyldes tilsyneladende en serverfejl for de informationer, som udveksles mellem sundhed.dk og Rigshospitalet. Fejlen kan have eksisteret siden 2005, da det blev muligt at registrere sig som organdonor digitalt.
+Det er sundhed.dk, der har ansvaret for den elektroniske tilmelding til registrene.
+- Hvis databasen på Rigshospitalet af den ene eller anden grund ikke responderede på sundhed.dks kald, registrerede sundhed.dk ikke det manglende eller negative svar.
+- Det betød, at borgeren kunne tro, at registreringen, eller deres ændringer, var slået igennem, til trods for, at det ikke var tilfældet, siger direktøren for sundhed.dk, Morten Elbæk Petersen, til Version 2.
+Fejlen blev opdaget i marts i år, men det har ikke været teknisk muligt for sundhed.dk at undersøge perioden før december 2007. Derfor har Sundheds- og Ældreministeriet sendt 38.000 breve ud til danskere, der har registreret sig mellem 2005 og 2007.
+Sundhed.dk har i sin analyse fundet frem til, at der i perioden 3. december 2007 til 5. marts 2015 har været 841 fejlregistreringer, hvor borgernes tilmelding altså ikke er gået igennem og er blevet lagt korrekt på serveren.
+Siden er det antal blevet reduceret til 401, fordi resten manuelt har været inde på sundhed.dk for at tjekke, om deres registrering rent faktisk er gået igennem. Men omfanget af fejl mellem 2005 og 2007 er altså stadig uklart.
+Donorregistret består i dag af cirka 890.000 danskere. I Danmark er der så få organdonorer, at der rundt regnet hver anden uge dør en patient, der står på venteliste til en nyre, lunge, lever eller et hjerte.

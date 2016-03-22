@@ -1,0 +1,30 @@
+Cybercenter får ikke adgang til telekunders kommunikation
+Forsvarsministeriet præciserer nu i et nyt lovudkast, at det ikke bliver muligt for Center for Cybersikkerhed at få adgang til telekunders kommunikation. En klar forbedring, siger flere kritikere af et tidligere og lækket udkast til loven
+
+
+ Center for Cybersikkerhed, som er en del af Forsvarets Efterretningstjeneste, får med et nyt lovudkast adgang til teleselskabers private forretningslokaler uden en retskendelse.
+Men adgangen kommer ikke til at indebære, at centret kan få adgang til kommunikation »til, fra og mellem« teleselskabernes kunder.
+Det fremgår af et lovudkast fra Forsvarsministeriet, som netop er blevet sendt i høring, og hvor der står, at loven skal styrke net- og informationssikkerheden i samfundet.
+I en lækket og tidligere udgave af lovudkastet, som Information beskrev i december sidste år, indgik en lignende adgang til teleselskaberne uden retskendelse også.
+Det fik kritikere til at frygte, at adgangen også ville give Center for Cybersikkerhed adgang til telekundernes kommunikation. Men Forsvarsministeriet har altså tilføjet og præciseret i det officielle lovudkast, at det ikke kan ske.
+Jakob Willer, der er direktør i Teleindustrien, som er brancheorganisation for teleselskaberne, har tidligere kaldt denne adgang stærkt betænkelig, men han er nu tilfreds med ændringen.
+»Som vi læser udkastet, så ønsker man fra myndighedernes side at komme ud på kontrolbesøg for at tilse, om teleselskaberne efterlever de vilkår og krav, som er stillet i forhold til informationssikkerhed,« siger han og tilføjer:
+»Hvis det tilsyn kræver, at man kommer besøg, så har vi forståelse for det. Og når man nu har lavet en afgrænsning, der betyder, at man ikke kan få adgang til kundernes trafikdata, så er det ikke noget, vi ser et stort problem i.«
+Jesper Lund, der er næstformand i IT-Politisk Forening, er ligeledes positiv over for ændringen.
+»Min største bekymring ved lovudkastet er væk. Nu står det klart, at de ikke kan få adgang til kundernes kommunikation, og at der ikke er mulighed for at foretage indgreb i meddelelseshemmeligheden via denne lov,« siger han.
+Jacob Mchangama, der er direktør for den juridiske tænketank Justitia, har også været kritisk over for det lækkede lovudkast.
+Både Justitia og IT-Politisk Forening har således tidligere opfordret til at skrive ind i loven, at det ikke skulle være muligt at tilgå borgeres kommunikation. Derfor ser Jacob Mchangama også det officielle lovudkast som en forbedring.
+»Ministeriet har skrevet lige præcis det ind i loven, som vi opfordrede til,« siger han.
+Adgang til leverandører
+Da Information kom i besiddelse af de såkaldte lovbemærkninger til det lækkede lovudkast, pegede de to sidstnævnte organisationer på, at der i lovudkastet ikke var direkte hjemmel til at bryde grundlovens bestemmelse om meddelelseshemmelighed.
+Den hjemmel havde formentlig været en forudsætning for, at Center for Cybersikkerhed ville kunne tilgå borgernes kommunikation. Alligevel mente organisationerne, at det var vigtigt at skrive eksplicit ind i loven, at det ikke skulle være muligt at tilgå borgernes kommunikation, og det er altså sket.
+Lovudkastet indebærer ikke kun, at Center for Cybersikkerhed kan få adgang til teleselskaberne uden retskendelse, men giver også mulighed for at få fysisk adgang til forretningslokaler hos selskabernes samarbejdspartnere, leverandører og underleverandører.
+Baggrunden for denne beføjelse er ifølge lovudkastet, at »visse af de leverandører, som teleudbyderne anvender, i sig selv kan udgøre en trussel mod informationssikkerheden. Det gælder bl.a. i forhold til nogle leverandører, som har en tæt tilknytning til udenlandske myndigheder, og hvor der er risiko for, at adgangen til teleinfrastrukturen udnyttes til spionage, industrispionage og – i krisesituationer – direkte sabotage«.
+Center for Cybersikkerhed vil med lovudkastet også få mulighed for at tvinge teleselskaberne til at foretage bestemte handlinger, hvis det er af væsentlig samfundsmæssig betydning og bidrager til at sikre informationssikkerheden.
+Den del af lovudkastet er Jakob Willer fra Teleindustrien dog stadig kritisk over for, fordi han mener, at beføjelsen, der gives til Center for Cybersikkerhed, er alt for bredt formuleret.
+»Vi ved reelt set ikke, hvilke krav vi kan risikere at blive stillet over for. Som lovudkastet står nu, så medfører det stor uforudsigelighed i forhold til, hvilke betingelser man opererer under som teleselskab,« siger han og tilføjer, at han håber, at det vil blive præciseret i løbet af lovgivningsprocessen.
+Ifølge lovudkastet kan centret med den nye beføjelse tvinge teleselskaber til at »træffe foranstaltninger«, hvis et teleselskab bruger »software, som konkret vurderes at udgøre en sådan trussel mod informationssikkerheden, at det har betydning for varetagelsen af væsentlige samfundsmæssige hensyn«.
+Videre kan centret også stille krav om, at teleselskaberne skal »sikre, at leverancer af hardware, firmware eller software, der kan udgøre en sårbarhed i udbyderens net, skal undersøges for sårbarheder af sikkerhedsgodkendte personer«.
+Det har ikke været muligt at få en kommentar fra forsvarsminister Nicolai Wammen (S).
+Men Forsvarsministeriet oplyser, at telebranchen vil blive inddraget i udarbejdelsen af de regler, som Center for Cybersikkerhed vil pålægge teleselskaberne.
+

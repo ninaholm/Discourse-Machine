@@ -1,0 +1,55 @@
+Har staten købt verdens dyreste forsikring af Goldman Sachs?
+Problemet ved den indgåede aftale om salg af 19 procent af aktierne i DONG er, at den kræver, at DONG’s værdi i gennemsnit falder med mere end to procent pr. år frem til børsnoteringen, før aftalen giver et bedre afkast, end man kunne have opnået gennem et statsligt indskud af kapital i DONG
+ 
+	Note figur 1: Figuren viser statens absolutte afkast af aftalen med Goldman Sachs, PFA og ATP fratrukket det afkast staten havde fået under et tilsvarende indskud af statslig egenkapital. Denne forskel er vist for en række af årlige vækstrater i DONGs markedsværdi. Den garanterede rente til investorerne er sat til CITA rente kurven plus 2.25%, regeringens låne rente er sat til 1% og investeringsperioden er sat til 4 år. Volatiliteten af optionen er sat til 25%.
+
+	Note figur 2: Figuren viser den simulerede fordeling af statens afkast på aftalen med Goldman Sachs, PFA og ATP jf. det afkast staten havde fået under et tilsvarende indskud af statslig egenkapital. De daglige forrentninger af egenkapitalen trækkes fra den historiske fordeling af vækstrater på de 13 største europæiske børsnoterede elektricitetsselskaber selskaber (2000-2013). Investeringsperioden er sat til 4 år. Volatiliteten af optionen er sat til 25%
+
+
+ 
+	Med aftalen om kapitaltilførsel til DONG Energy mellem staten, Goldman Sachs, ATP og PFA har staten indgået en aftale, som under konservative antagelser har et forventet tab på 2,5 mia. kroner i forhold til, hvad man kunne have opnået gennem et indskud af statslig kapital.
+
+	Problemet ved den indgåede aftale er, at den kræver, at DONG’s værdi i gennemsnit falder med mere end to procent pr. år frem til børsnoteringen, før aftalen giver et bedre afkast, end man kunne have opnået gennem et statsligt indskud af kapital i DONG.
+
+	Staten holder hånden under investorerne
+
+	Statens aftale med Goldman Sachs giver, ud over en lang række former for mindretalsbeskyttelse, investorerne mulighed for efter en børsnotering at sælge deres aktier i DONG til markedspris. Desuden kan investorerne i et scenarie, hvor DONG ikke børsnoteres, og selskabets værdi falder tilstrækkeligt, sælge 60 procent af deres aktier tilbage til staten til købsprisen forrentet med en forholdsvis høj rente. Dette er en såkaldt put-option.
+
+	De resterende 40 pct. skal handles til markedspris. Denne konstruktion betyder, at staten holder hånden under investorernes potentielle tab, mens investorerne tager hele gevinsten, hvis tingene går godt. Fordelen ved at bruge private investorer er, at risikoen ved højst risikable energisektor deles, men med put-optionen begrænses den fordel væsentligt.
+
+	Statsligt indskud i DONG
+
+	Et åbenlyst alternativ er et statsligt indskud af kapital i DONG: staten kan selv indskyde de 11 mia. kroner og finansiere det ved at udstede lavt forrentede statsobligationer. 
+
+	Et relevant spørgsmål er derfor, hvilken model der ud fra et økonomisk synspunkt var den bedste for staten. To spørgsmål er afgørende: (1) Blev DONG handlet til dagens markedspris? og (2) hvad er den fremtidige udvikling i DONG’s markedsværdi?
+
+	Hvorvidt DONG blev handlet til markedspris, er svært at afgøre. For det første kræver det en indsigt i DONG og energimarkederne, som kun få besidder. Danske Bank har ifølge finansministeren afgivet en såkaldt ’fairness opinion’, men vi kan hverken få adgang til alle deres antagelser og beregninger eller til de interne oplysninger, Danske Bank måtte have modtaget fra DONG.
+
+	Det fremgår heller ikke, hvilke metoder Danske Bank har benyttet til at analysere put-optionen. Ydermere kan en beregnet markedspris afvige fra en faktisk salgspris, hvis der f.eks. er relativt få interesserede investorer.
+
+	I vores beregning vil vi anlægge det (konservative) synspunkt at DONGs markedspris lå under den pris DONG blev handlet til. Årsagen til dette er, at investorerne som led i handlen fik den ovenfor nævnte put-option med i købet. En sådan option har en værdi, estimeret ved hjælp af Black-Scholes-ligningen (et nøgleresultat fra finansieringsteori) og må dermed fratrækkes salgsprisen for at finde DONG’s reelle markedspris.
+
+	Vi har estimeret put-optionens værdi til 2,5 mia kr., hvorfor DONG’s reelle markedspris før kapitaludvidelsen, som afspejlet i aftalen, bliver 24,5 mia. kr. (83 kr. pr. aktie). Det er 0,47 gange DONG’s bogførte egenkapital. Det skal sammenlignes med en markedsværdi på 1 til 1,5 gange egenkapitalen for europæiske energiselskaber.
+
+	Tab relativt småt, men gevinsten stor
+
+	Hvordan den fremtidige markedsværdi for DONG udvikler sig, er den anden afgørende forudsætning og afhænger af mange usikre forhold. Vi kan dog godt kigge på forskellige mulige scenarier for forrentningen på DONG’s markedsværdi og udregne forskellen mellem den gevinst, staten får under den indgåede aftale, og den gevinst staten ville have opnået gennem et direkte kapitalindskud.
+
+	Figur 1 viser denne beregning. Som det ses, skal værdien af DONG i gennemsnit falde med mere end minus to pct. pr. år, før den indgåede aftale giver et bedre afkast, end hvad man ville have opnået gennem et statsligt kapitalindskud. Vokser værdien af DONG med mere end minus to pct. pr. år, så taber staten på aftalen i forhold til gevinsten under et statsligt indskud af kapital. F.eks. taber staten 1,2 mia. på aftalen i det scenarie, hvor DONG’s værdi i gennemsnit vokser med fem pct. pr. år.
+
+	Figur 1 illustrerer også den begrænsede styrke i argumentet om, at aftalen er en forsikring imod tab ift. et statsligt kapitalindskud. Staten opnår godt nok en gevinst i situationer, hvor DONG’s værdi udvikler sig negativt, men denne gevinst er meget lille i forhold til den gevinst, staten går glip af i situationer, hvor DONG’s værdi vokser. Spørgsmålet er derfor, om staten ikke har købt forsikringen for dyrt? Er det ikke værd at løbe risikoen for et lille tab, når tingene går skidt, hvis man dermed kan få en stor gevinst, når tingene går godt?
+
+	Statens forventede tab på aftalen kan udregnes til 2,5 mia. kroner under rimelige forudsætninger. Specifikt har vi simuleret udviklingen i DONG’s markedsværdi 10.000 gange under den antagelse, at den fremtidige udvikling i DONG’s markedsværdi trækkes fra samme sandsynlighedsfordelingen, som børsnoterede europæiske elektricitetsselskaber fulgte i 2000-2013. Ud fra denne simulering kan det forventede tab udregnes. Det forventede tab bliver endnu større, hvis man i stedet anvender sandsynlighedsfordelingen fra europæiske olie- og gasselskaber.
+
+	Figur 2 illustrerer hele den beregnede sandsynlighedsfordeling på statens forventede gevinst på aftalen I forhold til gevinsten under et statsligt indskud af kapital. Sandsynligheden for, at staten vinder på aftalen, er ca. 50 pct., men problemet er, at det afkast, staten får, når den vinder på aftalen, ikke opvejer det tab, staten får, når den taber. Man kan naturligvis stille spørgsmål ved vores antagelser om DONG’s afkastfordeling. Pointen fra figur 1 er dog, at det kræver endog meget negative forventninger, før aftalen har en positiv værdi.
+
+	Det forventede tab på aftalen er ikke småpenge. 2,5 mia. kr. er ca. 0,1 pct. af det danske bruttonationalprodukt og til sammenligning i omegnen af den estimerede pris af den kommende elektrificering af strækningen Vejle-Struer og Aalborg-Frederikshavn (2,4 mia.)  eller den kommende udvidelse af Herlev Hospital (2,3 mia.).
+
+	Hvad ved Finansudvalget?
+
+	Vores beregninger giver anledning til en række spørgsmål: Hvorfor har staten valgt at indgå den aftale, fremfor selv at skyde kapital ind i DONG? Blev Danske Bank bedt om at sammenligne aftalen med et statsligt kapitalindskud? Hvis ja, hvad var resultatet? Og hvorfor har Finansudvalget ikke forlangt at se sådanne beregninger, før de stemmer om aftalen?
+
+	Der kan naturligvis være gode svar på alle disse spørgsmål. Men det er vigtigt for kvaliteten af den offentlige debat, at regeringen er åben omkring detaljerne i sine beregninger og rationaler.
+
+Niels-Jakob Harbo Hansen er cand. polit, MPhil og ph.d.-studerende i nationaløkonomi (Stockholms Universitet), og Guan Yang, er BA. polit, MPhil og ph.d.-studerende i finansiering (New York University)
+

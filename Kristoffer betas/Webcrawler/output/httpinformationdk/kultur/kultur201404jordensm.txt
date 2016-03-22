@@ -1,0 +1,37 @@
+Jordens mest opkoblede menneske
+Den amerikanske softwareudvikler Chris Dancy har sensorer påmonteret overalt på kroppen og gemmer alle data om sig selv
+
+
+ 
+	At holde styr på e-mails og kalendere kan være svært nok. Men for den amerikanske softwareudvikler Chris Dancy føles livet ikke komplet uden de løbende opdateringer om hans liv fra flere hundrede datasæt.
+
+	»Jeg er blevet kaldt for ’Jordens mest opkoblede menneske’,« siger han, da vi mødes på Londons Wearable Technology Show – et veritabelt cyborg-seminar, hvor mestendels midaldrende mænd ses vandre rundt med kameraer i panden og glødende armbånd. »Jeg har brugt fire år på at forbinde alle de enheder, jeg bærer på min person, med al intelligent teknologi, jeg har i mit hjem, og lede samtlige data igennem til den samme online-platform. På den måde kan jeg altid søge i hele mit liv. Jeg kalder det for mit 'inner-net’.«
+
+	I dag er Dancy ’let påklædt’ – kun syv enheder har han på sig: Skubbet op i panden har et par Google-briller, der optager alt, hvad han ser. Om halsen hænger et ’narrativt kamera’ af mærket Memoto, der tager billeder hvert halve minut. På det ene håndled sidder et Pebble-ur, som videresender påmindelser fra hans to smartphones, mens han på det andet bærer en Fitbit Flex, der sporer hans bevægelses- og søvnmønstre 24 timer i døgnet. Hertil kommer de ting, der ikke er synlige: en Blue HR-pulsmåler, der sidder fastspændt om brystet, en BodyMedia-fitness tracker, der sidder omkring hans overarm, og under bukselinningen en Lumoback-kropsholdningssensor, »der vibrerer, hvis jeg begynder at lude«, siger han og smiler. »Lige nu føler jeg mig ret så nøgen, fordi jeg ikke kan kontrollere rummet.«
+
+	Revolutionerer tilværelsen
+
+	Tilbage i hans hjem i Denver, Colorado ryger data fra alle disse enheder direkte ind i modtageenheder i hans omgivende miljø, som automatisk justerer sig efter hans humør og behov.
+
+	»Mit hus kender mine adfærdsmønstre,« siger han. »Hvis jeg føler mig stresset og ikke sover godt, antager lyset en bestemt farve, når jeg vågner, og rummet har en bestemt temperatur, mens der spilles en bestemt slags musik. Jeg tilrettelægger mit liv ud fra alle de oplysninger, som jeg indsamler i realtid.«
+
+	Dancy hævder, at hele dette opkoblede miljø, som han selv kalder for ’data-assisteret liv’, har revolutioneret hans tilværelse, hjulpet ham til at tabe 45 kg på i 18 måneder og ladet ham leve i en tilstand af zen-agtig ro – sikker i sin tiltro til, at hvert et øjeblik i hans tilværelse bliver registreret. Nogle gange kan dette også have mere jordnære fordele.
+
+	»Forleden var jeg på en restaurant i Denver og prøvede at komme i tanke om, hvad jeg fik sidste gang, jeg var der? Så var det bare at gennemgå alle billeder fra den dag, og hurtigt fandt jeg frem til, hvilket måltid det var,« siger han. »Der er også andre smarte funktioner, som f.eks. hvis min kalender siger, at jeg har et møde med en eller anden. Så låser alle mine sensorer sig ind på vedkommende, men i stedet for bare at få en LinkedIn profil op, får jeg at vide, hvordan jeg havde det med den person, første gang jeg mødte hende. Samtidig kan min Spotify spille beroligende musik, hvis det skulle være en person, der var stressende.«
+
+	»Men det her grej er kun en foreløbig fase. Alle disse ting burde sidde i mit tøj. Hvorfor kan vi ikke få sko med berøringssensorer, så vi ikke behøver GPS, når vi går? Ens sko vibrerer bare til venstre eller højre. Det er kun i dag, vi er nødt til at spænde alle disse ting på og se fjollede ud.«
+
+	Lifeloggers
+
+	På teknologimessen demonstreres virtual reality-headset og sollys-armbånd. Der er intelligente indlægssåler, der advarer motionister, hvis hjerterytmen når kritiske niveauer. Der er al slags tilbehør for det voksende antal lifeloggers – et subkulturelt fællesskab, der registrerer og arkiverer alle aspekter af deres tilværelse. Men måske er der også andre, som holder øje med datastrømmen?
+
+	»Det er en reel bekymring,« siger John Weir, direktør for Wearable Technology Show. »Man kan kvantificere sig selv, så meget man vil, men en masse af de data bliver ledt tilbage til nettet og dermed potentielt til den slags selskaber, som lever af at samle og videresælge enorme mængder data om deres kunder. Navnlig i forhold til de medicinske anvendelser, hvor folk forhåbentlig vil sende en masse data tilbage til deres læger, vil ejerskab af data og privatlivsbeskyttelse blive et stort problem.«
+
+	Dancy ser mere optimistisk på fremtiden.
+
+	»Når først vi lærer at beherske vores data, vil det kunne ændre vores tilværelse til det bedre. Vi skal bare også lære os selv ikke at forære dem væk. Problemerne ligger i dataintimiteten«, siger han.
+
+	Sandheden i dag er dog nok, at kun de færreste har softwarekompetence til at sikre sig, at deres personlige data ikke høstes imod deres vilje. Så i det lys er det måske kun godt, at den nymodens bærbare teknologi stadig får dig til at ligne en statist i en Star Trek-film. Alene dette vil nok foreløbig afskrække mange fra at bruge den.
+
+© The Guardian og Information Oversat af Niels Ivar Larsen
+

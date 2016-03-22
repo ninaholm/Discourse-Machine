@@ -1,0 +1,48 @@
+Nye lovforslag vil gøre op med NSA’s masseovervågning
+Obama ventes nu at ville pålægge NSA at indhente dommerkendelser for at søge i teleselskabers dataregistre. I mellemtiden vil også et parlamentarisk efterretningsudvalg, der tidligere forsvarede NSA’s generelle dataindsamlinger, stække tjenestens operationsmuligheder
+
+
+ 
+	Barack Obama bekræftede i går, at det er den amerikanske regerings plan at gøre en ende på den systematiske indsamling af amerikanske statsborgeres telefondata. Den amerikanske præsident erkendte også, at tilliden til landets efterretningstjenester er blevet rystet og lovede at tage bekymringer om manglende beskyttelse af privatlivet alvorligt.
+
+	Obamas regering agter ikke blot at pålægge NSA helt at indstille sin såkaldte bulk-indsamling (indsamling af komplette datasæt, red.) af data for telefonopkald. Fremover vil tjenesten også skulle indhente en retskendelse for at kunne søge i teleselskabers registre.
+
+	Den påtænkte lovreform kommer ni måneder efter, at disse indsamlingspraksisser blev afsløret af The Guardian ud fra lækkede dokumenter fra whistlebloweren Edward Snowden. Obama indrømmede i går ligeledes, at disse afsløringer har skadet USA’s anseelse og tillid verden over.
+
+	»Vi er nødt til at vinde tilliden tilbage, ikke blot fra andre regeringer, men hvad vigtigere er – også fra almindelige borgere. Og det kommer ikke til at ske fra den ene dag til den anden, for der er en tendens til at være skeptisk over for regeringen og de amerikanske efterretningstjenester,« sagde Obama på et pressemøde i Haag, hvor flere af verdens ledere er forsamlet for at diskutere deres svar på Krim-krisen.
+
+	Et særskilt forslag, der i går blev offentliggjort af ledende medlemmer af efterretningsudvalget i Repræsentanternes Hus, lægger dog ikke op til, at en dommer forudgående skal godkende adgang til telefon- eller emaildata.
+
+	Står det til Det Hvide Hus og til forslagsstillerne i Husets efterretningsudvalg, skal de amerikanske teleselskaber ej heller pålægges at gemme data ud over de nuværende maksimale 18 måneder. Det vil betyde indskrænkning af sådanne datas tilgængelighed i forhold til de fem år, som NSA i dag har ret til at gemme data.
+
+	Holdningsskift
+
+	Lovforslaget i Huset er kommet i stand efter et holdningsskift hos to af de tidligere mest stålsatte forsvarere i Kongressen af bulk-indsamlinger, nemlig efterretningsudvalgets republikanske formand Michael Rogers og demokraten Dutch Ruppersberger.
+
+	Lovforslaget vil eksplicit forhindre den amerikanske statsmagts efterretningstjenester i at få fat i »registreringer af nogen form for elektronisk kommunikation uden brug af specifikke identifikations- eller udvælgelseskriterier«.
+
+	Dog skal efterretningsmyndigheder fortsat kunne indsamle elektroniske kommunikationsdata, såfremt der foreligger en »rimeligt formulerbar mistanke« – en svagere formulering end ’begrundet formodning’ eller ’relevans for terrorefterforskning’. I dette ligger, at de givne personer skal vurderes at kunne være agent for en fremmed magt, have forbindelse til en agent for en fremmed magt eller være »i kontakt med eller have kendskab til en person, der mistænkes for at være agent for en fremmed magt«.
+
+	I et udkast til lovforslaget, som The Guardian har set, foreslås det, at der sættes grænser for indsamling af data fra telefoni eller e-mailtrafik på op til et år, men uden at indsamlingen skal kræve forudgående godkendelse af en dommer. En bemyndigelse til dataindsamlingen skal i stedet komme i fællesskab fra den amerikanske justitsminister og direktøren for USA’s nationale efterretningstjenester.
+
+	NSA eller FBI skal ej heller tillades at indsamle indhold fra sådanne kommunikationer, medmindre de i givne tilfælde kan anføre ’begrundet formodning’.
+
+	Et tredje forslag er kendt som USA Freedom Act og er fremsat af fortalere for bedre privatlivsbeskyttelse i Husets og Senatets retsudvalg. Dette lovforslag, som samler 163 støtter i begge kamre, vil ikke sænke den retlige standard for indsamling af data om amerikanske statsborgere og vil forbyde NSA at søge efter information, der kan identificere amerikanerne, i tjenestens udenlandsk orienterede databaser for kommunikationsindhold.
+
+	Selv om en dommer ikke nødvendigvis skal tage forudgående stilling til indsamling af ​​en amerikansk statsborgers telefon- eller email-registreringer, lægger forslaget fra Husets efterretningsudvalg op til efterfølgende domstolskontrol af procedurerne for indsamling og den dertil knyttede privatlivsbeskyttelse. Hensigten er »at sætte rimelige grænser for modtagelse, lagring, anvendelse og videregivelse af kommunikationsdata i forbindelse med bestemte personer, i det omfang sådanne optegnelser ikke er nødvendige for at forstå udenlandske efterretningsoplysninger eller vurdere betydningen af ​​sådanne oplysninger«.
+
+	En telefoni- eller internetudbyder skal ifølge samme forslag også kunne kræve en indsamlingsordre indbragt for den hemmelige efterretningsdomstol, FISA-domstolen.
+
+	Justitsministeren og direktøren for de nationale efterretningstjeneste skal vurdere, at alle indsamlinger »er sket i overensstemmelse med selektionskriterierne, de ​​borgerlige frihedsrettigheder og procedurer for beskyttelse af privatlivets fred«. Sådanne vurderinger skal foretages på halvårsbasis, og de skal forelægges for FISA-domstolen og retsudvalgene i Repræsentanternes Hus og Senatet.
+
+	’Har ikke den rette balance’
+
+	Forslaget fra Husets efterretningsudvalg rummer også bestemmelser, som er blevet anbefalet indført af kritikere af NSA’s omfattende overvågning. En advokat for privatlivsbeskyttelse skal fast tilknyttes til FISA-domstolen, og der skal ske yderligere afklassificeringer af FISA’s domstolsafgørelser. Desuden skal der på årsbasis opgøres, i hvor mange enkelttilfælde amerikanske efterretningstjenester ikke »med rimelighed« kunne have forhåndsforventninger om at opsnappe indhold af den særlige type, som loven bemyndiger tjenesten til at indfange.
+
+	På Capitol Hill tegner det til fortsat strid om reformerne af NSA’s overvågningsvirksomhed. James Sensenbrenner, republikaner indvalgt i Wisconsin og medforfatter til lovforslaget USA Freedom Act, kalder forslaget fra Husets efterretningsudvalg for »et kringlet lovforslag, der reelt accepterer regeringens bevidste fejlfortolkninger af loven«.
+
+	»Det begrænser kun, men gør ikke nogen ende på bulk-indsamling. Forslagets sikkerhedsforanstaltninger kan slet ikke måle sig med dem, vi foreslår i USA Freedom Act, og rammer ikke den rette balance mellem privatlivets fred og sikkerhed,« siger Sensenbrenner.
+
+© The Guardian og Information
+	Oversat af Niels Ivar Larsen
+

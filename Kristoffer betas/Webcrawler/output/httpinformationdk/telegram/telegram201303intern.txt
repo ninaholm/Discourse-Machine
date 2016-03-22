@@ -1,0 +1,18 @@
+International spamkrig skaber kø på internet
+New York Times betegner et intenst spamangreb som et af de største nogensinde.
+
+
+ Millioner af internetbrugere over hele verden oplever forsinkelser og langsommelighed med at nå frem til bestemte hjemmesider. Det skyldes en intens kamp på spam mellem to selskaber, skriver The New York Times.
+- Der er tale om et af de største computerangreb nogensinde på internettet, skriver den amerikanske avis, der rapporterer om udbredte problemer og kødannelser.
+For programmører, som står arbejder med internet, er angrebene foruroligende, fordi de bliver stadigt kraftigere. Sikkerhedseksperter, der skal holde computere beskyttede, frygter, at de vil eskalere yderligere og skabe mange flere "trafikpropper" på nettet.
+Det kan medføre at basale funktioner som e-mails og netbank bliver sat ud af drift.
+Kampen blev udløst da gruppen Spamhaus, der bekæmper spam på nettet, blacklistede det hollandske selskab Cyberbunker, som bruges af e-mail udbydere til at luge ud i spam.
+Cyberbunker, der har navn efter dets hovedkvarter i en tidligere fem-etagers Nato-bunker, udbyder services til enhver form for hjemmeside "med undtagelse af børneporno og aktiviteter med forbindelse til terrorisme," som det hedder på firmaets hjemmeside.
+En talsmand for Spamhaus, som er baseret i Europa, siger, at angrebene begyndte den 19. marts. Men det har ikke hindret gruppen i at udbrede dets liste over blacklistede selskaber.
+ Patrick Gilmore fra ledelsen af internetselskabet Akamai Networks siger, at Spamhaus' rolle er at udarbejde en liste over internet-spammere, og at Cyberbunker ganske enkelt blev fanget i at gøre det.
+- Men de mener, at de er i deres gode ret til at gøre det, og han kalder reaktionerne fra selskabet "ret så vanvittige."
+Angrebene via nettet foregår med en sværm af computere, som genererer koncentrerede datastrømme.
+Gilmore siger, at teknikken og angrebet svarer til, at man skyder løs på en menneskemængde med et maskingevær, selv om man kun har til hensigt at ramme en enkelt person.
+Angrebene blev første gang nævnt offentligt i sidste uge af CloudFlare, et internet-sikkerhedsfirma i Silicon Valley, der forsøgte at stoppe angrebene og efterfølgende selv er blevet angrebet meget hårdt.
+- Der er tale om angreb af hidtil ukendt omfang med en datastrøm på 300 milliarder bits per sekund. Det er et virkeligt højt tal, siger Gilmore.
+Sven Olaf Kamphuis, en internetaktivist, som siger, at han er talsmand for angriberne, siger i en internet-erklæring, at Cyberbunker gør gengæld mod Spamhaus, fordi selskabet "har misbrugt dets indflydelse."

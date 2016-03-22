@@ -1,0 +1,18 @@
+Anand fører skak-VM
+Den indiske verdensmester suveræn i det tredje parti skak
+
+
+ Traditionen tro bringer Information samtlige partier fra VM-matchen. I de to første opgør i Bonn var der dog ikke meget at skrive hjem om. Det første parti, hvor den 33-årige udfordrer Vladimir Kramnik havde hvid, var kedeligt som en åbningskamp ved fodbold-VM: 
+1.d4 d5 2.c4 c6 3.Sc3 Sf6 4.cxd5 cxd5 5.Lf4 Sc6 6.e3 Lf5 7.Sf3 e6 8.Db3 Lb4 9.Lb5 0-0 10.Lxc6 Lxc3+ 11.Dxc3 Tc8 12.Se5 Sg4 13.Sxg4 Lxg4 14.Db4 Txc6 15.Dxb7 Dc8 16.Dxc8 Tfxc8 17.0-0 a5 18.f3 Lf5 19.Tfe1 Lg6 20.b3 f6 21.e4 dxe4 22.fxe4 Td8 23.Tad1 Tc2 24.e5 fxe5 25.Lxe5 Txa2 26.Ta1 Txa1 27.Txa1 Td5 28.Tc1 Td7 29.Tc5 Ta7 30.Tc7 Txc7 31.Lxc7 Lc2 32.Lxa5 Lxb3 - og remis.
+Stor overraskelse
+I det andet parti var den største overraskelse, at den forsvarende mester Anand ikke spillede sit sædvanlige førstetræk 1.e4, men: 	
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.f3 d5 5.a3 Lxc3+ 6.bxc3 c5 7.cxd5 Sxd5 8.dxc5 f5 9.Dc2 Sd7 10.e4 fxe4 11.fxe4 S5f6 12.c6 bxc6 13.Sf3 Da5 14.Ld2 La6 15.c4 Dc5 16.Ld3 Sg4 17.Lb4 De3+ 18.De2 0-0-0 19.Dxe3 Sxe3 20.Kf2 Sg4+ 21.Kg3 Sdf6 22.Lb1 h5 23.h3 h4+ 24.Sxh4 Se5 25.Sf3 Sh5+ 26.Kf2 Sxf3 27.Kxf3 e5 28.Tc1 Sf4 29.Ta2 Sd3 30.Tc3 Sf4 31.Lc2 Se6 32.Kg3 Td4 ...
+Og remis. Hvid står nok en anelse bedre, men med kun tre minutter tilbage til de sidste otte træk skulle Anand ikke have klinket noget. Men som sort i det tredje var han i høj grad risikovillig:
+1.d4 d5 2.c4 c6 3.Sf3 Sf6 4.Sc3 e6 5.e3 Sbd7 6.Ld3 dxc4 7.Lxc4 b5 8.Ld3 a6 9.e4 c5 10.e5 cxd4 11.Sxb5 axb5 12.exf6 gxf6 13.0-0 Db6 14.De2 Lb7 15.Lxb5 Ld6! 16.Td1 Tg8! 17.g3 Tg4 ...
+Hård kost for russeren
+Alle disse træk blev spillet som lyn og torden af den indiske skakspiller. Den danske stormester Peter Heine Nielsen er blandt de kokke, der har hjulpet ham med at tilberede denne åbning, som viste sig at være hård kost for Kramniks gane. 
+Russerens næste træk er dubiøst, da det resulterer i en åben g-linje ned mod den hvide konge: 18.Lf4?! Lxf4 19.Sxd4 h5 20.Sxe6 fxe6 21.Txd7 Kf8 22.Dd3 Tg7 23.Txg7 Kxg7 24.gxf4 - sic! - Td8 25.De2 Kh6 26.Kf1 Tg8 27.a4 Lg2+ 28.Ke1 Lh3 29.Ta3 Tg1+ 30.Kd2 Dd4+ 31.Kc2 Lg4 32.f3 Lf5+ 33.Ld3? - (den endelige fejltagelse, 33.Kb3 var sejere) - Lh3 34.a5 Tg2 35.a6 Txe2+ 36.Lxe2 Lf5+ 37.Kb3 De3+ 38.Ka2 Dxe2 39.a7 Dc4+ 40.Ka1 Df1+ 41.Ka2 Lb1+ ...:
+Se diagrammet.
+Tidsnøden er overstået, og Kramnik kan kapitulere - 2-1 til Anand, der som hvid i det fjerde parti kunne have øget, men valgte at spille safe: remis efter blot 29 træk, og dermed er stillingen 2,5-1,5 til den 39-årige inder.
+
+

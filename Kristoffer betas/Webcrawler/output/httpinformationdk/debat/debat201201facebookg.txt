@@ -1,0 +1,34 @@
+Facebook og Google hjælper hævngerrige diktatorer
+Nye internetteknologier, som kan genkende ansigter på fotos, bliver stadig mere udbredte. Beklageligvis har teknologiens skabere ikke gjort sig den ulejlighed at gennemtænke de etiske konsekvenser
+
+
+ Det gik frygteligt galt for Facebook, da man i juni sidste år præsenterede sit bud på en teknologi, som kunne genkende personer på de billeder, brugerne lagde på siden. Protesterne fra vrede brugere over angivelige krænkelser af privatlivets fred var utallige.
+Større succes fik Google, som i november afslørede en lignende ansigtsgenkendelsesteknologi på det sociale netværk Google+.
+Forskellen i reaktionsmønstrene er forståelig. Facebook åbnede for det nye værktøj uden at spørge brugerne om lov. Google gjorde sit værktøj valgfrit.
+Den gode nyhed er, at webtjenester er på vej væk fra det arrogante ’vi ved, du vil elske denne her feature, så derfor gør vi den til din standardindstilling’ til det diplomatiske ’hallo, tjek lige ud, hvad der nu også kan lade sig gøre — hvis du har lyst’.
+Den dårlige nyhed er, at triumfen for opt-in — det frie tilvalg — ikke er helt så stor, som den kunne se ud. Forklaring følger.
+Ubehagelig konsekvens
+Silicon Valley har i årevis forsikret os om, at alle beslutninger er i brugerens hænder og at man kun ønsker at give brugeren valgfrihed. Deres standardretorik hviler imidlertid på den naive forestilling, at teknologier kun er værktøjer og deres effekter alene instrumentelle.
+Hvis brugerne vil benytte værktøj X til opgave Y, diskuteres alene, om Y er ønskværdig. At en omfattende anvendelse af værktøj X også kan udløse den uventede effekt Z, bekymrer sjældent ’instrumentalisterne’.
+Men ingen teknologi tjener alene sin umiddelbare funktion. Den sætter også fingeraftryk på omverden, idet den kan forandre miljøer, ideologier, brugerne selv, magtrelationer og andre teknologier.
+Biler kan være glimrende til at nå fra punkt A til B, men vi må også spørge: Hvilke konsekvenser har flere biler for kvaliteten af vores byliv, for luftforureningen og trafikdrabsstatistikken?
+En given teknologi er ikke uproblematisk, bare fordi dens brugere kan fravælge den som ‘standardindstilling’. I USA kom det massive frie tilvalg af massebilisme til at ændre den offentlige infrastruktur og de sociale normer, så en billøs tilværelse blev meget vanskelig.
+Bilen bringer os stadig fra A til B. Men ville amerikanernes livskvalitet ikke have vundet meget, hvis de i tide havde forsøgt at foregribe de afledte konsekvenser ved massebilismen?
+Ikke kun sjovt og smart
+Tilbage til automatisk ansigtsgenkendelse. Om den ved vi følgende: Den kan let misbruges. En søgemaskine, der kan sætte navn på mennesker ud fra ansigter, vil utvivlsomt blive populær hos diktatorer, som er opsatte på at knuse folkelige protester.
+Ansigtsgenkendelse har allerede vundet indpas i mange ’harmløse’ sammenhænge. Det er blevet en populær metode til at sikre smartphones og bærbare computere imod uautoriseret brug og anvendes i spillekonsoller for at skabe en mere personlig spilleoplevelse.
+Teknologien anvendes også til at registrere antallet af gæster af han- og hunkøn på barer og natklubber. Listen kunne fortsætte.
+Tilsyneladende harmløse anvendelser af en ny teknologi kan imidlertid meget vel bane vej for de langt mere problematiske, der aldrig var forudset af teknologiens skabere. Og når den generelle offentlighed omsider indser dette, kan den nye teknologi være så indlejret i vores kultur, at der ikke er nogen vej tilbage.
+I en vis forstand har vi at gøre med en proces, der er mere uhyggelig end kaosteoriens ‘sommerfugleeffekt’, hvor en sommerfugls vingeslag i Brasilien ender med at udløse orkan i Texas.
+Palo Alto-effekten
+Det vi er vidne til her, kunne vi kalde Palo Alto-effekten: En sorgløs bruger i Palo Alto beslutter sig for at bruge Googles opt-in-teknologi til ansigtsgenkendelse, men ender med at styrke en diktator i Damaskus.
+Og hvorfor er den proces mere uhyggelig en sommerfugleeffekten? Fordi brugeren i Palo Alto (i modsætning til sommerfuglen) burde kunne tænke to træk frem, men foretrækker ikke at gøre det.
+Hvad stiller vi op? Vi kan bevidstgøre internetbrugerne om deres etiske ansvar og de ultimative indirekte konsekvenser af deres tilvalg. Der er præcedens for den slags. Bekymringer over økonomisk ulighed, klimaforandringer og børnearbejde affødte den ’etiske forbrugerbevægelse’, som forsøger at informere forbrugerne om afledte moralske følger af deres adfærd på markedspladsen.
+Samme koncept kan med fordel tages i brug over for vores adfærd på internettet. Men hvad vil ’etisk browsing’ eller ’etisk social networking’ indebære? At vi aldrig bruger webtjenester, der udnytter teknologi til ansigtsgenkendelse? At vi fravælger internetudbydere, der samarbejder med efterretningstjenester? Det er sådanne valg, vi må træffe, hvis vi ikke ønsker, at internettet skal blive en etikfri zone. Ureflekteret brug af ny teknologi skaber lige så lidt gode samfundsborgere, som ureflekteret indkøbsadfærd gør det.
+Tag ansvar, Google
+Men internetvirksomhederne bør ikke gå fri. Vel skræddersyer Facebook og Google ikke overvågningsværktøjer til brug for diktatorer. Men de bidrager unægtelig til at skabe den perfekte tekniske infrastruktur, der muliggør, at sådanne værktøjer kan opstå.
+Internetselskaberne kender udmærket deres ansvar. Eric Schmidt, Googles topchef, har kaldt den nye teknologi til ansigtsgenkendelse for »klam« og udtrykt bekymring over perspektiverne. Ikke desto mindre har Google altså omfavnet teknologien — som opt-in. Ved at uddelegere ansvar til den enkelte bruger tror selskabet sig garderet imod anklager for uetisk adfærd.
+Er dette mere overbevisende, end hvis en direktør for et olieselskab siger, at er man bekymret for klimaforandringer, kan man bare lade være med at køre rundt i en firehjulstrækker?
+Evgeny Morozov forsker i nye teknologiers sociale implikationer. Han vil fremover skrive fast i Information.
+© Evgeny Morozov og Information. Oversat af Niels Ivar Larsen.
+

@@ -1,0 +1,29 @@
+Havarier med Boeing 737-800
+Boeing 737 er verdens mest solgte passagerfly, og lørdagens havarerede fly fra Lion Air var typen 737-800 NG.
+
+
+ * Godt 400 Boeing 737-fly er havareret siden de første fly blev leveret i 1968
+* I alt er 4236 mennesker omkommet ved havarierne
+Her følger de seneste havarier med Boeing 737-800
+* 13. april 2013: Lion Air Flight 904 fra Bandung til Denpasar i Indonesien havde 108 personer om bord, da flyet ikke nåede frem til landingsbanen i Ngurah Rai lufthavnen på Bali, men i stedet havnede på lavt vand. Alle overlevede, men en del blev kvæstet
+* 30. juli 2011: Caribbean Airlines Flight 523 landede i regnvejr og fortsatte ud over asfalten og gennem en hegn i Cheddi Jagan-lufthavnen i Guyana. Flyet brækkede i to. Der var ingen omkomne blandt de 163 ombordværende, men mange blev kvæstet
+* 22. maj 2010: Air India Express Flight 812 tog landingsbanen for sent og fortsatte ud over enden, gennem et hegn og ned i en kløft under en landing i Mangalore lufthavn. 158 af de ombordværende blev dræbt, mens otte overlevede
+
+Tekniske data for Boeing 737-800 NG:
+* Antal passagerer: 162-189
+* Fragt: 44 kubikmeter
+* Maks. brændstofmængde: 26.020 liter
+* Maks. startvægt: 79.010 kg
+* Maks. rækkevidde: 5765 km
+* Typisk marchhastighed: 828 km/t
+* Pris i 2012: 89,1 millioner dollar (508 millioner kroner)
+* Vingespænd: 35,8 m
+* Længde: 39,5 m
+* Halehøjde: 12,5 m
+* Indvendig kabinebredde: 3,53 m
+* Introduceret: 1967
+* Første leverance: 1968
+* Producerede fly i alt: 7457
+* Antal fly i ordre i 2013: 153
+
+(Kilde: Boeing m.fl.)

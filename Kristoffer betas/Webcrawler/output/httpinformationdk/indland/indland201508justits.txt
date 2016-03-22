@@ -1,0 +1,25 @@
+Justitsminister vil lukke af for indsigt i overvågning
+FDM og andre kritiserer, at justitsminister Søren Pind (V) vil afskære borgerne fra at kunne få indsigt i, hvilke oplysninger politiet i fremtiden kommer til at gemme om dem med et nyt system, der skal overvåge bilisters færden
+Med et nyt system skal politiet automatisk kunne registrere tusindvis af nummerplader dagligt. Og står det til justitsministeren, skal borgerne ikke kunne få at vide, hvilke oplysninger politiet har registreret om dem.
+
+
+ Det skal ikke være muligt for den enkelte borger at få indsigt i de oplysninger, som politiet i fremtiden vil registrere og gemme om dem med et nyt system, som skal overvåge bilister. Det fremgår af et nyt udkast til et regelsæt om såkaldt automatisk nummerpladegenkendelse, som justitsminister Søren Pind (V) har udsendt.
+Interesseorganisationen Forende Danske Motorejere (FDM) er kritisk over for netop den del af reglerne og kalder det »et alvorligt indgreb i retssikkerheden, der kan have vidtrækkende konsekvenser«.
+Det system, som politiet er i gang med at indføre, fungerer på den måde, at det aflæser og registrerer bilisters nummerplader, som i visse tilfælde gemmes med oplysninger om tidspunkt, placering og billede.
+Det skal ikke bruges til fartkontrol, men kan i stedet bruges til at finde biler, der eksempelvis er eftersøgt internationalt, eller som ikke har været til syn. Overvågningen skal efter planen foregå ved hjælp af kameraer, der både er fastplacerede ved eksempelvis motorveje, og kameraer, der opsættes på omkringkørende politibiler.
+Konkret kritiserer FDM, at personer, som ikke er mistænkt af politiet, afskæres fra retten til indsigt i de oplysninger, som politiet gemmer om dem. Det vil ifølge organisationen gøre det umuligt for offentligheden at finde ud af, om der »ulovligt opbevares oplysninger om uskyldige borgere«: »Hvis man ikke selv har mulighed for at finde ud af, hvad der er registreret om en selv, kan man jo ikke holde øje med, at politiet overholder reglerne for, hvad de må gøre med oplysningerne,« siger afdelingschef Torben Lund Kudsk fra FDM.
+»En sådan potentiel mørklægning hører ikke hjemme i et moderne retssamfund,« mener FDM.
+Skal registrere tusindvis
+Tidligere har Rigspolitiet selv anslået, at systemet med et vist antal kameraer kan registrere omkring 600.000 biler dagligt. Jesper Lund, der er formand for IT-Politisk Forening, kalder da også justitsministerens beslutning om at afskære borgeres indsigt for »meget vidtgående«.
+»I Europa er udgangspunktet, at når nogen registrerer oplysninger om dig, så har du en ret til indsigt i de oplysninger. Det er specielt vigtigt i en situation som denne, fordi registreringen ikke sker med samtykke, men blot ved, at du har kørt i din bil på vejene,« siger han.
+Jesper Lund lægger særligt vægt på, at hvis borgerne havde ret til indsigt i de data, som politiet har i sinde at registrere, ville det give borgerne en mulighed for at få viden om, hvor omfattende overvågningen i praksis bliver.
+Catherine Crump, som er juraprofessor på Berkeley School of Law, har beskæftiget sig indgående med overvågning af bilister ved hjælp af automatisk nummerpladegenkendelse. I USA er denne type overvågning udbredt, og i nogle stater er det muligt at få udleveret denne type af data, som den danske justitsminister nu vil afskære danskerne retten til indsigt i.
+»Som minimum bør folk have adgang til deres egne data. Det er et meget basalt princip,« siger Catherine Crump.
+For besværligt?
+I det regelsæt, som justitsministeren har udsendt et et udkast til, skelnes der konkret mellem to forskellige typer af indsamling af data fra politiets kommende overvågningssystem: Hits og no-hits.
+Hits er de tilfælde, hvor politiet registrerer en nummerplade, som i forvejen er kædet sammen med en mulig lovovertrædelse. Det kan eksempelvis være, fordi bilen ikke har været til syn eller er efterlyst internationalt.
+No-hits er derimod de tilfælde, hvor politiet registrerer og gemmer nummerpladen, selv om den ikke er kædet sammen med en mistanke om en lovovertrædelse, men hvor registreringen sker som led i en masseindsamling af oplysninger fra alle forbipasserende biler. No-hits må efter reglerne kun indsamles i forbindelse med politiets »målrettede« indsatser, som skal være tidsmæssigt og geografisk afgrænsede, og data må derefter maksimalt opbevares i 30 dage.
+FDM og IT-Politisk Forening er enige i, at det kan være nødvendigt at afskære borgere fra at få indsigt i den del, der handler om indsamlede hits, hvor nummerpladen altså er sat i forbindelse med en potentiel lovovertrædelse, og hvor en politiefterforskning derfor kan være i gang. Men organisationerne mener ikke, at det er nødvendigt at udvide det til også at gælde no-hits.
+»Jeg tror, at man har malet lidt med den brede pensel i forhold til at afskære retten til indsigt, fordi det er besværligt for politiet at håndtere sådan nogle anmodninger om indsigt,« siger Jesper Lund fra IT-Politisk Forening.
+Justitsminister Søren Pind (V) har ikke ønsket at kommentere kritikken.
+

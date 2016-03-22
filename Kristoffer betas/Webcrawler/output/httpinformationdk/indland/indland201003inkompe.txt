@@ -1,0 +1,27 @@
+Inkompetence er skyld i offentlige it-fiaskoer
+Offentlige styrelser gennemtænker ikke it-projekter i milliardklassen, inden de sætter dem i gang. Det rammer borgerne mere direkte nu end tidligere
+Folkeskolernes nationale test tidligere på måneden endte i it-koks og kaos. Men det er langtfra det første offentlige it-projekt, der ender galt.
+
+
+ De offentlige it-skandaler har nu nået et omfang, hvor de ikke kun er årsag til frustration og dybe greb i statskassen, men også har direkte konsekvenser for landets borgere. Senest koster den digitale tinglysningsskandale almindelige danskere formuer, og da folkeskoleelever forleden svedte over regeringens obligatoriske test, endte det i kaos og aflysning på grund af it-nedbrud. Med andre ord rammer skandalerne nu alle.
+Hidtil har staten været meget tilbageholdene med at kritisere sig selv. Men ikke længere. Fiaskoerne er så åbenlyse, at det ikke giver mening at fortie dem.
+»Der er ingen tvivl om, at vi i det offentlige er for dårlige til at håndtere store it-projekter. Når vi over de seneste år har skønnet forkert i størrelsesordnen en milliard kroner, så er det tydeligt, at vi har et for dårligt overblik over projekterne,« siger digitaliseringschef i Finansministeriet Lars Frelle-Petersen.
+Han står i spidsen for regeringens stort anlagte digitaliseringsprojekt, hvor samfundets centralnervesystem, som tinglysning, SKAT, SU, politi, skoler og hospitaler, skal gå fra papirvælde til netværkssamfundet.
+Ugennemtænkt
+I næste måned fremlægger regeringen en redegørelse over de kaotiske offentlige it-projekter. Lars Frelle-Petersen står bag redegørelsen. Konklusionen er, at projekterne er ugennemtænkte, indebærer en meget høj risiko for fejl og forsinkelser, og at samarbejdet med leverandørerne er elendigt.
+»Systemerne er ikke tænkt ordentligt igennem, inden de bliver vedtaget. Instanser uden erfaring kaster sig ud i meget voldsomme projekter, der indebærer en høj grad af risiko, som vi er for dårlige til at forstå og håndtere. Endelig er samarbejdet med leverandøren ofte præget af mistillid og gensidige bebrejdelser undervejs,« siger Lars Frelle-Petersen.
+Sidste år viste tal fra finansministeriet, at 15 statslige it-projekter siden 2001 er endt i forsinkelser og budgetoverskridelser. Flere af dem gik galt fra starten og er endnu ikke færdige.
+»Store it-projekter skal i udbud, og vi skal i reglen vælge det laveste tilbud. Det betyder, at leverandørerne underbyder hinanden i en grad, så man kan have fornemmelsen af, at de som udgangspunkt taber penge på kontrakten og derfor må tjene pengene hjem andre steder,« siger Lars Frelle-Petersen.
+CSC er blandt de største leverandører af it til det offentlige Danmark. Fritoj Lind står i spidsen for CSC's offentlige projekter og er manden bag den digitale tinglysning.
+»Udbudsformen har nogle ulemper, men problemet er nærmere, at vi skal leve med kontrakter, der er meget rigide, og som i meget ringe grad evner at håndtere ændringer undervejs. Tidsplanen er så stram, at selv få ændringer fører til forsinkelser,« siger Fritjof Lind.
+De rigide kontrakter skyldes, at det offentlige »går med livrem og seler af angst for klagesager,« som Lars Frelle-Petersen siger.
+Ingen forstand på it
+Det betragter professor Søren Lauesen fra IT-Universitetet som et hovedproblem i det offentlige.
+»Ledelsen i det offentlige har ikke forstand på it, og de konsulenter, man benytter, overspecificerer kontrakterne, så leverandørerne er nødt til at programmere helt nye systemer i stedet for at hive noget ned fra hylden,« siger Søren Lauesen.
+Udbudssystemet udelukker parterne fra at tale med hinanden under udbuddet. Det betyder, at leverandørerne ikke må foreslå billigere løsninger, men udelukkende skal leve op til kravene i udbuddet. Derfor kan leverandøren ikke rådgive det offentlige om projektet, inden det bliver fastlagt.
+Konsekvensen af det er mere vidtrækkende end budgetoverskridelser. For eksempel var fundamentet for den stort anlagte politireform, at politiets it-systemer blev moderniseret. Forsinkelser fra leverandøren er skyld i, at det ikke er sket. Derfor spilder betjentene tid på it-systemer, der er dybt forældede. Året før reformen opklarede politiet 19,4 procent af straffesagerne, sidste år var det tal faldet til 15,4 procent.
+Opfører sig uventet
+Senest dumpede prestigeprojektet med nationale elevtest i folkeskolen med et brag. Systemet kunne ikke håndtere svar fra mange elever samtidigt. Mens skoletestfiaskoen er en klokkeklar fejl fra leverandørens side, så viser tinglysningsskandalen, hvor komplekst problemet kan være. Her er der tale om, at hele fundamentet for systemet er fejlvurderet. Folk bruger ikke systemet, som staten forventede. Det fører til en ophobning af manuelt arbejde, fordi staten fyrede størstedelen af tinglysningsmedarbejderne i forbindelse med digitaliseringen. Derfor hober sagerne sig op og koster borgere og samfund milliarder kroner sammenlagt.
+»Vi er for dårlige til at vurdere, hvilke ændringer et nyt it-system medfører i organisationen. Vi skal være bedre til at stoppe op og spørge, hvordan folk egentlig vil bruge det her system,« siger Lars Frelle-Petersen.
+Det offentlige arbejder på at indføre nye modeller for projektstyring, hvor projekterne bliver delt op i mindre dele, som er nemmere at overskue.
+

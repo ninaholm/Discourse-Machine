@@ -1,0 +1,14 @@
+Hackere bryder NemID-sikkerhed i netbank
+Hackere har snydt Danske Bank-kunder og banet sig vej til deres netbankkonti trods kundernes brug af NemID.
+
+
+ Hackere har i otte tilfælde fået adgang til netbankkonti i Danske Bank og brudt NemID-sikkerheden undervejs, fremgår det af oplysninger fra selskabet Nets.
+I alt har der været tale om misbrug for 700.000 kroner, som er hævet på de pågældende konti og overført til konti i udlandet.
+De it-kriminelle har udnyttet såkaldt "real time phishing", hvor de kommer ind mellem it-brugeren og netbanken, netop som vedkommende er i færd med at anvende sin netbank.
+Nets opfordrer alle brugere af NemID til at holde deres computer opdateret mod virusangreb.
+- Hvis netbanken virker anderledes end den plejer, så vær mistænksom og kontakt eventuelt bankens kundesupport, lyder rådet fra Søren Winge, pressechef hos Nets Danmark.
+Angrebet på netbankkunderne er startet med en hackerangreb på vedkommendes pc, hvor det er lykkedes at bryde ind. Man ved endnu ikke, hvordan kundernes pc er blevet invaderet af it-svindlerne.
+Når kunden logger sig op på sin netbank, sidder den it-kriminelle klar ved en anden computer. Når kunden bliver bedt om at angive en kode til netbanken, bliver den opsnappet af den kriminelle, der så kan arbejde sig videre ind på selve kontoen.
+- Det er vigtigt at understrege, at det seneste angreb fra it-kriminelle ikke ændrer ved den generelle sikkerhed bag NemID. Og man kan trygt anvende sin netbank som man plejer, hedder det i meddelelsen fra Nets.
+I de pågældende sager, der er overdraget til politiet, er kunderne holdt skadesløse.
+Nets DanID vil nu sammen med bankerne nøje analysere hændelserne og vurdere, hvad der kan gøres for at forebygge denne form for svindel, oplyser Nets.

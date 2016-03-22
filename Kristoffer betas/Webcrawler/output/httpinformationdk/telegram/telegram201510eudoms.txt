@@ -1,0 +1,18 @@
+EU-dom stempler amerikansk datasikkerhed som for dårlig
+Sagen er rejst i kølvandet på whistlebloweren Edward Snowdens afsløringer af omfattende overvågning i USA
+
+
+ Europæiske Facebook-brugeres personoplysninger er ikke automatisk tilstrækkelig beskyttet i USA.
+EU-Kommissionens beslutning om at acceptere amerikansk datasikkerhed er derfor ugyldig, hedder det i en opsigtsvækkende dom fra EU-Domstolen.
+Det er samtidig en dom, der vil få store konsekvenser for andre virksomheder, der ligesom Facebook overfører data fra Europa til servere i USA.
+Tusindvis af både amerikanske og europæiske virksomheder - både Facebook, Google, Twitter, Amazon og andre giganter - overfører således løbende data fra Europa til USA.
+Men EU-Domstolen fastslår nu i sin klare afgørelse, at de amerikanske regler for datasikkerhed altid er underlagt USA's nationale sikkerhed, hvis der opstår en konflikt mellem de to hensyn.
+Og det er så vidtgående, at det kompromitterer de fundamentale rettigheder, som EU-borgere er garanteret, mener EU-Domstolen.
+Det er den østrigske jurist Maximillian Schrems, der har startet sagen efter den amerikanske whistleblower Edward Snowdens afsløringer af omfattende overvågning udført af den amerikanske sikkerhedstjeneste, NSA.
+- Yay, tweeter Schrems efter dommen, som han kalder "en milepæl, når det gælder privatliv på nettet".
+Maximillian Schrems mener, at Snowdens afsløringer viser, at der ikke er nogen meningsfuld beskyttelse af hans egne og andre europæiske Facebook-brugeres personlysninger i USA.
+Østrigeren har derfor klaget til den irske datakommissær over, at hans data ikke er tilstrækkelig beskyttet mod overvågning.
+Herefter har den irske højesteret spurgt EU-Domstolen, om den har beføjelser til at se på sagen på trods af EU-Kommissionens accept af amerikansk datasikkerhed.
+Og de irske domstole har beføjelserne og kan derfor godt gå i gang med at behandle Schrems klage, siger EU-Domstolen nu.
+Men EU-Domstolen er af egen drift gået et skridt videre og har samtidig erklæret EU-Kommissionens beslutning om at acceptere USA som en såkaldt "safe harbour", når det gælder datasikkerhed, for ugyldig.
+Sagen er rejst i Irland, fordi europæiske Facebook-brugere netop indgår en aftale med Facebook i Irland, når de opretter sig på det populære sociale medie.

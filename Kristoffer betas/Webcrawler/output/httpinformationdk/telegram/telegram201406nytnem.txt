@@ -1,0 +1,15 @@
+Nyt NemID er klar til mobilen
+Tirsdag lanceres et nyt, men langsommere NemID, som kan bruges til at logge på via smartphones og tablets.
+
+
+ Nu bliver det muligt at tjekke sin skatteopgørelse, skifte læge og anmelde flytning direkte på mobiltelefonen.
+Tirsdag 1. juli lanceres en ny version af NemID, som betyder, at danskerne kan tilgå det offentlige digitalt fra deres smartphones og tablets.
+ - Danskerne har taget mobilerne til sig i deres hverdag, så derfor er det rigtig positivt, at vi endelig kan tilbyde et nyt NemID. Det gør det muligt for borgerne at logge på offentlige digitale tjenester hjemme i sofaen eller på farten, siger direktør i Digitaliseringsstyrelsen Lars Frelle-Petersen i en pressemeddelelse.
+I dag kan man bruge sit NemID via forskellige apps, som for eksempel bankernes apps, til smartphones og tablets, men fra tirsdag bliver det også muligt at logge på med NemID via en browser - for eksempel på borger.dk.
+Men den nye version af NemID bliver langsommere end den, man kender i dag.
+- Det skyldes, at man blandt andet på grund af sikkerheden skal downloade en masse kode, som skal afvikles på telefonen, forklarer Cecile Christensen, kontorchef hos Digitaliseringsstyrelsen, til Ritzau.
+- Hastigheden afhænger af, hvilken smartphone eller tablet du bruger, hvilket styresystem, der er i din telefon, og hvor hurtig dit netværk er. Det betyder, at det kan tage op til 30 sekunder på de langsomste enheder at downloade det nye NemID, siger hun.
+Ifølge Digitaliseringsstyrelsen, er syv ud af de 2000 selvbetjeningsløsninger, som findes på borger.dk, helt klar til brug med det nye system.
+De fleste andre kan bruges, men de er endnu ikke færdigudviklet til mobile enheder. Planen er, at de gradvist skal tilpasses
+Selvom det nye system går i luften tirsdag på de mobile enheder, betyder det ikke, at det gamle NemID-system forsvinder med det samme.
+- Den gamle løsning virker stadig på din computer fuldstændig som den plejer, men det er meningen, at den skal udfases i løbet af 2014, fortæller Cecile Christensen.

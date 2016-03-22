@@ -1,0 +1,15 @@
+Apple udelukker app, som viser USA's droneangreb
+USA’s brug af droner bliver ofte kritiseret for at mørkelægge landets krigsførelse, mangle etik og balancere på kanten af loven. Nu har Apple afvist at gøre en ny app tilgængelig, som kortlægger droneangrebene
+
+
+ En nyudviklet applikation, som informerer indehaveren, hver gang amerikanske droner dræber mennesker, er blevet afvist af App Store. Første gang udvikleren af applikationen Drones+, Josh Begley, fik afvist sin applikation, lød begrundelsen, at applikationen ikke var ’nyttig’. skriver magasinet Wired. Anden gang var der et problem med et firmalogo, som ikke var skjult. Den nyeste afvisning – den tredje på en måned – hævder, at applikationens indhold er ’stødende og råt’.
+Drone+ fungerer således, at den fortæller brugeren hver gang, der er sket et amerikansk droneangreb et sted i verden. Informationerne kommer fra offentligt tilgængelige databaser, som er indsamlet af det britiske Bureau of Investigative Journalism: »Ideen var at få amerikanere gjort interesserede i de amerikanske droner med information, der popper op på Iphonen som en pushmeddelse, så man bliver konfronteret med informationen,« fortæller udvikleren Josh Bergley, som studerer på New York Universitys Interaktive Telekommunikationsprogram, til wired.com.
+Ifølge en ny rapport fra den amerikanske kongres udgør de ubemandede droner i dag en tredjedel af alle militære luftfartøjer i USA. I 2005 udgjorde dronerne kun fem pct, og antallet af droneangreb er vokset eksplosivt i Obamas embedsperiode. Soldaterne, som styrer dronerne, arbejder fra computere tusindvis af kilometer væk fra de områder, hvor dronerne rammer.
+Christof Heyns, FN’s særlige rapportør for udenretslige drab, har tidligere sagt til The Guardian, at visse af droneangrebene kan betragtes som krigsforbrydelser. USA hævder dog, at operationerne bliver gennemført »med ekstraordinær omhu og i overensstemmelse med alle gældende love«.
+Godkendelsesprocessen
+Dronerne gør det bl.a. muligt for Obama-regeringen at opspore og udslette radikale islamister i Afghanistan, Pakistan og Yemen, og bliver af mange betragtet som fremtidens våben.
+Mary Ellen O’Connell, professor i folkeret ved Notre Dame University, siger til The Guardian, at der alene i Pakistan skønnes at være blevet dræbt mere end 2.200 mennesker af droner på tre år, og hun sammenligner de målrettede drab med den »overdrevne brug af militærmagt«, som USA fordømmer Syriens præsident for.
+På Apples hjemmeside står, at »godkendelsesprocessen for apps er lavet for at sikre, at applikationerne er pålidelige, fungerer som forventet og er fri for eksplicit og krænkende materiale. Vi gennemgår hver app på App Store baseret på et sæt tekniske-, indholds- og designkriterier«.
+Vil man læse mere om, hvad kriterierne reelt går ud på, må man dog betale. Der skal bruges et Apple ID og et password, som man kun kan få, hvis man er registreret som Apple-udvikler. Vil man registreres som udvikler, koster det fra 99 dollar og opefter.
+Josh Bergley overvejer nu, om hans app vil have bedre muligheder for at blive godkendt på det konkurrerende Android Market.
+

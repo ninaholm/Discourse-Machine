@@ -1,0 +1,46 @@
+V: Justitsminister må udvide Nets-undersøgelse
+Justitsministeren har nedsat et embedsmandsudvalg, der skal kortlægge beskyttelsen af oplysninger om borgernes elektroniske betalinger. På tide, siger it-ekspert. Men Venstre mener undersøgelsen bliver for snæver
+Justitsminister Karen Hækkerup (S) vil nedsætte et udvalg, som skal kortlægge beskyttelsen af oplysninger om borgernes elektroniske betalinger.
+
+
+ 
+	Antallet af personer med adgang til følsomme persondata må begrænses. Det mener professor Søren Sandfeld Jakobsen fra Aalborg Universitet, der er ekspert i persondatasikkerhed. Han mener, det er på tide, at regeringen nu vil kortlægge beskyttelsen af oplysninger om borgenes elektroniske betalinger. Ifølge Søren Sandfeld Jakobsen mangler der generel viden om basale spørgsmål såsom, hvilke regler der findes, og hvem de gælder for.
+
+	»Der er behov for regler om, hvor mange personer i en virksomhed, der skal have adgang til de personfølsomme oplysninger. Derudover skal der foregå en form for logning af, hvad der er blevet trukket ud af systemet,« siger han. Det er sagen om Se & Hørs tys-tys-kilde, der har tappet Nets’ databaser for oplysninger om privatpersoners kortoplysninger og solgt dem videre til ugebladet, der har fået justitsminister Karen Hækkerup (S) til at reagere.
+
+	Embedsmænd fra Justits-, Erhvervs- og Vækstministeriet skal gå sammen i et udvalg, som skal kortlægge beskyttelsen af oplysninger om borgenes elektroniske betalinger.
+
+	»Den konkrete sag rammer ned i en kompleks og vigtig diskussion om dataregistrering og forbrugerbeskyttelse,« sagde hun i sidste uge til Ritzau.
+
+	Problemet skal angribes bredere
+
+	Venstres retsordfører, Karsten Lauritzen, hilser initiativet velkommen, selv om han kalder udvalget »meget snævert«. Ifølge Lauritzen vil udvalget kun kigge på betalingstransaktioner og ikke de bredere problemer ved persondatasikkerhed.
+
+	»Jeg synes ikke, det er tilstrækkeligt. Regeringen bør kigge meget mere generelt på beskyttelsen af personfølsomme oplysninger. Vi ved, at der er potentielle problemer i både telesektoren, hos NemID og på en lang række andre områder,« siger han.
+
+	Derfor skal det hele granskes, for ellers kan det, vi har set i Se og Hør-sagen, gentage sig på andre områder i de kommende år. Ligeledes er retsordføreren usikker på, om centraladministrationen overhovedet har de rette kompetencer til at kunne gennemskue problematikken og få sikkerheden op på et tilstrækkeligt niveau. Derfor foreslår han, at regeringen kigger mod udlandet og lader sig inspirere.
+
+	»På den måde kommer vi længere end ved at lade nogle embedsmænd se på en meget specifik problemstilling,« siger han.
+
+	Menneskelig faktor
+
+	Ifølge professor Søren Sandfeld Jakobsen er datalæk et problem, der opstår stadig mere hyppigt. Han mener, at det kan skyldes, at alt for mange har adgang til den følsomme data. Derfor kan det afhjælpe en del af problemet, hvis kredsen af medarbejdere med adgang indskrænkes.
+
+	Således afslørede en tidligere medarbejder hos Nets torsdag, at alle i kundeafdelingen havde adgang til de personfølsomme oplysninger, og at flere misbrugte den til at snage i ekskæresters og bekendtes transaktioner.
+
+	»Der kan altid sidde en et sted, der systematisk søger at undgå reglerne og udnytte data. Men det er vigtigt at lave nogle regler og processer, der begrænser den slags typer i, at udnytte sin position til at finde oplysninger om andre mennesker,« siger Søren Sandfeld Jakobsen. Han bakkes op af retsordfører Peter Skaarup (DF), der mener, at der er behov for uafhængigt tilsyn og kontrol, så det bliver sværere at udnytte data.
+
+	»Det må ikke kunne lade sig gøre, at folk, der har adgang til systemet, kan tappe oplysninger, uden at en advarselslampe blinker et eller andet sted.«
+
+	Nets-salg problematisk
+
+	Enhedslisten er også positiv over for justitsministerens udmelding. Men sagen rejser nye spørgsmål om salget af Nets, mener retsordfører Pernille Skipper. Nets blev i marts solgt til kapitalfondene Bain og Advent samt pensionskassen ATP, og ifølge Skipper bør myndighederne bremse det salg, fordi der ikke er klarhed om danskernes følsomme persondata.
+
+	Hun påpeger, at både NemID, Dankort, e-boks og betalingsservice har adgang til »ekstremt personfølsomme oplysninger«. Oplysninger, der ikke er beskyttet af dansk lov, hvis Nets forlader Danmark.
+
+	»Der er rigtigt mange ting at tage fat på, hvis vi skal sikre danskernes data. Derfor er der god ræson i en undersøgelse. Men én ting kan ikke vente – salget af Nets til udenlandske kapitalfonde skal stoppes nu.«
+
+	Også Peter Skaarup ser problemer ved Nets-salget. Han mener ikke, der har været fokus på sikkerhedsdelen ved salget og understreger vigtigheden af, at Danmark fortsat vil varetage styringen og beskyttelsen af de personfølsomme data.
+
+	»Det er klart, at det kan blive vanskeligere at garantere sikkerheden omkring Nets data, jo længere væk virksomheden bevæger sig,« siger han.
+

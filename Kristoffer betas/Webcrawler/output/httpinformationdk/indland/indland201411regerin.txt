@@ -1,0 +1,15 @@
+Regeringen vil udvide bankers adgang til SKAT’s data om borgere
+Banker og andre finansielle virksomheder skal have udvidet deres mulighed for digital adgang til SKAT’s oplysninger om borgerne. Det fremgår af et lovforslag fra skatteminister Benny Engelbrecht (S). Selv om adgangen kræver tilladelse fra den enkelte borger, mener flere organisationer, at borgerne i praksis ikke får et reelt valg
+
+
+ Banker og andre finansielle virksomheder skal have mulighed for at indhente data fra SKAT om borgere, der modtager rådgivning fra virksomhederne. Det fremgår af et nyt lovforslag, som efter planen behandles i Folketinget tirsdag.
+De data, som de finansielle virksomheder ifølge loven vil kunne indhente, omfatter oplysninger fra borgerens årsopgørelse og det såkaldte indkomstregister, hvor løn og arbejdstid indberettes, samt oplysninger om eventuel gæld til det offentlige. Det vil ifølge regeringen spare den finansielle sektor for en større administrativ byrde.
+Jesper Lund, der er næstformand i IT-Politisk Forening, er kritisk over for lovforslaget. Han mener ikke, at det offentlige skal være en ’databank’, hvor private virksomheder kan hente personfølsomme oplysninger om borgerne: »Det vil betyde, at bankerne kommer til at vide mere om dig, end du formentlig selv ved,« siger han.
+Før virksomhederne kan indhente oplysningerne, skal borgeren give sit samtykke. Men det er en »illusorisk begrænsning«, skriver Advokatrådet i et høringssvar til loven. Organisationen påpeger særligt konsekvenserne for personer, der står i en svag situation over for en bank, som ønsker deres samtykke. Den bekymring deler IT-Politisk Forening.
+Øger risiko for misbrug
+På nuværende tidspunkt har finansielle virksomheder, der yder lån, mulighed for at indhente data fra SKAT om deres nuværende kunder, når det sker i en »konkret kreditgivningssituation«.
+Men med lovforslaget vil det også i »rådgivningssituationer« blive muligt for virksomhederne at indhente oplysninger om dels nuværende kunder, men også borgere, der blot er potentielle kunder. Forslaget udvider dermed den gruppe af finansielle virksomheder, der kan indhente oplysninger.
+Birgitte Kofod Olsen, der er formand for Rådet for Digital Sikkerhed, påpeger, at når data spredes med lovforslaget, vil det formentlig betyde en øget risiko for misbrug: »Derfor skal der være meget styr på sikkerheden i virksomhederne, når de lader deres medarbejdere tilgå skatteoplysninger.«
+Det har ikke været muligt at få et interview med skatteminister Benny Engelbrecht (S), men i en skriftlig meddelelse udtaler ministeren: »Man skal huske på, at vi med lovforslaget sikrer kunden en lettere måde, hvorpå han kan give banken de relevante oplysninger«.
+Ministeren henviser til, at bankerne efter gældende regler skal indhente visse oplysninger om borgerens økonomi.
+

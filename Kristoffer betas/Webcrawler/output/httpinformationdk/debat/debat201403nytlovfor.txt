@@ -1,0 +1,44 @@
+Nyt lovforslag om it-sikkerhed mangler gode argumenter
+Hvordan kan indsamling af de oplysninger, borgerne deler med deres el-selskab eller det kommunale jobcenter, gøre det lettere for Forsvarets Efterretningstjeneste at bekæmpe cyberkriminalitet? Det skylder Forsvarsministeriet en god forklaring på
+Forsvarsministeriet mangler stadig at redegøre for, hvorfor det er afgørende for kampen mod cyberterrorisme, at Center for Cybersikkerhed får fri adgang til at følge med i, hvad private borgere sender af oplysninger til offentlige myndigheder, skriver dagens kronikør. Særligt når den største trussel ifølge Forsvarets Efterretningstjeneste selv stammer fra statslige aktører, politisk eller økonomisk motiverede hackere, militante islamister og fra insidere.
+
+
+ 
+	Meget tyder på, at Forsvarsministeriet i løbet af denne måned fremsætter forslag om en ny lov for Center for Cybersikkerhed (CFCS). CFCS har fungeret siden 2012 under Forsvarets Efterretningstjeneste (FE) og er et centralt organ, der samler de to it-sikkerhedstjenester, der varsler om cyberangreb, det civile GovCERT, og det militære MILCERT, samt de opgaver, som tidligere blev varetaget af IT- og Telestyrelsen. Det første udkast til loven, som blev sendt i høring i februar, har allerede fået negativ opmærksomhed. En bred vifte af eksperter og politikere har således udtrykt sig skeptisk om de konsekvenser, som loven kan få for borgernes retssikkerhed.
+
+	Kritikken er ikke grundløs. Lovforslaget giver nemlig CFCS adgang til de oplysninger, som borgere deler med offentlige myndigheder over internettet. Loven vil således give centret adgang til den information, som man elektronisk videregiver til staten ved ændring i sin forskudsopgørelse, når man melder flytning via internettet, elektronisk videregiver oplysninger til DONG om sit elforbrug mv. Samtidig vil man som borger ikke kunne få indblik i, hvilke data der er blevet indsamlet, hvad de indsamlede data bruges til, og hvem de deles med.
+
+	Truet retssikkerhed
+
+	Hvis danskernes retssikkerhed skal indskrænkes, skal det være tungtvejende hensyn, som taler derfor. Offentligheden, medierne og politikere bør derfor kræve en mere uddybende forklaring på, hvordan indsamlingen og delingen af danskernes personfølsomme data samt indskrænkningen af aktindsigten rent faktisk har forhindret – og fremtidigt vil forhindre – hackerangreb.
+
+	I bemærkningerne til lovforslaget vurderer FE, at truslen fra cyberspace hovedsageligt kommer fra statslige aktørers spionage mod intellektuelle rettigheder; fra politisk eller økonomisk motiverede hackere; fra militante islamister, der på lidt længere sigt tilegner sig cyber-redskaber; og fra insidere, dvs. ansatte i offentlige eller private virksomheder, der bevidst eller ubevidst – ved for eksempel at trykke på et link i en mail – videregiver fortrolige data. Meningen med lovforslaget er, at CFCS skal have bedre mulighed for at opdage, analysere og bidrage til at bekæmpe sådanne trusler. Men hvordan hjælper øget adgang til og deling af danskeres e-mailkorrespondancer med eksempelvis borger.dk eller DONG Energy overhovedet til det?
+
+	Indskrænket aktindsigt
+
+	Fra Forsvarsministeriets side er tanken at skabe et netværk af ministerier, myndigheder og private virksomheder, hvis it-kommunikation overvåges af ét organ: CFCS. Og en centraliseret, teknisk kyndig enhed under FE ville sandsynligvis have nemmere ved at opdage og analysere sofistikerede hackeroperationer end individuelle virksomheder eller myndigheder uden samme grad af it-tekniske ressourcer. Så ideen er som sådan god nok.
+
+	Men hvorfor er det nødvendigt at indskrænke vores mulighed for at søge aktindsigt? For den danske efterretningstjeneste er det sædvanligvis kun vigtigt at undgå borgernes krav om aktindsigt, hvis den overvåger danskere med henblik på at forhindre et angreb. Men ser man på, hvori den primære trussel fra cyberspace består, stemmer ønsket om at kunne indsamle data uden retskendelse og uden nogen form for gennemsigtighed ikke overens med truslens karakter.
+
+	Langt de fleste cybertrusler mod Danmark har nemlig en global karakter. Det betyder, at det er særdeles vanskeligt – nærmest usandsynligt – at dansk lovgivning og overvågning alene kan forhindre internationale hackere i eksempelvis at forsøge at stjæle danske virksomheders nye opfindelser eller i at lægge danske hjemmesider ned. Det er kun truslerne fra kriminelle, aktivister, terrorister eller insidere, der befinder sig på dansk jord og på de danske netværk, som de danske efterretningstjenester har juridiske beføjelser til at overvåge, der i bedste fald vil kunne bekæmpes.
+
+	Skurkene går fri
+
+	Selv om det er vanskeligt at bevise noget som helst i cyberspace, peger vestlige efterretningstjenester, private cybersikkerhedsfirmaer og it-eksperter på Kina, Rusland og Iran som de største syndere på internettet. Den kinesiske regering siges at stå bag en stor del af den globale cyberspionage, Rusland siges at være hjemsted for store netværk af online-kriminelle og patriotiske hackere, og selvudnævnte online-aktivister er blevet sat i forbindelse med det iranske styre.
+
+	Har CFCS mistanke om, at danske myndigheder og virksomheder er blevet inficeret med en virus, eller at hackere har fået adgang til fortrolige data, står det ikke klart i det nuværende lovudkast, hvorfor CFCS behøver at indsamle informationer i hemmelighed. Det er de færreste borgere og virksomheder i Danmark, der (bevidst) samarbejder med kinesiske spioner, russiske kriminelle eller iranske aktivister, hvorfor de fleste danskere må formodes at være villige til at assistere analyse- og efterforskningsarbejde af cyberangreb, såfremt efterretningstjenesten åbent fremsætter en begrundet mistanke om, at intetanende borgere er kommet for skade at sprede vira.
+
+	Hvis de danske efterretningstjenester vurderer, at trusselsbilledet fra cyberspace hovedsageligt peger i retning af aktiviteter uden for landets grænser, er det således nødvendigt at reflektere over, om mindre gennemsigtighed er vejen fremad. En vis grad af åbenhed fra efterretningstjenesternes side kan endda være positivt. Den danske befolkning har generelt altid haft tiltro til efterretningstjenesterne, men bliver der sået tvivl om berettigelsen af de øgede beføjelser, er der en risiko for, at tilliden går fløjten, og dermed ryger lysten til at hjælpe CFCS med at løse de udfordringer inden for cybersikkerhed, som Danmark står overfor.
+
+	Teknisk hjælp, tak
+
+	I en tid, hvor Snowdens lækager har skabt stor debat om borgernes retssikkerhed, og hvor det endnu ikke har været muligt for NSA at bevise, at den store masseindsamling af data har forhindret terrorangreb, er der behov for, at FE klarlægger, hvad indsamlingen og delingen af data skal gøre godt for. Ellers forbliver det vanskeligt for FE at overbevise den danske befolkning om, at der er proportionalitet mellem retten til eksempelvis at dekryptere private e-mails og dele indholdet med NSA, og så de skadelige aktiviteter, som CFCS forhindrer ved hemmeligt at indsamle data fra danskerne.
+
+	I stedet for at bruge ressourcer på at gøre cybersikkerhed og cyberforsvar mere uigennemsigtigt, er en del af løsningen måske en styrkelse af CFCS’s it-tekniske fokus, således at centeret først og fremmest bidrager til, at staten, virksomheder og borgere installerer og implementerer sikkerhedsforanstaltninger, der gør livet bare en lille smule vanskeligere for fjendtligsindede hackere. Forhåbentlig kommer de it-tekniske eksperter i CFCS snarest med en sådan plan.
+
+	Indtil da bliver det ikke blot interessant at se det reviderede lovforslag, når det fremsættes i Folketinget. Det bliver også vigtigt at fastholde den offentlige bevågenhed og interesse for emnet. Håndteringen af it-sikkerheden i de kommende år kan meget vel blive skelsættende for, hvordan forholdet mellem politikere, efterretningstjeneste og borgere skal defineres i fremtiden. Det er i alles interesse, at Danmark kan håndtere de udfordringer, som den stigende afhængighed af nye teknologier medfører.
+
+	 
+
+Jeppe Teglskov Jacobsen er videnskabelig assistent ved Dansk Institut for Internationale Studier
+

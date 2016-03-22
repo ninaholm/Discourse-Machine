@@ -1,0 +1,69 @@
+’Det er sådan noget, litterater har drømt om siden munkene’
+Nu digitaliserer Norge hele kulturarven og lægger den frit tilgængeligt for enhver med norsk IP-adresse. Et visionært projekt, der roses af alle. Så hvorfor gør vi ikke noget tilsvarende i Danmark?
+ 
+	Nasjonalbiblioteket i Norge er ved at digitalisere bøger og håndskrevne dokumenter fra middelalderen til 2000. Dermed kan alle med en norsk IP-adresse læse alt fra Henrik Ibsen og Karl Ove Knausgård til udgivelser af Herbjørg Wassmo og Jan Kjærstad (billedet), der vandt Nordisk Råds Litteraturpris i henholdsvis 1987 og 2001. Fotos: Nikolai Linares
+
+
+ 
+	Alle bøger. Alle avis- og magasinartikler. Hvert et ord, der nogensinde er blevet nedfældet.
+
+	Nasjonalbiblioteket i Norge er i gang med at digitalisere hele molevitten, hele den norske kulturskat, og det norske folk får mulighed for at læse det på deres computer eller mobiltelefon. Ganske gratis.
+
+	Siden 2006 har man i Oslo samlet »alt publiceret indhold i alle medier« for at digitalisere det. Arbejdet vil tage mellem 20 og 30 år, og det forventes, at tjenesten Bokhylla står klar i midten af 2020’erne. Hver dag scannes adskillige terabytes data ind i arkiverne, og det gælder både bøger og håndskrevne dokumenter fra middelalderen til 2000.
+
+	Det er kulturformidling i stor skala, som litteraturprofessor Søren Pold fra Aarhus Universitet betegner det:
+
+	»Det er sådan noget, litterater har drømt om siden munkene!«
+
+	Når det omfattende digitaliseringsprojekt er afsluttet, vil alt materiale – uanset ophavsret – i sidste ende være tilgængeligt for kommende generationer af nordmænd. Har man en norsk ip-adresse, vil ikkeophavsretsligt beskyttet materiale oven i hatten kunne downloades.
+
+	»Samlingen repræsenterer nationens kollektive hukommelse. Digitaliseringen skal hjælpe med at værne om samlingen for fremtidige generationer,« skriver Nasjonalbibliotekets stabsdirektør, Ingjerd Skrede, på bibliotekets hjemmeside.
+
+	Men hvad med Danmark? Kan vi gøre noget tilsvarende herhjemme?
+
+	Lovgivningen
+
+	I midten af 00’erne indledte den danske stat et projekt med digitalisering af bøger. Et af de spørgsmål, man dengang behandlede, var ophavsretten. Var den et problem? Der blev nedsat en arbejdsgruppe med repræsentanter fra organisationer for rettighedshaverne og biblioteker og DR.
+
+	»Der var fuld enighed i arbejdsgruppen om, at ophavsretsproblemet løses ved, at man indgår nogle kollektive aftaler med aftalelicens,« siger advokat og ophavsretsekspert Peter Schønning, som dengang var kontorchef i Kulturministeriet.
+
+	Konsekvensen blev, at kulturarvsinstitutioner som Det Kongelige Bibliotek og DR lavede aftaler med rettighedshaverne samlet i organisationer, blandt andet Copydan. Aftalen skulle således omfatte alle grupper af rettighedshavere – også dem, der ikke direkte er medlemmer af de organisationer, det handler om.
+
+	»For at understøtte den aftaleproces blev det samtidig indstillet at man skulle lave en lovændring af ophavsretsloven. Der blev lavet en generel aftalelicens, som afbureaukratiserer i den forstand, at det er op til parterne selv at lave en aftale om digitalisering af kulturarv, uden Folketinget skal ind over hver gang,« forklarer han og fortsætter: »Det var Folketinget enige om, og i 2008 vedtog man en lovændring, som har gjort, at man i dag har et meget smidigt system til at håndtere rettighedsspørgsmål.«
+
+	Professor Morten Rosenmeier fra Københavns Universitet forklarer, at Copydan ifølge ophavsretsloven kan lave aftaler på vegne af ophavsmændene. For eksempel kan skoler få aftaler med Copydan, så lærerne kan bruge kopier af beskyttede værker i undervisningen eller vise eleverne fotografier og film uden at skulle have fat i de enkelte ophavsmænd. Det er også på baggrund af Copydan-aftaler, at DR har kunnet digitalisere deres arkivguld og lægge det ud på Bonanza-hjemmesiden, forklarer han.
+
+	Endvidere kan Copydan lave aftaler om, at biblioteker kan indscanne værker og lægge dem ud på nettet.
+
+	»Copydan kræver penge af dem, der indgår aftaler med dem, og sender dem tilbage til de ophavsmænd og medievirksomheder, hvis værker bliver brugt. Copydan tager dog langt mindre for aftalerne, end de ville have kostet, hvis man skulle have tilladelse fra de enkelte ophavsmænd. Hvis man f.eks. spørger en fotograf om lov til at bruge et fotografi, er taksten typisk flere tusinde kroner. Hvis en skole derimod har en aftale med Copydan, kan dens lærere bruge billeder fra hele verden til en pris, der svarer til nogle få kroner pr. elev.«
+
+	Oliepengene
+
+	Noget af det samme har man gjort i Norge i forbindelse med digitaliseringen. Man har indgået aftaler med de forskellige rettighedshavere og indgået betalingsaftaler.
+
+	Men hvorfor er man ikke kommet videre i Danmark? På grund af penge, lyder det samstemmende: »Og det er ikke økonomien i forhold til, hvad det koster at betale rettighedshaverne. Det er simpelthen digitaliseringsprocessen. Den teknisk fysiske proces med at digitalisere er ekstremt omkostningstung,« siger Peter Schønning, som suppleres af Morten Rosenmeier: »Det er dyrt at digitalisere. Pengene går først og fremmest til scanningen, så vidt jeg ved. De penge, Copydan skal have, er peanuts i sammenhængen.«
+
+	I september 2008 lavede it-konsulenterne Gartner en undersøgelse, der viste, at en digitalisering af alt »digitaliseringsværdigt« materiale på kulturarvsinstitutionerne ville koste mellem to og tre milliarder kroner med den kendte teknologi.
+
+	Spørger man på Det Kongelige Bibliotek, er der flere forklaringer på, hvorfor noget tilsvarende ikke kan lade sig gøre i Danmark. Ifølge nationalbibliotekschef og vicedirektør Pernille Drost er det centrale, at Nasjonalbiblioteket i Norge digitaliserer godt en kvart million bøger og tidsskrifter. Det skal man sammenligne med tallet på Det Kongelige Bibliotek i København, som er næsten syv gange så højt: 1,7 mio. titler:
+
+	»Og så har det været en prioritering fra Nasjonalbiblioteket i Norge at lave en relativt stor omstrukturering på biblioteket for at vise, at de kunne lave den digitalisering. Og senere fik de det som bevilling på finansloven. Sagt med et glimt i øjet er det oliepenge, der finansierer det.«
+
+	Derudover – påpeger hun – er det kun bøger og tidsskrifter, der digitaliseres i Norge, og det gør deres arbejdsgange lettere.
+
+– Ville I lovgivningsmæssigt kunne gøre noget tilsvarende, hvis der var penge nok?
+
+	»Alt kan aftales med rettighedshaver eller forlag. Men der er simpelthen ikke penge nok. Det er en fuldstændig urealistisk tanke, at man skulle have råd til det i Danmark. Men det, jeg synes, er væsentligt, er, at der er en meget, meget mindre litterær produktion i Norge, så det er en meget mere overskuelig masse for dem.«
+
+	Litteraturen
+
+	Spørger man litteraterne, er de ikke i tvivl: Projektet i Norge er fantastisk flot og fremadrettet. Søren Pold forsker i digital litteratur ved Aarhus Universitet, og han er med på, at det er et spørgsmål om penge, men han anfører, at vi »vel ligner Norge så meget«, at det burde kunne lade sig gøre. »Plus minus et par oliemillioner,« som han siger. »Vi ligner Norge på den måde, at vi har et lille sprog og dermed – sammenlignet med de store sprogområder – en afgrænset litteratur trods alt. På den måde har vi også de problemstillinger, som lande med små sprog har i en verden, hvor Google og Amazon regerer. De ser ikke den store forretningsmodel i det danske sprog, vi har ikke en dansk Amazon. Google scanner lidt hist og her, men det er ikke den store indsats, som det er på de store sprogområder.«
+
+	Uanset hvad fremhæver han, at hvis vi »vil« vores små sprog, er vi også nødt til at passe på dem.
+
+	»På den her måde får man hele bogtraditionen fedtet ind i det digitale. Alene tilgængeligheden vil muliggøre nye former for læsning, studier og analyse. Man kan lave studier på tværs af store korpusser af litteratur,« siger professoren og hævder, at det kommer til at få stor betydning for humanistisk forskning såvel som sproglig og historisk forskning.
+
+	Marianne Ping Huang er prodekan på ARTS ved Aarhus Universitet og sidder således i en forskningsinstitution, som åbenlyst har interesse i digitaliseret materiale. Hun er også begejstret for det norske projekt, som hun kalder en »god langtidsinvestering«: »Det, der er flot ved det her projekt, er, at man har besluttet at digitalisere hele samlingen – og at det er meningen, at den skal gøres søgbar,« siger hun.
+
+	»Der er behov for noget af det samme i Danmark. Meget af det materiale, der for eksempel ligger hos Det Danske Sprog- og Litteraturselskab, er digitaliseret og til en vis grad søgbart. Digitaliseret tekst er godt, men vigtigst af alt – i hvert fald for forskningen – er, at de store tekstsamlinger er søgbare og kan sammenlignes på tværs. Hvis ikke, kan det næsten være lige meget, for tekstmængderne er så store, at ingen kan æde sig gennem dem i løbet af et liv.«
+

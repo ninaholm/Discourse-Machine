@@ -1,0 +1,29 @@
+FAKTA: Se de 10 dyreste og billigste kommuner her
+Her kan du se hvilke kommuner, der har den højeste og laveste udskrivningsprocent i 2015.
+
+
+ Top-10 over kommuner med den højeste udskrivningsprocent i 2015:
+1: Langeland 27,8 procent
+2: Vesthimmerland 27,0 procent
+3: Brønderslev 26,9 procent
+4: Svendborg 26,8 procent
+5: Ringsted 26,7 procent
+6: Lolland 26,7 procent
+7: Odsherred 26,6 procent
+8: Nyborg 26,4 procent
+9: Sorø 26,4 procent
+10: Haderslev 26,3 procent
+
+Top-10 over kommuner med den lavest udskrivningsprocent i 2015:
+1: Rudersdal 22,5 procent
+2: Gentofte 22,8 procent
+3: Frederiksberg 22,8 procent
+4: Hørsholm 23,2 procent
+5: Tårnby 23,3 procent
+6: Vejle 23,4 procent
+7: Herlev 23,7 procent
+8: Lyngby-Taarbæk 23,7 procent
+9: Glostrup 23,7 procent
+10: København 23,8 procent
+
+Kilde: Kommunernes Landsforening

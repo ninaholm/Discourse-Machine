@@ -1,0 +1,15 @@
+Kramnik krakelerer
+Matchen om skak-VM er i realiteten afgjort
+
+
+ En hel skakverden har i månedsvis glædet sig til den forventeligt hårde og jævnbyrdige VM-match mellem skakkens giganter Viswanathan Anand og Vladimir Kramnik - og så synes enhver spænding forduftet allerede efter halvdelen af de stipulerede tolv partier. 
+Den forsvarende mester Anand vandt også det sjette parti i Bonn og øgede dermed sin føring til 4,5-1,5. Kramniks elendige form blev udstillet allerede kort efter åbningen, da han med de sorte brikker "smed" en bonde uden rimelig kompensation:
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.Dc2 d5 5.cxd5 Dxd5 6.Sf3 Df5 7.Db3 Sc6 8.Ld2 0-0 9.h3 b6 10.g4 Da5 11.Tc1 Lb7 12.a3 Lxc3 13.Lxc3 Dd5 14.Dxd5 Sxd5 15.Ld2 Sf6 16.Tg1 Tac8 17.Lg2 Se7 18.Lb4 c5 19.dxc5 - bukker og takker - Tfd8 20.Se5 Lxg2 21.Txg2 bxc5 22.Txc5 Se4 23.Txc8 Txc8 24.Sd3 Sd5 25.Ld2 Tc2 26.Lc1 f5 27.Kd1 Tc8 ...
+Anand har viftet russeren væk, som var han en harmløs flue. 
+28.f3 Sd6 29.Ke1 a5 30.e3 e5 31.gxf5 e4 32.fxe4 Sxe4 33.Ld2 a4 34.Sf2 Sd6 35.Tg4 Sc4 36.e4 Sf6 37.Tg3 Sxb2 38.e5 Sd5 39.f6 Kf7 40.Se4 Sc4 ...
+Se diagrammet. 
+Her vinder 41.Txg7+ i den grandiose stil, men inderens valg er nu også alt for rigeligt til at sikre hele pointet for hvid: 	
+41. - Kg8 42.Td3 Sdb6 43.Lh6 Sxe5 44.Sf6+ Kf7 45.Tc3 Txc3 46.g8D+ Kxf6 47.Lg7+ ...
+Og Kramnik opgav. Anand har vist klasse, mens Kramnik har været en skygge af sit gamle jeg. 
+
+

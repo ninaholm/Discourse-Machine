@@ -1,0 +1,31 @@
+Hackere har fået adgang til flere millioner cpr-numre
+Hackerangrebet på politi-registre involverer flere millioner cpr-numre. Alle danskere med kørekort er omfattet af angrebet, oplyser rigspolitichefen.
+ 
+	Jeg er meget bekymret. Det er meget alvorligt, at det her kan finde sted, siger rigspolitichef Jens Henrik Højbjerg. Foto: Scanpix
+
+
+ 
+	Hackerangrebet på politiets registre involverer flere millioner cpr-numre. Blandt andet er alle danskere med kørekort omfattet af angrebet, oplyser rigspolitichefen.
+
+	»Jeg er meget bekymret. Det er meget alvorligt, at det her kan finde sted,« siger rigspolitichef Jens Henrik Højbjerg på et pressemøde om hackerangrebet.
+
+	»Nu får vi den ypperste ekspertise til at sikre, det ikke kan ske igen,« tilføjer han.
+
+	Rigspolitichefen maner dog til ro i befolkningen om de lækkede oplysninger. Politiet har indtil nu ingen indikationer på, at de hackede oplysninger er blevet misbrugt, siger han.
+
+	»Formålet med hackerangrebet kan være at bruge oplysningerne til at tjene penge. Eller bare vise, at man er dygtig til at bryde ind i offentlige registre,« siger han.
+
+	Politiet kom på sporet af hackerne midt i januar 2013 efter en henvendelse fra svensk politi, som var stødt på en dansk ip-adresse i forbindelse med efterforskningen af et større svensk hackerangreb.
+
+	Først da blev it-virksomheden CSC klar over, at hackere havde skaffet sig adgang til de følsomme oplysninger i blandt andet politiets registre i sommeren 2012.
+
+	»Det er folk, der er så sofistikerede og på et så højt niveau, at de har undgået CSC's opmærksomhed,« siger Jens Henrik Højbjerg.
+
+	Han kalder hackerangreb for et vilkår i det moderne it-samfund, men er rigtig ærgerlig over, at det kunne ske.
+
+	Politiet skal nu i samarbejde med Politiets Efterretningstjeneste (PET) efterforske enorme datamængder i forbindelse med hackerangrebet.
+
+	På grund af sagens alvor skal alle kompetencer i PET bringes i spil i efterforskningen af hackerangrebet, forklarer chefen for Politiets Efterretningstjeneste, Jakob Scharf.
+
+	»Det er en sag, vi ser på med stor alvor,« siger han.
+

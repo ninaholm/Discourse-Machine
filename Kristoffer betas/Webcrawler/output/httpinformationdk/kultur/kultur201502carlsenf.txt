@@ -1,0 +1,21 @@
+Carlsen fik atter ram på Anand
+Verdensmesteren nakkede eksverdensmesteren
+Norske Magnus Carlsen er en af otte deltagere i stormestergruppen i Grenke Chess Classic.
+
+
+ Magnus Carlsen er igen i aktion ved skakbrættet. Den norske verdensmester er en af otte deltagere i stormestergruppen i Grenke Chess Classic i den sydtyske kurby Baden-Baden, hvor også verdenstoeren Fabiano Caruana og eksverdensmesteren Viswanathan Anand er med i feltet.
+Carlsen indledte med at remisere mod armenieren Aronian og vinde over englænderen Michael Adams, hvorefter han spillede dumdristig eller snarere dumsmart mod den tyske stormester Arkadij Naiditsch ved at ofre en officer allerede efter 10. træk, en frækhed, en solid dansk klubspiller måske ville have ladet sig friste til – i et lynparti.
+Carlsen fik nogen kompensation, efterhånden endda en hel del, men tabte i det lange løb. I 4. runde slog han tilbage som sort mod Anand:
+1.d4 f5 2.g3 Sf6 3. Lg2 e6 4.c4 c6 5. Sf3 d5 ...
+Stonewall-opstillingen i hollandsk forsvar er en sjældenhed på dette niveau. Sorts akilleshæl er den hvidfeltede løber.
+6.0–0 Ld6 7.b3 De7 8. Se5 0–0 9. Sd2 a5 10. Lb2 Sbd7 11. Dc2 a4 12. Sdf3 Se4 13.e3 a3 – den a-bonde skal blive et giftigt bekendtskab for hvid – 14. Lc3 Sxe5 15. Sxe5 Ld7 16. Sxd7 ...
+Anand hjælper, elskværdig som han principielt er, sort af med den dårlige løber.
+16. – Dxd7 17.c5 Lc7 18.b4 h5 19. Le1 e5 20.dxe5 Lxe5 21. Td1 De6 22.f3 Sf6 23. Lh3 g6 24.e4 dxe4 25.fxe4 Lb2 26.exf5 Dxa2 ...
+Bemærk at fxg6 bliver straffet med en løberskak på d4.
+27. Lf2 g5 28. Tfe1 Df7 29. Te6 Sg4 30. Lxg4 hxg4 31. Tg6+ Kh7 ... (Se diagrammet.)
+Og i denne stilling afslørede Anand, at han ikke besidder fordums kombinatoriske sikkerhed:
+32.Td7??
+Carlsen gendriver dette fejlskud kynisk og enkelt med:
+32. – Dxd7 33.f6 Dd1+ 34. Dxd1 Kxg6 35. Dd3+ Kh6 36.h4 gxh3 – og Anand opgav.
+Med to runder tilbage er stillingen: 1.–2. Carlsen, Norge, og Naiditsch, Tyskland, begge 3,5 p. 3. Caruana, Italien, 3 p. 4.–6. Aronian, Armenien, Adams, England og Bacrot, Frankrig, alle 2,5 p. 7. Anand, Indien, 1,5 p. 8. Baramidze, Tyskland, 1 p.
+

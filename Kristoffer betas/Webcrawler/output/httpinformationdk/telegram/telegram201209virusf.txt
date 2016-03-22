@@ -1,0 +1,19 @@
+Virusfare: Tyskland dropper internetgigant
+Regeringen i Berlin opfordrer tyskerne til midlertidigt at holde sig fra browseren Internet Explorer.
+
+
+ I et forsøg på at holde hackere stangen opfordrer den tyske regering nu indbyggerne i landet til midlertidigt at lade være med at bruge Internet Explorer, når de går på internettet.
+IT-eksperter har advaret om, at den populære browser er inficeret med en virus.
+Internet Explorer ejes af softwaregiganten Microsoft, der mandag også meddelte, at der er virus i omløb i browseren.
+Virusen har inficeret hjemmesider, og besøger man en inficeret hjemmeside, mens man bruger Explorer, kan ens computer blive inficeret af computervirus.
+Hackere kan så få kontrol med den smittede computer.
+Der er endnu ikke fundet en metode til at reparere inficerede computere.
+BSI, der er Tysklands regerings forbundskontor for informationssikkerhed, siger, at der finder målrettede angreb sted på internettet med den nye virus.
+Derfor opfordrer BSI alle brugere i Tyskland til at anvende andre browsere end Internet Explorer, indtil Microsoft kommer med en sikkerhedsløsning.
+Mandag opfordrede Microsoft brugerne til at downloade et stykke sikkerhedssoftware, der kan findes på Microsofts hjemmeside og downloades gratis.
+Det er en midlertidig løsning, der skal holde hackerne på afstand, indtil Microsoft er klar med en mere sikker udgave af internet Explorer.
+Yunsun Lee, leder af Microsoft Trustworthy Computing, siger dog, at problemet er begrænset:
+- Langt, langt de fleste Internet Explorer-brugere er ikke blevet berørt. Vi arbejder på en brugervenlig løsning, der med et klik vil kunne løse sårbarheden.
+- Den vil være tilgængelig inden for et par dage, men i mellemtiden anbefaler vi vores brugere at sørge for, at deres antivirus er opdateret, lyder det fra Yunsun Lee.
+Microsofts midlertidige løsning findes på adressen:
+http://blogs.technet.com/b/msrc/

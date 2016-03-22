@@ -1,0 +1,18 @@
+Status quo i Sofia
+Anand fører fortsat VM-matchen mod Topalov
+
+
+ Det 5. og 6. matchparti bragte ingen ændring i stillingen mellem de to stormestre, der kæmper om VM-titlen. I det 5. parti kunne udfordreren Veselin Topalov ikke udnytte sin hvide fordel, og den forsvarende mester Anand sikrede sig en bekvem remis:
+1. d4 d5 2. c4 c6 3. Sf3 Sf6 4. Sc3 dxc4 5. a4 Lf5 6. Se5 e6 7. f3 c5 8. e4 Lg6 9. Le3 cxd4 10. Dxd4 Dxd4 11. Lxd4 Sfd7 12. Sxd7 Sxd7 13. Lxc4 a6 14. Tc1 Tg8 15. h4 h5 - (Anand kommer igen først med et nyt træk, i det 3. parti spillede han 15. - h6) - 16. Se2 Ld6 17. Le3 Se5 18. Sf4 Tc8 19. Lb3 Txc1+ 20. Lxc1 Ke7 21. Ke2 Tc8 22. Ld2 f6!
+Begge spillere var efter partiet enige om, at dette smarte træk sikrer sort udligning, idet sort i tilfælde af 23. Sxe6 har det fikse 23. - Lf7, og på 23. Lxe6 er 23. - Tc2 udmærket for sort, så Topalov foretrak at fortsætte sine gevinstforsøg med:
+23. Sxg6+ Sxg6 24. g3 Se5 25. f4 Sc6 26. Lc3 Lb4 27. Lxb4+ Sxb4 28. Td1 Sc6 29. Td2 g5 30. Kf2 g4 31. Tc2 Td8 32. Ke3 Td6 33. Tc5 Sb4 34. Tc7+ Kd8 35. Tc3 Ke7 36. e5 Td7 37. exf6+ Kxf6 38. Ke2 Sc6 39. Ke1 Sd4 40. Ld1 a5 41. Tc5 Sf5 42. Tc3 Sd4 43. Tc5 Sf5 44. Tc3 ...
+Frem og tilbage er lige langt. I denne stilling blev der taget remis.
+Anands springerdans
+Heller ikke det sjette parti fik nogen vinder. Topalov sikrede sig tidligt en i hvert fald optisk fordel i form af løberpar mod springerpar, da Anand ikke fik noget ud af sin hvide fordel:
+1. d4 Sf6 2. c4 e6 3. Sf3 d5 4. g3 dxc4 5. Lg2 a6 6. Se5 c5 7. Sa3 cxd4 8. Saxc4 Lc5 9.0-0 0-0 10. Lg5 h6 11. Lxf6 Dxf6 12. Sd3 La7 13. Da4 Sc6 14. Tac1 e5 15. Lxc6 b5 16. Dc2 Dxc6 17. Scxe5 De4 18. Dc6 Lb7 19. Dxe4 Lxe4 20. Tc2 Tfe8 21. Tfc1 f6 ...
+Se diagrammet, red.
+Meget forståeligt sparker Topalov til den hvide centralspringer. Nu skal vi opleve en elegant springerdans - jeg mindes ikke, hvornår jeg sidst har set en sekvens på hele 12 meningsfulde springertræk. 	
+22. Sd7 Lf5 23. S7c5 Lb6 24. Sb7 Ld7 25. Sf4 Tab8 26. Sd6 Te5 27. Sc8 La5 28. Sd3 Te8 29. Sa7 Lb6 30. Sc6 Tb7 31. Scb4 a5 32. Sd5 a4 33. Sxb6 Txb6 34. Sc5 Lf5 35. Td2 Tc6 36. b4 axb3 37. axb3 b4 38. Txd4 Txe2 39. Txb4 Lh3 40. Tbc4 Td6 - Topalovs fans begyndte at håbe på bulgarsk gevinst, men den indiske verdensmester har kontrol over tingene - 41. Te4 Tb2 42. Tee1 Tdd2 43. Se4 Td4 44. Sc5 Tdd2 45. Se4 Td3 46. Tb1 Tdxb3 47. Sd2 Tb4 48. f3 g5 49. Txb2 Txb2 50. Td1 Kf7 51. Kf2 h5 52. Ke3 Tc2 53. Ta1 Kg6 54. Ta6 Lf5 55. Td6 Tc3+ 56. Kf2 Tc2 57. Ke3 Tc3+ 58. Kf2 Tc2 ...
+Igen trækgentagelse. Og igen remis. Dermed fører Anand fortsat matchen med beskeden margin, nu: 3,5-2,5. Og han skal have hvid i det 7. parti, idet man midt i matchen »vender bøtten«.
+
+

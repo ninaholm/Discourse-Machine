@@ -1,0 +1,20 @@
+Magnus Carlsen genvandt skak-VM
+Matchen i Sotji sluttede med en spektakulær norsk gevinst
+Skak
+
+
+ Det 11. parti i skak-VM i Sotji skulle blive matchens sidste. Med en føring på 5,5-4,5 kunne Magnus Carlsen med en gevinst sikre sig VM-titlen. Men hvor hårdt ville nordmanden satse med de hvide brikker i en situation, hvor en remis var nok til at tvinge Viswanathan Anand til at vinde det 12. parti bare for at få omkamp? Eller med andre ord: Skulle han beslutte sig for aggressivt eller forsigtigt spil? Carlsen valgte klogeligt et miks af begge dele:
+1.e4 e5 2.Sf3 Sc6 3.Lb5 Sf6 4.0–0 Sxe4 5.d4 Sd6 6.Lxc6 dxc6 7.dxe5 Sf5 8.Dxd8+ Kxd8 ...
+Berlinforsvaret i spansk parti. ’YABB!’ kunne man læse på en hjemmeside. Det står for Yet Another Boring Berlin (Endnu en kedelig berliner).
+9.h3 Ld7 – en afvigelse fra Anand, men alligevel kendt teori – 10.Sc3 h6 11.b3 Kc8 12.Lb2 c5 13.Tad1 b6 14.Tfe1 Le6 15.Sd5 g5 16.c4 Kb7 17.Kh2 a5 18.a4 Se7 19.g4 Sg6 20.Kg3 Le7 21.Sd2 Thd8 22.Se4 Lf8 23.Sef6 b5!
+Iderigt spillet af Anand, der ikke har tænkt sig at sidde med hænderne i skødet og lade Carlsen diktere begivenhedernes gang. Nordmanden gør utvivlsomt det rigtige ved at ignorere dette bondeoffer:
+24.Lc3 bxa4 25.bxa4 Kc6 26.Kf3 Tdb8 27.Ke4 ...
+Se diagrammet.
+En original kongecentralisering, og her reagerer Anand med et nyt fantasifuldt træk:
+27. Tb4?! 28.Lxb4 cxb4?
+Han burde vel have slået med a-bonden for at aktivere tårnet på a8. Nu begynder Carlsen-kværnen at male: 29.Sh5 Kb7 30.f4! – måske allerede afgørende, kluklatteren på norsk fjernsyn blev i hvert fald endnu højere ...
+30. gxf4 31.Shxf4 Sxf4 32.Sxf4 Lxc4 33.Td7! – Anand ånder endnu, men det er kun gennem gæller – Ta6 34.Sd5 Tc6 35.Txf7 Lc5 36.Txc7+ Txc7 37.Sxc7 Kc6 38.Sb5 Lxb5 39.axb5+ Kxb5 40.e6 b3 ...
+Tidskontrollen er overstået, og hvid er i fuld kontrol:
+41.Kd3 Le7 42.h4 a4 43.g5 hxg5 44.hxg5 a3 45.Kc3 ... Og Anand kapitulerede og gratulerede. Et spektakulært sidste parti at lukke matchen med. Carlsens samlede sejr blev på 6,5-4,5, og han var synligt glad – og lettet. For nu kan han sidde og sole sig på VM-tronen, indtil en ny bejler til VM-titlen banker på hans dør. Og det bliver næppe Anand.
+Men på den anden side: Det sagde man også for et år siden, umiddelbart efter at han havde mistet sin titel på hjemmebanen i Chennay. Inderen bliver 45 år i næste måned, mens Carlsen fylder 24 på søndag og roligt kan sætte et stort lys i lagkagen.
+

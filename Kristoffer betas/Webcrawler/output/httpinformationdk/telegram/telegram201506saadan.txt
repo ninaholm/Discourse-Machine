@@ -1,0 +1,21 @@
+Sådan fungerer det danske valgsystem
+Det danske valgsystem er et af de mest retfærdige i verden. Til gengæld er det også et af de mest indviklede.
+
+
+ * Der skal i alt vælges 179 medlemmer til Folketinget. De 175 vælges i Danmark, mens to kommer fra Grønland og to fra Færøerne.
+* Pladserne i Folketinget fordeles efter en særlig dansk variant af den metode, der kaldes for forholdstalsmetoden.
+* Metoden sikrer, at partiernes andel af pladserne i Folketinget afspejler, hvor stor en del af stemmerne de har fået i hele landet.
+* Får et parti eksempelvis 10 procent af stemmerne i landet, så skal det også have 10 procent af pladserne Folketinget.
+* Samtidig sikrer metoden, at alle dele af landet er repræsenteret i Folketinget. Det skal styrke det lokale tilhørsforhold mellem vælgerne og de valgte.
+* Det er desuden få danskere, der vil opleve at stemme på et parti, som ikke kommer i Folketinget.
+* Dermed er det danske valgsystem sammenlignet med andre landes et af de mest matematisk retfærdige i verden. Til gengæld er de regnemetoder, der skal til for at opfylde alle hensyn, meget komplicerede.
+* Danmark er i valgteknisk henseende inddelt i tre landsdele: Hovedstaden, Sjælland-Syddanmark og Midtjylland-Nordjylland.
+* Landsdelene er inddelt i 10 storkredse, hvor Hovedstaden er inddelt i fire storkredse, Sjælland-Syddanmark og Midtjylland-Nordjylland i hver tre storkredse.
+* De 175 personer, der vælges i Danmark, fordeler sig på 135 kredsmandater og 40 tillægsmandater.
+* Efter valget fordeles kredsmandaterne mellem partierne, efter hvor mange stemmer de har fået i de enkelte kredse. Ved tildeling af kredsmandater bliver alle egne af landet repræsenteret i Folketinget.
+* For at efterkomme grundlovens ord om, at mandatfordelingen skal tage hensyn til indbyggertal, vælgertal og befolkningstæthed, sker der hvert femte år en fordeling af de 135 kredsmandater på landsdele og storkredse. Ved samme lejlighed fordeles de 40 tillægsmandater på landsdele.
+* Når kredsmandaterne er fordelt, bliver tillægsmandaterne fordelt. Tillægsmandaterne fordeles, så hvert parti får det antal mandater, der svarer til det samlede antal stemmer, partiet har fået på landsplan.
+* For at et parti kan komme i Folketinget skal det enten opnå to procent af stemmerne, et kredsmandat eller mindst lige så mange stemmer som det gennemsnitlige antal gyldige stemmer afgivet per kredsmandat i to ud af tre landsdele.
+* Fordelingen af mandater på partier færdiggøres i løbet af valgaftenen og -natten. Fordelingen på personer er mere kompliceret, da den varierer fra parti til parti afhængigt af den opstillingsform, der er anvendt.
+* Opgørelsen af, hvilke kandidater der er valgt, foreligger først en til to dage efter valget, fordi den forudsætter en optælling af de personlige stemmer.
+Kilde: Økonomi- og indenrigsministeriet

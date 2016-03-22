@@ -1,0 +1,43 @@
+USA’s droner bomber mobiltelefoner
+De spor, mobiltelefoner efterlader, og som NSA indsamler globalt, bruges til at lokalisere og dræbe terrormistænkte – uden man er sikker på, hvem der holder telefonen i hånden. Det fører til drab på uskyldige, siger tidligere droneoperatør
+ 
+	På et pressemøde i Washington i oktober viste niårige Nabila Rehman en tegning af den amerikanske drone, som dræbte hendes bedstemor i en pakistansk landsby. En tidligere droneoperatør fortæller nu, at angreb finder sted på baggrund af metadata og med risiko for civile drab som følge
+
+
+ 
+	Det amerikanske militær støtter sig i for høj grad til NSA’s overvågning af mobiltelefoner, når ubemandede kampfly angriber og dræber terrormistænkte. Sådan lyder advarslen fra en tidligere droneoperatør.
+
+	»Det er, som om vi sigter efter en mobiltelefon. Det er ikke mennesker, vi går efter, men deres telefoner, i håbet om at den person, der befinder sig i den anden ende af missilet, er the bad guy,« siger den anonyme militærkilde til det nylancerede webmagasin The Intercept, der specialiserer sig i NSA-afsløringer, og som blandt andet de to journalister Glenn Greenwald og Laura Poitras står bag. Droneoperatøren har tidligere arbejdet i den såkaldte JSOC-enhed, der har til opgave at identificere, tilfangetage eller dræbe højt profilerede terrormistænkte. Sammen med den anonyme kildes oplysninger om brugen af metadata bringer The Intercept nye uddrag fra dokumenter lækket af Snowden om NSA’s sofistikerede indsamlingsprogrammer.
+
+	Udover at indsamle oplysninger om mobilkommunikation fra mobilmaster og teleudbydere har efterretningstjenesten også udstyr om bord på droner, der kredser over områder i blandt andet Yemen og indsamler data om mobiltelefoner og trådløse internetforbindelser.
+
+	Men i takt med at metoderne til indsamling af metadata er blevet mere avancerede, så er tilliden til de elektroniske efterretninger ifølge kilden blevet for stor. Han mener, at den nye teknologi, der gør det muligt at indsamle og analysere enorme mængder data stort set i realtid, har bidraget til at uskadeliggøre terrorister.
+
+	Men den stigende brug af SIGINT (signalefterretninger, red.) fremfor menneskelige indsamlinger (HUMINT) går i kombination med brugen af ubemandede fly ud over uskyldige.
+
+	»Når bomben rammer eller et natligt angreb sættes ind, så ved vi, at den pågældende telefon er der,« fortæller kilden til The Intercept.
+
+	»Men vi ved ikke, hvem der har den i hånden. Der forudsættes selvfølgelig, at telefonen tilhører en person, der er forbryderisk og betragtes som en ’ulovlig kombattant’. Men det er her, det begynder at blive rigtig grumset,« siger han.
+
+	Ifølge Lars Erslev Andersen, der er seniorforsker på Dansk Institut for Internationale Studier, stiller de nye oplysninger spørgsmålstegn ved, hvor målrettet droneangrebene kan udføres: »Det er dybt problematisk. En af måderne, som droneprogrammets ’målrettede drab’ er blevet solgt på, er, at de præcist rammer terroristerne. Men de her oplysninger viser, at man i meget mindre grad kan være sikker på det, fordi man er så afhængig af elektroniske data fra telefoner, som jo ikke nødvendigvis er i dén terrorists besiddelse, man vil ramme,« siger han.
+
+	’Vi sporer dem, I nakker dem’
+
+	Den anonyme kilde anslår over for The Intercept, at 90 procent af droneangrebene foretages på baggrund af SIGINT og sporing af mobiltelefoner. En NSA-enhed, der beskæftiger sig med geo-lokalisering, skulle ifølge Washington Post have sloganet »We Track ‘Em, You Whack ‘Em« (»Vi sporer dem, I nakker dem«, red.). »Droneprogrammet er klart tiltrækkende for USA, fordi man både kan indsamle informationerne og udføre angrebet, uden at man skal ud i marken. Det gør det relativt effektivt,« siger Lars Erslev Andersen.
+
+	Ifølge Jens Ringsmose, der er lektor på Center for War Studies på Syddansk Universitet, har det været svært for amerikanerne at opdyrke menneskelige kilder i de relevante områder.
+
+	»Det er farligt at opbygge efterretningsnetværk, og det er særligt vanskeligt både i Pakistan, Yemen og Somalia. Amerikanerne har haft store problemer med at få troværdige efterretninger fra menneskelige kilder i de lande. Det kan være en af grundene til, at man har prioriteret signalefterretninger så højt,« siger han.
+
+	Bytter mobiltelefoner
+
+	Ifølge droneoperatøren skal der mindst to uafhængige efterretningskilder til, før et droneangreb sættes i gang. Men i Somalia og Yemen, hvor amerikanerne har dårligt fodfæste, kan de kilder stamme alene fra NSA eller partnerlandes elektroniske efterretninger. I militærtermer kaldes processen, der fører til, at et mål dræbes, F3; en forkortelse for »Find, Fix, Finish«. Det kan ifølge kilden, der indrømmer, at hans specialenhed ville være hjælpeløse uden NSA, betyde, at operationen gennemføres uden menneskelig mellemkomst.
+
+	»Der er nærmest ingen HUMINT-operationer i Yemen,« fortæller den tidligere JSOC-dronefører, »og derfor beror samtlige angreb på signal-efterretninger og satellitbilleder som bekræftelse.« Signalerne er målets mobiltelefon (’Find’), satellitbillederne er ’Fix’, mens ’Finish’ er selve angrebet med dronen. De gammeldags menneskelige spioner risikerer med andre ord at være helt ude af billedet.
+
+	Det er svært at finde pålidelige opgørelser over, hvor mange uskyldige der dræbes af droner. Men ifølge britiske The Bureau of Investigative Journalism er mindst 273 civile blevet dræbt i Pakistan, Yemen og Somalia som følge af de målrettede droneangreb. Den anonyme kilde fortæller selv, at han flere gange personligt har deltaget i angreb, der har krævet uskyldige ofre. En af grundene kan være, at terrorister og oprørere har opdaget, at NSA og CIA bruger de spor, deres mobiltelefoner udsender.
+
+	»Under møder kunne de f.eks. finde på at tage alle deres SIM-kort ud, lægge dem i en pose, blande dem og så give alle et andet SIM-kort, når de forlod mødet,« fortæller den tidligere droneoperatør til The Intercept. »Det er sådan, de forvirrer os«.
+
+	NSA har afvist at udtale sig til The Intercept, ligesom Obama-administrationen har afvist at kommentere, da den ikke vil bidrage til historier, der indeholder »operationelle detaljer, som vi ikke mener burde offentliggøres,« siger National Security Councils talskvinde Caitlin Hayden. Hun vil hverken be- eller afkræfte oplysningerne om, at droneangreb bliver sat ind uden menneskelige efterretninger, men understreger, at »vores vurderinger er ikke baseret på ét enkelt stykke information. Vi indsamler og vurderer oplysninger fra forskellige kilder og metoder, før vi drager konklusioner«.
+

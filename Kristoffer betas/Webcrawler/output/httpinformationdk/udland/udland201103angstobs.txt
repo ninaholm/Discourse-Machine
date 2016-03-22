@@ -1,0 +1,35 @@
+Af angst obstruerer Kina Googles mailsystem
+De kinesiske myndigheder afviser at være skyld i tekniske problemer med landets Gmail-tjeneste  og optrapper sin indsats mod private netværk, der længe har været kineseres eneste adgang til et ucensureret internet. Google tror ikke på Kina
+
+
+ BEIJING  Kina afviser nu beskyldninger fra Google om, at det skulle stå bag målrettede og forsætlige forsøg på at hæmme kinesiske brugeres adgang til internetgigantens mailtjeneste, Gmail, som »uacceptable«.
+Men Google fastholder på sin side, at man ikke ser andre forklaringer på tjenestens tekniske problemer end udefrakommende blokeringer fra den kinesiske regering.
+Problemerne er opstået, samtidig med, at der sker generel stramning af den kinesiske internetkontrol, der bl.a. gør det vanskeligere at bruge flere af de populære virtuelle private netværk (VPN), som giver adgang til materiale, der har deres værtsted på udenlandske servere, hvorved den kinesiske regerings censurblokeringer kan omgås.
+De nye restriktioner ser ud til at være del af en række sikkerhedsopgraderinger, som skal være udløst af anonyme online-opfordringer til en kinesisk jasmin-revolution i stil med de seneste folkeopstande de seneste opstande, først i Tuniesien og andre steder i Mellemøsten.
+Disse budskaber blev lagt ud på oversøiske hjemmesider, men snesevis af kinesiske aktivister og systemkritikere er i den forbindelse blevet udspurgt, chikaneret og i nogle tilfælde tilbageholdt af myndighederne i op til flere uger.
+Kinas regering blokerer
+En Google-talsmand siger til The Guardian:
+»Hos Google har vi ikke nogen tekniske problemer. Vi har foretaget omfattende tjek af vores systemer uden at finde noget. Dette er en blokering fra den kinesiske regering, som er omhyggeligt designet til at ligne et G-mail-problem ...«
+Brugere har meldt om hyppige problemer med grundlæggende rutiner såsom som at sende og søge i e-mail eller åbne adressebøger.
+Men Jiang Yu, en talskvinde for Kinas udenrigsministerium, sagde på det faste ugentlige pressemøde:
+»Dette er en uacceptabel anklage.« Hun afviste at kommentere yderligere. Det kinesiske ministerium for handel, industri- og informationsteknologi har ikke reageret på de spørgsmål, som The Guardian har forelagt ministeriet pr. fax.
+I denne måned bad WiTopia, en af de mest populære VPN-tjenester, sine brugere om at indberette rapportere problemer via e-mail i stedet for via dets live-supporttjeneste som følge af »ekstraordinære mængder bøvl fra Kina.«
+Arkitekten bag systemet, der hidtil har givet gode muligheder for at omgå kinesisk netcensur via såkaldte proxy-servere, har tidligere sagt, at man »halter bagefter« i den krig, som Kina fører mod private virtuelle netværkstjenester (VPN).
+Barsk censurteknik
+»Det er blevet barskere. Realiteten er, at de kan blokere for al adgang, hvis det er det, de ønsker,« siger Bill Bishop, en internetspecialist, der opererer fra Beijing.
+Han tilføjer: »Vi er på vej ind i en todelt internet-verden.«
+En erhvervskilde i Beijing  der som så mange andre ikke ønsker at stå frem ved navn i forbindelse med denne problematik  siger, at han håber, at kontrollen snart vil blive slækket igen.
+Han påpegede, at tidligere er websteder som Wikipedia blevet tilgængelige igen efter at have været blokeret i årevis, og vurderer, at blokeringerne kan være en midlertidig foranstaltning, der skal anspore kinesiske brugere til at skifte til lokale alternativer.
+Mange kinesiske brugere er i vid udstrækning uberørte af sikkerhedsstramningerne, fordi de i forvejen foretrækker at benytte indenlandske e-mail og sociale medier. Men et stigende antal aktivister og systemkritikere har kastet sig over tjenester som Twitter, der er blokeret og kun kan gøres tilgængelig ved brug af VPN eller en anden censuromgåelses-teknologi.
+Richard Buangan, talsmand for USAs ambassade i Beijing, siger:
+»Som led i vores løbende dialog med Kina har vi understreget over for den kinesiske regering, hvor stor  vægt vi lægger på et åbent internet. At kunne operere tillidsfuldt i cyberspace er af afgørende betydning for et moderne samfund og en moderne økonomi.
+»USA mener, at ytringsfriheden, herunder på internettet, er en universel rettighed, der bør være tilgængelig for alle mennesker, uanset om de befinder sig i USA, Kina eller nogen anden nation.«
+Google vakte den kinesiske regerings vrede, da det sidste år bekendtgjorde, at det ikke længere ville gå med til at censurere søgeresultater i landet og ville flytte sin kinesiske søgetjeneste til Hong Kong.
+Som begrundelse angav Google den øgede censur og cyberangreb, som ser ud til at have været målrettet mod menneskerettighedsaktivister.
+Google rapporterede tidligere på måneden at have bemærket »nogle stærkt målrettede og tilsyneladende politisk motiverede angreb på vores brugere«, det udnyttede en sårbarhed i Microsofts Explorer-browser. Blandt andet skal angrebene være blevet lanceret i mail fra mystiske bruger-aliaser som Moli hua  der er kinesisk for jasmin.
+Via kontrolserver i Kina
+Greg Walton fra cyber-efterretningsselskabet Metalab Asia, der har analyseret disse beskeder, siger, at brugerne blev opfordret til at klikke på links, der førte til dem en Hong Kong-server inficeret med såkaldt malware  en sammentrækning af malicious software (ondsindet programkode).
+Disse spionprogrammer var tilsyneladende kodet til at downloade Gmail cookies og e-maile dem til flere adresser og give adgang til udvalgte brugeres Gmail-konti. Et stykke malware synes at være designet til at forbinde målcomputeren til en kommando- og kontrolserver i Heilongjiang i det nordlige Kina.
+Kinesiske embedsmænd har gentagne gange sagt, at landets love forbyder hacking, og at landet selv er et offer for cyberangreb.
+© The Guardian og Information Oversat af Niels Ivar Larsen
+

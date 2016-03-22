@@ -1,0 +1,21 @@
+FAKTA: Tre tal der siger noget om arbejdsmarkedet
+Danmarks Statistik leverer tre nøgletal, der hver for sig siger noget om, hvordan arbejdsmarkedet ser ud.
+
+
+ Bruttoledigheden steg med 100 fuldtidspersoner i december, hvilket betyder en uændret ledighedsprocent på 4,5 procent, oplyser Danmarks Statistik.
+Hvis man vil vide noget om, hvordan arbejdsmarkedet i Danmark har det, er der tre tal, der er gode at kende:
+Ledigheden:
+* Opgøres hver måned på baggrund af antallet af dagpengemodtagere og kontanthjælpsmodtagere.
+* Nettoledigheden medtager ikke de aktiverede ledige, der skønnes at være jobparate. Det gør bruttoledigheden til gengæld.
+Beskæftigelsen:
+
+* Et forsøg på at lave en parallel til det såkaldte kongetal, som kendes fra amerikansk økonomi.
+* Laves på baggrund af indberetninger til Skat, og alle lønmodtagere i danske virksomheder tælles med uanset timetal. Det samme gør danskere med bopæl uden for landet.
+
+Arbejdskraftundersøgelsen:
+* Arbejdskraftundersøgelsen er en spørgeskemaundersøgelse, der omfatter 22.000 personer hvert kvartal.
+* Den opgør både ledighed, arbejdsstyrke og beskæftigelse efter nogle EU-definitioner, der gør det muligt at sammenligne landene på tværs.
+* Den kan også bruges til at belyse de ledige, der ikke får dagpenge eller kontanthjælp, og den kan anvendes til at vurdere ungdomsledigheden.
+
+Kilde: Danmarks Statistik
+

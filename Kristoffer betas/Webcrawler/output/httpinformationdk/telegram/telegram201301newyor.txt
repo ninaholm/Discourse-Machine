@@ -1,0 +1,14 @@
+New York Times: Vi er angrebet af kinesiske hackere
+Avisen New York Times anklager militæret i Kina for at have gennemført et hackerangreb mod avisens datasystem.
+
+
+ Avisen New York Times oplyser, at den er udsat for et hackerangreb, der menes at have forbindelser til Kinas militær.
+De formodede kinesiske hackere har i de seneste fire måneder infiltreret avisens datasystem og stjålet de ansattes adgangskoder.
+Angrebet har været særligt rettet mod avisens korrespondent i Shanghai, David Barboza. Han har for nylig i en artikelrække afsløret, hvordan den kinesiske premierminister, Wen Jiabaos, familie er blevet styrtende rig.
+I oktober skrev Barboza, hvordan nære slægtninge til Wen har tjent mindst 2,7 milliarder dollar på forskellig forretningsaktivitet.
+Ifølge avisen tyder alt på, at hackerne er gået målrettet efter at få indblik i dækningen af sagen.
+- Der er ikke fundet tegn på, at hackerne har brugt koderne til andet end at søge information om afsløringen af Wen-familien, oplyser New York Times.
+Avisens sikkerhedseksperter siger, at angrebet kommer fra Kina, og at de metoder, som hackerne har brugt, minder om dem, som det kinesiske militær tidligere har været forbundet med.
+Eksperterne mener også, at angrebet kommer fra datamaskiner på det samme universitet, som det kinesiske militær sidste år brugte til at angribe amerikanske militærforbindelser.
+De kinesiske myndigheder afviser at være involveret i hackerangrebet og betegner anklagerne som "grundløse".
+- At hævde vilkårligt og uden håndfaste beviser, at Kina har deltaget i et sådan hackerangreb er fuldstændig uansvarligt, siger en talsmand for det kinesiske udenrigsministerium.

@@ -1,0 +1,24 @@
+Det fatale skaktræk
+Shirov sendte sin konge ind i skudlinjen mod norske Magnus Carlsen
+
+
+ Skak er et ubarmhjertigt spil, hvor et enkelt fejltræk kan tabe mange timers hårdt arbejde på gulvet. I 9. runde af superturneringen i Linares havde Aleksej Shirov i mere end seks timer holdt stand mod Magnus Carlsens kværnende angrebsspil, da det gik galt:
+Se diagrammet.
+Det er klart, at sort er i fare for at tabe. Men umiddelbart har hans officerer fin kontrol over det kritiske felt b8, hvor den hvide bonde truer med at forvandle sig, og på det næsten åbne bræt kan han genere hvid med mange skakker. Faktisk mente Magnus Carlsen efter partiet, at 80. - Ke7 kunne have sikret Shirov remis. Men spanieren trak:
+79. - Ke5?? 
+Kongen træder ind i skudlinjen på diagonalen b8-h2 - og blokerer for løberens dækning. Magnus Carlsen var ikke længe om:
+80. b8D+ - og Shirov opgav lettere rystet.
+Det var Magnus Carlsens tredje gevinst på stribe, og han ånder nu Anand i nakken i denne stilling efter 10 af de 14 runder:
+1. Anand, Indien, 6,5 point
+2. Carlsen, Norge, 6 point 
+3. Aronian, Armenien, 5,5 point. 
+4. Topalov, Bulgarien, 5 point 
+5.-7. Radjabov, Aserbajdsjan, Shirov, Spanien, og Ivanchuk, Ukraine, alle 4,5 p.
+8. Lekó, Ungarn, 3,5 p.
+Carlsen mod Anand
+Topopgøret i 10. runde mellem Anand (hvid) og Carlsen endte remis efter blot 22 træk:
+1.e4 c5 2.Sf3 Sc6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 e5 6.Sdb5 d6 7.Lg5 a6 8.Sa3 b5 9.Sd5 Le7 - Svejsnikov-varianten i siciliansk, Anand sagde efter partiet, at det kom lidt bag på ham (!) - 10.Lxf6 Lxf6 11.c3 Lg5 12.Sc2 Se7 13.a4 bxa4 14.Scb4 0-0 15.Dxa4 Sxd5 16.Sxd5 Ld7 17.Da2 a5 18.Ld3 Lc6 19.0-0 Db8 20.Lc4 Kh8 21.b3 f5 22.exf5 ... 
+Og her tilbød Anand den 17-årige nordmand remis.
+Verdensmesteren har ikke fået noget særligt ud af åbningen og beholder med pointdelingen sin smalle føring. 
+Og Magnus Carlsen? Jamen, remis mod Anand med de sorte er da fint, og han har stadig fire runder tilbage at hente Anand i - med følgende program: sort mod Lekó og Aronian, hvid mod Radjabov og Topalov. Det er et program, der på forhånd må skræmme en yngling fra det kolde Norden. Men som Magnus Carlsen hidtil har spillet i 2008, er det de store navne, der har grund til at føle sig skræmt fra hvid og sans. Inden remisen mod Anand havde han på stribe knust Topalov, Ivanchuk og Shirov. 
+

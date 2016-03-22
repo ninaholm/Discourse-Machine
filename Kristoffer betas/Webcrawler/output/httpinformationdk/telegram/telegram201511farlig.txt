@@ -1,0 +1,17 @@
+Farlig kemi bliver afsløret i nyt system
+En ny database med over 600.000 stoffer gør det lettere for virksomheder at gå uden om sundhedsskadelig kemi.
+
+
+ Det bliver nu lettere for danske virksomheder at undgå farlige stoffer, når de skal producere cremer, legetøj, madvarer, møbler og mange andre ting.
+En ny database gør det nemlig muligt at finde oplysninger om eventuelle skadelige virkninger ved mere end 600.000 forskellige stoffer.
+I databasen kan man søge efter et stof og hurtigt finde ud af, om der er risiko for, at det er miljøskadeligt, kræftfremkaldende eller på anden måde farligt for helbredet.
+Det er DTU Fødevareinstituttet og Miljøstyrelsen, der står bag den såkaldte QSAR-database. Og ifølge miljø- og fødevareministeren er databasen en fordel for både forbrugere og firmaer.
+- Når virksomhederne hurtigere kan få et fingerpeg om, hvorvidt de stoffer, de ønsker at bruge, er skadelige, kan det spare en masse tid og ressourcer, siger miljø- og fødevareminister Eva Kjer Hansen (V).
+- Det er dermed også lettere for industrien at have fokus på miljø og sundhed, og det kommer jo i sidste ende forbrugerne til gode, siger hun.
+QSAR-databasen bliver nu tilgængelig for virksomheder, universiteter, forskningsinstitutioner og organisationer.
+- Det har et stort anvendelsespotentiale for innovative virksomheder, myndigheder og andre, som ønsker at øge sikkerheden i forbindelse med brug af kemikalier, siger direktøren for DTU Fødevareinstituttet, Christine Nellemann.
+Databasen tager udgangspunkt i computermodeller. De avancerede modeller giver et fingerpeg om, hvorvidt forskellige stoffer er farlige, ved at undersøge om stoffernes strukturer ligner andre kemikalier, der er skadelige.
+Dansk Industri ser systemet som en god mulighed for, at virksomheder kan spare penge og samtidig passe på miljøet.
+
+- QSAR kan hjælpe virksomhederne til en første vurdering af, hvilke stoffer det giver mening at arbejde videre med i produktudvikling, og hvilke det ikke kan betale sig at bruge mere tid på, siger miljøpolitisk chef i Dansk Industri, Karin Klitgaard.
+Miljø- og Fødevareministeriet og Nordisk Ministerråd har givet økonomisk støtte til databasen, som er udviklet af en forskergruppe på DTU Fødevareinstituttet.

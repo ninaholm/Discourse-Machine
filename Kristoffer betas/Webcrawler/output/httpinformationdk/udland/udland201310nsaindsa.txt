@@ -1,0 +1,37 @@
+NSA indsamler millioner af vores e-mailkontakter
+Millioner af kontaktlister på folks e-mails støvsuges løbende af den amerikanske efterretningstjeneste NSA og bruges til at kortlægge sociale relationer og identificere mål, herunder terrorister. Data opsamles udenfor amerikansk territorium og omgår dermed den strengere amerikanske lovgivning, der skal beskytte landets egne borgere
+
+
+ 
+	På en enkelt dag sidste år indsamlede NSA 444.743 adressekontaktlister fra Yahoo, 105.068 fra Hotmail, 82.857 fra Facebook, 33.697 fra Gmail samt 22.881 fra andre kilder.
+
+	Dataen er en del af et omfattende program, der omfatter flere hundrede millioner e-mailkonti og chatnetværk, skriver avisen Washington Post, der har haft adgang et nyt læk fra whistleblower Edward Snowden.
+
+	Når en bruger logger på de førnævnte tjenester og ikke bruger sikre forbindelser, er det nemt for NSA at opsnappe kontaktlisterne, der giver afgørende detaljer om, hvem der har kommunikeret med hvem.
+
+	Oplysningerne indsamles direkte fra internetkabler, gennem hemmelige aftaler med internetudbydere og NSA’s internationale samarbejdspartnere blandt efterretningstjenester, hvilket sætter NSA i stand til at indhente oplysninger om amerikanske statsborgere udenom de retsgarantier, der gælder, hvis data indsamles i USA.
+
+	Ved at indsamle de mange hundrede millioner e-mailkontakter kan NSA opbygge relationsdatabaser med detaljerede sociale grafer. The New York Times beskrev i slutningen af september ligeledes ud fra lækkede dokumenter fra Snowden, hvordan et overvågningsprogram samler alle de forskellige personoplysninger i en database, hvor nye detaljer fra andre datakilder hele tiden kan tilføjes.
+
+	Dermed kan man kæde telefonnumre, økonomiske transaktioner, internetkommunikation samt lokationsoplysninger fra mobiltelefoner og GPS-lokalisering fra en række forskellige indsamlingspunkter sammen, og det gør tjenesten i stand til kortlægge kontakter mellem mistænkte og borgere i USA.
+
+	Vil de videre derfra, kan de bruge et andet værktøj, xKeyscor, der giver NSA og samarbejdspartnere som britiske GCHQ mulighed for at dykke ned i indholdet i kommunikationen udfra forskellige parametre.
+
+	Den nye lækage viser, hvordan masseindsamling af e-mailkontaktlister kan bruges til eksempelvis at finde frem til en mistænkt terrorists e-mail – men også hvor omfattende almindelige borgeres netaktiviteter opsamles og registreres for at gøre tjenesten i stand til at finde den berømte nål i høstakken. Såkaldt metadata – altså de tekniske data om en telefonsamtale, en e-mail eller chatsamtale – og relationsdata betragtes ofte som meget mindre indgribende end det egentlige indhold, men på et masseniveau er det mere brugbart end indholdet af en samtale eller e-mail, da det kræver mindre plads og datakraft at behandle.
+
+	»Metadata kan være meget afslørende,« som Orin S. Kerr, juraprofessor på George Washington University forklarer til The New York Times.
+
+	»Hvilket nummer, en person lige har ringet til, eller hvor en person og dennes mobiltelefon befinder sig, gør dem i stand til at samle et billede af, hvad personen foretager sig. Det er den digitale version af at skygge en mistænkt«.
+
+	Kryptering har ændret billedet
+
+	Mailudbydere som Yahoo og Hotmail har tøvet med at indføre SSL, der sikrer trafikken mellem udbyder og bruger, og som kan kendes på det lille låseikon i browseren og https-endelsen. Google indførte SSL som tilvalg i 2008, og gjorde det til standard i 2010. Dermed har gmail-brugere været bedre beskyttet mod at få deres kontaktlister og sociale relationer indsamlet af efterretningstjenesten. Senere fulgte Facebook og Microsoft trop, mens Yahoo stadig ikke sikrer kommunikationen:
+
+	»Yahoo tager sine brugeres sikkerhed meget alvorligt,« skriver virksomheden i en e-mail til Washington Post og lover nu, at teknologien vil være standard fra 2014. Men det imponerer ikke den amerikanske borgerrettighedsorganisation ACLU’s Christopher Soghoian:
+
+	»Yahoos tøven har været en gave til alverdens efterretningstjenester, som frit har kunne udøve total overvågning af Yahoo brugeres ubeskyttede e-mail,« siger han til Washington Post.
+
+	Det er uklart, om kryptering betyder en effektiv beskyttelse af kontaktlister og adressebøger, da andre nylige afsløringer fra Snowden viser, at amerikanske myndigheder har tvunget e-mailudbydere til ikke bare at videregive metadata, men også de krypteringsnøgler, der beskytter traffikken.
+
+	Snowdens egen e-mailudbyder, Lavabit, lukkede sin tjeneste helt ned efter massivt pres for at udlevere krypteringsnøgler og offentliggjorde senere de krav, de blev stillet overfor af myndighederne. Flere sikkerhedseksperter fraråder helt at benytte sig af e-mail, hvis man vil være sikker på, at ens kommunikation forbliver privat.
+

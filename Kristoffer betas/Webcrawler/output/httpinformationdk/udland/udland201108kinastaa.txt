@@ -1,0 +1,39 @@
+Kina står bag omfattende hackning
+Hackere har infiltreret 72 store selskaber og organisationer, herunder FN og IOC, afslører it-sikkerhedsfirmaet McAfee
+Google har beskyldt Kina   for at stå bag en lang   række cyberangreb.
+
+
+ Snesevis af lande, virksomheder og organisationer, der spænder fra den amerikanske regering til FN og den olympiske bevægelse, har igennem de seneste fem år fået deres computere systematisk hacket fra et bestemt land, hævdes det i en rapport fra et førende amerikansk internet-sikkerhedsfirma.
+Rapporten, som er udsendt af firmaet McAfee, identificerer ikke ved navns nævnelse, hvilket land der er tale om, men det mere end antydes, at det drejer sig om Kina en vurdering, der støttes af andre analytikere.
+Kina har nemlig tidligere været impliceret i en række påståede tilfælde af cyberspionage en praksis, Beijing på det kraftigste benægter herunder et koordineret angreb på Google og flere forsøg på at opsnappe hemmeligheder fra Foreign Office, det britiske udenrigsministerium.
+McAfees nye rapport er imidlertid blandt de hidtil mest grundige forsøg på at kortlægge omfang og rækkevidde af bestræbelserne på datatyveri.
+McAfee har sporet udbredelsen af en bestemt type spionage-malware, der som regel spredes via en phishing, som hvis den åbnes, downloader et skjult program på computerens netværk. Ved at spore denne malware tilbage og dermed ydermere få adgang til den command and control-computerserver, der bruges af de ubudne gæster, har McAfee fundet frem til 72 kompromitterede virksomheder og organisationer. Mange flere vides at være blevet hacket, men har ikke kunnet identificeres ud fra logfilerne.
+»Efter omhyggelig analyse af logfilerne blev selv vi overraskede over den enorme mangfoldighed af ramte organisationer såvel som over gerningsmændenes dristighed,« siger Dmitri Alperovitch, virksomhedens chef for trusselefterforskning og forfatter til rapporten.
+Lige før OL i Beijing
+Af ofrene for hackningen var de 49 baseret i USA, deriblandt forskellige grene af de føderale, statslige og lokale myndigheder samt forsvarsentreprenører og andre industrier. Der var to mål i Storbritannien, en forsvarsvirksomhed og et computersikkerhedsfirma, mens andre ramte regeringer omfatter Taiwans, Sydkoreas og Indiens.
+Ligeledes registreret i logfilerne var data fra De Forenede Nationer, Den Internationale Olympiske Komité og to nationale olympiske komiteer hvoraf den ene var tilgængelig for hackerne i en uafbrudt periode på mere end to år.
+McAfee gør sig umage med ikke at navngive synderen. Men firmaet lægger dog ikke skjul på sin mistanke, f.eks. når det betegnes »særlig bemærkelsesværdigt«, at hackningen målrettet blev sat ind imod olympiske grupper og et anti-doping agentur, umiddelbart før og efter OL blev afholdt i Beijing i 2008.
+Kina er tidligere blevet udsat for sådanne anklager. Da Google i 2009 kom under et såkaldt »avanceret vedvarende angreb« i 2009, som det hævdede havde sin oprindelse i Kina, forlangte den amerikanske udenrigsminister Hillary Clinton at få en forklaring fra Beijing. Og tidligere i år erklærede den britiske udenrigsminister William Hague, at »en fjendtligsindet statslig efterretningstjeneste af britiske kilder identificeret som Kina var trængt ind i udenrigsministeriets interne kommunikationssystem.
+Historisk niveau
+Hvor en stor del af mediernes opmærksomhed omkring cybersikkerhed fokuserer på tab af personlige data såsom det nylige brud på sikkerheden hos Sony eller på aktiviteter i hacker-kollektiver som LulzSec, er sådanne hackningaktiviteter ifølge analytikere ofte ganske beskedne i sammenligning med de metodiske og storstilede forsøg på at opsnappe statslige og kommercielle hemmeligheder, som formodes udført af mange lande, deriblandt Kina. Alperovitch vurderer ligefrem, at statsligt orkestreret hackning er så udbredt og ambitiøs, at det kan forandre den globale økonomis virkemåder.
+»Hvad vi har set i løbet af de seneste fem-seks år, er intet mindre end en historisk hidtil uset overførsel af velstand,« siger han.
+Og selv hvis blot en brøkdel af de stjålne data er blevet brugt til at opnå kommercielle eller teknologiske fordele, »udgør tabet en massiv økonomisk trussel ikke blot for enkelte virksomheder og industrier, men for hele lande, der står over for udsigt til faldende økonomisk vækst på grund af pludseligt skærpet konkurrence og over for arbejdspladser i brancher, der taber terræn til skruppelløse konkurrenter i andre dele af verden.«
+Hertil kommer, tilføjer han, de nationale sikkerhedsmæssige konsekvenser af stjålne efterretninger eller forsvarsdata. Så endemisk er omfanget af dette problem, at Alperovitch inddeler verdens store selskaber i to lejre:
+»De, som ved, de er blevet kompromitteret, og de, som ikke ved det endnu.«
+Han siger: »Dette er et problem af et massivt omfang, som påvirker næsten alle brancher og sektorer af økonomien i mange lande, og de eneste organisationer, der er fritaget for denne trussel, er dem, der ikke har noget værdifuldt eller interessant, som er værd at stjæle.«
+Går i begge retninger
+Da Google sidste år rettede beskyldninger mod Kinas ministerium for industri og informationsteknologi, hed det i det statslige nyhedsbureau Xinhua:
+»Enhver anklage om, at Kinas regering skulle have deltaget i cyberangreb enten på eksplicit eller indirekte måde, er ubegrundet og har alene til formål at nedgøre Kina. Det tager vi stærkt afstand fra.«
+Det har ikke været muligt at få en kommentar fra udenrigsministeriet i Beijing. Kinesiske embedsmænd har tidligere sagt, at Kina har strenge love mod hackning og selv er blandt de største ofre for datatyveri.
+Dave Clemente, en it-sikkerhedsanalytiker fra tænketanken Chatham House, siger, at det er sandsynligt, at også Kina kan være ramt af hackere, der handler på vegne af andre lande.
+»Det går i begge retninger, men næppe helt i samme omfang,« siger han.
+»Kina har en reel motivation for at tilegne sig disse typer af industrielle hemmeligheder, fordi de kan repræsentere et stort spring fremad. USA har formentlig mindre motivation til at opsnappe hemmeligheder om Kinas industri eller højteknologi. Men der er helt sikkert ting, USA er interesseret i, og ikke nødvendigvis for at skaffe sig kommercielle fordele, men i geopolitisk forstand.«
+Clemente betegner Mc- Afees karakteristik af sådanne hacknings-aktiviteter som groft tyveri af intellektuel ejendom og hemmeligheder som »rimeligt dækkende«:
+»Den slags er blevet bekræftet og ikke blot i denne rapport, men i snesevis af andre hændelser, som tilsammen danner et overordnet billede.«
+Skadevirkningerne er dog svære at sætte tal på:
+»At få fat på arbejdstegningerne er kun en del af billedet. Den teknologiske knowhow om, hvordan man f.eks. konstruerer en sofistikeret jetmotor er én ting, men derudover findes jo en række andre nok så væsentlige processer logistik, styring af forsyningskæder, den langsigtede forvaltning af en virkelig avanceret fabrikationsproces osv.«
+Selv om basale sikkerhedsbrist eller menneskelige fejl ofte gør hackning lettere, end den burde være, pointerer Clemente, at selv de største organisationer kæmper en hård kamp for at modstå de sofistikerede angreb:
+»Der er ikke meget, selv Google kan gøre, hvis Kina virkelig er fast besluttet på at trænge ind i et dets netværk. Det er i den forstand ikke nogen fair kamp.«
+ 
+© The Guardian og Information Oversat af Niels Ivar Larsen
+

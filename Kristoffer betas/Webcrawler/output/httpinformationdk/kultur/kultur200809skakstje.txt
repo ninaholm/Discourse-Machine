@@ -1,0 +1,14 @@
+Skakstjerner under glaskuplen
+Superturnering med fornyelser i Bilbao 
+
+
+ Der skrives i disse dage skakhistorie i Bilbao. Den store "grand slam finale", der netop er gået i gang i den baskiske hovedstad, betegnes nemlig som den stærkeste nogensinde, og rammerne er også usædvanlige. Spillerne er anbragt under en specialkonstrueret og lydisoleret glaskuppel, der er opført til lejligheden i byens centrum, og publikum kan komme ganske tæt på stormestrene - lige så tæt, som man kan komme på fiskene i Danmarks Akvarium. 
+De seks i akvariet er: verdensmesteren Anand fra Indien, ukraineren Ivantjuk, der netop har vundet Tal Memorial i Moskva, Radjabov fra Aserbajdsjan, den bulgarske eksverdensmester Topalov, OL-guldvinderen Aronian fra Armenien samt - naturligvis - den 17-årige nordmand Magnus Carlsen. Og som en nyskabelse giver man points som i fodbold: 3 for gevinst, 1 for remis, og et stort rundt 0 for nederlag. Det skal angiveligt mindske trangen til hurtige remiser blandt stormestrene - som det for øvrigt er forbudt at tage remis uden sanktion fra turneringsledelsen - men alligevel endte to af de tre partier i første runde uden vinder: Radjabov-Topalov efter 49 træk, Anand-Ivantjuk efter 58 træk, da inderen i en klar remisstilling ikke ville være tarvelig (eller kynisk) nok til at udnytte Ivantjuks horrible tidnød.
+Kun et parti fik en vinder - og han var norsk. Magnus havde sort mod Aronian, der fik et klart initiativ, men betalte en bonde for det:
+1.c4 c5 2.Sf3 Sf6 3.d4 cxd4 4.Sxd4 e6 5.g3 Lb4+ 6.Sd2 Sc6 7.Sc2 Le7 8.Lg2 0-0 9.0-0 Tb8 10.Se4 b5 11.cxb5 Txb5 12.Sd6 Lxd6 13.Dxd6 Lb7 14.Sa3 Tb6 15.Le3 Txb2 16.Lc5 Te8 17.Tab1 Txb1 18.Txb1 La6 19.Sb5 Lxb5 20.Txb5 Dc8 21.a4 h6 22.La3 Da6 23.Lb2 Dxa4 - hapsengewesen - 24.Lxc6 dxc6 25.Tb4 Da5 26.Lxf6 gxf6 27.Tg4+ Kh7 28.Dxc6 Td8 ...
+Se diagrammet.
+Det står nu klart, at Aronian ikke har nok kompensation for bonden, og Magnus, der kombinerer som en Tal og spiller slutspil som en Fischer, kværner ham sikkert ned:	
+29.Dc2+ f5 30.Ta4 De1+ 31.Kg2 Td1 32.Dc7 Kg6 33.Kf3 Dh1+ 34.Ke3 Ta1 35.Dc2 Txa4 36.Dxa4 Dc1+ 37.Kf3 Dc3+ 38.Kg2 a5 39.g4 De5 40.gxf5+ Kxf5 41.De8 Kg6 42.Df8 a4 43.e3 De4+ 44.Kg3 Dd3 45.h4 a3 46.Kh2 Df5 47.Dxa3 Dxf2+ 48.Kh3 Df3+ 49.Kh2 Kh5 50.Df8 Df2+ 51.Kh1 Kg4 ...
+Og her opgav Aronian. Alt håb er ude, for den sorte majestæt betræder snart h3, og så er det nat - eller mat, om man vil.
+
+

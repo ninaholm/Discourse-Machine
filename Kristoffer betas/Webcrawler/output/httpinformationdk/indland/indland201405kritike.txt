@@ -1,0 +1,34 @@
+Kritiker: Ingen god grund til at gemme data i over et år
+Forsvarsminister Nicolai Wammens forslag til et lovgrundlag for det såkaldte Center for Cybersikkerhed udvider muligheden for at gemme såkaldt pakkedata i op til 13 måneder. Men argumenterne for at gøre dette mangler, siger Institut for Menneskerettigheder
+’Det er meget indgribende at gemme pakkedata, og derfor holdt man grænsen til 14 dage. Men nu udvider man det så også til 13 måneder,’ siger en kritiker af forslaget,  Martin Futtrup, der er juridisk fuldmægtig hos Institut for Menneskerettigheder.
+
+
+ 
+	Der mangler gode argumenter for, hvorfor Center for Cybersikkerhed skal have mulighed for at opbevare såkaldt pakkedata i op til 13 måneder.
+
+	Det mener Institut for Menneskerettigheder, der er kritisk over for et lovforslag, som skal regulere cybercentret.
+
+	»Det er ikke tilstrækkeligt begrundet i lovforslaget, at man laver sådan en udvidelse på nuværende tidspunkt,« siger Martin Futtrup, der er juridisk fuldmægtig hos Institut for Menneskerettigheder.
+
+	Center for Cybersikkerhed eksisterer allerede i dag under Forsvarets Efterretningstjeneste (FE). Formålet med centrets netsikkerhedstjeneste er ifølge lovforslaget at beskytte myndigheder og private virksomheder, der er tilsluttet tjenesten. Det kan eksempelvis være for at modvirke eller opdage hackerangreb, hvor andre stater eller privatpersoner forsøger at trænge ind i it-systemer for at tilegne sig data eller lægge it-systemer ned.
+
+	Tjenesten får ifølge lovforslaget mulighed for at opsnappe og analysere data uden retskendelse fra de tilsluttede myndigheder og virksomheder, og det gælder både indholdet af kommunikationen og oplysningerne om, hvorfra og til hvem data er sendt.
+
+	Til forskel fra tidligere får centret efter forslaget mulighed for at opbevare al såkaldt pakke- og trafikdata i op til 13 måneder, hvilket betyder, at al indholdet af kommunikation kan gemmes. Tidligere var det kun lovligt at gemme såkaldt pakkedata – der er indholdet af kommunikationen – i op til 14 dage, hvis det ikke var en del af en såkaldt ’sikkerhedshændelse’.
+
+	»Tidligere har man anerkendt, at det er meget indgribende at gemme pakkedata, og derfor holdt man grænsen til 14 dage. Men nu udvider man det så også til 13 måneder,« siger Martin Futtrup og tilføjer: »Det spring er stort, og så lægger vi vægt på, at der skal være en god begrundelse for, hvorfor man gør det.«
+
+	Martin Futtrup mener ikke, at der på nuværende tidspunkt er en sådan begrundelse i lovforslaget. Men han påpeger samtidig, at hvis der findes overbevisende og tungtvejende hensyn, som berettiger, at centret opbevarer pakkedata i 13 måneder, så er Institut for Menneskerettigheder ikke afvisende over for, at den såkaldte slettefrist kan forlænges. Forsvarsminister Nicolai Wammen (S) havde i går ikke mulighed for at kommentere kritikken over for Information.
+
+	Wammen: En god foranstaltning
+
+	Han henviste i stedet til et svar sendt til forsvarsudvalget i går, hvor ministeren begrunder udvidelsen af slettefristen. Heri skriver ministeren følgende:
+
+	»Da de mest avancerede cyberangreb ofte først opdages et stykke tid efter, at de er påbegyndt, er det af væsentlig betydning for centrets evne til at opdage og imødegå cyberangreb, at data kan opbevares i en længere periode end i dag. Det vil give bedre muligheder for at rekonstruere et angreb, når det opdages – og f.eks. finde ud af, hvilke data hackerne er sluppet afsted med.«
+
+	Forsvarsministeren argumenterer også for, at det er vigtigt, at Center for Cybersikkerhed kan foretage år til år-sammenligninger:
+
+	»Ved vurdering af det, der f.eks. umiddelbart vil kunne ligne en afvigelse fra normalbilledet i januar, vil der således kunne foretages en langt mere kvalificeret vurdering, hvis der er mulighed for at sammenligne med aktiviteterne i januar året før.«
+
+	Forsvarsudvalget afholdt i går et åbent samråd, hvor udvalget havde bedt ministeren forholde sig til, om Center for Cybersikkerhed skal have udvidet sit arbejdsområde som følge af dårlig it-sikkerhed i visse ministerier.
+

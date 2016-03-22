@@ -1,0 +1,16 @@
+Folketingets hjemmeside udsat for hacker-angreb
+Folketingets hjemmeside er blevet bombarderet med trafik i forsøg på at få siden til at gå ned, skriver den IT-ansvarlige. Hackergruppen Anonymous mistænkes
+
+
+ Folketingets hjemmeside oplever disse dage enorme mængder trafik, som menes at være et koordineret forsøg på 'denial-of-service' angreb, hvilket betyder at hjemmesiden ikke kan håndtere ordinære opslag.
+Det fortæller folketingets IT-ansvarlige Ole Søndergaard.
+Siden er blevet bombarederet af 100.000-vis af computere, siger han og tilføjer, at den kendte hackergruppe Anonymous eksempelvis kunne står bag.
+Tre måneders trafik på to dage 
+»Der foreligger på nuværende tidspunkt ingen sikker viden om, hvem der står bag angrebene, der i øvrigt også bruger andre landes institutioner som skydeskive. Men det er nærliggende at mistænke eksempelvis aktivistgrupper som Anonymous, der er kendt for den slags aktioner, og som i den senere tid skulle have tilkendegivet sin interesse i forhold til Danmark,« siger han, men understreger, at det endnu ikke er bevist præcist, hvorfra angrebet kommer.
+Folketinget.dk har på 36 timer modtaget mere end 11 mio. henvendelser, hvilket er mere end siden normalt modtager på tre måneder.
+Hjemmesiden holder sig dog på benene indtil videre og kan tilgås som normalt. Søndergaard tilføjer at angrebet udelukkende er tænkt som et forsøg på at lukke siden ned og ikke som et forsøg på at trænge ind bag hjemmesidens firewall.
+Ikke første gang
+Hvis det som antaget er hacker-gruppen Anonymous, der står bag angrebet, ville det ikke være første gang at gruppen går efter myndigheders hjemmesider.
+Det polske parlaments hjemmeside blev ligeledes angrebet af gruppen efter parlamentet havde godkendt den omstridte ACTA-aftale, som kritikere frygter vil indføre vidtgående restriktioner på brugen af internettet.
+Danmark skrev under på selv samme ACTA-aftale i torsdags, hvilket har mødt kritik fra både organisationer, internetaktivister og politikere. 
+

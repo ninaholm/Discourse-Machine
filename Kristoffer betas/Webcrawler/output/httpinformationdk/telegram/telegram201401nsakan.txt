@@ -1,0 +1,13 @@
+NSA kan overvåge computere der ikke er på nettet
+NSA har en hemmelig teknologi, som giver den adgang til computere, der ikke er forbundet til internettet.
+
+
+ Den amerikanske efterretningstjeneste NSA har installeret software i næsten 100.000 computere verden over, som gør det muligt at overvåge trafikken på disse, og som kan udgøre en digital motorvej for cyberangreb, skriver den amerikanske avis The New York Times.
+NSA har placeret det meste af dets software ved at have skaffet sig adgang til computernetværk, men efterretningstjenesten har også i tiltagende grad anvendt en hemmelig teknologi, som giver den adgang til computere, der ikke er forbundet til internettet, skriver det amerikanske dagblad.
+The New York Times citerer højtstående embedsmænd i Washington, computereksperter og dokumenter, som er blevet lækket af den tidligere NSA-agent Edward Snowden.
+The New York Times skriver, at den nye teknologi har været i anvendelse siden 2008 - måske tidligere - og er baseret på en hemmelig kanal med radiobølger sendt fra små kredsløb på små printplader og USB-stik, som hemmeligt er blevet installeret i computerne.
+ - Teknologien med radiobølger har hjulpet med at løse et af de største problemer, som amerikanske efterretningstjenester har stået over for i årevis: at få adgang til computere som modstandere - og også visse amerikanske partnere - har forsøgt at gøre immune over for spionage og cyberangreb, pointerer avisen.
+ - I de fleste tilfælde må den hardware, som anvendes til teknologien med radiobølger, installeres fysisk af en spion, en producent eller en bruger, som ikke er opmærksom på det, hedder det videre.
+Programmet, der har kodenavnet Quantum, har hyppigt været anvendt mod det kinesiske militær, som Washington har beskyldt for at stå bag digitale angreb mod det amerikanske militær og industrielle mål.
+Programmet har også plantet software i Ruslands militære netværk og i systemer anvendt af Mexicos politi og narkotikakarteller, i EU's handelsinstitutioner og hos allierede som Saudi-Arabien, Indien og Pakistan.
+Præsident Barack Obama fremlægger fredag en række reformer for de amerikanske efterretningstjenester. Disse vil blandt andet omfatte NSA's operationer, som er blevet voldsomt kritiseret i både USA og i Europa.

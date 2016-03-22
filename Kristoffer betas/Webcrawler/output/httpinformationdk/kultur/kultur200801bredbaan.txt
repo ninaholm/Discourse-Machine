@@ -1,0 +1,24 @@
+Bredbånd opleves som smalbånd
+Danskernes bredbånd er for svagt til at udnytte nettets potentiale
+
+
+ Hvis du vil uploade dine feriefotos til nettet, så moster Oda kan klikke ind på et fotosite og se dem, så kan du godt komme til at bruge rigtig lang tid. Især hvis du har et nyere digitalt kamera, der kan tage billeder i meget høj opløsning.
+Ifølge Bredbåndskortlægning 2007 fra IT- og Telestyrelsen har 1.854.423 danskere bredbånd. 70 procent af danskernes bredbåndsforbindelser har en hastighed på 2 mbit/s (2.000 bit i sekundet) eller derover. Det er en relativt høj hastighed og dækkende til de fleste formål, men de fleste af os glemmer at kigge på det andet tal i regnestykket, når vi køber en bredbåndsforbindelse. Vi henter med 2 mbit/s, men hvis vi også vil sende information ud på nettet igen, så ser det straks værre ud. Der er nemlig forskel på downstream- og upstream-hastighed.
+60 procent af de danske bredbåndsforbindelser er de såkaldte ADSL (Asymmetric Digital Subscriber Line) lavet til højhastighedsforbindelser over det eksisterende kobbertelenet. Det vil sige, at man har adgang til internettet via sit telefonstik.
+Hastigheden på ADSL er som navnet antyder asymmetrisk, hvilket vil sige, at den maksimalt opnåelige hastighed upstream og downstream ikke er den samme. Den samme problemstilling gør sig gældende med kabelmodem, hvor signalet kommer ud af ens antennestik.
+Det digitale nåleøje
+Og det er her problemet ligger, når man vil give moster Oda mulighed for at se feriebillederne på en fotodelingstjeneste som Flickr eller det danske 23. Over en tredjedel af de danske bredbåndsforbindelser har en upstream-hastighed på under 144 kbit/s. Lidt flere har 512 kbit/s, mens kun cirka 20 procent har over 1 mbit/s i upstream-hastighed.
+I dag har et foto fra et gennemsnitskamera typisk en størrelse på 4 mb. Hvis man vil sende de 25 bedste bedste feriebilleder tager det 37 minutter på 512 kbit/s men helt op til 2,5 time på 128 kbit/s. Er der tale om et billede i god kvalitet fra en digitalt spejlreflekskamera, skal man vente et sted mellem 3,5 minut og 14 minutter pr. billede.
+Hvis man vil snakke i Skype med video på, så skal man f.eks. minimum kunne 'sende' med 384 kbit/s. Hvis man vil dele sine videoer på YouTube eller musik på MySpace er det endnu værre, fordi video fylder meget mere end fotos.
+Langt de fleste danskere kan dermed ikke være med til nettets nye påfund, det såkaldte Web 2.0, hvor brugerne selv skaber og distribuerer indhold. De er fanget i en gammeldags envejskommunikation.
+Klumper i Grand Prix
+Umiddelbart kan det synes ligegyldigt, hvis man blot vil maile lidt eller gå i netbank. Men for folk med hjemmearbejdspladser kan en dårlig upstream-hastighed give så mange klumper i strømmen, at det bliver umuligt at passe sit arbejde hjemmefra. Bredbåndet vil opleves som smalbånd.
+Det nordvestlige Jylland, Lolland og øerne i Det Sydfynske Øhav trækker det korte strå, mens andre udkantsområder er blevet begavet af elselskaberne med fiberkabler, der kan tilbyde såkaldt symmetriske hastigheder på f.eks. 10 mbit/s både op og ned. Det koster til gengæld en pæn klat penge hver måned, men så er man for alvor med i deltagersamfundet.
+TDC har også fiber i jorden, men strategien er at trække fiber til fremskudte centraler i beboelsesejendomme og så bruge kobbernettet resten af vejen. Det kan give downstream-hastigheder helt op til 50 mbit/s.
+Men der er faktisk problemer også for de brugere, der ikke ønsker selv at lave indhold til nettet. Hvis man f.eks. blot vil se det internationale Melodi Grand Prix via nettet, så kan en lav upstream-hastighed godt lave klumper i ens downstream. Mange videotjenester bruger såkaldt peer-to-peer (p2p) teknologi. For at spare på kapaciteten i netværket lader man brugerne dele videosekvenserne med hinanden. Hver eneste bruger er en slags mellemstation for videoen. Det vil sige, at man måske modtager dele af videoen fra ens naboer, men hvis naboen ikke har en tilstrækkelig upstream-hastighed, så begynder billedet at hakke og fryse.
+Værre er det, hvis man bruger en video-tjeneste, der kun vil sende til brugeren med den samme hastighed, som brugeren selv kan upstreame med. Hvis man har en 2mbit/s downstream og 128 kbit/s upstream, så kan man kun downstreame med 128 kbit/s, hvilket giver et videobillede på størrelse med et sløret frimærke.
+Den internetbaserede tv-tjeneste Joost anbefaler f.eks. en upstream-hastighed på minimum 512 kbit/s for at kunne se udsendelserne.
+Bredbåndsmarkedet er med andre ord en jungle på linje med mobiltelefonmarkedet. TDC og mange andre teleselskaber og internetudbydere skruer i den kommende tid op for hastighederne. Vi får lov til at betale for det, men det er alligevel værd at overveje sine behov, når tilbuddet kommer ind af døren.
+
+Man kan finde udmærket hjælp hos IT- og Telestyrelsen på: http://www.it-borger.dk/ forbrug/internet/tilslutning-til-internettet/bredband-tjek-din-upstream-hastighed
+

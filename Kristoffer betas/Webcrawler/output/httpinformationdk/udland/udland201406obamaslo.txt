@@ -1,0 +1,37 @@
+Obamas løfte om NSA-reform viste sig at være tomt
+Bestræbelser i Kongressen på at få tøjlet NSA’s overvågning er strandet. Lovgiverne synes at være tilfredse med status quo. På den positive side søger internetfirmaer at beskytte forbrugeres elektroniske data og opbygge krypterede, virtuelle oplagringssteder
+Amerikanere protesterer mod NSA og spionagen af deres private færden og deres datatrafik uden for justitsministeriet. Men den almene borger i USA er efterhånden blevet  immun over for afsløringerne.
+
+
+ For et halvt år siden modtog præsident Barack Obama 48 forslag til reform af NSA’s overvågningspraksis fra en kommission, han nedsatte sidste sommer i kølvandet på whistlebloweren Edward Snowdens afsløringer af massiv elektronisk spionage mod amerikanske og udenlandske statsborgere.
+I dag er, så vidt Information erfarer, ingen af de 48 anbefalinger blevet ført ud i livet.
+»Stort set har Obama-regeringen begrænset sig til det helt minimale for at følge op på kommissionens anbefalinger om at tøjle NSA’s massive overvågning,« siger Sascha Meinrath fra New America Foundation i Washington, D.C.
+»Hvis Obamas mål var at genvinde borgernes tillid til staten og til de teleselskaber, der frivilligt videregav efterretninger til NSA, så har den plan slået fejl. Det betyder, at skaden, der udspringer af NSA’s overvågning, vil fortsætte.«
+I en tale i januar afgav præsident Obama flere løfter. Et af dem gik på at overdrage NSA’s ansvar for at oplagre metadata fra telefonopkald til enten teleselskaberne eller til en neutral instans. Regeringen skulle herefter søge en domstol om tilladelse til at få adgang – et forslag, som vakte ilter modstand i USA’s netværk af efterretningstjenster.
+Indtil for et par uger siden så det ud til, at forslaget ville blive til lov i Kongressen.
+»Et lovforslag havde en god chance for at blive vedtaget i Repræsentanternes Hus, men lige inden afstemningen blev indholdet vandet ud. Det ser ikke ud til, at Senatet vil indføje nogen garantier i lovforslaget, som vil styrke beskyttelsen af folks private kommunikation,« siger Steven Aftergood fra Federation of American Scientists.
+Aftergood, en kendt kritiker af NSA’s overvågning, er ikke særlig optimistisk.
+»Noget tyder på, at Obamas løfte om at fratage NSA ansvaret for indsamling af metadata ikke bliver til noget. Problemet er, at midterfløjen i både det republikanske og det demokratiske parti er mere eller mindre tilfreds med status quo og ikke særlig opsat på forandringer,« mener han.
+Han fortsætter:
+»Snowdens afsløringer har ikke givet anledning til noget skarpt brud med fortidens praksis i NSA. Den eneste positive udvikling i det sidste års tid er den åbne og offentlige debat, vi har fået om statsovervågning i USA og verden over.«
+Træthed
+Men efter et år med den ene afsløring efter den anden i pressen er amerikanernes forbløffelse over det begyndt at rinde ud.
+»Hver eneste nye afsløring, der bliver offentliggjort, gør mindre indtryk på den amerikanske offentlighed end tidligere afsløringer. Overraskelsesmomentet er forbi. Folk er nærmest blevet immune,« siger journalist Peter Maass, der for nylig blev hyret af den nye mediegruppe First Look Media.
+First Look Media er grundlagt af Pierre Omidyar, indehaver af online-auktionshuset eBay. Foreløbig har gruppen søsat webavisen Intercept, hvis redaktører er Glenn Greenwald, Jeremy Scahill og Laura Poitras, instruktør af dokumentarfilm bosat i Berlin.
+Det var først Poitras og senere Greenwald, der modtog titusinder af klassificerede NSA-dokumenter fra Edward Snowden under et møde i Hongkong i maj sidste år. Intercept skal i opstarten ene og alene beskæftige sig med at offentliggøre artikler på grundlag af det omfattende materiale af hemmelige dokumenter. På længere sigt er det meningen, at webavisen går i kødet på emner, mainstream-pressen holder sig fra.
+»Vi har ambitiøse planer,« fortæller Peter Maass, der tidligere arbejdede for New York Times Magazine.
+»Men det tager naturligvis tid at stable en helt nyt mediehus på benene. Vi hyrer stadig folk og skal snart flytte til større lokaler her i Manhattan. Så det vil tage nogen tid, førend du kan se, hvor meget vores journalistik vil påvirke den offentlige mening.«
+Tech-selskaber anfører
+Mens præsident Obama og et flertal af lovgiverne holder igen med meningsfuld reform af NSA, er der imidlertid sket et betydeligt skifte hos internetselskaberne på USA’s vestkyst. Det er efter Maass’ mening en positiv udvikling.
+»Det er korrekt, at NSA’s forfatningsstridige overvågning fortsætter. På den anden side er Google, Microsoft, Yahoo, Facebook, Twitter og andre selskaber begyndt at rykke. De fleste af dem plejede at aflevere data til NSA eller lade agenturet opsuge data ad ’bagdøren’, altså fra deres IP-servere,« påpeger den amerikanske journalist.
+»Snowdens afsløringer kan betyde, at disse internetselskaber mister kunder, især i udlandet. Så de har opstillet en hel masse forhindringer for at beskytte sig mod NSA’s snagen. De er langt mindre villige end før til at give staten adgang til kundedata. Det har naturligvis intet at gøre med deres moralske habitus. Det er bare business.«
+I sin tale i januar fremsatte præsident Obama mundtlige garantier for, at metadata indsamlet af NSA om udenlandske borgere ikke bliver anvendt til odiøse formål som diskrimination på basis af race, tro og seksuel orientering eller for at undertrykke afvigende meninger.
+»Vi udspionerer ikke almindelige mennesker verden over, med mindre de udgør en sikkerhedstrussel mod USA. Vi tager hensyn til deres behov for at kommunikere ad private kanaler,« sagde Obama.
+I særdeleshed udstedte præsidenten forsikring om, at ledere af allierede og venligtsindede lande ikke længere ville blive udspioneret af USA. Men hverken udenlandske ledere eller borgere har mulighed for at verificere om, hvorvidt USA lever op til Obamas forsikringer.
+»Angela Merkel kan formentlig føle sig sikker. Udover det må udlændinge stille sig tilfreds med den amerikanske regerings forsikringer,« siger Steven Aftergood fra Federation of American Scientists.
+På den anden side fremhæver han, at selve ideen om, at udlændinge skal beskyttes mod udspionering af fremmede stater, egentlig er radikal.
+»Inden Snowdens afsløringer blev sådan noget overhovedet ikke diskuteret. Det blev taget for givet, at den slags fandt sted. I alle lande er borgerne i mere eller mindre grad overvåget af staten. Efter NSA-affæren er det næsten blevet en almen opfattelse, at kun USA udspionerer, og at ens egen regering forholder sig passiv. Det er et fordrejet billede af virkeligheden,« mener Aftergood,
+På den positive side hører, at når stater svigter deres pligt til at beskytte borgernes private kommunikation, træder de private selskaber ofte til med løsninger.
+»I øjeblikket er flere og flere teknologiselskaber engageret i at opbygge virtuelle oplagringssteder, der er krypterede. Det betyder, at borgere i stater med massiv overvågning vil have mulighed for at opbevare deres data på sikre steder,« påpeger Peter Maass.
+»Teknologi kan løse en del af de udfordringer, som Snowden har bragt på bane.«
+

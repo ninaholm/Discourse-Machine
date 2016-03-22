@@ -1,0 +1,18 @@
+CPR-kontor: Ingen grund til at overdramatisere
+Man skal passe på med at overdramatisere, hvad man kan bruge et cpr-nummer til, mener kontorchef
+
+
+ Allerede torsdag eftermiddag skal der ligge en redegørelse fra it-virksomheden CSC, om hvordan 900.000 danskeres cpr-numre ved en fejl har ligget frit tilgængeligt på internettet i 50 minutter.
+Det siger kontorchef Carsten Grage, CPR-kontoret til Ritzau.
+- Vi opdager fejlen, da nogle af virksomhederne henvender sig og fortæller, at der er noget galt med formaterne på de såkaldte Robinsonlister, og så piller vi dem straks af hjemmesiden, siger Carsten Grage.
+Oplysningerne bliver lagt på nettet 14.50, og fejlen bliver opdaget 15.40.
+Carsten Grage mener, at der er mange myter og skrøner om cpr-numre, at man for eksempel kan låne penge, hvis man kender et menneskes personnummer og få adgang til sundhedsoplysninger.
+- Man skal passe på med at overdramatisere, hvad man kan bruge et personnummer til. Det er muligt, at det har kunnet lade sig gøre i videre omfang tidligere, og man kan sikkert også finde konkrete eksempler, siger han og fortsætter:
+- Men så er der tale om en brist. Man må ikke basere sin sikkerhed på, at nogen bare oplyser et personnummer.
+- Al offentlig selvbetjening er i dag baseret på NemID, også banker og mange private virksomheder benytter NemID, understreger han.
+Filen er nu fjernet, og CPR-kontoret har skrevet ud til alle de virksomheder, der har adgang til det lukkede rum.
+- Vi får løbende meldinger om, at virksomhederne har fjernet filen. Det er dog ikke muligt at kontrollere, om virksomhederne også fjerner filen.
+- Men det er strafbart at videreformidle oplysningerne, siger Carsten Grage.
+ Lækket bringer dog bekymrede miner frem hos sikkerhedsekspert Peter Kruse fra it-sikkerhedsfirmaet CSIS.
+Fejlen betyder nemlig, at de berørte danskere risikerer at blive udsat for it-kriminalitet og identitetstyveri.
+- Det er meget alvorligt. Det betyder, at de 900.000 cpr-numre som tilhører helt almindelige danskere har været tilgængelige og dermed også er i risikozonen for potentielt at kunne blive misbrugt, siger sikkerhedsekspert Peter Kruse.

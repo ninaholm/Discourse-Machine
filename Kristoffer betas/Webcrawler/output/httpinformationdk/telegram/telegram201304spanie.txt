@@ -1,0 +1,15 @@
+Spanien: Mand anholdt for kæmpe cyberangreb
+Spansk politi anholder en mand, der formodes at stå bag, hvad der kaldes verdens største cyberangreb.
+
+
+ Spansk politi har anholdt en mand, der menes at stå bag, hvad der beskrives som verdenshistoriens største cyberangreb.
+Det skriver CNN.
+Den 35-årige anholdte er en hollandsk statsborger, der rejste rundt i Spanien i sin varebil, som han brugte som transportabel kontor.
+Det fortæller Spaniens nationale politi i en officiel pressemeddelelse.
+Politiet anholdt manden i torsdags nord for Barcelona, efter at de hollandske retsmyndigheder havde udstedt en arrestordre på manden.
+Anholdelsen kommer en måned efter, at internetbrugere verden over oplevede, at internettet blev langsommere. Det skete efter, at The Spamhaus Project, der bekæmper spam, blev angrebet af hackere.
+- Han er mistænkt for at være involveret i angrebet, derfor bad anklagemyndigheden om at få ham anholdt, siger talsmand fra spansk politi Wim de Bruin til nyhedsbureauet AFP.
+Spamhaus beskyldte det hollandske web-site Cyberbunker for at stå bag angrebet.
+- Den anholdte er mistænkt for at stå bag et hidtil uset angreb på Spamhaus, står der i den officielle pressemeddelelse fra spansk politi.
+Sikkerhedseksperter siger, at angrebet benyttede sig af mere sofistikerede teknikker end de fleste andre spamangreb, eksempelvis DDoS-angreb.
+Ved DDoS-angreb kontakter adskillige computere på samme tid og uafbrudt den samme internetserver i en sådan grad, at reelle forespørgsler til den pågældende hjemmeside ikke kan besvares i tide.

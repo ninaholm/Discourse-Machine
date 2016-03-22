@@ -1,0 +1,15 @@
+OVERBLIK: Se her hvad Volkswagen-skandalen går ud på
+Sagen med snydesoftware i dieselbiler fra Volkswagen får USA til at kræve milliarder fra bilkoncernen.
+
+
+ Mandag har de amerikanske myndigheder anlagt sag mod Volkswagen og krævet et ikke nærmere oplyst milliardbeløb af den tyske bilkoncern.
+Sagen er blevet kaldt den største skandale nogensinde inden for bilbranchen, hvor 11 millioner VW-biler anslås at være udstyret med en software, der skal skjule bilernes udledning af de såkaldte NOx-gasser.
+NOx er en fællesbetegnelse for de to stoffer kvælstofdioxid (NO2) og kvælstofoxid (NO). Kvælstofdioxid er sundhedsskadeligt for mennesker. Via kemisk omdannelse i atmosfæren kan stofferne være med til at danne smog og syreregn.
+* 18. september rapporterer den britiske avis The Guardian, at den amerikanske myndighed med ansvar for miljøbeskyttelse, Environment Protection Agency, anklager Volkswagen for at have installeret et computerprogram i biler til det amerikanske marked, der får bilerne til at reducere udledningen af NOx-gas.
+* Programmet blev kun aktiveret, når bilerne skulle forbi de amerikanske testanlæg. Bilen genkender testcyklen hos de amerikanske myndigheder og sætter en særlig ren forbrænding i gang, mens testen står på.
+* Så snart bilerne kører ude på vejene, bliver der skruet op for forureningen, så den overskrider de amerikanske grænseværdier. Forureningen kan have overskredet grænseværdierne med op til 40 gange det tilladte niveau.
+* De amerikanske justitsmyndigheder har indledt en efterforskning, der kan ende med en straffesag. Den tyske anklagemyndighed er også ved at granske sagen.
+* Volkswagen erkender, at der er snydt, og koncerndirektør Martin Winterkorn trådte tilbage i september.
+* Skandalen har været dyr for Volkswagens brand. Selskabets markedsværdi er faldet med 22 procent eller over 140 milliarder kroner siden årsskiftet. En overgang var selskabets værdi halveret.
+Kilder: Ritzau, AFP, The Guardian, Reuters, DR
+

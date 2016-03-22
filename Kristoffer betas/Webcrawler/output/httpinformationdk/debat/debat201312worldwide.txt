@@ -1,0 +1,49 @@
+World Wide landsbymentalitet
+Klassiske nyhedstjenester, der koncentrerer sig om andet end popkultur og LOL-katte, presses på nettet af letbenede popsites. Som de fleste landsbyer er den globale landsby alene optaget af sladder
+ 
+	Opbyggelsen en global landsby, hvor BuzzFeed bliver den mest populære internationale nyhedskanal, risikerer at undergrave det arbejde, som udføres af de rigtige nyhedskanaler – medier, der holder verden orienteret om nyheder, som ikke lige akkurat kredser om Kanye West, Hollywood eller katte, mener kronikøren. Foto: BuzzFeed
+
+
+ 
+	Troen på, at de elektroniske medier vil bringe verden sammen, er hverken ny eller original – tænk bare tilbage på Marshall McLuhans term ’den globale landsby’, som dukkede op allerede i 1962. Tilhængerne af visionen har i reglen svært ved at præcisere, hvordan den nærmere skal forstås. Skal vi f.eks. fejre, at »Gangnam Style« – en satire over sydkoreansk hipsterlivsstil – har nået 1,8 milliarder visninger på YouTube, selv om joken går hen over hovedet på langt de fleste?
+
+	Via de sociale medier kan ideer nu sprede sig som en steppebrand. Det så vi sidste år med Kony2012, en forfejlet viral kampagne for at få anholdt den ugandiske krigsherre Joseph Kony. Frem for en halv snes dybt engagerede mennesker fik vi det temmelig overfladiske engagement fra flere millioner. Vi fik også en forsimpling af problemstillingen omkring en afrikansk guerillakrig. Det endte med at modarbejde ellers lovende fredsbestræbelser i Uganda. Virale kampagner fungerer bedst, når der er tale om meget målrettede indsatser såsom fundraising. Derudover er de ofte problematiske.
+
+	Den seneste nyskabelse i digital kosmopolitisme kommer fra BuzzFeed, et websted, der på kort tid er blevet et af verdens mest besøgte. I august sidste år fik BuzzFeed 85 millioner hits, britiske BBC ligger til sammenligning på omkring 65 millioner.
+
+	BuzzFeeds indslag skabes altovervejende med henblik på at blive delt. Webtjenestens slogan er ’det virale web i realtid’, og her finder vi en del af forklaringen på, at sitets indslag ifølge en nyere undersøgelse opnår flere delinger på Facebook end historier fra noget andet site. En typisk BuzzFeed-artikel kan f.eks. være 10 citater med billeder af Kanye West og Freddie Mercury præsenteret i et quizagtigt format under overskriften »Hvem sagde dette? Kanye West eller Freddie Mercury?«
+
+	At dømme efter deres spektakulære resultater har BuzzFeed-folkene gjort ’vitalitet’ til videnskab: Takket være avancerede analyser og big data-værktøjer ved de præcis, hvad der skal siges – og hvordan – for at få deres historier delt blandt flest mulige mennesker.
+
+	Tjenestens tilgang kan bedst beskrives som en taylorisering af det virale: Ligesom Frederick Taylor vidste, hvordan man optimerer arbejdsgange i en fabrik, ved BuzzFeed, hvordan man designer artikler for at få flest mulige klik og delinger. Artiklernes indhold underordnes deres virale potentiale.
+
+	Kognitivt overskud
+
+	Indtil nu har der kun været én barriere for BuzzFeeds plan om at erobre verdensherredømmet: sprogbarrieren for ikkeengelsktalende. Men nu har BuzzFeed indgået en aftale med Duolingo, en sprogstudietjeneste grundlagt af Louis von Ahn, opfinder af antispamsystemet CAPTCHA (som beder os om at indtaste, hvad vi ser på to billeder for på den måde at sikre, at vi ikke er robotter på spammission). Oprindeligt brugte CAPTCHA-systemet tilfældige tekststumper. Men så fik von Ahn den idé, at han kunne få folk til at bekæmpe spam og hjælpe med at digitalisere bøger på samme tid: Hvorfor sætte folk til at indtaste tilfældige tekster, hvis de kan indtaste vanskeligt læsbare passager fra scannede bøger i stedet?
+
+	Internetguruen Clay Shirky konstaterer, at denne logik – som han kalder for ’kognitivt overskud’ – er på vej frem i dele af den digitale kultur. I sin bog fra 2010 af samme navn fastslog Shirky, at vi må søge at udvikle måder, som kan hjælpe os til at udnytte potentialerne for ’kognitivt overskud’ som sociale goder.
+
+	Duolingo er Von Ahns forsøg på at opbygge en tjeneste, der udnytter det kognitive overskud ved sprogindlæring. Millioner – måske milliarder – af sætninger bliver hver dag oversat af sprogstuderende. Det er her BuzzFeed kommer ind i billedet: Studerende, der tilmelder sig Duolinos sprogkurser, vil fremover få til opgave at oversætte BuzzFeeds artikler én sætning ad gangen, og når arbejdet er fuldført, vises de online. Modellen er for så vidt elegant: De studerende skulle alligevel lave oversættelsesøvelser, Duolingo opkræver ikke gebyr for sin undervisningstjeneste, og nu kan BuzzFeed betale for de endelige oversættelser. Og dermed opstår BuzzFeeds version af ’den globale landsby’.
+
+	LOL-katte frem for nyheder
+
+	Hvis planen virker efter hensigten, vil stadig flere mennesker kloden over kunne læse nyt om amerikansk populærkultur på deres modersmål. For bemærk, at BuzzFeed synes ganske uinteresseret i at finde oversete historier i den udenlandske presse og bringe dem til massernes kendskab på engelsk eller andre sprog. De holder sig skam til at tage virale historier, der allerede har bevist deres værd på engelsk, og sprede dem globalt, så de opnår den ekstra opmærksomhed, som sprogbarrierer førhen stod i vejen for.
+
+	I den proces genererer de endnu mere trafik og bliver interessante for lokale reklamemarkeder – BuzzFeed har også lanceret udgaver på spansk, fransk og brasiliansk portugisisk.
+
+	Konsekvensen er, at de nationale nyhedsspillere, der producerer de ægte hårde nyheder – den slags nyheder, der koster penge at lave, og som ikke nødvendigvis opnår mange anbefalinger eller delinger på de sociale netværk, fordi de ofte omhandler problematikker, der er mere indviklede end potentielt virale, får sig en magtfuld ny konkurrent. Der findes intet scenarie, i hvilket BuzzFeeds ’kosmopolitiske vending’ vil kunne styrke og gavne de internationale nyhedskilder. De vil i stedet blive presset til enten at blødgøre deres egen nyhedsdækning – for at øge antallet af likes og delinger – eller imødese en endnu ringere indtjening på deres online-annoncering.
+
+	Landsbysladder
+
+	I visse henseender udnytter BuzzFeed blot den indbyggede logik i Big Data- og crowdsourcing-værktøjer. Tjenestens målsætning er trods alt kun at maksimere sin egen udbredelse i de sociale medier, for det er antallet af likes og delinger, der bestemmer indtjeningen. I den forstand tænker BuzzFeed mere som en Silicon Valley-aktør end som en traditionel journalistisk enhed, der typisk bærer rundt på forældede forestillinger om borgerlig offentlighed og hensyn til en demokratisk debat, der på en eller anden måde skulle være hævet over trafik- og profitmaksimering.
+
+	Partnerskabet mellem BuzzFeed og DuoLingo udstiller problemerne ved at operere med apolitiske begreber som ’kognitivt overskud’, der ikke er ordentligt funderet i økonomi eller teorier om globalisering. Tilsyneladende har Duolingo og BuzzFeed fundet en vej til at udnytte store mængder af ’kognitivt overskud’ ved at knytte an til det enorme marked for mennesker, der vil lære sig engelsk for at styrke deres chancer i dagens globale økonomi. Men er der i grunden noget at fejre her?
+
+	Denne særlige udnyttelse af ’kognitivt overskud’ til at opbygge en global landsby, hvor BuzzFeed bliver den mest populære internationale nyhedskanal, risikerer faktisk at undergrave det arbejde, som udføres af de rigtige nyhedskanaler – medier, der holder verden orienteret om nyheder, som ikke lige akkurat kredser om Kanye West, Hollywood eller katte (nogle af BuzzFeeds foretrukne emner).
+
+	Vil der stadig være rigtige nyhedskanaler tilbage i den ’globale landsby’? Eller vil den som de fleste landsbyer alene fungere ved sladder? Indtil videre virker det sidste som det mest sandsynlige – og det af grunde, der har alt at gøre med økonomi og meget lidt med teknologi.
+
+© Evgeny Morozov og Information.
+
+Oversat af Niels Ivar Larsen
+

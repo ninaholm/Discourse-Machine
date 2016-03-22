@@ -1,0 +1,29 @@
+Overvågning af efterlyste bilister fejler i ni ud af ti tilfælde
+Politiets eget forsøg med overvågning af bilisters nummerplader viser, at systemet producerer falske alarmer i cirka ni ud ti tilfælde, når det handler om efterlyste biler
+ Politets forsøg med at overvåge nummerplader på biler har indtil videre en meget stor fejlprocent.
+
+
+ Rigspolitiet planlægger at overvåge hundredtusindvis af bilister ved hjælp af såkaldt automatisk nummerpladegenkendelse. Men et forsøg med systemet viser, at systemet producerer særdeles mange falske alarmer. Det fremgår af politiets egen foreløbige evaluering af forsøget, som Information har fået aktindsigt i.
+Konkret viser evalueringen, som er fra slutningen af 2013, at der i cirka ni ud af ti tilfælde reelt er tale om falske alarmer, når det gælder køretøjer, som er i politiets register over efterlyste køretøjer. Jesper Lund, der er næstformand i IT-Politisk Forening, mener, at det kan give endog meget store problemer:
+»Det betyder, at borgere kan opleve at blive efterfulgt, stoppet og mistænkeliggjort af politiet, uden at der er nogen grund til det. Og det kan modsat betyde, at politiets spilder deres ressourcer eller overser sager,« siger han. Ole Andersen, der er vicepolitimester hos Rigspolitiet, erkender problemet:
+»Jeg vil ikke afvise, at der bliver stoppet nogle uden grund. Men det er noget, vi skal undgå,« siger han.
+Systemet var i forsøget opsat således, at forbipasserende bilisters nummerplade blev tjekket op mod registret, hvorefter det så udløste en alarm, hvis nummerpladen var at finde i registret over efterlyste køretøjer. I selve registret er blandt andet biler, der er bruges eller er ejet af personer, som er eftersøgt af politiet i forbindelse med konkrete strafbare handlinger.
+Datadisciplin
+De mange falske alarmer skyldes blandt andet manglende ’datadisciplin’ blandt de ansatte, viser evalueringen. Ole Andersen forklarer, at det eksempelvis kan betyde, at en ansat i politiet ikke får afmeldt en bil i registret over efterlyste køretøjer, når bilen reelt ikke er efterlyst mere.
+I evalueringen af systemet står der dog også, at det slet og ret kan skyldes ’fejl’ i systemet: »idet der også forekommer tilfælde, hvor et ikke-efterlyst-køretøj markeres som værende efterlyst.«
+Men Ole Andersen minder dog om, at det ikke er i alle tilfælde, at en alarm vil få politiet til at eftersætte en bil.
+»Før du eftersætter vil der jo være en politimand, der skal vurdere, om det er rimeligt at gøre. Men hvis man eftersætter, kan man hurtigt få afdækket, hvis der ikke er noget at komme efter,« siger Ole Andersen.
+Rigspolitiet planlægger i løbet af i år at implementere systemet nationalt med en opsætning af systemet, som ligner den, der blev brugt i forsøget. Systemet skal fødes med flere øvrige datakilder med nummerplader af interesse for politiet. Blandt andet oplysninger fra andre lande i Schengen-samarbejdet om efterlysninger af personer, der er mistænkte for alvorlige lovovertrædelser. Men hvad angår den dårlige datakvalitet i registret over efterlyste køretøjer, peger Ole Andersen på, at politiet stadig har en del måneder at løbe på i forhold til at forbedre kvaliteten af data, før systemet skal implementeres.
+»Det vil vi selvfølgelig gøre frem til, at det hele bliver praktik,« siger han og understreger, at flere initiativer allerede har hjulpet politiet et stykke ad vejen. Ole Andersen kan imidlertid ikke sætte præcise tal på, hvor stort problemet er i dag. Men blandt andet hjælper et initiativ, hvor nummerplader skal fastgøres med skruer, hvilket har en effekt på antallet af stjålne nummerplader – og dermed færre alarmer i systemet.
+Britiske erfaringer
+Rigspolitiet er ikke de eneste, der har oplevet problemer med dårlig data og automatisk nummerpladegenkendelse. I Storbritannien har det ført til flere meget store fejl, viser en undersøgelse fra 2013. Et eksempel er sagen om Ashleigh Hall.
+Da den 17-årige pige på en søndag i oktober 2009 tog hjemmefra, fortalte hun sin mor, at hun skulle overnatte hos en ven. Men Ashleigh Halls mor så hende imidlertid aldrig i live igen. Da manden Peter Chapman, i anledning af en helt anden sag, blev anholdt dagen efter, indrømmede han at have slået Ashleigh Hall ihjel og efterladt hende på en mark.
+Peter Chapman var imidlertid – før mordet på Ashleigh Hall – efterlyst for blandt andet brandstiftelse og tyveri. Og nummerpladen på en bil, han kørte i, var også i politiets system.
+Værre var det, at politiets automatiske nummerpladegenkendelsessystem hele fem gange i alt, over flere dage før mordet, havde registreret Peter Chapmans bil. Systemet registrerede også Peter Chapmans bil hele seks gange den søndag, hvor Ashleigh Hall tog hjemmefra.
+Men først efter i alt 15 alarmer fra systemet – og altså efter Ashleigh Halls død – blev Peter Chapmans bil stoppet og anholdt af politiet på grund af de øvrige udeståender, han havde med politiet.
+En senere undersøgelse viste, at kvaliteten af den data, som politiet indtastede i systemet, varierede »kraftigt«. Det førte til et muligt overload af information, som kunne betyde, at sager af høj og mellem prioritet blev overset, står der i undersøgelsen.
+Jesper Lund fra IT-Politisk Forening frygter også, at et sådan information overload kan ske i Danmark, når systemet bliver implementeret. Rigspolitiet er da også bekendt med de britiske sager, men Ole Andersen fremhæver, at det britiske system adskiller sig fra det, som der i Danmark planlægges.
+»Deres setup er voldsomt meget større, end vi lægger op til. Der er jo nærmest et kamera på hvert gadehjørne,« siger han og tilføjer:
+»Men det er rigtigt, at hvis du har oplysninger, så har du også et ansvar for at gøre noget ved dem.«
+Den danske evaluering af systemet er – udover de mange falske alarmer – meget positiv og anbefaler, at systemet indføres nationalt.
+

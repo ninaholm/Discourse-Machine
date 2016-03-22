@@ -1,0 +1,39 @@
+Diktatorernes digitale lejesoldater
+Hvor andre ser menneskerettighedskrænkelser, ser det italienske it-firma Hacking Team forretningsmuligheder. Lækage viser, at dansk politis nye samarbejdspartner i stor stil sælger overvågningsudstyr til diktatorer, der vil holde øje med menneskeretsaktivister og journalister
+De egyptiske myndigheder har købt overvågningsudstyr fra det italienske it-firma Hacking Team, som også har leveret udstyr til flere diktaturstater, der har brugt det mod aktivister under Det Arabiske Forår.
+
+
+ En dag i begyndelsen af det nye årtusinde fik de to italienske computerprogrammører Alberto Ornaghi og Marco Valleri et opkald fra politiet i Milano.
+De to it-eksperter, kendt under pseudonymerne ALoR og NaGA, havde i 2001 skabt et program, som kunne bruges til at opsnuse kodeord samt overvåge og fjernstyre computere via internettet.
+Et program, som hurtigt var blevet et foretrukkent værktøj for både it-kriminelle og sikkerhedseksperter, der prøvede at finde huller i sikkerheden af deres netværk for at kunne udbedre dem.
+Nu ønskede det milanesiske politi at hverve ALoR og NaGA. De ville bruge programmet til at overvåge mistænkte. Og de ville have programmørerne til at udvikle et program, der kunne aflytte samtaler på Skype.
+Det blev begyndelsen på firmaet ’Hacking Team’, som efter eget udsagn i dag har omkring 50 ansatte og hovedsæde i Milano, hvorfra de sælger »effektiv, offensiv teknologi, som er nem at bruge, til politimyndigheder og efterretningstjenester« på seks kontinenter.
+Som Information kan afdække i dag, har dansk politi for nylig købt et overvågningssystem fra firmaet gennem en amerikansk-israelsk leverandør.
+Læs også: Dansk politi køber overvågningssystem fra kontroversielt firma
+Men kundelisten tæller også lande, der ikke har samme tradition for at respektere menneskerettighederne som Danmark. Firmaet trækker i disse dage overskrifter verden over, efter at en eller flere hackere har stjålet op mod 400 gigabyte interne dokumenter fra firmaets arkiver og offentliggjort dem på nettet.
+Digitale lejesoldater
+Tidligere har Hacking Team været i offentlighedens søgelys, efter at en rapport fra Citizen Lab ved University of Toronto viste, at firmaets software tilsyneladende var blevet brugt til at overvåge en gruppe marokkanske journalister samt en menneskerettighedsforkæmper fra De Forenede Arabiske Emirater.
+Hacking Team har i årevis nægtet at være medvirkende til krænkelser af menneskerettighederne. Men nu viser firmaets egne dokumenter altså, at det har leveret overvågningssoftware til både Marokko og De Forenede Arabiske Emirater. Også lande som Etiopien, Bahrain, Egypten, Kasakhstan, Rusland, Saudi-Arabien, Aserbajdsjan og Tyrkiet er på listen over kunder.
+Det har vakt massiv kritik, blandt andet fra organisationen Journalister Uden Grænser, der kategoriserer Hacking Team som »fjender af internettet« og »digitale lejesoldater«.
+Som at sælge sandwich
+Lækkede interne mailudvekslinger tegner et billede af Hacking Team som en virksomhed, der i de fleste tilfælde vægter profit højere end risikoen for, at dets produkter bliver brugt til at krænke menneskerettighederne. Da Bahrain i 2012 blev beskyldt for at have brugt software fra en af Hacking Teams konkurrenter til at overvåge aktivister under Det Arabiske Forår, sendte en medarbejder i salgsafdelingen en mail rundt med et link til en artikel om sagen, en smiley og kommentaren: »Rygtet vil vide, at der er en mulighed i Bahrain…«. Det skriver netmediet The Intercept.
+Dokumenter viser, at Bahrains forsvarsministerium allerede året efter købte overvågningssoftware af Hacking Team, og at de stadig er kunde i dag.
+Firmaet har også været i dialog med landets efterretningstjeneste gennem den samme amerikansk-israelske leverandør, som har stået for kontrakten med dansk politi.
+Tilsyneladende respekterer Hacking Team, når der bliver nedlagt international embargo mod et land. Da det skete for Sudan i 2014, sløjfede Hacking Team aftalen med landet. Men de lækkede dokumenter viser, at firmaet med kreative fortolkninger af lovgivningen til det sidste kæmpede for at kunne fortsætte samarbejdet. Deres produkter er nemlig ikke våben i klassisk forstand, mener firmaet.
+En advokat konsulteret af Hacking Team foreslog, at firmaet skulle argumentere for, at embargoen derfor ikke gjaldt dem, rapporterer The Intercept. »Hvis nogen sælger sandwich til Sudan, er han ikke, så vidt jeg ved, omfattet af loven,« skrev advokaten. »[Hacking Team] bør behandles som en sandwichsælger.« Den købte FN dog ikke.
+’Vi har opført os etisk’
+Dokumenterne viser også, at Hacking Teams ledelse ikke har meget tilovers for kritik af deres samarbejde med diktaturstater.
+I anledning af en artikel i netmediet Slate om overvågningssoftware sendte firmaets administrerende direktør sidste år en mail til medarbejderne, hvori han kalder forkæmpere for privatlivets fred »ideologiske hardlinere« og fortsætter: »NÆVN VENLIGST et eneste virkelig ’demokratisk’ land, et land, som ikke krænker nogens rettigheder, og som har en FULDSTÆNDIG uplettet attest i forhold til menneskerettigheder.«
+I to tilfælde har Hacking Team dog haft skrupler omkring mulige forretningspartnere. Administrerende direktør David Vincenzetti skrev så sent som i maj, at han var »skeptisk« i forhold til en aftale med Libyen, fordi det er »en fejlslagen stat«. »Vi kan godt spørge [de italienske myndigheder, red.] om lov, men jeg ved faktisk ikke, om det er et sortlistet land.«
+I en anden mail lyder det om Syriens præsident, Bashar al-Assad, at han er »det ondeste, mest synlige og for offentligheden kendte eksempel på en diktator«, der myrder sin egen befolkning. Firmaet har dog selv haft forhandlinger med det syriske regime, kort inden oprøret begyndte i 2011.
+Foreløbig har Hacking Team reageret på lækagen ved midlertidigt at lukke ned for sine programmer, mens det undersøger, om de er blevet kompromitteret. Kommunikationschef Eric Rabe udtaler til International Business Times:
+»Vi har ikke noget at skjule i forhold til, hvad vi laver, og vi mener ikke, der blandt disse 400 gigabyte data er noget bevis for, at vi har brudt nogen lov, og jeg vil endda gå så langt som at argumentere for, at det ikke er noget bevis for, at vi har opført os andet end fuldstændig etisk forsvarligt.«
+Da Information sent onsdag aften fanger Eric Rabe er retorikken en lidt anden.
+»For at være ærlig har vores tilgang til kunderne ændret sig de seneste år. Så længe de overholdt deres eget lands love og ikke opførte sig hensynsløst, følte vi, det var op til dem, hvad de gjorde. Men vi – og samfundet generelt – er blevet mere opmærksomme på spørgsmål om privatliv de seneste omkring fem år. Så vi har indført firmapolitikker for at forsøge at undgå, at vores software bliver misbrugt. Og vi gør vores bedste for at holde øje med det. Men vi står ikke for de efterforskninger, som myndighederne bruger produkterne til. Så vi må bruge vores sunde fornuft.«
+– Men er der ikke nogen måde at sikre på forhånd, at jeres software ikke bliver brugt mod journalister og aktivister?
+»Jo, selvfølgelig. Hvis der kommer et land med en tvivlsom forhistorie i forhold til menneskerettigheder eller lignende, spiller det selvfølgelig ind på, om vi vil lave forretninger med dem.«
+– Er det ikke tilfældet med Sydsudan, Marokko eller Bahrain?
+»Det tror jeg, det er. Det kan også meget vel være, at nogle af de lande ikke er vores kunder længere. Men hvis nu et land, der ikke har det bedste ry, hvad angår menneskerettigheder, også har problemer med en terrororganisation, kan vores produkter jo være med til at forhindre det næste angreb. Så det er ikke et simpelt spørgsmål om, hvordan deres ry er. Et land kan sagtens have et dårligt ry og alligevel bruge vores software, sådan som vi gerne vil have. Det er meget komplekst,« udtaler Eric Rabe til Information.
+Dansk politi køber overvågningssystem: Politidirektør: Alle regler er fulgt
+Twitter: #HackingTeam
+

@@ -1,0 +1,15 @@
+CSC-direktør beklager læk af 900.000 cpr-numre
+CSC's administrerende direktør, Jørgen Jakobsen, beklager dybt, at danskeres cpr-numre blev lækket ved en fejl
+
+
+ Det er en fåmælt administrerende direktør i CSC, Jørgen Jakobsen, der dybt beklager, at 900.000 danskeres cpr-numre blev lækket ved en fejl.
+- CSC kan bekræfte, at en liste, som fejlagtigt indeholdt cpr-numre, er blevet sendt til CPR-Kontoret. Listen blev offentliggjort i et lukket netværk med begrænset adgang i cirka 50 minutter.
+- Vi er i tæt dialog med CPR og andre interessenter for at klargøre omstændighederne, som har ledt til denne fejl. Vi beklager dybt vores andel i sagen, siger Jørgen Jakobsen i en skriftlig kommentar til Ritzau.
+Det understreges samtidig, at CSC-direktøren ikke har yderligere kommentarer til sagen for nuværende.
+Derfor har det heller ikke været muligt, at træffe direktøren for en uddybende forklaring på den redegørelse, CSC har afleveret til CPR-Kontoret tidligere torsdag.
+Af redegørelsen fremgår det, at CSC har oplevet fejl i en såkaldt batchproduktion den 1. juli, og det forårsagede, at visse programmer ikke blev eksekveret fuldt ud.
+Konsekvensen var, at de programmer, der færdigbehandler Robinson-listen - og i denne fase fjerner cpr-numrene fra listen - ikke blev kørt. Derfor blev listen heller ikke overført til CPR-Kontoret.
+Da CPR-kontoret onsdag ved 13-tiden kontakter CSC og rykker for den manglende liste, fremsendes listen. Det sker tilsyneladende, uden at sikkerhedsprocedurer i CSC opdager, at listen ikke er renset for fortrolige oplysninger om 900.000 danskeres cpr-numre.
+Heller ikke CPR-Kontoret opdager, at listen fra CSC rummer cpr-numrene og lægger den ud på Robinson-siden.
+CSC forklarer i redegørelsen, at dannelsen af Robinson-listen består af to job: En del køres automatisk med daglige batchproduktion som danner den ubehandlede liste, som fejlagtigt blev sendt til CPR-Kontoret.
+Andet job består af en manuel del, som færdigbehandler listen, altså fjerner cpr-numrene.

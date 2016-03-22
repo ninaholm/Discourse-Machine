@@ -1,0 +1,33 @@
+Logbog på kanten af katastrofen
+Udviklingen omkring det havarerede japanske Fukushima-værk svinger mellem tab af kontrol og midlertidig stabilisering.
+
+
+ Fredag, 14.46, lokal tid: Jordskælvet rammer Japan. En time senere rammer tsunamien. På Fukushima I-værket svigter først den normale strømforsyning til reaktorernes kølesystem, derefter nødforsyningen via generatorer.
+17.45: Mobile batterier sikrer strøm til reaktor 2 og 3, men ikke til reaktor 1, hvor brændselsstavene delvis blotlægges, beskadiges og begynder at lække radioaktivitet.
+19.45: Øget radioaktivitet måles for første gang i omgivelserne.
+Lørdag kl. 9.00: Elselskabet TEPCO åbner ventiler for at tage trykket af den overophedede reaktor og afværge reaktorindeslutningens kollaps. Hermed ledes ny radioktivitet ud.
+15.36: En voldsom brinteksplosion ødelægger reaktorbygningen på reaktor 1.
+20.20: I fravær af kølesystemer begynder TEPCO at oversvømme reaktortanken med havvand.
+Søndag, kl. 5.10: Kølesystemet svigter i reaktor 3, trykket stiger, og brændslet blotlægges delvist.
+9.20: TEPCO åbner for ventiler i reaktor 3 for at tage trykket af reaktoren mere radioaktivitet til atmosfæren.
+13.12: Oversvømmelse af reaktor 3 med havvand indledes.
+20.00: Fejl i udstyr på reaktor 3 hindrer aflæsning af vandniveauet i reaktoren. Havvand tilføres fortsat, men tilsyneladende stiger vandniveauet omkring reaktorkernen ikke.
+»Det er ikke klart, hvordan vi skal tolke denne situation,« siger regeringstalsmand Yukiyo Edamo.
+Samtidig stiger trykket i reaktoren, fordi ventilerne, der skal lukke luft og damp ud til atmosfæren, svigter.
+Mandag kl. 11.01: Voldsom brinteksplosion rammer reaktor 3 og ødelægger dele af reaktorbygningen. Indeslutningen omkring reaktortanken menes intakt. Målinger viser, at eksplosionen fører mere radioaktivitet til omgivelserne. Folk, der endnu ikke er evakueret fra 20 km-zonen, anmodes om »øjeblikkeligt« at søge beskyttelse indendørs.
+11 ansatte kvæstes ved eksplosionen, én er i kritisk tilstand, 200 medarbejdere evakueres.
+Tilførslen af havvand til reaktor 3 afbrydes midlertidigt ved eksplosionen. Også en lagertank med brugt brændsel får sit tag ødelagt og står uden køling.
+15.29: Det japanske nyhedsbureau Jiji rapporter om stop for køling af reaktor 2 og faldende vandstand i reaktortanken. Årsag: En brandpumpe, der tilfører havvand til reaktoren, løber tør for brændstof, uden at personalet opdager det. I forvejen menes fire andre brandpumper ødelagt ved eksplosionen på reaktor 3.
+Brændselsstavene i kernen blotlægges.
+18.45: Yukiyo Edamo kalder situationen for den berørte befolkning »ekstremt alvorlig«. Premierministeren vil gerne besøge katastrofeområdet, men opgiver efter råd fra regeringens eksperter.
+22.29: Det er lykkedes at fylde reaktor 2 halvt med vand, men de midlertidigt blotlagte brændselsstave er formentligt skadede, delvist smeltede og lækker radioaktivitet. Frygt for ophobning af brint fra de skadede brændselsstaves reaktion med vand og efterfølgende eksplosion som i reaktor 1 og 3 fører til forsøg på at bryde hul i reaktorbygningens væg for at slippe brint og overtryk ud.
+23.00: En blokeret ventil betyder, at trykstigning hindrer den fortsatte tilførsel af havvand til reaktor 2. Vandniveauet falder igen, brændselsstave blotlægges for anden gang, trykket i reaktoren stiger på ny.
+Tirsdag kl. 6.14: Den frygtede eksplosion indtræffer på reaktor 2. Reaktorbygningen skades, indeslutningen holder, men vandbassinet under indeslutningen, der medvirker til at holde trykket nede, menes skadet.
+9.38: Reaktor 4, der var nedlukket for eftersyn før jordskælvet, bryder i brand. Årsagen er formentlig overophedning af 783 brugte brændselsstave, der er oplagret i reaktoren, men uden køling på grund af strømsvigtet. Under branden registreres »tegn på lækage« af radioaktivitet fra reaktor 4. Strålingen i omgivelserne »udgør uden tvivl en sundhedsrisiko for mennesker,« siger Yukiyo Edamo på et pressemøde. TEPCO trækker 750 arbejdere væk fra atomkraftværket.
+11.00: Branden meldes slukket, men premierminister Naoto Kan henstiller til de 136.000 mennesker, der bor mellem 20 km-evakueringszonen og 30 km fra reaktoren om at forblive inden døre.
+13.30: TEPCO melder om problemer med at etablere køling af lageret for brugt brændsel i reaktor 4.
+19.00:  Vandniveauet i reaktor 1 og 3 meldes kun at dække brændselsstavene halvt, vandniveauet i reaktor 2 på vej op.
+23.10: IAEA siger i en statusmelding tirsdag aften, japansk tid:
+»Efter eksplosionerne i reaktor 1 og 3 angives begge enheders reaktorindeslutning at være intakt. Eksplosionen, der ramte reaktor 2, kan have påvirket integriteten af den primære indeslutningstank.«
+»Evakuering af befolkningen i en 20 km zone rundt om Fukushima I opretholdes. Japanerne har anbefalet folk inden for en 30 km radius at søge beskyttelse inden døre. Iodtabletter er blevet fordelt til evakueringscentre, men beslutning om uddeling er endnu ikke taget (...) En 30 km flyforbuds-zone er etableret rundt om værket.«
+

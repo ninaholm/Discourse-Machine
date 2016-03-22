@@ -1,0 +1,19 @@
+Redegørelse viser ikke behov for internetlogning
+Kun en ud af ti fremlagte sager handler om internetlogning i ny redegørelse fra Justitsministeriet, der skulle dokumentere, at logningen bruges til at opklare alvorlig kriminalitet. Selv ikke den ene sag viser behovet for 90 procent af de 550 milliarder dataregistreringer, der logges hvert år
+
+
+ Efter at have nægtet at give oplysninger om konkrete eksempler på brugen af logningsbekendtgørelsen til både Folketinget og pressen har Justitsministeriet nu fremlagt ti konkrete sager. Sagerne er fremlagt efter krav fra EU-Kommissionen efter en mislykket evalueringsrapport sidste år ikke rigtigt gav nogen ny viden om, hvordan medlemslandene rent faktisk brugte oplysningerne. Logningsreglerne er kontroversielle i flere EU-lande og er af EU’s tilsynsførende for Databeskyttelse, Peter Hustinx, blevet betegnet som »det mest privatlivskrænkende instrument, som nogensinde er blevet indført af EU«.
+Ifølge Justitsminister Morten Bødskov (S) viser de ti sager, at logningen nytter.
+»De sager, som vi nu fremlægger, viser, at man ved at få adgang til de historiske oplysninger har opklaret alvorlig kriminalitet som drab, databedrageri, hjemmerøverier og narkokriminalitet,« sagde Morten Bødskov, da han lancerede de ti sager i Jyllands-Posten i fredags.
+»Der har været rejst tvivl om, hvorvidt dette var et brugbart instrument. De sager, vi fremlægger, viser, at det er det,« fortsatte han.
+Stadig ikke dokumenteret
+Men ifølge direktør i Telekommunikationsindustrien, Jakob Willer, tyder end ikke den ene fremlagte sag på, at der er behov for 90 procent af de 550 milliarder registreringer, der hvert år gemmes om alle danskere.
+»Da jeg hørte, at der rent faktisk blev fremlagt en enkelt sag om internetlogning, blev jeg overrasket, fordi jeg regnede med, at de ville have svært ved at finde én eneste,« siger Jakob Willer.
+Og da han så det konkrete eksempel, var han langt fra overbevist. Eksemplet som Justitsministeriet har valgt at fremlægge er nemlig en forespørgsel på, hvem der har haft en given IP-adresse på et givent tidspunkt i en sag om databedrageri. Altså en relativt simpel forespørgsel på en meget lille del af de milliarder af oplysninger om danskernes internetforbrug, som udbyderne med logningsbekendtgørelsen blev pålagt at registrere. 90 procent af de registrerede oplysninger er såkaldte sessionslogninger, men ikke ét eneste af de ti eksempler omhandler altså denne type logninger.
+»Hvis du kigger på eksemplerne, er der ingen tvivl om, at der er stor efterforskningsmæssig værdi at få oplysninger fra mobiltelefoner. Men man kan ikke påstå, at det har nogen form for værdi, at der sker en sessionslogning. Det fremlagte dokumenterer ikke, at 90 procent af logningerne bliver brugt til noget,« siger Jakob Willer.
+Vattet
+Enhedslistens retsordfører Pernille Skipper er heller ikke imponeret:
+»Vi har spurgt en masse gange til, om justitsministeren ikke ville være med til at lave en mere nøje analyse af, om internetlogningerne rent faktisk bliver brugt i efterforskningen, og om det er af afgørende betydning i domsfældelser. Men det har han nægtet,« siger hun.
+»Og så kommer han nu med ti eksempler, hvoraf ikke ét eneste er relevant for datalogning. Det er et vattet forsøg på at godtgøre et instrument, som han burde se på med kritiske øjne som justitsminister i en retsstat«.
+Et flertal i Folketinget har uden om regeringen indkaldt til en åben høring i retsudvalget på onsdag. Her får Morten Bødskov yderligere et forsøg til at overbevise flertallet om, at logningerne bruges tilstrækkeligt til at retfærdiggøre indgrebet.
+

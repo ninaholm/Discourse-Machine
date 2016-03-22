@@ -1,0 +1,18 @@
+FAKTA: Orkan og stiv kuling - forstå meteorologernes sprog
+Vejrudsigter bugner af begreber om vejret, som kan være svære at forstå. Her er forklaring på nogle af ordene.
+
+
+ Stormen Gorm ventes at ramme Danmark søndag, og ord som stormflod, middelvind og orkanstyrke fylder endnu engang i vejrudsigten.
+
+Her kan du blive klogere på, hvad meteorologernes vejrbegreber betyder:
+* Vindhastighed: Vindens hastighed måles i dag med instrumenter placeret i en ti meter høj mast. Her måler man både vindens hastighed og retning. Hastigheden måles som et gennemsnit gennem ti minutter.
+* Beaufort-skalaen: En skala, der inddeler vindens hastighed og styrke i 13 trin. 12 er orkan, ti er storm, mens syv er hård kuling.
+* Kuling: Er en betegnelse for kraftig blæst og kan inddeles i stiv kuling, hård kuling og stormende kuling. Ved stiv kuling bevæger større træer sig, og det er hårdt at gå i modvind.
+* Storm: Er en blæst, der er kraftigere end kuling. Kigger man på beaufort-skalaen inddeler man det i storm og stærk storm. Ved storm kan træer rives op, og der kan komme alvorlige skader på huse. Stormens vindstyrke ligger mellem 25-33 m/s.
+* Orkan: Er den højeste vindhastighed. Betegnelsen orkan bliver brugt i mange sammenhænge, men helt simpelt er den defineret med en vindhastighed på over 33 m/s, svarende til 120 km/t.
+* Stormflod: Når vinden når op omkring stormende kuling, kan vandstanden stige så meget, at landområder bliver oversvømmet. Så er der stormflod.
+* Middelvind: Er den gennemsnitlige vindstyrke målt inden for ti minutter.
+
+* Vindstød: Afvigelser fra middelvindhastigheden på højst et minut.
+
+Kilde: DMI.

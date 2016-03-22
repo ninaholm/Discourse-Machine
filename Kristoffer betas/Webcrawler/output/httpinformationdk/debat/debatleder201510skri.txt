@@ -1,0 +1,12 @@
+Et skridt på vejen
+LEDER
+
+
+ Ugyldig. Det var tirsdag EU-Domstolens opsigtsvækkende og hårdtslående vurdering af den såkaldte safe harbor-ordning for dataoverførsel, som EU-Kommissionen for mere end ét årti siden udformede, for at virksomheder gnidningsfrit kunne overføre personfølsomme data fra EU-lande til USA.
+Læs også: Endnu en privatlivs-aktivist sejrer over systemet
+Dommen er svær at udlægge som andet end en sejr for europæiske befolkningers ret til privatliv, selv om teknologiindustriens lobbyorganisationer jamrer over den usikkerhed, som dommen medfører for dem – og formentlig deres indtjening.
+Det relevante spørgsmål er imidlertid, hvilken karakter sejren har for de europæiske befolkninger. Den 28-årige østriger Max Schrems, som startede sagen, gjorde det med henvisning til afsløringen af den amerikanske efterretningstjeneste NSA’s såkaldte PRISM-program, som viste, at teknologigiganter som Facebook samarbejder med NSA om at udlevere personoplysninger.
+Max Schrems problematiserede, at det i kombination med safe harbor-ordningens lempelige muligheder for overførsel af personfølsomme oplysninger kunne betyde, at hans data endte hos den amerikanske efterretningstjeneste. Og den sag har han nu vundet. Imidlertid er det vigtigt at huske på, at der også er andre mekanismer i EU’s regelværk, som giver mulighed for, at personoplysninger kan overføres til USA.
+Men vigtigst af alt har den ekstremt aggressive efterretningstjeneste NSA og den britiske samarbejdspartner GCHQ langt flere muligheder for at få fat i europæiske borgeres kommunikation og oplysninger end via de formaliserede ordninger. GCHQ har eksempelvis hacket et belgisk teleselskab, hvilket potentielt har gjort det muligt for tjenesten at overvåge europæiske borgeres kommunikation.
+Og NSA henter umåleligt store mængder data, når tjenesten i samarbejde med blandt andet europæiske efterretningstjenester tapper såkaldte fiberkabler for internet- og teletrafik. Safe harbor-sagen er vigtig og principiel. Men den er på ingen måde ødelæggende for den amerikanske efterretningstjenestes mulighed for at indhente personfølsomme oplysninger om europæiske borgere.
+

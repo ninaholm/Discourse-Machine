@@ -1,0 +1,14 @@
+Patentligt
+
+
+
+ Det er sjovt, hvor forskelligt verden tager sig ud for den, der skal til at erobre den, og for den, der har lagt sejrene bag sig. Eksempelvis den Steve Jobs, der i 70’erne vendte op og ned på vores omgang med teknologien, og den Steve Jobs, der på sit dødsleje forsvarede verdens mest værdifulde selskab, Apple.
+Som ung så Jobs sig selv som en kunstner: »Jeg mener, Picasso plejede at sige: ’Gode kunstnere kopierer, store kunstnere stjæler.’ Og vi har altid stjålet store ideer skamløst,« siger den unge Jobs i Walter Isaacsons biografi, da han skal forklare, hvorfor Apple tyvstjal musen fra Xerox.
+I samme biografi udfolder den ældre Jobs sin vrede over mobilplatformen Android, hvis design, han mente, var tyvstjålet fra iPhonen.
+»Jeg vil bruge mit sidste døende åndedræt og hver eneste af Apples 40 milliarder dollar i banken for at rette op på denne uretfærdighed. Jeg har tænkt mig at ødelægge Android, for det er tyvegods. Jeg er rede til at erklære termonuklear krig.«
+Det var et af de markante slag i den krig, der i sidste uge faldt ud til Apples fordel. Seks milliarder kroner skal sydkoreanske Samsung betale til Apple for at have krænket en række patenter – blandt andet et, der drejede sig om iPhonens form: et rektangel med rundede hjørner.
+Over de sidste par år har der blandt teknologigiganter som Apple, Google og Samsung været ført en decideret patentkrig. Slagmarken har været retssale i USA, Europa og Asien. Virksomheder er blevet opkøbt alene på grund af deres patentportefølje.
+Ideen med et patent er simpel: Staten giver eneret til at udnytte en opfindelse kommercielt, mod at opfindelsen offentliggøres. Patentet er ikke blot til for opfinderen, men for at viden skal komme fællesskabet til gode. Et patent er kort sagt et incitament til at dele.
+De patenter på software og design, som har været skytset i de seneste års krig, er ikke med til at understøtte udviklingen, men stiller sig tværtom i vejen for forskning og innovation. De udfordringer måtte de europæiske politikere gerne tage alvorligt, mens de støber fundamenterne for den nye europæiske patentdomstol.
+#next_pages_container { width: 5px; hight: 5px; position: absolute; top: -100px; left: -100px; z-index: 2147483647 !important; }
+

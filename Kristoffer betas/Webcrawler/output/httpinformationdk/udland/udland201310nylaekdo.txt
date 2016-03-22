@@ -1,0 +1,28 @@
+Ny læk dokumenterer samarbejde mellem NSA og Danmark
+Snowden-læk placerer Danmark på niveau med Tyskland og Spanien blandt lande, der aktivt deler efterretninger med NSA. Ifølge den spanske avis El Mundo forventer USA adgang til ’efterretninger, herunder metadata’ fra sine samarbejdspartnere
+Statsminister Helle Thorning-Schmidt (S) afviste mandag at kommentere på et eventuelt samarbejde mellem Danmark og USA’s  efterretningstjenester. Ifølge ny læk deler Danmark dog aktivt efterretninger med det amerikanske efterretningsagentur NSA.
+
+
+ 
+	En ny læk fra Edward Snowden, publiceret af spanske El Mundo i samarbejde med den amerikanske journalist Glenn Greenwald, beskriver de vilkår, som USA sætter op for samarbejdet med allierede, de deler efterretninger med.
+
+	Dokumentet ’Sharing computer network operations cryptologic information with foreign partners’ placerer en række lande i kategorier og skitserer samarbejdet. Ifølge El Mundo forventer NSA adgang til samarbejdslandenes »efterretninger, herunder metadata«.
+
+	Ifølge det lækkede dokument er Danmark en del af anden gruppe – kaldet »Tier B« – der har et såkaldt »fokuseret samarbejde« med den amerikanske efterretningstjeneste, sammen med 19 andre lande, hvoraf størstedelen – udover Japan og Sydkorea – er europæiske. Kun de fire lande – Storbritannien, Australien, Canada og New Zealand – som sammen med USA udgør de såkaldte ’Five Eyes’ er højere placeret i samarbejdet. Ifølge The Guardian findes der yderligere en tredje gruppe med »begrænset samarbejde«, der inkluderer lande som Frankrig, Israel, Indien og Pakistan samt »undtagelsesvise samarbejder« med en fjerde gruppe, der består af lande, som anses som »fjendtlige« over for USA’s interesser.
+
+	Ifølge El Mundo må lande på Danmarks niveau ikke »rette netværksangreb (...) mod USA« og skal »være i stand til at beskytte klassificerede oplysninger«. Samtidig advarer dokumentet mod, at samarbejdet giver allierede mulighed for at infiltrere amerikanske systemer, og at samarbejdet løbende skal vurderes ud fra landenes evne til at bidrage til amerikanske interesser.
+
+	Den danske statsminister, Helle Thorning-Schmidt (S), har indtil videre svaret undvigende på spørgsmål om det danske samarbejde med NSA. Både statsministeren og justitsminister Morten Bødskov (S) har klart afvist at kende til »ulovlig overvågning« af danske interesser, men direkte adspurgt om NSA så udfører »lovlig overvågning«, svarede hun på et pressemøde i tirsdags ifølge b.dk: »Jeg kan gentage det, som justitsministeren har sagt på det her område. At jeg hverken kan eller vil kommentere samarbejdet mellem efterretningstjenesterne. Sådan må det være, når det drejer sig om efterretningsarbejde, ellers giver det ikke rigtigt nogen mening.«
+
+	»Men du kan vel godt sige, om din regering tillader, at amerikanerne overvåger en række danskere?«, spurgte en journalist.
+
+	»Jeg vil ikke kommentere efterretningssamarbejde og det samarbejde, der eventuelt måtte være med amerikanerne på det her område,« svarede statsministeren.
+
+	NSA afviser
+
+	Offentliggørelsen af den nye Snowden-læk kommer dagen efter, at den amerikanske NSA-chef, Keith Alexander, kritiserede europæiske aviser for deres dækning af efterretningstjenestens aktiviteter i Europa. Både Le Monde og El Mundo har beskrevet, hvordan NSA har fået adgang til op mod 70 millioner metadata på en enkelt måned fra borgere i Frankrig og Spanien – en afsløring, der har ført til skarpe politiske reaktioner mod NSA. Men tirsdag kort inden en offentlig høring, hvor NSA-chefen skulle forsvare overvågningsprogrammerne, blev der fra anonyme embedsmænd lækket oplysninger til amerikanske aviser om, at det ikke var data som amerikanerne spionerede sig til, men noget de fik udleveret fra europæiske partnere. Data, som ifølge de anonyme kilder var opsamlet af de enkelte lande selv og overgivet til amerikanerne blandt andet fra krigszoner. Keith Alexander fulgte op ved høringen og kaldte avisernes historier for »fuldstændig forkerte«.
+
+	Både Glenn Greenwald og El Mundo har dog afvist NSA-chefens beskyldninger og henviser til et dokument, der viser, at tjenesten har mulighed for at indhente metadata om både europæisk internet og telekommunikation i realtid. Det er altså ikke noget, der løbende bliver overleveret, men noget NSA har uhindret adgang til. »Det faktum, at nogle af de data bliver indsamlet igennem samarbejder med et lands egne efterretningstjenester, modsiger ikke vores historier. Tværtimod: Det hemmelige samarbejde mellem nogle europæiske efterretningstjenester og NSA har vær et en central del af historierne helt fra begyndelsen,« skriver Glenn Greenwald i et notat.
+
+	Ifølge El Mundo viser det nye dokument netop, at den spanske efterretningstjeneste enten har tilladt eller aktivt hjulpet med indsamling af oplysningerne. Om noget lignende gør sig gældende for andre lande i samarbejdet – herunder Danmark – står endnu uklart.
+

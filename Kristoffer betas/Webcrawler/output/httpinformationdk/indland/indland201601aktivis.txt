@@ -1,0 +1,37 @@
+Aktivist viser data om sig selv: Sådan kan internet-overvågning se ud
+Justitsministeriet foreslår at genindføre en udskældt form for overvågning af danskernes internetadfærd. Aktivisten Christian Panton har vist Information, hvilke oplysninger der blev registreret om ham, da overvågningen sidst eksisterede
+Logning er et helt centralt redskab for politiet og PET, skriver justitsminister Søren Pind (V) til Information efter at Justitsministgeriet fredag foreslog at genindføre overvågning af danskerne internettrafik
+
+
+ Klokken 08:33:56 tilgår en mobiltelefon tilhørende internetaktivisten Christian Panton hjemmesiden sfu.dk, der tilhører SF Ungdom, som er Socialistisk Folkepartis ungdomsorganisation.
+Det sker den 30. september 2013.
+Det viser registreringer, som er foretaget af Christian Pantons daværende teleselskab som følge af den internetovervågning, som selskabet dengang var pålagt at foretage.
+Oplysninger, som Christian Panton efter lang ventetid og besvær har fået indsigt i.
+Siden da er internetovervågningen, som eksisterede fra 2007 til 2014, og som gjaldt både mobiltelefoner og almindelige computere koblet til nettet, blevet droppet, fordi det var tvivlsomt, om overvågningen overhovedet var brugbar for politiet.
+Men fredag foreslog Justitsministeriet at genindføre den særdeles kontroversielle form for overvågning af danskernes internetadfærd.
+Det forslag, som Justitsministeriet har fremlagt, er ifølge kritikerne endda mere vidtgående end den ordning, som tidligere eksisterede. Det fremgår også af mødedokumenter fra Justitsministeriet, som Information er i besiddelse af.
+»Den mængde data, vi skal opsamle, kommer til at vokse markant,« siger Jakob Willer, der er direktør for Teleindustrien, som er brancheorganisation for de fleste teleselskaber i Danmark.
+Komplet billede
+I dag kan Christian Panton, som er imod denne form for overvågning, godt huske, at han tilgik SF Ungdoms hjemmeside.
+Han forklarer, at han faktisk kan se, at han har været inde og framelde sig et nyhedsbrev fra organisationen den dag.
+En del af oplysningerne om hans egen internetadfærd, som han har fået indsigt i, har han delt med Information.
+Og en række eksempler fra registreringerne, som Information har gennemgået, viser, at denne form for overvågning potentielt kan bruges til at afdække en persons politiske sympatier, eller hvad personen interesserer sig for.
+Et andet eksempel viser, at telefonen har tilgået en hjemmeside for en tysk forsker ved navn Andreas Schwarz. Christian Panton forklarer, at han da vistnok har læst et par forskningsartikler skrevet af forskeren.
+Derudover har han besøgt hjemmesiden home.dk, som tilhører ejendomsmæglerkæden af samme navn. Det undrer Christian Panton, fordi besøget angiveligt skete omkring en måned efter, at han havde købt hus – i hvert fald som han husker det i dag, tre år efter.
+Et andet besøg undrer ham endnu mere. Det foregår den 21. september 2013 kl. 10:40:42 på hjemmesiden feltet.dk, der er en side for cykelsportsinteresserede. Men Christian Panton er ikke interesseret i cykelsport – eller sport generelt for den sags skyld.
+For ham illustrerer det, at man kan blive kædet sammen med tilfældige hjemmesider uden nogen åbenlys grund.
+I et andet eksempel har Christian Pantons mobiltelefon tilgået en hjemmeside, som umiddelbart ikke ser ud til at være af særlig privat karakter. Men da Information viser ham besøget, beder han om, at det ikke bliver offentliggjort. Årsagen er, at det for enkelte personer vil kunne forbindes til en privat begivenhed.
+Jacob Mchangama, der er direktør for den juridiske tænketank Justitia, er skeptisk over for internetovervågningen. Han har set eksemplerne på registreringer af, hvilke hjemmesider Christian Pantons telefon har tilgået.
+»Særligt hvis man har data for en længere periode, vil man kunne begynde at konkludere på, hvilke politiske holdninger vedkommende har, og hvad personen interesserer sig for. Det vil virkelig kunne tegne et nærmest komplet billede af, hvem personen er,« siger Jacob Mchangama.
+Minister: Brug for nye regler
+Gennemgår man de registreringer, der er sket af Christian Pantons internetadfærd, er der dog også et ekstremt stort antal registreringer, som det ikke umiddelbart er muligt at udlede noget ud fra.
+Eksempelvis fordi de henviser til servere, hvor det ikke er muligt at se, hvilke hjemmesider som er blevet besøgt.
+Jesper Lund, der er formand for IT-Politisk Forening, som også arbejder imod internetovervågningen, bemærker, at det teknisk ofte er lettere at overvåge internetaktivitet på en mobiltelefon som i Christian Pantons tilfælde – hvis man ser det i forhold til en almindelig internetforbindelse.
+Information har i flere dage forsøgt at få et interview med justitsminister Søren Pind (V) om sagen. Det har han ikke ønsket.
+I en skriftlig kommentar udtaler Søren Pind i stedet: »Logning er et helt centralt redskab for politiet og PET.«
+Som eksempel nævner han en sag om et dobbeltdrab, der skete i Tusindårsskoven i 2011. Det fremgår dog ikke af svaret, om det er et eksempel på brug af internetovervågning.
+I en redegørelse fra Justitsministeriet, som blev lavet i 2012, fremgår den sag ikke – selv om redegørelsen ellers indeholder et eksempel på, at internetovervågningen er blevet brugt.
+I det skriftlige svar understreger ministeren også, at der er brug for tidssvarende logningsregler.
+»Det har vi ikke i dag. I dag logges oplysninger om, hvilke telefonnumre der har ringet til hinanden på hvilket tidspunkt, men hvis parterne bruger internetbaseret telefoni som f.eks. Messenger, Skype eller iMessage, bliver oplysningerne ikke logget. I den tid vi lever i, nytter det ikke.«
+Til forskel fra den internetovervågning, som var i kraft fra 2007 til 2014, skal alle data ikke gemmes i ét år. Som »udgangspunkt« skal visse typer af data kun gemmes i et halvt år.
+

@@ -1,0 +1,85 @@
+Står denne mand bag Nordens største hackerangreb?
+I denne uge fik en svensk mand igen forlænget sin varetægtsfængsling ved Retten på Frederiksberg. Hans støtter kalder ham en computerkunstner med gode hensigter, mens anklagemyndigheden mener, han er manden bag Nordens største hackerangreb. Retsmøderne foregår bag lukkede døre, men her er, hvad vi ved om manden og sagen
+ 
+	29-årige Gottfrid Svart-holm Warg har siddet varetægtsfængslet i Danmark siden den 28. november sidste år. Anklagemyndigheden mener, at han er ansvarlig for et hackerangreb mod bl.a. politiet og den danske stats it-leverandør, CSC, fra april til august 2012. Han nægter sig skyldig.
+
+
+ 
+	»Hov-hov,« siger betjenten i retslokale 101, da en række tilhørere spontant begynder at klappe ved synet af internetaktivisten Gottfrid Svartholm Warg, der bliver ført frem til anklagebænken af to retsbetjente.
+
+	Tilhørerne er kommet til retsmødet ved Retten på Frederiksberg for at støtte deres idol, som er sigtet for at have udført Nordens største hacker-angreb mod blandt andet politiet og den danske stats it-leverandør, CSC, fra april til august 2012. Ved angrebet blev der stjålet fire millioner cpr-numre og oplysninger om efterlyste personer, ligesom hackerne fik adgang til 10.000 betjentes mailkonti.
+
+	Den svenske internetaktivist sidder på anden måned varetægtsfængslet i Danmark, efter at han i november blev udleveret fra Sverige. Hvis han bliver dømt, kan han få op til seks års fængsel. Gottfrid Svartholm Warg kigger op fra gulvet ved lyden af applausen, og hans ansigts alvorlige folder forsvinder et kort øjeblik i et opløftet genkendelsens smil. Han er iført en blå cardigan, småternet skjorte og det karakteristiske lange hageskæg.
+
+	Når støtter fra forskellige lande er mødt op til retsmødet – de mødes ellers primært på nettet – skyldes det, at Gottfrid Svartholm Warg er en international internetkendis som grundlægger af det kontroversielle fildelingssite Piratebay, som trods retssager og internetblokeringer i mange lande stadig står for en stor del af pirattrafikken på nettet. Samtidig er han vidt berømt og respekteret for sin faglige kunnen med computersystemer. Men hans ideologi om, at al information skal være fri, deler folk i to lejre.
+
+	Tilhørerne håber sammen med de fremmødte pressefolk og svenskerens forsvarer, at dommeren denne gang endelig vil åbne dørene til retsmødet. De klappende tilhørere får en kraftig reprimande af betjenten og besked om at forholde sig i ro resten af retssagen. Ellers bliver de bortvist.
+
+	»Det stemmer,« svarer Gottfrid Svartholm Warg på svensk, inden tolken kan nå at oversætte dommerens spørgsmål til hans navn og fødselsdag.
+
+	En flov historie
+
+	Hackersagen er spektakulær, og myndighederne tager angrebet på især politiets it-systemer særdeles alvorligt. Det stod klart, da Rigspolitiet sammen med justitsministeren og chefen for PET satte offentligheden ind i sagen ved et fælles pressemøde i begyndelsen af juni sidste år. Forud gik måneders efterforskning og anholdelse af en medsigtet dansker.
+
+	Siden offentliggørelsen af hackerangrebet er både justitsminister Morten Bødskov (S) og PET-chef Jakob Scharf gået af af andre årsager. Ligeledes har chefen for offentlige forretninger hos CSC forladt sin stilling. Han har dog over for Computerworld afvist, at det skyldes hackersagen.
+
+	Hos it-sikkerhedsfirmaet FortConsult fortæller sikkerhedsekspert og direktør Ulf Munkedal, at hackersagen er principielt vigtig. Det er nemlig den første hackersag, vi har haft herhjemme siden midten af 1990’erne, hvor der er tale om teknisk dygtige hackere, hvis aktivisme har store konsekvenser for samfundet. Samtidig er det nogle helt specielle computere, der netop skulle være ekstra sikre, som er blevet hacket.
+
+	»Sagen er ret unik i dansk historie, fordi det er en mainframecomputer, og fordi der kører en række vigtige systemer på maskinen. It-folk har opfattet mainframes som mere sikre. Dels fordi ganske få it-folk overhovedet kan styre sådan en fyr, dels fordi det kræver helt speciel viden at bryde ind i den,« siger Ulf Munkedal.
+
+	Derfor er angrebet på statens it-leverandør ikke et it-indbrud, som naboens søn med flair for computere kan gennemføre.
+
+	»Det er usædvanligt, at nogen bryder ind i en mainframe. Det sker meget sjældent. Og at det så sker hos politiet. Dem har vi jo stor tillid til,« siger Ulf Munkedal.
+
+	Han mener, at hackersagen er pinlig for både CSC og for de involverede myndigheder.
+
+	»Man kan diskutere, om myndighederne har været gode nok til at stille krav til CSC om, hvor høj sikkerheden skulle være. Og det ser jo ud til, at det har de ikke,« siger Ulf Munkedal.
+
+	Udleveret fra Cambodja
+
+	Gottfrid Svartholm Warg er blevet ført til Retten på Frederiksberg fra sin celle i Arresthuset i Køge, fordi anklagemyndigheden hos Københavns Politi vil have hans varetægtsfængsling forlænget igen. Efterforskningen af sagen foregår nemlig stadig, fremfører anklageren. Konkret afventer anklagemyndigheden ifølge dommeren besvarelsen af en række retsanmodninger i flere lande, blandt andet USA. Samtidig forsøger politiet at finde tekniske spor på Gottfrid Svartholm Wargs og den medsigtede danskers computere. Sagen er på flere måder pinlig for staten. Dels fordi troværdigheden ved systemernes sikkerhed har lidt overlast, dels fordi hackerangrebet stod på i mange måneder uden at blive opdaget og ikke mindst, fordi det var et tip fra svensk politi som i januar 2013 gjorde dansk politi opmærksom på problemet.
+
+	Efterfølgende gik der flere måneder, før sagens alvor gik op for de danske myndigheder, og en dvd med bevismateriale blev set igennem. Det var et ressourcemæssige spørgsmål, har politiet senere forklaret.
+
+	På dvd’en lå data, som svensk politi havde hentet ud af Gottfrid Svartholm Wargs ramponerede Macbook, som blev beslaglagt i forbindelse med hans anholdelse i august 2012 i hans lejlighed i Phnom Penh, Cambodja.
+
+	Svartholm Warg blev herefter udleveret til Sverige. I forvejen var han involveret i en retssag om fildelingssitet Piratebay, men det var i forbindelse med to svenske hackersager, at han blev hentet til landet. Gerningsmændene havde over en længere periode skaffet sig stadig større adgang til Nordeas hovedcomputer i Danmark for til sidst at gennemføre pengeoverførsler for millioner af kroner fra danske konti tilhørende Odense Kommune, fagforbundet BUPL og et datterselskab til det pengeinstitutejede Nets, der blandt andet håndterer danske dankortbetalinger. Det lykkedes dog efterfølgene Nordea at få modtagerbankerne til at returnere langt de fleste af pengene.
+
+	’Han er kunstner’
+
+	I retslokalet på Frederiksberg siver tilhørerne stadig ind ad døren, selv om retsmødet for længst er begyndt.
+
+	En af de fremmødte støtter har taget turen fra Holland, fortæller han.
+
+	»Gottfrid har arbejdet med computere, siden han var seks år. Han er et computergeni og en kunster på en computer. Han lever i en anden verden, men er sigtet af almindelige mennesker. Jeg er her for at fortælle, at han er en god mand med gode hensigter,« siger den hollandske tilhører, der kun vil citeres med sit alias, M0nkeyking, men hvis rigtige navn er redaktionen bekendt.
+
+	Han forklarer, at han på nettet og på de sociale medier kører en oplysningskampagne om Gottfrid Svartholm Wargs retssag i Danmark med budskabet ’Free Anakata’, hvor Anakata refererer til svenskerens handle – en slags kælenavn på nettet.
+
+	»Fordi Gottfrids sag har symbolsk betydning, og fordi det vil være et hårdt slag for open source-bevægelsen, hvis vi mister ham. Og for ham er adgang til internettet et grundlæggende behov. Han er kunstner. Han har brug for netværk.«
+
+	En sidste gruppe af håbefulde ankommer til retten, og det får anklageren til at kræve en begrænsning på tilhørerantallet, som, hun mener, for længst må være overskredet. Dommeren tygger lidt på opfordringen og beslutter af hensyn til brandsikkerheden at sende omkring 15 tilhørere ud på gangen.
+
+	En fjernstyret Macbook
+
+	De svenske hackersager minder meget om den danske. Efter anholdelsen brugte svensk politi syv måneder til at udarbejde over 2.000 siders forundersøgelser med detaljerede rapporter om fremgangsmåden i sagen. Helt undtagelsesvist pålagde de svenske myndigheder den restriktion på aktindsigt i materialet, at man kun kunne få det udleveret i papirform – af hensyn til risikoen for spredning på nettet, som det hed. Udleveringen skulle samtidig ske mod en betaling pr. udskrevet side, hvilket samlet androg et beløb, som ville gøre materialet uinteressant for de fleste. Alligevel blev de mange dokumenter nærmest omgående lækket til offentligheden på det omdiskuterede whistleblowersite Wikileaks.
+
+	Det var en overraskelse for mange, at svensk politi overhovedet kunne få adgang til data fra Gottfrid Svartholm Wargs computer. Den ramponerede Macbook, hvor store dele af tastaturets knapper manglede, var nemlig grundigt krypteret. Uheldigvis for Warg betød en sikkerhedsbrist i krypteringsprogrammet, at nøglen blev gemt i en læsbar version, når computeren gik i dvaletilstand.
+
+	Måske derfor var det en smal sag for politiets teknikere at få adgang til harddisken, som indeholdt data med kopier af tusindvis af samtaler og filer med kopier af data fra hovedcomputere hos Nordea og CGI, der var it-leverandør til en lang række statslige myndigheder i Sverige. Ligesom CSC gør det i Danmark, leverer CGI i Sverige it-systemer til politiet og Kronofogden, der er en svensk pendant til Kongens Foged. Først for nylig viste det sig, at også data om samtlige skyldnere til den svenske stat blev stjålet tilbage i 2012.
+
+	Sagen kom for retten i Stockholm-forstaden Nacka i maj sidste år, og Gottfrid Svarholm Warg blev idømt den maksimale straf – to års fængsel – for at have hacket både den svenske it-leverandør og Nordea. Men ved den efterfølgende ankesag i juni blev han frifundet for at have hacket Nordea og fik samtidig nedsat straffen til et års fængsel.
+
+	Det skete, efter en anden internetcelebrity, computeraktivisten Jacob Appelbaum, vidnede og gjorde retten bekendt med mere end 100 måder at fjernstyre en Macbook på uden at efterlade sig spor.
+
+	Nægter sig skyldig
+
+	På Frederiksberg lytter Gottfrid Svartholm Warg til den kvindelige tolk. Dommeren fortæller, at det er en usædvanlig sag, som har kørt længe. Han beslutter at lukke dørene af hensyn til politiets igangværende efterforskning og sender alle tilhørere ud af det lille retslokale.
+
+	M0nkeyking lægger en række udprintede sort-hvide flyers fra sig på tilhørerbordet på vej ud. På papiret står der Free Anakata. Papirerne ryger imidlertid på gulvet, og en betjent samler dem op og følger efter tilskuerne ud, mens han forsøger at få afleveret papirerne tilbage til supporteren.
+
+	»Så smider jeg det ud,« siger han, da det ikke lykkes.
+
+	Gottfrid Svartholm Warg fik sin varetægtsfængsling forlænget i yderligere fire uger. Han nægter sig fortsat skyldig.
+
+	 
+

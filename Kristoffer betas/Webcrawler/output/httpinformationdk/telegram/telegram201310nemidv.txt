@@ -1,0 +1,4 @@
+NemID virker igen efter tre dages nedbrud
+Firmaet bag NemID opfordrer brugere til at opdatere Java så hurtigt som muligt.
+
+

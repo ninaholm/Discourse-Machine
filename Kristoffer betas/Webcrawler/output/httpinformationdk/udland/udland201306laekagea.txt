@@ -1,0 +1,33 @@
+Lækage åbner for mere åbenhed om NSA-overvågning
+De lækkede NSA-dokumenter kaster nyt lys over over verdenshistoriens største overvågningsprogram. Det store spørgsmål bliver, om lækagen vil forrykke magtforholdet mellem de aktører i USA, der i årevis har forsøgt at få indsigt i omfanget af overvågningen, og NSA, der konsekvent har afvist dem
+ 
+	Edward Snowden havde indtil i sidste uge ubegrænset adgang til nogle af de mest klassificerede dokumenter og programmer i USA’s sikkerhedsapparat i kraft af sin stilling i Hawaii som telekommunikationsekspert i det private selskab Booz, Allen, Hamilton Holding Corp. Selskabet specialiserer sig i at udføre kontraktarbejde for National Security Agency. Foto: Scanpix
+
+
+ 
+	Efter fem dages afsløringer er der stadig meget, som ikke står klart om omfanget af den amerikanske efterretningstjeneste NSA’s aktiviteter. Dokumenter fra whistlebloweren Edward Snowden har i løbet af de seneste dage dokumenteret, at millioner af amerikanere hos Verizon får indsamlet en lang række oplysninger om deres telefonopkald »hver dag« af NSA. Der er kommet oplysninger frem om, hvordan NSA får adgang til oplysninger om kommunikation hos de fleste store internetselskaber, og søndag kom der data frem om omfanget af overvågningen. Tre milliarder informationer blev indsamlet alene om amerikaneres kommunikation, mens resten af verden stod for 97 milliarder oplysninger alene i marts måned i år.
+
+	NSA’s aktiviteter har i årevis været blandt de mest lukkede, og skiftende regeringer har i årevis hårdnakket kæmpet mod offentlighedens indsigt i overvågningsprogrammerne. NSA er den største af de amerikanske efterretningstjenester og også den, som er omgærdet af mest mystik. For det første på grund af hemmelighedsfuldheden, der gav dem tilnavnet ’No Such Agency’, og for det andet på grund af den tekniske karakter af den digitale overvågning, som gør det svært for de fleste mennesker helt at forstå omfanget. En gruppe amerikanere bestående af både journalister og NGO’er forsøgte i flere år i et sagsanlæg anlagt af Amnesty International at udfordre, hvorvidt den del af loven, som giver NSA muligheder for at overvåge uden retskendelser, var i strid med forfatningen. Men retssagen endte med at blive afvist, blandt andet fordi sagsøgerne ikke kunne bevise, at de var blevet overvåget, fordi de programmer, de henviste til, var omgærdet af så stor hemmelighed, at det ifølge retten ikke var muligt at fastslå. Det håber Snowden nu, at hans lækage kan ændre, så retssagerne kan komme i gang, og programmets lovlighed kan vurderes i det juridiske system.
+
+	»Regeringen kan ikke med rimelighed hævde statshemmeligheds-privilegiet for et program, det har erkendt eksisterer. Retten kan nu tillade udfordringer af loven at blive hørt på det grundlag,« siger han til Washington Post.
+
+	Gem melodramaet
+
+	Også på det politiske niveau kan det få betydning, at flere detaljer om overvågningsprogrammerne er blevet bekræftet af officielle tophemmelige dokumenter. Tidligere har chefen for de amerikanske efterretningstjenester, James Clapper, benægtet, at overvågningsprogrammerne blev brugt til at overvåge amerikanere.
+
+	»Indsamler NSA nogen form for data overhovedet på millioner eller hundrede millioner af amerikanere?« blev han direkte adspurgt af den demokratiske senator Ron Wyden sidste år.
+
+	»Nej, sir,« svarede Clapper og uddybede: »Ikke bevidst. Der er sager, hvor de uforsætligt måske kunne komme til at indsamle. Men ikke bevidst«.
+
+	Efter Guardians afsløringer om NSA’s aktiviteter på baggrund af dokumenterne fra Snowden lader det til, at Clapper forsøger at nedtone sin første forklaring ved nu kun at henvise til e-mails:
+
+	»Hvad jeg sagde var, at NSA ikke voyeuristisk går igennem amerikanske statsborgeres e-mail. Det står jeg ved,« har han siden forklaret til National Journal.
+
+	Den kommende tid vil vise, om Snowdens dokumenter kan forskyde afstanden imellem NSA’s officielle forklaringer om deres programmer, og hvad tidligere whistleblowere har stået frem og fortalt. Som den første tidligere ansatte ved NSA stod William Binney i en artikel i magasinet Wired sidste år frem og forklarede i detaljer, hvordan NSA uden retskendelser opsnappede milliarder af data om opkald, e-mails, internetkommunikation via 10-20 lyttestationer fordelt over hele landet. Og at det ikke kun var rettet mod udlændinge, men også mod amerikanere.
+
+	Artiklen blev en politisk skandale, men NSA-direktør Keith Alexander afviste beskyldningerne ved en høring i kongressen i marts sidste år ved ikke mindre end 16 gange at svare nej til, at det er muligt for tjenesten at overvåge e-mailkommunikation mellem to amerikanere i USA. Til gengæld undveg han at svare på, om det er muligt, hvis den ene amerikaner er i udlandet, eller om nyere teknologi som voice-over-internet, der gør det svært at finde ud af, hvor de forskellige personer befinder sig, betyder, at NSA alligevel overvåger amerikanere.
+
+	Den amerikanske journalist og advokat Glenn Greenwald, en af The Guardians folk på sagen, antyder på Twitter, at meget mere kan være på vej. Som en reaktion på James Clappers udtalelser om, at lækagen havde gjort »kæmpe graverende skade«, skrev han på Twitter:
+
+	»Gem noget melodrama og retorik til de kommende historier. Du får brug for det«.
+

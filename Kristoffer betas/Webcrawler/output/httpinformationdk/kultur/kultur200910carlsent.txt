@@ -1,0 +1,22 @@
+Carlsen tryner verdenseliten
+Den 18-årige nordmand var suveræn i Kina
+
+
+ Der blev skrevet skakhistorie i sidste uge i Nanjing. Ikke alene fordi Magnus Carlsen med en knusende turneringssejr blev den femte spiller i verden nogensinde, der passerede drømmegrænsen på 2.800 i rating, men Carlsens førsteplads var, fortæller statistikkerne os, tillige den mest suveræne i moderne tid. Hans ratingpræstation var på vilde 3.002, mens Karpov med sin legendariske sejr i Linares 1994 »kun« blev noteret for 2.975.
+Carlsen vandt alle sine fem hvide partier, og som sort vandt han ét og remiserede i de øvrige fire, bl.a. mod den frygtindgydende verdensetter Topalov. Man spillede 'dobbeltrundigt', og Carlsen blev dermed den eneste ubesejrede i slutstillingen: 1. Carlsen, Norge, 8 points. 2. Topalov, Bulgarien, 5,5 p. 3. Wang Yue, Kina, 4,5 p. 4.-6. Radjabov, Aserbajdsjan, Jakovenko, Rusland, og Lekó, Ungarn, alle 4 p.
+Ikke mindst i åbningsspillet var det tydeligt, at Carlsen har været på skolebænken hos Kasparov - de to 'scype-de' for øvrigt flittigt med hinanden under hele turneringen (men naturligvis ikke under runderne!). I første runde spillede nordmanden således skotsk mod Lekó og fik hurtigt trængt den ungarske jernmand i defensiven. Og vi så adskillige ideer i grünfeld- indisk, der må være udviklet i samarbejde med Kasparov.
+Den hvide lavine
+Carlsen havde vundet turneringen, inden han i 10. og sidste runde skulle have hvid mod Jakovenko. De fleste spillere ville i den situation have været indstillet på en hurtig remis, men Carlsen ville vinde - både for at gøre rent bord med hvid og for at passere 2.800-grænsen:
+1.d4 d5 2.c4 e6 3.Sc3 Le7 4.cxd5 exd5 5.Lf4 c6 6.Dc2 Ld6 7.Lxd6 Dxd6 8.e3 Se7 9.Ld3 b6 10.Sf3 La6 11.0-0 Lxd3 12.Dxd3 Sd7 13.e4 0-0 14.e5 De6 15.Tae1 Tfe8 16.Sh4 Sg6 17.Sxg6 Dxg6 18.Dd2 Sf8 19.f4 Df5 20.Sd1 f6 21.Se3 Dd7 22.Dd3 fxe5 23.dxe5!
+Det dynamiske svar. De hvide bønder på kongefløjen er stærkere (mere mobile) end sorts centralbønder:
+23. - Se6 24.f5 Sc5 25.Dd4 Se4 ...
+Se diagrammet 
+Og så brager Carlsen igennem med:
+26.Sxd5! Dxd5 ...
+På 26. - Sc5 ville Carlsen formentlig have spillet 27.f6 med giftigt angreb. Nu vinder han en fuldfed bonde:
+27.Dxe4 Tad8 28.e6 Dxe4 29.Txe4 Td6 30.g4! - den hvide lavine ruller, sort er hjælpeløs - Kf8 31.g5 Ke7 32.Kg2 Td5 33.Kg3 Kd6 34.h4 c5 35.f6 gxf6 36.gxf6 Td3+ ...
+Et par trøsteskakker, inden det er slut:
+37.Kh2 Td2+ 38.Kh1 1-0.
+Topalov ligger endnu foran Carlsen på 'den virtuelle liste' (1. Topalov 2809 2. Carlsen 2801 3. Aronian 2792 4. Anand 2788 5. Kramnik 2772) - men hvor længe?
+
+

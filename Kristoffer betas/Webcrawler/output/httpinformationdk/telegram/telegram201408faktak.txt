@@ -1,0 +1,20 @@
+FAKTA: Det koster en kvadratmeter hus i din landsdel
+Boligpriserne var i juli de højeste i tre år. Her kan du se, hvad en kvadratmeter koster i din region.
+
+
+ Her kan du se, hvad den gennemsnitlige kvadratmeterpris lå på i juli i din region - (tallene i parentes angiver udviklingen i 2014 i procent).
+Villaer og rækkehuse:
+* Hele landet: 11.527 kroner (3,1)
+* Region Hovedstaden: 19.897 kroner (6,1)
+* Region Midtjylland: 10.780 kroner (2,0)
+* Region Nordjylland: 8432 kroner (2,2)
+* Region Sjælland: 9493 kroner (1,9)
+* Region Syddanmark: 8854 kroner (0,9)
+Ejerlejligheder:
+* Hele landet: 22.017 kroner (7,0)
+* Region Hovedstaden: 25.346 kroner (7,8)
+* Region Midtjylland: 20.713 kroner (7,4)
+* Region Nordjylland: 14.502 kroner (3,5)
+* Region Sjælland: 13.272 kroner (-1.6)
+* Region Syddanmark: 14.107 kroner (6,2)
+Kilde: Boligsiden.dk

@@ -1,0 +1,51 @@
+Ny lov kan udnyttes af cyberkriminelle
+Regeringens forslag til en styrkelse af forsvaret mod cyberangreb kan komme til at virke stik mod hensigten, advarer forening og ekspert
+
+
+ 
+	Med en ny lov ønsker regeringen at styrke sikkerheden mod hackerangreb og anden it-kriminalitet. Men faktisk risikerer forslaget at åbne et væld af sikkerhedshuller, som kan udnyttes af cyberkriminelle. Sådan lyder advarslen fra IT-Politisk Forening, der i et høringssvar påpeger en række punkter i lovudkastet, som organisationen anser for problematiske.
+
+	»Man skal tænke sig rigtig, rigtig godt om, før man gennemfører det her,« siger Jesper Lund, der er næstformand i IT-Politisk Forening.
+
+	Han bakkes op af Henrik Kramshøj, der er ekspert i it-sikkerhed og direktør for internetudbyderen Solido Networks.
+
+	»Jeg synes, det er en meget skidt idé, man her har fået,« siger han.
+
+	Bekymringen retter sig mod regeringens forslag om at samle statens overvågning af internetsikkerhed i et Center for Cybersikkerhed, der hører under Forsvarets Efterretningstjeneste.
+
+	Allerede i dag indsamles data fra en række myndigheder, der er tilmeldt cybersikkerhedsordningen, med det formål at opdage og beskytte mod cyberangreb. I øjeblikket er der lagt en begrænsning, så der ikke sker nogen behandling af krypterede data eller bliver gjort forsøg på at dekryptere dem. Men i regeringens lovudkast er der ikke lagt op til at videreføre denne begrænsning, og det er problematisk, mener Jesper Lund.
+
+	Det er uklart, præcis hvordan Center for Cybersikkerhed i givet fald skal kunne bryde krypteret kommunikation.
+
+	Men hvis det, som det er kommet frem i USA, betyder, at virksomheder og myndigheder overdrager krypteringsnøglerne til deres servere, kan det have konsekvenser for brugernes personfølsomme oplysninger.
+
+	Samtidig vil der altid være en større sikkerhedsrisiko, når flere har kopier, så nøglerne opbevares flere steder.
+
+	Det kan få katastrofale konsekvenser, hvis de falder i de forkerte hænder, mener Jesper Lund
+
+	For eksempel kunne hackere bruge oplysningerne til identitets-tyveri, pointerer han.
+
+	»Der er jo en grund til, at man overhovedet krypterer trafikken til websteder som sundhed.dk. Det er fordi, der er tale om meget personfølsomme oplysninger. Og udover at de oplysninger kan misbruges, ville jeg selv opleve det som krænkende, hvis fremmede mennesker snagede i, hvad jeg måtte gå og fejle,« siger Jesper Lund.
+
+	Kritik fra begge fløje
+
+	Allerede inden lovforslaget er blevet fremsat, har ordførere for begge sider af Folketinget ytret kritik i Politiken. Det skyldes især frygt for, at Forsvarets Efterretningstjeneste får mulighed for adgang til oplysninger, som borgere og virksomheder deler med offentlige myndigheder over internettet, uden at det bliver muligt at følge med i, hvad FE gør med oplysningerne, og hvilke udenlandske tjenester, FE vælger at dele oplysningerne med.
+
+	Men ifølge Jesper Lund findes den problemstilling allerede i dag. Opgaven med at overvåge internetsikkerheden blev nemlig allerede i 2011 lagt ind under Forsvarets Efterretningstjeneste.
+
+	»Uanset om den nye lov bliver vedtaget eller ej, vil området henhøre under efterretningstjenesten. Den beslutning er allerede taget. Det nye er så, at man udvider efterretningstjenestens beføjelser,« siger han.
+
+	Han nævner blandt andet, at efterretningstjenesten ifølge lovudkastet fremover må opbevare indholdsdata som for eksempel indholdet af borgernes mails til myndigheder i 13 måneder, mens grænsen i dag er to uger.
+
+	»I forvejen har vi en meget vidtgående lov. Og set fra min stol gør det nye lovforslag kun ondt værre. Den længere frist giver mulighed for at kæde flere informationer om dig som borger sammen, hvis man vil det. Det giver også en større risiko, hvis nogle cyberkriminelle bryder ind hos efterretningstjenesten,« siger Jesper Lund.
+
+	Henrik Kramshøj er enig: »Jo længere, du opbevarer data, jo større er risikoen,« siger han.
+
+	Minister vil lytte
+
+	Samtidig frygter IT-Politisk Forening, at langt mere data vil blive indsamlet. I øjeblikket gælder det kun data fra myndigheder og enkelte centrale virksomheder, som er tilmeldt ordningen. Men i lovudkastet er der lagt op til at udvide den kreds.
+
+	»Som jeg læser teksten, er der ikke noget i vejen for, at en internetudbyder kan tilslutte sig. Hvis det sker, vil efterretningstjenesten ikke bare have adgang til det, du sender til myndighederne, men også til kommunikationen mellem privatpersoner. Det er for eksempel et problem for journalister, der vil beskytte deres kilder,« siger Jesper Lund.
+
+	Det har ikke været muligt at få et interview med forsvarsminister Nicolai Wammen. Men til DR Nyheder sagde han: »Det er vigtigt, at vi beskytter bedre mod cyberangreb, men vi skal selvfølgelig også passe godt på den enkeltes retssikkerhed og privatliv. Så jeg vil kigge nærmere på alle høringssvar for at være sikker på, at vi gør det rigtigt.«
+
