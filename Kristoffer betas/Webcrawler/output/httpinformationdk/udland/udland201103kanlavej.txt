@@ -1,0 +1,41 @@
+Vi kan lave jetbrændstof med syntetisk biologi
+Biotek-professor Jay Keasling har allerede fremstillet malariamedicin af gær og sukker. Nu arbejder han på at udvikle en kunstig afløser for nogle af de mest klima- og miljøskadelige brændstoffer
+Jay Keasling og hans kolleger mener, det er muligt at erstatte 30 procent af verdens transportbrændstof med syntetisk brændsel. Det sker ved at manipulere E. coli-bakterier og lade dem optage sukker. Og sukker er en vedvarende ressource. Her høstes sukkerrør i en plantage i El Salvador.
+
+
+ I 1974 beskrev Waclaw Szybalski, en kræftspecialist ved University of Wisconsin-Madison, en radikal vision for fremtiden. Han forudså en verden, hvor videnskaben havde lært sig at beherske biologien så gennemgribende, at den kunne skabe liv fra grunden.
+Szybalski forudsigelse ramte ikke meget ved siden af, for i dag er 'syntetisk biologi' — et begreb, som blev skabt af netop Szybalski — en af de mest lovende og spændende muligheder i moderne videnskab: Der forskes for længst i kunstigt liv, og syntetiske vira er en realitet.
+Men forskningsfeltets hastige fremskridt vækker både håb og frygt. Hvor nogle håber, at denne nye videnskabelige disciplin kan anvise en vej til grøn energi og større fødevareproduktion, frygter andre, at syntetiske mikrober slipper ud fra laboratoriet og udløser en katastrofe.
+Der er ingen tvivl om, at syntetisk biologi kan afstedkomme store nybrud. En af de førende forskere på området er Jay Keasling, professor i bioteknologi ved University of California, Berkeley, og administrerende direktør for det amerikanske energiministeriums Institut for Bioenergi (JBEI).
+For fem år siden skabte han gærceller der er i stand til at optage sukker og omdanne det til en helt ny generation af malariamedicin. Bedriften var mere end et smart laboratorietrick. Et nyt anlæg er nu under opførelse i Italien, og her vil mikroorganismer inden længe blive sat i arbejde i en hurtig og billig produktion af stoffet artemisinin.
+Med en pris på kun to kroner pr. dosis forventes Keaslings gærceller at kunne redde millioner af liv.
+— Hvornår forventer du, at din malaria-medicin bliver tilgængelig for u-landene?
+»Processen er gået utroligt godt. Prognosen lyder på, at medicinen er klar ved udgangen af i år eller i begyndelsen af næste år. Det er lige i rette tid, for der er opstået stor efterspørgsel efter artemisinin, og får vi det ikke snart klar, vil der ske et prishop. Nu får vi stabiliseret markedet og sikret aftagerne en højkvalitets-medicin til en overkommelig pris.«
+Jetbrændstof
+Nu har Keasling ændret fokus og arbejder nu på at udvikle en afløser for jetbrændstof og diesel.
+— Hvad arbejder du på lige nu?
+Vi tager, hvad vi lærte under malaria-medicinprojektet og udnytter den viden i forskning i nye brændstoffer og kemikalier. På JBEI arbejder vi på
+drop-in-brændstoffer, dvs. på brændstoffer, der kan fungere direkte i vores eksisterende infrastruktur, og som er stort set identiske med benzin, diesel og flybrændstof.
+— Der dyrkes allerede afgrøder til at producere ethanol til motorer. Hvad er fordelen ved din tilgang?
+»Ethanol er fantastisk for en mindre brøkdel af brændstofproduktionen, men man kan højst bruge op til 10 procent af det i biler og slet ikke bruge det i dieselmotorer eller jetmotorer. Det forekommer mig, at det frem for for at ændre vores transportinfrastruktur, så den passer til et brændstof som ethanol — en omstilling, der vil koste mindst tre billioner dollar — ville være mere formålstjenligt at foretage biologiske ændringer, således at vi kan få udviklet et brændstof, der passer ind i den eksisterende infrastruktur. Der er mange fordele i at gøre det sådan, så det er, hvad vi lige nu fokuserer på.«
+— Hvilke brændstoffer kigger I på som det første?
+»Vi ønsker i første omgang at fokusere på de brændstoffer, som vil være de mest oplagte at erstatte. Vi har allerede mulighed for at køre i mindre brændstofforbrugende personbiler, og vi kan delvis elektrificere vores personbilvognpark med hybridmotorer osv. Men når det gælder de tunge lastbiler, tog og frem for alt fly, står vi over for langt større udfordringer. Vi kommer ikke til at se elektriske fly. Ergo har vi mest brug for at finde en erstatning for jetbrændstof og diesel.«
+Sukker i stedet for olie
+— Hvordan skal det gå til?
+»Vi har vist, at vi kan bruge gær og E. coli-bakterier til at bearbejde sukker og omdanne det til værdifulde kemikalier som artemisinin. Sukkeret er vores kilde til kulbrinter, så i stedet for olie fra jorden starter vi med sukker. Når jeg taler om sukker, kan det enten være saccharose fra sukkerrør eller det sukker, vi får fra celluloseholdig biomasse. Vi kan bruge papiraffald, træer, der er væltet i skoven, majsaffald og dedicerede energiafgrøder som f.eks præriegræs.«
+— Hvor let er det at lave brændstof af mikrober?
+»For godt et år siden redegjorde vi i en artikel i Nature for, hvordan vi har manipuleret med E. coli og produceret diesel. Det smukke var, at E. coli indtog sukkeret og omdannede det direkte til diesel, som blev udskilt uden for cellen. Fordi diesel er olieret, vil det stige mod overfladen. Så i modsætning til ethanol, som man er nødt til at destillere for at opnå en tilstrækkeligt høj renhedsgrad til at bruge det i motorer, renser diesel sig selv. Det reducerer omkostningerne og den mængde energi, der kræves i processen.«
+Mindre drivhusgas
+— Bliver din diesel lige så god som den, vi tanker i dag?
+»Det bliver den helt sikkert, hvis ikke bedre. Brændstof kan være utrolig kompliceret — det har mange forskellige komponenter og kan optimeres til forskellige formål. Vi kan opbygge brændstof ud fra de mest værdifulde molekyler, så vi ikke har de uønskede elementer, der findes i eksisterende brændstoffer. Ikke blot kan vi få højere kilometertal ud af det syntetiske brændstof, vi kan også få renere emissioner. Og vi taler om en væsentlig forbedring for miljøet her: Vores diesel reducerer udledningen af drivhusgasser med 80 procent, hvilket må siges at være temmelig markant.«
+— Verden bruger omkring 90 millioner tønder olie om dagen. Hvordan kan mikroorganismer tage konkurrencen op med det?
+»Vi forventer at kunne erstatte 30 procent af verdens transportbrændstof over en 20-30-årig periode. Det er en kæmpe opgave. Vi skal udvikle teknologi til masseproduktion af brændstoffer og udstede licenser til det. Over de næste 10-20 år vil vi se en meget bred vifte af virksomheder, som alle arbejder på forskellige teknikker til at skabe kunstige brændstoffer.«
+— Hvordan kommer dit arbejde til at påvirke de store olieselskaber?
+»Energibranchen er verdens største virksomhedssektor, og det smukke ved at arbejde i planetens største industri er, at der er god plads til alle. Exxon er det største selskab i USA, men har blot en markedsandel på fem procent af transportbrændstof-markedet. Alene det fortæller, at her kan alle være med«.
+Sukker kan bruges til alt
+— Vil syntetisk biologi blive brugt til at udvikle andet end brændstoffer?
+»Ud over brændstoffer ser vi på alt andet, som vi i dag producerer på grundlag af råolie, herunder polymerer og plast, og spørger: Kan vi gå ind og erstatte dem? Jeg kan ikke se nogen grund til, at vi ikke skulle kunne skabe næsten ethvert kemikalie, vi måtte ønske på grundlag af sukker, som er en vedvarende ressource. Det er et godt tidspunkt at forske i biologi og bioteknologi, for vi har fået så mange flere kraftfulde redskaber, end vi tidligere havde«.
+
+© The Guardian og Information
+Oversat af Niels Ivar Larsen
+

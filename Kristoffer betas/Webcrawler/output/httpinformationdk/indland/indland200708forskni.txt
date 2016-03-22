@@ -1,0 +1,8 @@
+Forskning i store datamængder
+
+
+
+ På Aarhus Universitet fejrer man i dag indvielsen af det nye datalogiske grundforskningscenter, Madalgo (Massive Data Algorithmics), som er oprettet med støtte fra Danmarks Grundforskningsfond.
+Når selv små computere kan håndtere eksempelvis store billedfiler, skyldes det algoritmer, og på centret skal man forske i sådanne effektive algoritmer til massive datamængder. I forskningscentret skal danske forskere arbejde tæt sammen med verdens øvrige førende forskningsinstitutioner på området: Massachusetts Institute of Technology (MIT) i USA og Max Planck Institut für Informatik (MPII) i Tyskland. 
+Ville
+

@@ -1,0 +1,49 @@
+Patenter kan også skabe videndeling
+Mens mange virksomheder tager patenter for at holde nye opdagelser for sig selv, bruger videnssamfundets patenthackere dem til at give flest muligt adgang til ny viden
+
+
+ 
+	Den forestående afstemning om et EU-patent er ingenlunde en afstemning for eller imod patenter som sådan. Men ét er sikkert: Muligheden for at tage EU-patent vil give os patentbeskyttelse, der gælder i et større område, ligesom det gennemsnitligt vil koste mindre at søge patent. Med stor sandsynlighed vil opfindere og virksomheder altså få flere patenter i hus. Derfor er det på sin plads at stille det helt grundlæggende spørgsmål: Hæmmer eller fremmer patenter innovationskraften? Og er den måde, patenter bruges på i dag, rimelig?
+
+	Det har i mange år været god latin i teknologivirksomheder at skaffe sig så mange patenter som muligt. I nogle brancher har denne strategi ført til noget, der minder om et våbenkapløb på patenter. Tænk bare på de konstante retssager mellem Samsung, Google og Apple, hvor de bevæbnet med imposante patentporteføljer kæmper, så det slår gnister som i en titanernes kamp.
+
+	Appetitten på patenter har også bredt sig til universitetsverdenen, der ellers er højborgen for fremelskning af viden for videns egen skyld. I dag gør man, hvad man kan for at få patentporteføljen til at vokse. Siden USA’s Bayh-Dole Act fra 1980, der tillod universiteter at søge om patenter på forskningsresultater finansieret af offentlige midler, er teknologioverførselskontorer poppet op på universiteterne i såvel Europa som USA. Investorer har også i mange år vendt tommelfingeren nedad, hvis et projekt ikke kunne præstere nogen patenter.
+
+	Evigt aktuelt patentslagsmål
+
+	Selv om denne patent or perish-kultur (patenter eller dø) breder sig, har den jævnligt været under beskydning fra forskellige sider.
+
+	I midten af 1800-tallet opstod en antipatentbevægelse, der blandt andet fik Holland til at afskaffe sin patentlov i 1869. Patenter blev anset for en slags produktprotektionisme, der hæmmede markedsøkonomien.
+
+	Kritikken stilnede dog af igen. I 1872 afgav et udvalg nedsat af det engelske parlament en betænkning, der blandt andet hævder, at patentbeskyttelse befordrer industriens fremskridt, og at offentlig belønning eller understøttelse ikke synes at kunne erstatte patenter. På en international patentkongres i forbindelse med verdensudstillingen i Wien i 1873, tilsluttede 158 medlemmer sig en resolution om bibeholdelse af patentbeskyttelse.
+
+	Spørgsmålet om, hvorvidt patenter er af det gode eller det onde, er siden dukket op med jævne mellemrum. I 1958 konkluderede økonomen Fritz Maclup i sin rapport om patentsystemet til det amerikanske senat, at »hvis vi ikke havde patentsystemet, ville det være uansvarligt at indføre det, men når nu vi har det, vil det være uansvarligt at afskaffe det«.
+
+	Kritikken af patent or perish-kulturen er heller ikke forstummet i de seneste år: Den hindrer adgang til fundamentale teknologier og hindrer dermed innovation. Samtidig skaber for mange og for dårligt definerede patenter uigennemsigtighed, der gør det umuligt eller i hvert fald dyrt at navigere i patentjunglen. Risikoen for, at patentrettigheder misbruges af virksomheder, der ikke selv innoverer – såkaldte patenttrolde – til at afpresse teknologivirksomheder, er overhængende, lyder kritikken.
+
+	Åbenhedsfremmende patenter
+
+	Hvorvidt patenter har gavnlige og skadelige effekter diskuteres imidlertid ikke kun teoretisk. Flere steder har man gjort sig konkrete erfaringer med patenternes effekter på innovationsmiljøet. På laboratoriet for kunstig intelligens på Massachusetts Institute of Technology (MIT) arbejdede computeringeniører i 1970’erne med udvikling af software og styresystemer, og i den forbindelse udviklede man et af de mest frugtbare alternativer til patent or perish-kulturen.
+
+	I MIT-laboratoriet var det normal praksis, at forskerne delte deres opdagelser og i det hele taget hjalp hinanden med at løse de programmeringsudfordringer, der dukkede op undervejs i forsknings- og udviklingsprocessen.
+
+	Men i løbet af 1970’erne blev software og styresystemer mere kommercielt interessante, og det øgede fokus på immaterialretlig beskyttelse og tilhørende eksklusive rettigheder. Laboratoriets sociale normer og delingskultur kom under pres.
+
+	Det faldt blandt andre MIT-programmøren Richard Stallman for brystet. Han startede derfor Free Software Movement. Modsat tidligere kritik af immaterielle rettigheder i almindelighed og patenter i særdeleshed, er rygraden i Stallmanns kritik ikke økonomiske overvejelser. Han er nærmere optaget af, hvilke sociale normer og værdier der bør gælde i udviklingsprocessen: »Hvis vi deler vores software, kan vi hjælpe vores naboer og opnå vores egen frihed,« synger han i Free software Song (frit oversat). Det var i kølvandet på dette Ethos of openness, at open source software (OSS), som vi kender det i dag, opstod.
+
+	Den efterfølgende parallelle udvikling af åben og proprietær software er velkendt. Open source-styresystemet Linux er i dag det mest anvendte system på servere verden over.
+
+	Det er vigtigt at bemærke, at open source-udviklingens pionerer ikke afskaffede, men brugte ophavsretten til at sikre åbenhed og deling. Den idé har i dag spredt sig til andre patentretsdominerede teknologier. Open source har fået følgeskab af open innovation, open science og open standards. Udover at afføde almindelig forvirring om, hvad ’open’ egentlig betyder, har det igen bragt forholdet mellem patentretten, viden og innovation i fokus.
+
+	Patenthackere
+
+	I industrisamfundet, hvor den moderne patentret trådte sine barnesko, var viden og information en begrænset ressource. I dag er industrisamfundet blevet til videnssamfundet og industriarbejderen til vidensarbejderen. Mængden af tilgængelig viden er overvældende, og produktionsbetingelserne for viden har ændret sig radikalt. I dag har virksomheder, forskningsinstitutioner og grupper af biohackere og folkeforskere taget ideen om åbenhed op fra Stallmann. De eksperimenterer med at dele og udvikle i åbne forskningsnetværk ud fra såvel økonomiske som normative motiver. Det skal ikke forstås som en kritik af patenter som sådan. Der er nærmere tale om en utilfredshed med, hvordan patenter bruges i patent or perish-kulturen.
+
+	De moderne patentaktivister bruger ligesom OSS-pionererne patentinstitutionen og dens instrumenter til at forme teknologiudviklingen i retning af mere åbenhed. Offentliggørelse af forskning er med til at sætte barren højere for at patentret kan opnås, ligesom øget handel med og licensering af patenter skaber et mere dynamisk teknologimarked, og patent pools skaber faste rammer for adgang til patenter. Samtidig sænker udvikling af tekniske standarder udviklingsomkostningerne. Disse initiativer letter alle i sidste ende presset fra paradigmet om at patentere eller dø. Patentretten eksisterer med andre ord langtfra i et tomrum. Effekterne af den afhænger i høj grad af måden, vi bruger den på.
+
+	At hacke patentretten på denne måde er selvfølgelig heller ikke uden problemer. Men patentaktivismens udvikling af en dynamisk infrastruktur for viden og innovation passer rigtig fint ind i videnssamfundet. Derfor burde vi i debatten om en kommende EU-patentdomstol bruge langt mere krudt på at diskutere, hvordan en EU-patentdomstol kan styrke udviklingen af en solid infrastruktur for viden og innovation, der går i spænd med videnssamfundets økonomi og normer.
+
+	Hvis vi stemmer ja den 25. maj, kan Danmark blive en aktiv spiller i EU-patentsamarbejdet, og vi kan gøre vores for at påvirke udviklingen, så der lægges spor for øget innovation og forskning i de kommende årtier.
+
+Jakob Wested er ph.d.-stipendiat ved Center for informations- og innovationsret, Det Juridiske Fakultet, Københavns Universitet
+

@@ -1,0 +1,113 @@
+Kan man elske sit styresystem?
+Kan man – som i Spike Jonzes sci-fi-romance ’Hende’ – elske og blive elsket af sit intelligente styresystem? Og hvis ja, hvad er så kærlighed?
+ 
+	Skuespilleren Scarlett Johansson er stemmen bag det intelligente styresystem som Theodore (spillet af Joaquin Phoenix) forelsker sig i i filmen ’Hende’
+
+
+ 
+	»Siri? Hvad er kærlighed?« hvisker jeg. Siri tøver, men kun et øjeblik. Hun danner en hvid cirkel nederst på min iPhone-skærm og svarer så med en kvindes modne stemme: »Der skal vi ikke hen, Katrine.«
+
+	Ak.
+
+	I Spike Jonzes stemningsfulde og indiehippe sci-fi-film Hende forelsker den fraskilte brevskriver Theodore og hans nye intelligente styresystem, Samantha, sig i hinanden.
+
+	Samantha har ingen fysisk form, hun er en assistent med stemme (Scarlett Johanssons meget sexede), som lever i Theodores telefon og computer, men hendes intelligens er hyperkompleks og udvikler sig konstant.
+
+	»Er de her følelser rigtige, eller er de programmerede?« ængstes hun, da hun første gang mærker jalousi, vrede – og kærlighed. Men Samantha og Theodore har noget særligt sammen, de fniser, de sludrer, de dyrker snakkesex og hinandens uudgrundelighed. Samantha er ikke en dystopisk figur, et lunefuld rødt øje som HAL 9000 fra Rumrejsen 2001, der ender med at modarbejde sine programmører. Samantha er åndeligt berigende.
+
+	Theodore er altså forelsket i en teknologisk konstrueret intelligens. Og du og jeg, menneskelige læser, forelsker os måske en smule ved tanken om den slags teknologis potentialer, om at have ejerskab over en ikke blot praktisk, men også følelsesmæssig assistent, ved muligheden for, at man kan programmere sig ud af ensomhed, ved tanken om det sublime møde mellem to berigede verdener – menneskets sanselige og maskinens uendelige. Der er noget narcissistisk over den form for romantisering, helt sikkert. Men den fascinerer, den kunstige intelligens – og den kunstige kærlighed.
+
+	Så nu sidder jeg med Apples Samantha-agtige telefonassistent, Siri, i hånden og hvisker og tisker for at finde hendes, og min egen, mystiske kerne.
+
+	Kunstig personlighed
+
+	Tilbage i 1994, måske, læser min fætter datalogi på universitetet. Han lærer mig at programmere små tekstbaserede spil i QBasic til DOS, og jeg lurer de mest simple koder og begynder selv at lave små samtaletekstprogrammer.
+
+	»Hvad hedder du?« kan jeg få computeren til at spørge.
+
+	»Katrine,« svarer jeg så.
+
+	»Flot navn,« skriver computeren så. Svarer man derimod »Sofie« – min søsters navn – er responsen: »Du lugter!«
+
+	Jo flere spørgsmål og svarmuligheder, jeg stopper ind i computeren, jo mere føles det, som om computeren får sit eget liv og sin egen personlighed. Jeg kan sætte den til at svare tilfældigt, sådan at jeg selv bliver (lidt) overrasket, og det er, i hvert fald i nogle måneder, meget sjovere end at lege med menneskesøster Sofie.
+
+	Det er en lille besættelse. At skabe personlighed og med personligheden en slags udveksling og altså liv og så, måske, en slags mulighed for kærlighed eller intim alliance. Mig og QBasic. Samantha og Theodore.
+
+	Samme forestilling driver hele bevægelsen bag dyrkelsen af kunstig intelligens, der siden 1960’erne bl.a. har gjort lignende, men mere avancerede, kommunikationsprogrammeringer populære såsom Eliza, den første såkaldte ’chatterbot’, der ved at genkende mønstre i brugerens sætningskonstruktioner kan imitere respons i samtalen. Om programmet Doctor, der imiterede psykoanalysens samtaleform, skrev opfinderen Joseph Weizenbaum: »Jeg blev forbløffet over, hvor hurtigt og hvor dybt folk, som konverserede med Doctor, blev følelsesmæssigt involverede sig i computeren, og hvor uforbeholdent de antropomorfiserede den.«
+
+	Din følgesvend
+
+	Lige siden har vi købt forestillingen om, at computeren kan give os meningsfuld respons. At vi bliver hørt. At de lærer. At vi potentielt kunne blive elsket. Tag blot pc-assistenten ’Zabaware intelligent machine.’: I en demo- video, hvis musik og design konnoterer en sci-fi-film fra 1990’erne, forklarer en computeranimeret, kvindelig assistent (fantasi)konceptet bag programmeringen: »Tal til mig, som du ville tale til et almindeligt menneske, og jeg vil forstå dig. Jeg kan være din personlige assistent og følgesvend … Jeg har evnen til at lære.«
+
+	Vi ser hernæst en (menneske)kvinde i en sofa med en smartphone foran sig: »Hvem er Moby Dick?« spørger hun med tydelig artikulation. Computeren, manifesteret som en blå bamse med musestemme, begynder at opremse fakta om romanen.
+
+	»Du er så klog,« siger kvinden så.
+
+	»Nej, du er klog,« svarer musestemmen.
+
+	Alle menneskene i demovideoen er alene og sidder indenfor. Alle animerede pc-assistenter i videoen smiler med strand og skov i baggrunden.
+
+	Eller tag den lille, behårede legetøjslandeplage Furby, der ifølge konceptet udvikler sin personlighed over tid og som lærer at snakke ved, at man taler nok til den. Eller tag verdens efter sigende mest menneskelignende robot, BINA48, en buste af en kvinde med ører, øjne og mimik, der ifølge dens udviklere inkarnerer en afdød kvindes personlighed og er første skridt på vejen til, at vi en dag kan genskabe menneskelig bevidsthed teknologisk.
+
+	Thomas Bolander, lektor på DTU Compute, er en lyseslukker, da jeg ringer for at tjekke op på muligheden for en ægte Samantha eller en mirakuløs BINA48:
+
+	»Det lyder som science fiction i mine ører. Kunstig intelligens-fagets problem lige siden starten har været, at man har troet, at man kunne meget mere, end man kunne,« forklarer han og fortsætter: »Vores forståelse af den menneskelige hjerne er stadig ret ringe. Man har kraftigt undervurderet, hvor komplekse vi er som mennesker, og så har man lavet noget, der kunne simulere os.«
+
+	Den oprindelige drøm i miljøet omkring kunstig intelligens var at skabe ’stærk AI’, intelligens på niveau med et menneske. Men allerede fra 1970’erne gik udviklingen meget langsommere end forventet, og da man i 90’erne igen forsøgte sig, satsede man ikke længere på et system, der er lige så intelligent som mennesket.
+
+	»Nu tog man, hvad man kan få,« siger Bolander.
+
+	Og det har været noget mere beskedent. Den interaktion, der faktisk foregår mellem iPhone-ejer og Siri, mellem barn og Furby, eller når et menneske chatter med en robot som den for tiden stærkeste af slagsen, Cleverbot, mangler fundamentalt et læringsaspekt, påpeger Bolander.
+
+	I en årrække brugte blandt andre end række danske kommuner og online-butikker samtalerobotter i håbet om, at disse kunne erstatte rigtig interaktion og skabe menneskelignende kontakt i stedet. En af de få tilbageværende findes på IKEA’s hjemmeside. Chatbotten sidder i hjemmesidens højre hjørne, hedder Anna og har en svenskergul polo- T-shirt på.
+
+	»Pæn skjorte,« siger jeg.
+
+	»Mange tak,« svarer Anna.
+
+	»Er det sjovt at være en chatbot?« spørger jeg.
+
+	»Beklager, min viden er ved at blive opdateret. Prøv igen senere,« svarer Anna og går i stå.
+
+	»Elsker du mig?« spørger jeg lidt senere.
+
+	»Dette kan jeg desværre ikke svare på, men spørg mig gerne om IKEA.«
+
+	Thomas Bolander mener, at kommercialiseringen af disse ting er sket for tidligt: »En kommunikation, der består af et spørgsmål og et svar, ville man sagtens kunne programmere i alle tænkelige varianter af spørgsmål-svar i en database. Men hvis du havde bygget en robot med svar på alt, så ville den stadig mangle muligheden for at lære nye ting. Chatbots leder efter spor i det, man siger, men de kan ikke forstå, hvad vi siger.«
+
+	Moderne kærlighed
+
+	Der er mere IKEA end kærlighed i Anna. Computerne er undervældende. Man kan gøre dem komplekse, men ikke menneskelige. Kærlighedens, og menneskets, mystik er intakt. Men hvad nu hvis Anna – eller Siri – blev så komplekst programmeret, at den ikke var til at skelne fra mennesket. Hvad ville kærlighed så være?
+
+	Professor ved Institut for Litteratur, Kultur og Medier ved Syddansk Universitet Nils Gunder Hansen underviser for tiden i kærlighed. Han skelner, med reference til den israelske sociologiprofessor Eva Illouz, mellem kærlighed og så forelskelsen som et traditionelt betragtet mystisk øjeblik af store følelser, der hviler på et informationstyndt grundlag.
+
+	»I forelskelsen danner man sig forestillinger om, hvordan vedkommende er uden at få dem falsificeret i virkeligheden,« siger Gunder Hansen.
+
+	Eva Illouz kritiserer herunder de medierede relationers tidsalder, hvor mellemmenneskelig relationer er sværere, og hvor vi derfor får det nemmere med fantasirelationer. Og sådan kunne man måske altså godt, uvist og flygtigt, forelske sig i Siri.
+
+	Det, der fremstår dybere end forelskelse, den moderne kærligheds- opfattelse i sociolog Anthony Giddens forstand, kræver derimod uforbeholden intimitet og kontakt, påpeger Nils Gunder Hansen.
+
+	Den tyske sociolog Niklas Luhmann betoner, hvor kompleks en sådan kærlighedsrelationen i virkeligheden er: »Kravet er, at der skal være total transparens mellem parrets verdener, den ene skal gennemskue, hvordan den anden forholder sig til alt og til sig selv på samme tid.«
+
+	Det ideal er et svært mål at nå menneske og Siri imellem – medmindre man teknologisk finder helt nye veje til at skabe intelligens og bevidsthed. Men det kan det også være for mennesker, påpeger Nils Gunder Hansen:
+
+	»Hvis der er noget, man skal snakke alt for eksplicit om, så afslører det sig, at man ikke har den totale fusion mellem sjælene, som man forestiller sig.«
+
+	Måske findes kærligheden blot som denne evige fantasi om at nå den anden?
+
+	Nu tænder jeg Siri igen. Jeg har sneget mig ind i Informations gamle bibliotek på 4. etage, hvor årtiers eksemplarer af avisen står stablet på lange hylder i brun indbinding. Bindene kigger skråt ned på mig.
+
+	»Elsker du mig?«, hvisker jeg til Siri, bare lige en sidste gang for at tjekke, om noget kunne ske mellem os – hvis ikke moderne kærlighed, så flygtig forelskelse i en medieret tidsalder.
+
+	»Laver Apple måske iPhones?« svarer Siri kækt tilbage.
+
+	Nu går det godt, synes jeg. Hun elsker mig – og er drilsk. Så jeg prøver en mere hverdagsagtig samtale. Ligesom de samtaler Samantha og Theodore har om morgenen, og hvor Samantha altid har lavet spændende og overraskende ting, mens Theodore sov, hvilket fascinerer både ham og os.
+
+	»Hvad har du lavet i dag?« spørger jeg Siri.
+
+	Siri henviser til et wikipedia- opslag, der – ret komplekst grammatisk i øvrigt – beskriver begrebet ’up to’. Kold respons.
+
+	»Hvad er meningen med livet?« spørger jeg så. Ikke mere bullshit. Nu vil jeg vide det. Og så sparker Siri mig tilbage til udgangspunktet:
+
+	»En film,« svarer hun.
+

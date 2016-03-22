@@ -1,0 +1,39 @@
+Mobilbrugere bliver sporet af teleselskaber, når de går på nettet
+Igen og igen oplever forsvarsadvokater, at masteoplysninger fra mobiltelefoners internetbrug indgår i straffesager, selv om de ifølge juraprofessor er ulovligt fremskaffet. En teknisk nødvendighed at logge dem, forklarer selskabernes brancheorganisation
+ Teleselskaberne er forpligtede til at registrere, hvilken telefonmast du er forbundet til, når du sms’er eller snakker i mobilen, men må ikke gøre det, når du går på nettet
+
+
+ Siden logningsbekendtgørelsen trådte i kraft i 2007, har en række teleselskaber logget, hvilke telefonmaster du er forbundet til, når du sms’er og snakker i mobilen. Men sideløbende har flere teleselskaber også registreret dine bevægelser, når du bruger din mobiltelefons 3G eller 4G-forbindelse til at tweete, snapchatte eller lede efter madopskrifter på mobilen.
+Information er kommet på sporet af den ulovlige registrering ved at interviewe en række forsvarsadvokater. De fortæller samstemmende, at de jævnligt modtager teleoplysninger fra politiet, hvori der optræder masteoplysninger fra mobiltelefoners internetbrug.
+Læs også: Teleselskaber overvåger kunder ulovligt
+For at politiet kan hente masteoplysningerne til brug i straffesager kræves det, at teleselskaberne logger dem for alle sine kunder. Hvorvidt det er alle eller blot nogle teleselskaber, der gør det, er dog uklart.
+»Jeg har oplevet det et utal af gange henover årene,« siger advokat Kåre Traberg Smidt. Hans kollega Mette Grith Stage siger: »Det er snarere reglen end undtagelsen, at disse oplysninger fremgår.«
+Advokaterne Niels Forsby og Erbil Kaya siger, at det er sket henholdsvis »nogle gange« og »meget ofte«.
+Advokat Kåre Pihlmann kalder det »sædvanligt«, mens hans kollega Henrik Dupont Jørgensen ikke kan huske at have set teleoplysninger, hvor der ikke fremgik masteoplysninger på datatrafikken.
+Overvågningen bekræftes af Rigspolitiets Telecenter, der er en del af Nationalt Cyber Crime Center. Centret oplyser, at politiet i 1.795 sager sidste år indhentede masteoplysninger på internettrafik fra teleselskaberne under efterforskning af straffesager.
+Overtræder EU-direktiv
+Teleselskaberne er forpligtede til at registrere, hvilken telefonmast du er forbundet til, når du sms’er eller snakker i mobilen, men må ikke gøre det, når du går på nettet. Den såkaldte logningsbekendtgørelse, der blev til som led i den første terrorpakke fra 2002, gør det nemlig klart, hvilke oplysninger teleselskaberne skal gemme, når du bruger telefonen. Masteoplysninger ved internetbrug, den såkaldt ’datatrafik’, er ikke iblandt.
+»Min umiddelbare vurdering er, at den praksis, hvor masteoplysninger fra al datatrafik logges, er i strid med udbudsbekendtgørelsen og det underliggende EU-direktiv, det såkaldte e-datadirektiv,« siger Søren Sandfeld Jakobsen, der er professor i jura på Aalborg Universitet og ekspert i teleret.
+Som Information de seneste dage har afdækket, er masteoplysninger ikke altid præcise, men ofte kan de som minimum dokumentere hvilken by du er i, og typisk også hvilken bydel, hvis der er tale om storbyer. Derfor betragtes masteoplysninger rent juridisk som værende såkaldt lokaliseringsdata, der er personfølsomme.
+Branche: Teknisk nødvendigt
+Jakob Willer er direktør i teleselskabernes brancheorganisation Teleindustrien. Han forklarer, at den tilsyneladende forbudte logning sker, fordi det teknisk er nødvendigt.
+»Efter logningsreglerne har selskaberne en forpligtelse til at foretage registrering af masteoplysninger ved beskeder. Beskeder transporteres i mobilnettene som datatrafik, og derfor er det nødvendigt, at der i et vist omfang også sker en registrering af masteoplysninger ved datatrafik,« skriver han i en email til Information.
+Han uddyber: »For i hvert fald et af selskaberne er det ikke i systemerne teknisk muligt at udskille den datatrafik, der alene vedrører beskeder. Derfor sker der hos dette selskab en registrering af masteoplysninger ved datatrafik for at efterleve logningsreglerne.«
+Jakob Willer mener, at der er tale om en juridisk gråzone.
+»Der er her tale om to regelsæt, som har modsatrettede formål, og som derfor kan være vanskelige at forene i praksis, idet man afhængigt af den valgte tekniske løsning ikke teknisk kan udskille den del af datatrafikken, der alene vedrører beskeder. Det betyder, at man for at overholde et sæt regler er nødt til at registrere masteoplysninger ved datatrafik. Der er ikke tale om en registrering, som selskabet selv ønsker at foretage. Det sker alene på grund af kravene i logningsreglerne.«
+Myndighederne må afklare det
+Mogens Ritsholm er tidligere telechef hos TDC. Han gik på pension i 2009. Han var med i den ekspertgruppe, der tilbage i 2006 diskuterede implementeringen af den dengang nye logningsbekendtgørelse med Justitsministeriet.
+»Umiddelbart tvivler jeg på, at en forklaring om, at teleselskabet af tekniske årsager ikke er i stand til at adskille logningen af masteoplysninger på sms’er og mms’er fra masteoplysninger på internettrafik, er en legitim årsag til at overskride udbudsbekendtgørelsen. Det må efterprøves, og så kan man jo eventuelt opdatere reglerne derefter,« siger han.
+Og selv hvis det er, så er det ikke noget teleselskaberne selv skal vurdere, mener han.
+»De kan ikke bare på egen hånd tolke reglerne på den måde. Hvis der er et tvivlsspørgsmål, så må teleselskaberne bede myndighederne om at afgøre det,« siger Mogens Ritsholm.
+Erhvervsstyrelsen: Ulovligt
+Erhvervsstyrelsen, der er myndighed på området, bekræfter, at logningen som udgangspunkt er ulovligt.
+»Efter udbudsbekendtgørelsen skal udbydere af offentlige kommunikationsnet eller -tjenester sikre, at trafikdata (i dette tilfælde lokaliseringsdata, red.) slettes eller anonymiseres, når de ikke længere er nødvendige for kommunikationen,« lyder det i en email fra Jacob Voet-mann, der er specialkonsulent i Erhvervsstyrelsen.
+Han vil dog ikke tage endeligt stilling spørgsmålet. Han henviser til, at logningsbekendtgørelsen kræver, at der logges masteoplysninger om ’fastnet- og mobiltelefoni’.
+»Spørgsmålet er her, om mobiltelefoni i denne sammenhæng inkluderer mobil internetkommunikation, eller om det kun vedrører mobil taletelefoni? Dækker bestemmelsen over mobil internetkommunikation vil registrering af lokaliseringsdata i forbindelse med denne brug ikke være i strid med udbudsbekendtgørelsens § 23, stk. 1. Gælder bestemmelsen kun for taletelefoni, forholder det sig omvendt,« lyder det skriftlige svar.
+Ministeriet sidder med svaret
+Han henviser til, at logningsbekendtgørelsen hører til hos Justitsministeriet, og at det derfor er op til ministeriet at fortolke bestemmelsen. Information har i flere dage forsøgt at komme i kontakt med ministeriets sikkerheds- og forebyggelseskontor, men uden held.
+I stedet kan ministeriets vejledning til, hvordan logningsbekendtgørelsen skal forstås, måske løfte sløret for, hvorvidt teleselskabernes logning er ulovlig. Heri lyder det, at »udbydere af fastnet- og mobiltelefoni skal registrere telefonnummeret på den opkaldende abonnent eller andre tilsvarende former for identifikation, der er knyttet til opkaldet.«
+Det fremgår således, at begrebet ’fastnet- og mobiltelefoni’ alene dækker over telefonsamtaler og altså ikke over internettrafik. Hvis Erhvervsstyrelsen og juraprofessor Søren Sandfeld Jakobsens ord står til troende, er overvågningen således ulovlig.
+Ifølge Jacob Voetmann har Erhvervsstyrelsen tidligere modtaget henvendelser om problemstillingen, men han oplyser, at styrelsen vil »gå i dialog med branchen«, hvis praksissen er ulovlig.
+

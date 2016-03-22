@@ -1,0 +1,6 @@
+Spillere analyseres af 16 kameraer
+
+
+
+ En læser af netavisen videnskab.dk har spurgt, hvordan man efter en kamp kan måle, hvor langt en fodbold-spiller har løbet - sådan som det blandt andet blev gjort under sommerens EM i fodbold. Svaret er, at hver enkelt spiller bliver overvåget af i alt 16 kameraer, som er sat op rundt omkring på store stadions i Europa. Systemet analyserer hver enkelt spiller ud fra 3D-koordinater og ved hjælp af analyser af 25 videobilleder i sekundet. "På den måde har vi koordinater på alle spillere og oplysninger til alle kombinationer af spillere og kan registrere antallet af afleveringer, afstanden hver spiller har løbet og så videre. Det kræver to teknikere, som sætter det hele op og overvåger systemet undervejs," fortæller Igor Masnjak, leder af marketing- og researchafdelingen hos UEFA Media Technologies til videnskab.dk Igor Masnjak tilføjer, at systemet er blevet testet fra uafhængig side, og at det måler præcist inden for en margin på to procent. Systemet blev inden EM i Schweiz og Østrig testet gennem et år i blandt andet Champions League. Det har vist sig at være så stor en succes, at UEFA fortsætter med at bruge det til statistik i denne sæsons Champions League. 
+

@@ -1,0 +1,15 @@
+Sådan bruger du app'en Kamera Spotter
+Vi vil kortlægge omfanget af videoovervågning i Danmark og det vil vi gerne have din hjælp til. Med den mobile applikation Kamera Spotter til Android telefoner og iPhone kan du være med til at indsamle data om overvågningskameraernes placering
+
+
+ Sådan finder du Kamera Spotter
+Kamera Spotter findes både til iPhone og Android. Du finder Kamera Spotter ved at søge den frem i enten Apples App Store, Googles Android Market eller i Appstore til iPhone på din mobil. Du skal blot søge på Kamera Spotter, så dukker den op som en af de første tilgængelige apps. Herefter installerer du blot på din telefon.
+Sådan bruger du Kamera Spotter
+Når du ser et overvågningskamera på gaden, åbner du app’en og efter ca. 10-15 sekunder finder den din geografiske position – alt efter satellitforholdene. Derpå trykker du på knappen ’Kamera spottet!’, og du kan nu tage et billede af overvågningskameraet med mobilen.
+Du har mulighed for at tilføje yderligere information om overvågningskameraet, f.eks. om hvem kameraet tilhører eller hvor det sidder på bygningen osv. Du har også mulighed for at rette adressen til, hvis den ikke er helt præcis.
+Endelig skal du svare på, om der er skiltet, med at området bliver videoovervåget, før du til sidst uploader billedet til Kamera Spotter-kortet, hvor alle spottede kameraer vises.
+Det hele tager omkring et halvt til et helt minut, og dit billede vil kunne ses på kortet efter ca. 10 minutter. Med Kamera Spotter er du med til at kortlægge videoovervågningen i Danmark, så alle – både dem der overvåger og dem der overvåges – med tiden kan se omfanget af videoovervågning i det offentlige rum.
+Kun udendørs overvågning
+Nu skal det jo heller ikke blive for nemt, så derfor vil vi bede dig om kun at bruge Kamera Spotter til at dokumentere kameraer som er placeret udendørs. Både fordi vi gerne vil sikre os at der er tale om overvågningskameraer i det offentlige rum, men også af den grund at GPS-funktionen ganske enkelt er for upræcis, når man bruger sin telefon indendøre.
+Bemærk at der vil være et forbrug af datatrafik på dit abonnement når du bruger app'en. Størrelsen af forbruget afhænger af dine kameraindstillinger på telefonen m.v.
+

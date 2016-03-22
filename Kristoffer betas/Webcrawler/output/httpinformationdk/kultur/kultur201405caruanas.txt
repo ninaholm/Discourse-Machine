@@ -1,0 +1,26 @@
+Caruanas djævelske fælde
+Men Magnus Carlsen hoppede ikke i den og vandt suverænt
+Skak
+
+
+ 
+	Skakspillet er grusomt, det ved alle vi, der i fire, fem timer har siddet og spillet det ’perfekte parti’ for så i 11. time at smide det hele væk med en grov overseelse. I finalepartiet mellem Magnus Carlsen og Fabiano Caruana – kun de to kunne vinde Gashimov Memorial i Shamkir, Aserbajdsjan – viste Magnus sin klasse som verdensmester og udspillede med de hvide brikker træk for træk sin italiensk-amerikanske modstander:
+
+	1.d4 Sf6 2.Sf3 g6 3.g3 Lg7 4.Lg2 c5 5.c3 d5 6.dxc5 ...
+
+	Så er der en bonde til hvid, og Magnus kan med et udtryk fra Klaus Rifbjerg være en ’veritabel fastholder’.
+
+	6. - 0–0 7.0–0 a5 8.Le3 Sc6 9.Sa3 a4 10.Dc1 e5 11.Td1 De7 12.Sb5 Le6 13.Sg5 Lg4 14.Sd6 h6 15.Sf3 Kh7 16.h3 Le6 17.b4 axb3 18.axb3 Txa1 19.Dxa1 Se4 20.Sd2 f5?! - ambitiøst, men sandsynligvis ikke særlig godt - 21.S2xe4 dxe4 22.Db1 f4 23.Ld2 e3 24.Le1 Lf5 25.Dc1 h5 26.fxe3 fxg3 27.Lxg3 Dg5 28.e4 Dxg3 29.Td3 Dh4 30.exf5 gxf5 31.e4 fxe4 32.Lxe4+ Kh8 33.De3 Tf4 34.Lg2 De7 35.De2 Dh4 36.b4 e4 37.Sxe4 Se5 38.Td5 Kg8 39.b5 Tf5 40.c6 bxc6 41.bxc6 ...
+
+	Tidnøden er overstået, og Caruana kunne roligt opgive her. Men måske opstår der et eller andet?
+
+	41. - De7 42.Sd6 Tg5 43.Sb5 De6 44.Td8+ Kh7 45.De4+ Tg6 46.c7 Da6 47.c8D Da1+ ...
+
+	Se diagrammet.
+
+	Hvis nu Magnus spiller med for løst håndled, er chancen der - for efter 48.Kf2++ sætter sort mat, begyndende med 48. - Sf3+! Men sådan spiller en sand verdensmester naturligvis ikke - og efter:
+
+	48.Kf2 Db2+ 49.Ke1 opgav Caruana. Sort løber tør for skakker, og en ekstra dronning er jo et vist plus. Et vildt parti, men det virkede, som om nordmanden hele tiden var i kontrol. Dermed endte det med en suveræn sejr til ham, idet slutstillingen blev: 1. Carlsen, 6,5 points 2. Caruana, 5,5 p. 3.-5. Nakamura, Radjabov og Karjakin, alle 5 p. 6. Mamedyarov, 3 p.
+
+	Karjakin præsterede at spille samtlige sine 10 partier remiser, hvad der afstedkom mange hånlige bemærkninger på turneringens chatside. Næste gang vi skal opleve skak på dette høje niveau, bliver i Stavanger i begyndelsen af juni, hvor ’Norway Chess’ byder på et stjernefelt uden lige: Carlsen, Aronian, Kramnik, Topalov, Caruana og Grischuk er blandt deltagerne, og desuden er norsk skak repræsenteret ved stormester Simen Agdestein, der også har været norsk landsholdsspiller i fodbold og synes at være i sit livs form. I denne sammenhæng må han dog givetvis indstille sig på at blive prügelknabe og lære af de tæsk, der venter ham.
+

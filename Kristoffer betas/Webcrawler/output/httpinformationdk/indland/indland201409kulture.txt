@@ -1,0 +1,30 @@
+Et kulturelt og teknologisk sammenstød i hackersag
+Det var et sammenstød mellem to forskellige verdener, da den amerikanske hacker Jacob Appelbaum var i Frederiksberg Ret som ekspertvidne i danmarkshistoriens største hackersag. Anklageren forstår ikke noget om teknik, hævdede Appelbaum og angreb anklagerens bevismateriale, mens anklageren fokuserede på Appelbaums baggrund og private relationer til den ene af de to tiltalte
+Den svenske hacker Gottfrid Svartholm Warg er sigtet for at have brudt ind i og kopieret oplysninger fra Rigspolitiets kriminalregister og kørekortregister. Men ifølge den amerikanske hacker Jacob Appelbaum, som i går var indkaldt som ekspertvidne, kan andre hackere nemt have udført angrebet via adgang til Gottfrid Svartholm Wargs computer
+
+
+ Anklagemyndigheden forsøgte i sidste uge at anfægte hans troværdighed for at forhindre ham i at vidne. Men i går sad den amerikanske hacker og journalist Jacob Appelbaum alligevel i Frederiksberg Ret som ekspertvidne i sagen mod svenskeren Gottfrid ’Anakata’ Svartholm Warg og en 21-årig dansker. De to er sigtet for at have hacket sig ind i CSC’s systemer og at have taget blandt andet politiets Schengen-register og over én million CPR-numre fra kørekortregisteret med sig. Jacob Appelbaum var indkaldt af forsvareren i sagen for at afgive forklaring om muligheden for, at Gottfrid Svartholm Wargs computer blev fjernstyret af andre til at udføre angrebet. Det var det argument, der fik Gottfrid Svartholm Warg frikendt for dele af sigtelserne mod ham i en lignende sag om angreb på Logica og Nordea i Sverige.
+Politiets beviser i sagen baserer sig i høj grad på, at man har fundet spor efter angrebet på en computer, der tilhører Gottfrid Svartholm Warg, men ifølge Appelbaum, er det ikke noget gyldigt bevis, når man kigger nærmere på indholdet af computeren. Den er nemlig fuld af vira, usikkerheder og bagdøre og designet til at blive brugt af flere på samme tid, så andre hackere nemt kan have udført angrebet via adgangen til computeren.
+»Den her computer kan man kalde et samlerobjekt. Den har en samling af exploits og sårbarheder, som stort set ingen anden computer i historien. Hvis nogle af jer satte den her computer på netværket i retten, ville der komme en fra it-afdelingen løbende for at fjerne den,« forklarede Jacob Appelbaum og betegnede den som en ’lab’-computer, der er designet til at være åben og usikker, så flere mennesker kan eksperimentere med den på samme tid. Et faktum som den tekniske rapport glider alt for let henover, sagde Appelbaum, og kritiserede rapporten i hårde vendinger.
+Men på trods af kritikken af rapporten blev der stort set ikke boret i de tekniske dele af sagen under anklager Anders Risagers afhøring. Han fokuserede i stedet på Jacob Appelbaums baggrund i hackerbevægelsen, og hvorfor han er kvalificeret til at udtale sig i sagen.
+»Er du villig til at give mig din adresse,« spurgte Anders Risager
+»Hvorfor? Vil du sende mig post?«
+»Nej, men vil du give mig den?«
+Jacob Appelbaum opgav en adresse i Berlin, og bad pressen om at lade være med at skrive den i avisen.
+»Har du en kandidatgrad?«
+»Nej, som de fleste, der er gode til computer, har jeg ikke nogen akademisk uddannelse. Jeg vil ikke sige, at jeg er bedre end nogen anden på det her område. Men jeg er bedre end de fleste, der har skrevet de her rapporter,« svarede han.
+Anklageren fortsatte med at fremlægge en række Twitter-udvekslinger, som han mener viser en forbindelse mellem Jacob Appelbaum og Gottfrid Svartholm Warg eller nogle af Wargs venner. Han spurgte også ind til, om han kender Julian Assange, og om han har »arbejdet for free anakata bevægelsen«, men Appelbaum afviste flere gange at kende Warg personligt og oplyste, at han slet ikke bryder sig om ham.
+»Alle har ret til en fair rettergang, og det gælder især folk i udkanten af samfundet, hvor teknologien er meget svært tilgængelig for de fleste. Jeg kom for at rette fejl, særligt de fejl, som blev begået i den svenske retssag, og som stadig jagter Gottfried i den her sag,« svarede Jacob Appelbaum og sagde direkte henvendt til anklageren.
+»Du har specifikt fortalt mig, både før vi gik herind og i pauserne, at du ikke forstår teknologien i det her. Det er det, der er problemet. Det er et kulturelt og teknologisk sammenstød, og det er det, jeg er kommet for at rette op på,« sagde han og tilføjede kort efter, da han forlod retten efter endt afhøring.
+»Tak for at høre på mig, selvom jeg ikke har en universitetsgrad.«
+’Drop den sag’
+Jacob Appelbaum stod efter endt afhøring på gangen i Retten ved Frederiksberg og talte med en flok journalister. Om sammenstødet mellem kulturer, og om anklagemyndighedens manglende tekniske kompetencer.
+»Det er en filosofisk pointe. Din computer er ikke dig. Og Gottfrids computer er ikke ham. Hans computer blev delt af mange mennesker, fysisk i et rum hvor mange havde adgang, og det ser også ud til at være tilfældet, at den kunne fjernstyres. Hvis ikke vi skal konkludere, at vi ér vores maskiner, så skal han ikke gøres ansvarlig for det,« sagde han.
+Men hvorfor har en så dygtig hacker som Gottfrid en computer, der er så fuld af sikkerhedshuller, ville en journalist gerne vide.
+»Det giver mening for mig, at Gottfrid ikke sikrede sin computer, fordi det ikke var det, der var hensigten. Det var meningen, at den skulle deles, og der var en gruppe mennesker, der havde adgang til computeren, og han bliver nu straffet for en af deres forbrydelser. Man siger, at der ikke er nogen ære blandt tyve, og det er der heller ikke blandt en gruppe hackere, hvor to af dem er i problemer, men hvor fem af dem ikke er,« sagde han.
+Anklager Anders Risager kom gående forbi på gangen netop som Jacob Appelbaum var på vej ud.
+»Jeg har et spørgsmål til dig,« siger Appelbaum og peger på hans telefon.
+»Hvis din iPhone bliver brugt til at angribe dommerens telefon, skal du så dømmes for det?«
+»Selvfølgelig ikke,« svarede Anders Risager. »Nej, præcis. Vi er ikke vores maskiner. Drop den her sag, den er forfærdelig,« siger Jacob Appelbaum. »Nej, nej, nej,« svarede anklageren og gik ind i retssalen igen.
+Næste retsmøde er den 22. september.
+

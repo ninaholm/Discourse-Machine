@@ -1,0 +1,27 @@
+Sverige samarbejder med NSA om hacking
+Den svenske tjeneste for elektronisk overvågning FRA har hjulpet NSA med avancerede hackerangreb på trods af garantier om, at de kun ville foretage passiv overvågning. Dokumenter tyder på, at Sverige har adgang til et af NSA’s mest indgribende overvågningsværktøjer
+
+
+ 
+	På en planlægningskonference afholdt den 24.–26. april i år var NSA-direktør general Keith Alexander vært for »den for NSA så vigtige partner: svenske FRA«. Ifølge fortrolige dokumenter fra whistleblower Edward Snowden, som det svenske tv-program Uppdrag Granskning er kommet i besiddelse af, stod to af de mest kontroversielle og kritiserede værktøjer i spionernes værktøjskasse på dagsordenen. Det potente søgeprogram XKEYSCORE og WINTERLIGHT, et tophemmeligt hackingprogram, som svenskerne med succes har taget til sig.
+
+	FRA hører under det svenske forsvar og er den myndighed, der står for overvågning af datastrømme, der kommer ud og ind af landet. En kontroversiel tjeneste, der allerede søndag skabte debat på ny, efter SVT offentliggjorde dokumenter om NSAs samarbejde med FRA. Da loven, der skulle give FRA hjemmel til at tappe data, der krydser Sveriges grænser, blev fremsat, vakte lovforslaget voldsom politisk uro. I 2009 gik FRA-loven igennem med et hårfint flertal på kun 3 mandater, men modstanderne får nu nyt brænde til det bål, der har mobiliseret tusinder af svenskere i protest mod den omfattende overvågning af internettet.
+
+	Mange søgestrenge
+
+	XKEYSCORE er et kontroversielt overvågningsprogram, der giver den efterretningsansatte mulighed for at søge i »stort set alt en almindelig person foretager sig på internettet«. Værktøjet finder sine data i de gigantiske mængder informationer, der opbevares i NSA’s serverhaller rundt omkring i verden. Det er data fra internet og teletrafik, satellitter, telefonaflytninger og hacking som analytikerne kan søge sig igennem ud fra forskellige parametre.
+
+	XKEYSCORE kan på den måde kaldes en slags søgemaskine til alt det, Google ikke har adgang til. Efterretningstjenester med adgang til programmet kan søge og finde private oplysninger udfra for eksempel et telefonnummer, en e-mailadresse, eller Facebook ID, men ligesom med Google, kan man også bruge løsere søgestrenge. Værktøjet giver lynhurtigt adgang til millioner af almindelige internetbrugeres søgehistorik; hvilke websites de har besøgt, private chats og telefonsamtaler. Hvis en NSA-analytiker for eksempel leder efter terrorceller, men mangler en stærk søgestreng, kan brugeren ifølge præsentationen se efter »personer som bruger kryptering« eller »søger på nettet efter mistænksomme ting«.
+
+	Uppdrag Granskning hævder, at FRA, til gengæld for sit nære samarbejde med NSA, har fået adgang til programmet, hvilket »tyder på, at FRA er en del af en grænseløs overvågning af millioner af mennesker i hele verden – selv svenskere«. I et telefoninterview konfronterer Uppdrag Granskning talsmanden for FRA Fredrik Wallin og forsøger at få svar på, hvordan værktøjet bliver brugt, men får ikke noget klart svar:
+
+	»Det er sådan, at vi hos FRA holder os ajour med teknologien inden for efterretningsområdet, og det betyder, at vi ser på en mængde forskellige typer teknikker og udstyr. Hvilke, vi så anvender i tjenesten, kan jeg ikke komme ind på,« svarer Fredrik Wallin.
+
+	Operation Winterlight
+
+	Søndag afslørede Uppdrag Granskning, at FRA har bedrevet omfattende spionage mod russiske mål og siden 2011 givet NSA adgang til de efterretninger, FRA indhenter fra internetkabler, hvilket ifølge amerikanerne »har resulteret i unikke efterretninger om højt prioriterede russiske mål som ledelse, intern politik og energi«. Men ifølge de nye oplysninger nøjes Forsvarets Radioanstalt ikke med den passive indsamling af data fra internetkablerne, de udnytter også aktivt adgangen til at hjælpe NSA med at hacke computere. Winterlight, hedder projektet, og minder om den måde, den britiske tjeneste GCHQ tidligere har hacket sig ind i det belgiske teleselskab Belgacom, der har en række EU-institutioner som Rådet, Kommissionen og EU-parlamentet blandt sine kunder. Angrebet går ud på, at FRA hjælper med at sende udvalgte internetbrugere til servere, hvor den britiske tjeneste GCHQ så kan infiltrere og overtage deres computere via malware. Det er kontroversielt i Sverige, fordi FRA over for svenske politikere gentagne gange har hævdet, at de udelukkende foretager passiv overvågning – og ikke aktiv overvågning som hacking. Ifølge sikkerhedseksperten, Bruce Schneier er der dog ingen tvivl om svenskernes involvering.
+
+	»Det faktum, at Sverige er involveret i disse programmer, betyder, at Sverige er involveret i aktive angreb mod internetbrugere. Det er ikke bare passiv overvågning. Det er et aktivt angreb,« siger han.
+
+	 
+

@@ -1,0 +1,13 @@
+EU-Domstolen: TDC skal grave for konkurrenterne
+Teleudbyderen TDC har så dominerende en position på markedet, at firmaet kan pålægges at hjælpe konkurrenter.
+
+
+ Det er ifølge EU-Domstolen helt på sin plads, at It- og Telestyrelsen for Teleklagenævnet har pålagt teleudbyderen TDC at betale for en del af det grave- og kabelarbejde, der også skal gøre det muligt for TDC's konkurrenter at servicere deres kunder.
+EU-Domstolen siger i en dom torsdag, at TDC har så dominerende en position på markedet i Danmark, at de nationale tilsynsmyndigheder godt kan pålægge virksomheden at "efterkomme rimelige anmodninger om adgang til og anvendelse" af dele af TDC's kabelnetværk.
+Den stærke markedsposition fik TDC ifølge dommen i 2009, da det købte Dong Energys fibernet for 245 millioner kroner.
+Det er Østre Landsret, der i en konkret sag har spurgt EU-Domstolen til råds om, hvordan man skal tolke et nu 12 år gammelt EU-direktiv, der blandt andet sigter mod at give alle udbydere ret til adgang til elektroniske kommunikationsnet.
+Ifølge Teleklagenævnet er det i Danmark TDC, der har kontrol over, hvornår en husstand kan tilknyttes det fibernet, TDC har opbygget.
+Derfor er det ifølge EU-Domstolen også rimeligt at kræve, at TDC bliver pålagt at grave stikledninger fra sin hovedledning til nye kunder, der vil købe telekommunikation fra nogle af TDC's konkurrenter.
+Forpligtelsen gælder for stikledninger af op til 30 meters længde målt fra fordelingspunktet på hovedledningen til netudtaget hjemme hos brugeren.
+- Etablering af sådanne stikledninger er en nødvendig forudsætning for, at TDC's konkurrerende udbydere kan erhverve kunder til fibernettjenester i lige konkurrence med TDC, hedder det blandt andet fra EU-Domstolen.
+EU-Domstolens afgørelse bliver nu sendt til Østre Landsret, der kan afslutte sagen. Det vil blandt andet være op til Østre Landsret at vurdere, hvornår kravet om, at TDC skal lave stikledninger for sine konkurrenter, er "forholdsmæssigt og berettiget".

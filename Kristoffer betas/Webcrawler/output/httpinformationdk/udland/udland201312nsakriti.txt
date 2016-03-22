@@ -1,0 +1,51 @@
+NSA-kritikere vinder første sejr i USA
+En forbundsdommer giver sagsøgere medhold i, at USA’s overvågningsagenturs indsamling af telefondata krænker deres privatliv og dermed forfatningen
+
+
+ 
+	Kritikere af NSA’s massive indsamling af amerikanske statsborgeres telefondata vejrede morgenluft mandag, da en forbundsdommer i Washington, D.C., i en kendelse konstaterede, at overvågningsagenturets praksis »med stor sikkerhed krænker sagsøgernes rimelige forventning om beskyttelse af privatlivets fred«.
+
+	Forbundsdommer Richard Leon lægger hermed op til, at NSA’s overvågning er i strid med den 4. tilføjelse til USA’s forfatning, der skal beskytte borgerne mod at blive udsat for en urimelig ransagning af deres person og deres hjem og mod beslaglæggelse af deres dokumenter og ting uden fremvisning af en retskendelse.
+
+	Det er første gang, at en forbundsdommer kritiserer Barack Obama-regeringens lovlige hjemmel til at lade NSA aflytte og registrere de såkaldte metadata om alle telefonsamtaler foretaget inden for USA’s grænser.
+
+	I andre tilfælde har dommere accepteret regeringens begrundelse.
+
+	Metadata defineres generelt som oplysning om tid og sted for et telefonopkald og det nummer, der bliver ringet op.
+
+	Kritikere af denne praksis fremhæver, at NSA ved en nærmere analyse af disse data kan få en masse oplysninger om de involverede personers adfærd.
+
+	Agenturet svarer, at det kun indsamler og opbevarer metadata, og at der derfor ikke er tale om aflytning eller overvågning.
+
+	I den foreliggende sag havde Larry Klayman fra den konservative gruppe Judicial Watch og fire andre sagsøgere – der alle er abonnenter hos teleselskabet Verizon – hævdet, at NSA’s indsamling af deres telefondata er i strid med deres forfatningsmæssige rettigheder.
+
+	Dommer Leon gav dem medhold og beordrede NSA til at ophøre med at registrere de fem sagsøgeres metadata.
+
+	Men i forventning om, at regeringen vil anke dommen, træder hans ordre først i kraft, når der er klarhed om de øvre domstoles holdning.
+
+	Obama-regeringen vil formentlig anke Leons kendelse til en føderal appeldomstol. Uanset udfaldet her forventes det, at Højesteret i sidste instans vil skulle tage stilling til, hvorvidt NSA’s praksis er i overensstemmelse med forfatningen.
+
+	Der er for tiden andre sagsanlæg mod NSA, som går gennem retssystemet.
+
+	De to organisationer, American Civil Liberties Union og Electronic Frontier Foundation, har en lignende sag liggende hos en føderal domstol.
+
+	Det banebrydende ved dommer Leons kendelse er hans afvisning af regeringens henvisning til en højesteretskendelse fra 1979 som den lovlige hjemmel til at lade NSA opsnappe metadata fra telefonopringninger.
+
+	I den 34 år gamle sag udtalte domstolen, at det ikke var i strid med forfatningen at indsamle metadata om en tiltalts telefonopkald, idet han frivilligt havde overgivet telefonselskabet ’ejerskab’ af sit telefonnummer og de numre, han ringede op til. Derfor kunne politiet installere en aflytningsapparat uden en dommerkendelse.
+
+	Ifølge Obama-regeringen viser højesteretskendelsen, at abonnenters telefondata ikke er private, idet de er frivilligt overgivet til teleselskabet. Derfor skulle NSA’s opsnapning af metadata ikke være forfatningsstridigt.
+
+	Men dommer Leon fremfører i sin kendelse, at situationen har ændret sig radikalt siden 1979.
+
+	»I 2013 har folk et helt andet forhold til telefoner.
+
+	I dag er de allestedsnærværende, og derfor er der så meget mere information tilgængelig, som giver staten mulighed for at analysere folks liv,« skriver dommer Leon: »Sagen i 1979 handlede om metadata for et individ, der skulle indsamles over et kort tidsrum. NSA’s program omfatter en database, som opbevarer data i fem år, og der er udsigt til, at programmet vil vare lige så længe, som USA bekæmper terrorisme, og det kan blive på ubestemt tid.«
+
+	Dommer Leon tilføjer, at NSA’s teknologi, der nærmer sig »orwellske dimensioner«, desuden har udstyret agenturet med en kapacitet, der ikke kan sammenlignes med aflytningsudstyr i 1979.
+
+	Leons kritik af argumenterne, der lå til grund for højesteretsdommen fra 1979, kan ifølge iagttagere bidrage til at undergrave Obama-regeringens lovlige hjemmel til at fortsætte NSA-programmet.
+
+	Men det er kun et første spædt skridt i den retning.
+
+	 
+

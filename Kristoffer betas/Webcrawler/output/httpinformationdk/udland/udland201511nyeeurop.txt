@@ -1,0 +1,23 @@
+Er der nye europæiske logningsregler på vej?
+Formandskabet for EU-rådet spørger nu medlemslandenes ministre, om der bør indføres nye EU-regler for logning af borgeres kommunikation, efter at det såkaldte logningsdirektiv sidste år blev annulleret. Men det kan blive svært, fordi bl.a. Frankrig og Storbritannien allerede nu er i gang med langt mere vidtgående overvågningslovgivning, påpeger iagttagere
+
+
+ Et nyt kapitel kan være på vej i det årelange slagsmål om EU’s såkaldte logningsdirektiv, der indførte fælles krav til alle medlemslande om, hvilke oplysninger om de europæiske borgeres elektroniske kommunikation, der skulle gemmes.
+Blandt andet blev der stillet krav om, at alle medlemslande skulle gemme oplysninger om, hvem der havde kommunikeret med hvem, og hvor personerne befandt sig på det pågældende tidspunkt.
+Direktivet – der af den tilsynsførende for EU’s eget datatilsyn blev betegnet som »det mest privatlivskrænkende instrument«, der nogensinde er blevet indført af EU – blev sidste år underkendt af EU-Domstolen for at være i strid med EU’s charter om grundlæggende rettigheder.
+Men i en række nye spørgsmål sendt fra det luxembourgske formandskab for EU til medlemslandene bliver der nu spurgt til, om EU bør foreslå nye europæiske regler på området.
+»Der virker til at være et forsøg på enten at redefinere eller ignorere EU-Domstolens dom om logningsdirektivet ved at lancere nye regler,« siger Joe McNamee, der er direktør i organisationen European Digital Rights.
+Ulovlige foranstaltninger
+Han påpeger, at problemet med disse fælles EU-regler er, at selv om de senere viser sig at være ulovlige, kan de godt ende med at få store konsekvenser i mange år. Logningsdirektivet nåede at eksistere i otte år, inden det blev annulleret, mens den såkaldte Safe Harbor-beslutning, som EU-Domstolen tidligere i år underkendte, nåede at eksistere i 15 år, før EU-Domstolen erklærede beslutningen for ugyldig.
+»Det viser, at EU-institutionerne kan vedtage lovgivning eller initiativer, som de godt er klar over ikke vil holde til nærmere granskning, men det tager så lang tid, før EU-Domstolen kan komme frem til en afgørelse, at de kan nå at implementere ulovlige foranstaltninger,« siger Joe McNamee.
+Ifølge Franziska Boehm, der er juraprofessor og tilknyttet Karlsruhe Institut for Teknologi, bliver det dog ikke nogen let opgave at genoplive logningsdirektivet.
+»Juridisk set bliver det meget svært at lave et nyt logningsdirektiv, for dommen fra EU-Domstolen opsætter mange restriktioner på området. Men jeg tror, at der er et politisk ønske fra nogle medlemslande om at indføre et sådant direktiv igen,« siger Franziska Boehm.
+Jesper Lund, der er formand for IT-Politisk Forening i Danmark, er enig:
+»Det bliver relativt svært for EU at lave et nyt logningsdirektiv efter dommen fra EU-Domstolen. Mest af alt tror jeg, at det er et udtryk for, at der er uenighed om logningsspørgsmålet blandt medlemsstaterne generelt. Men jeg tror ikke nødvendigvis, at der er et nyt logningsdirektiv på vej lige med det samme.«
+Vidtgående logning i Frankrig
+I det brev med spørgsmål om nye logningsregler, som er sendt til medlemslandene, står der, at der er opstået vidt forskellige situationer i forhold til logning i de enkelte medlemslande, efter at EU-Domstolen annullerede logningsdirektivet. Nogle lande har valgt at stoppe den omfattende registrering som et resultat af dommen, andre har valgt at fortsætte uændret, og endnu andre er i gang med at vedtage nye nationale regler for logningen af borgernes data.
+Ifølge brevet har denne »fragmentering af de juridiske rammer om logning i EU indflydelse på effektiviteten af efterforskningen af kriminalitet og retsforfølgelse på nationalt niveau, særligt i forhold til pålidelighed og anerkendelse af beviser i retten baseret på indsamlingen af data om elektronisk kommunikation såvel som det juridiske samarbejde mellem medlemsstaterne over grænserne«.
+Netop de markant forskellige regler landene imellem kan ifølge Joe McNamee gøre det svært at komme frem til nye fælleseuropæiske regler for registrering af elektronisk kommunikation, da nogle medlemsstater er så meget mere radikale, når det kommer til overvågning.
+»Det virker usandsynligt af den grund, at hvis de vil have en harmoniseret tilgang, er de nødt til at harmonisere nedad, og det vil Frankrig og Storbritannien aldrig acceptere,« siger han.
+Ifølge den danske regerings lovprogram er der lagt op til en revision af de danske logningsregler i første halvår af 2016. Information har spurgt justitsminister Søren Pind (V), om regeringen også ønsker nye fælleseuropæiske regler, men han havde ikke mulighed for at kommentere det i går.
+

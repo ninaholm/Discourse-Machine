@@ -1,0 +1,18 @@
+De kiksede chancers parti
+Skadelige skakker kostede Anand sejren i det 9. VM-parti
+
+
+ Viswanathan Anand havde som hvid i det 9. VM-parti flere gyldne chancer for at sikre sig en vigtig gevinst, men kom til at give et par skakker, der ikke bare var overflødige, men skadelige. I det 40. træk lod en sådan skak Topalovs konge undslippe fra ottende række, og efter 61 træk var den gal igen:
+Se diagrammet.
+Her vinder det naturlige 62.Tdd7, men Anand spillede: 62.Tc5? Kb8 63.Td5 Kc8 - (samme stilling som før, altså bør han spille 64.Tdd7), men: - 64.Kg3? Da1 65.Tg4 b2 66.Tc4+ Kb7 67.Kf2 b1D 68.Sxb1 Dxb1 69.Tdd4 Da2+ 70.Kg3 a3 71.Tc3 Da1 72.Tb4+ Ka6 73.Ta4+ Kb5 74.Tcxa3 Dg1+ 75.Kf4 Dc1+ 76.Kf5 Dc5+ 77.Ke4 Dc2+ 78.Ke3 Dc1+ 79.Kf2 Dd2+ 80.Kg3 De1+ 81.Kf4 Dc1+ 82.Kg3 Dg1+ 83.Kf4 ...
+Og en frustreret Anand måtte acceptere, at der ikke var mere end remis. De to hvide tårne burde have overtrumfet den sorte dronning i dette slutspil, for Topalovs eneste chance var jo at redde sig ved evig skak. Det burde han ikke have fået lov til, Vishy!
+Holdt hovedet koldt
+Man kunne have frygtet, at Anand - der jo også leverede en fæl kikser i det ottende parti - nu ville kollapse, men han holdt med de sorte brikker hovedet koldt i det 10. parti, selv om han en overgang virkede presset af Topalov:
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.cxd5 Sxd5 5.e4 Sxc3 6.bxc3 Lg7 7.Lc4 c5 8.Se2 Sc6 9.Le3 0-0 10.0-0 b6 11.Dd2 Lb7 12.Tac1 Tc8 13.Tfd1 cxd4 14.cxd4 Dd6 15.d5 Sa5 16.Lb5 Txc1 17.Txc1 Tc8 18.h3 Txc1+ 19.Dxc1 e6 20.Sf4 exd5 21.Sxd5 f5! - sikrer sort udligning - 22.f3 fxe4 23.fxe4 De5 24.Ld3 Sc6 25.La6!
+Smart spillet af bulgareren. Det enkleste havde nu været 25. - Lxa6 26.Dxc6 etc., men Anand gør det vanskeligere for sig selv med:
+25. - Sd4 26.Dc4 Lxd5 27.Dxd5+ Dxd5 28.exd5 Le5 29.Kf2 Kf7 30.Lg5 Sf5 31.g4 Sd6 32.Kf3 Se8 33.Lc1 Sc7 34.Ld3 Ld6 35.Ke4 b5 36.Kd4 a6 37.Le2 Ke7 38.Lg5+ Kd7 39.Ld2 Lg3 40.g5 Lf2+ 41.Ke5 Lg3+ 42.Ke4 Se8 43.Lg4+ Ke7 44.Le6 Sd6+ 45.Kf3 Sc4!
+Herefter kan Peter Heine og de øvrige i Anands lejr ånde lettet op.
+46.Lc1 Ld6 47.Ke4 a5 48.Lg4 La3 49.Lxa3+ Sxa3 50.Ke5 Sc4+ 51.Kd4 Kd6 52.Le2 Sa3 53.h4 Sc2+ 54.Kc3 Sb4 55.Lxb5 Sxa2+ 56.Kb3 Sb4 57.Le2 Sxd5 58.h5 Sf4 59.hxg6 hxg6 60.Lc4 - og remis.
+Stillingen inden de to sidste partier er 5-5, og skulle det herefter stå 6-6, skal duellanterne ud i en omgang hurtig- skak Kristi Himmelfartsdag.
+
+

@@ -1,0 +1,6 @@
+Musikportal via dit bibliotek
+
+
+
+ På musikbibliotek.dk/hoerbar kan du nu hente musikpodcasts, som er af lavet musikbibliotekarer fra hele landet. Hvis du for eksempel skulle være interesseret i at høre om bands fra Randers, kan du gå ind på hjemmesiden og downloade podcasten Clonecircle om et goth-industrial-metal-band fra den jyske metalscene. Du kan også finde en hel serie om elektronisk musik eller høre, hvad der er i vente på årets Spotfestival. De forskellige musikpodcasten består af en blanding af snak og musik og henvender sig til at alle lånerne, som vil blive lidt klogere på bands, genrer eller festivaler. Bibliotekar Claus Teglgaard Madsen fra Odense Bibliotek anbefaler især Ultra FM-serien, som handler om genrer inden for den elektroniske musik. Ultra FM-serien er nået til afsnit 25, der er om den elektroniske genre dubstep.
+

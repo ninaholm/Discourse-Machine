@@ -1,0 +1,14 @@
+Danske studerende får kunstig intelligens på skemaet
+Computerprogrammet Watson vandt Jeopardy i 2011. Nu skal DTU undervise studerende i programmet.
+
+
+ Et avanceret computerprogram kommer fra næste år på skoleskemaet for kandidatstuderende på Danmarks Tekniske Universitet (DTU).
+Den kunstige intelligens døbt Watson er et selvlærende it-program, som kan forstå spørgsmål og samtidigt sammensætte enorme mængder af data på en fleksibel måde - akkurat som en menneskehjerne. Blot endnu hurtigere.
+ Som det eneste universitet i Norden er DTU udvalgt af teknologivirksomheden IBM til at udbyde kurser i Watson, så de studerende fra foråret 2015 kan specialisere sig på en ny måde inden for såkaldt kognitiv computing.
+- Vi får en unik platform til at præsentere vores studerende for kognitiv computing. De får mulighed for at være kreative ved at udvikle apps, der udnytter Watsons kunstige intelligens, siger Lars Kai Hansen, professor ved DTU Compute, i en pressemeddelelse og uddyber:
+- Det kan være sjove og underholdende apps, som eksempelvis en DJ eller apps til medicinske formål, der kan forudsige udviklingen af et sygdomsforløb hos en patient.
+Watson blev verdenskendt i 2011, da den kunstige intelligens vandt i quizprogrammet Jeopardy over to amerikanske mestre. Siden har IBM, der står bag programmet, udbredt udnyttelsen af Watson til mange seriøse formål fra blandt andet diagnosticering af kræft og udvælgelse af den rette behandling over kundeservice til e-handel og analyser.
+Kognitiv computing dækker over selvlærende it-systemer, som kan interagere naturligt med mennesker - en forskning der i høj grad er på vej ind i virksomheder, hvor systemerne kan hjælpe med at håndtere big data.
+IBM Danmarks innovationschef, Anders Quitzau, ser frem til samarbejdet med DTU.
+- Ved at lægge Watson i hænderne på morgendagens innovatører, slipper vi kreativiteten løs i det akademiske miljø. Når de tager Watsons intelligente services i brug og anvender dem til at udvikle nye løsninger, kan vi få løst vigtige og komplekse opgaver, siger han.
+DTU er blandt de 15 universiteter uden for USA, der skal undervise i Watson.

@@ -1,0 +1,31 @@
+En sand verdensmester
+Magnus Carlsen vinder et mønsterparti mod Caruana
+
+
+ 
+	Magnus Carlsen hærger vildt i Schweiz: Efter de første fire runder af Zürich Chess Challenge har han i skakhistoriens hidtil stærkeste turnering samlet 3,5 af 4 mulige points. I første runde udspillede han elegant den israelske veteran Boris Gelfand, mens han i anden runde remiserede mod den eneste spiller, der i dag synes at kunne true ham på den lange bane, verdenstoeren Levon Aronian fra Armenien.
+
+	I tredje runde kom han som sort mod den amerikanske stormester Hikaru Nakamura ud i et sandt stormvejr, og eksperter og computerevalueringer var rørende enige om at stemple hans stilling som aldeles håbløs.
+
+	Men mens Nakamura, der - drilsk eller provokerende – har kaldt Carlsen ’skakkens Sauron’ (skurken i Ringenes Herre, red.), tabte tråden i tidnøden, holdt Carlsen hovedet koldt: Han havde en springer mindre, men så mange bønder i kompensation, at han endda førte partiet til sejr. Og Nakamura, som norske medier med en vis ret betegner som værende »stor i kjeften«, har stadig ikke vundet et parti med fuld betænkningstid over Carlsen.
+
+	I fjerde runde spillede Carlsen så et parti, der i min optik repræsenterer noget af det smukkeste, skakspillet har at byde på. Med de hvide brikker mod den amerikansk-italienske stormester Fabiano Caruana havde han en klar, men beskeden fordel, da han byggede op til – og eksekverede! – et langsigtet kvalitetsoffer. Caruana blev træk for træk berøvet ethvert modspil og virkede helt hjælpeløs, da den norske verdensmester i slutfasen lod sine bønder rulle frem mod den sorte majestæt. På brættet så det således ud:
+
+	1.e4 e5 2.Sf3 Sc6 3.Lb5 Sf6 4.d3 Lc5 5.Lxc6 dxc6 6.h3 Sd7 7.Le3 Ld6 8.Sc3 c5 9.0–0 Sf8 10.Sd2 Sg6 11.Sc4 Le6 12.Se2 Dd7 13.Sxd6+ cxd6 14.f4 exf4 15.Sxf4 Sxf4 16.Txf4 ...
+
+	Hvids fordel er ikke svær at se, men kan partiet vindes med tanke på, at der er uligefarvede løbere? Caruana vil sikkert være himmelhenrykt for at få sin fjerde remis på stribe.
+
+	16. - b6 17.Dh5 d5 18.d4 c4 19.b3 Dc6 20.Taf1 0–0–0 21.bxc4 Dxc4 ...
+
+	Se diagrammet.
+
+	Så kommer chokket:
+
+	22.Txf7! Lxf7 23.Txf7 Td7 24.Txd7 Kxd7 25.exd5 g6 26.Dg4+ Kc7 27.De6 Kb7 28.De7+ Dc7 29.De4 Dd7 30.d6+ Ka6 31.Lf4 Tc8 32.Kh2 Tc4 33.Lg3 Tc8 34.Dd3+ Kb7 35.c4! – rul, små bølger rul! - Dc6 36.Db3 Ka8 37.a4 Te8 38.a5 Kb7 39.c5 Kc8 40.axb6 axb6 41.d5!
+
+	Første træk efter tidskontrollen ved træk 40. Caruana kæmper videre, men det er ålens sprællen på panden.
+
+	41. - Dxc5 42.Da4 Te3 43.Da8+ Kd7 44.Db7+ Ke8 45.d7+ Kd8 46.Lh4+ Te7 47.Dc8 ...
+
+	Og sort opgav. Lige til den store gemmebog!
+

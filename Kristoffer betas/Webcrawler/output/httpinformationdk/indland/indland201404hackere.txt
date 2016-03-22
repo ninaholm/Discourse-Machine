@@ -1,0 +1,71 @@
+Hackere i den gode sags tjeneste
+Danske hackere kritiserer bl.a. det offentlige for at lave utilstrækkelige og usikre it-løsninger, og når de tilbyder deres hjælp, bliver de mødt med afvisninger eller trusler om sagsanlæg
+
+
+ 
+	Da internetaktivisten Christian Panton udviklede en alternativ adgang til NemID, udbedrede han nogle af de mangler ved systemet, som gør mange danskere frustrerede. Men da han henvendte sig til Nets, der står bag NemID, og tilbød dem den kode, han havde programmeret, var svaret en trussel om »nødvendige juridiske tiltag«, hvis han på nogen måde offentliggjorde eller arbejdede videre på koden.
+
+	For et par dage siden inviterede Digitaliseringsstyrelsen alligevel Panton på en kop kaffe – måske i den første spæde erkendelse af, at samfundet har brug for hackernes hjælp i en tid, hvor data er blevet en vigtig del af vores infrastruktur. Hvis det er tilfældet, har det holdt hårdt.
+
+	I 2010 vurderede The Economist, at data er ved at få samme værdi for virksomheder som kapital og arbejdskraft. Dermed er data, big data, og åbenhed for alvor kommet på dagsordenen, også i Danmark, hvor regeringen og Kommunernes Landsforening i 2010 vedtog en digitaliseringsstrategi for 2011-15, der blandt andet har haft den konsekvens, at offentligheden har fået adgang til store mængder data, der tidligere har været forbeholdt myndighederne.
+
+	Omstillingen til digital infrastruktur volder imidlertid myndigheder verden over voldsomme vanskeligheder, hvilket frustrationerne på dansk grund over projekter som Rejsekortet, elektroniske patientjournaler og NemID demonstrerer. Det er her, hackere – internetprogrammører fra civilsamfundet – er begyndt at melde sig med løsninger, som myndighederne ikke selv har fået øje på.
+
+	Men deres metoder bliver ofte set som et angreb, forklarer Tim Jordan, professor i digital kultur på King’s College, London:
+
+	»Hvis man går tilbage til 1980’erne, så dækkede begrebet at ’hacke’ blot over det fænomen, at der var nogle, der brugte teknologi kreativt eller begavet, men i takt med at internettet blev allemandseje, så skete der i sluthalvfemserne en dæmonisering af hackerne, der uretmæssigt gjorde hacking synonymt med tyveri af data og lovovertrædelser.«
+
+	Det kan dog også være svært at skelne imellem på den ene side de hackere, der har gode intentioner, og på den anden siden dem, der ikke har, uddyber Tim Jordan, i og med at deres værktøj er det samme:
+
+	»Tag for eksempel de hackere, der bliver hyret af en virksomhed til at finde en sikkerhedsbrist i et system. De bruger fuldstændig samme metode som de hackere, der trænger ind i systemet for egen vindings skyld. Derfor er det etikken hos den enkelte hacker, der afgør, hvilken side han eller hun arbejder for.«
+
+	For hackeren Christian Panton var motivationen at byde ind der, hvor udviklingen af offentlige systemer har været behæftet med fejl og mangler.
+
+	»Jeg gør det, fordi jeg er nysgerrig. Jeg vil vide, hvordan tingene virker og se, om man kan lave bedre løsninger end dem, som de offentlige systemer tvinger borgerne til at bruge,« forklarer Panton.
+
+	Den kategoriske afvisning betegner han som symptomatisk. Da han først henvendte sig til Nets, fik han at vide, at han kunne kontakte support:
+
+	»Men nu var det jo ikke support, jeg havde brug for – tværtimod. Efter nogle timer lykkedes det mig at finde den rigtige mailadresse og fik lovning på et svar. Men jeg hørte ikke mere, før jeg pludselig fik at vide, at de ville sagsøge mig langt ind i helvede, hvis jeg offentliggjorde den NemID-klient, jeg havde udviklet.«
+
+	Men selv om Panton er internet-aktivist og hacker, så er hans mål hverken at stjæle data eller at svække sikkerheden ved NemID. Tværtimod.
+
+	Antiautoritære oprørere
+
+	Tim Jordan kalder hackere som Panton for ’hacktivister’: »Hacktivisternes udgangspunkt er, at den teknologi, vi f.eks. møder hos det offentlige, er utilstrækkelig. Deres motivation er at fikse fejlene, og det er for at kunne gøre netop det, at de hacker.«
+
+	Og måske er hackernes image ved at ændre sig. Datakyndige whistleblowere som Edward Snowden, Julian Assange og Bradley Manning har i de senere år været med til at nuancere begrebet. Alle tre har de udleveret datamateriale – ikke for egen vindings skyld, men fordi de så det som deres borgerpligt at gøre offentligheden opmærksom på problemer i samfundet. Dermed skriver de sig ind i rækken af hacktivister, der bruger det digitale univers som udgangspunkt for en antiautoritær magtbekæmpelse.
+
+	Kampen mod myndighedernes eneret til data var motivationen, da internetaktivisten Michael Friis i 2011 og 2012 offentliggjorde data fra CVR-registret. Friis blev i den forbindelse truet med en politianmeldelse, der dog aldrig blev til noget. Men det undrer ham, at de offentlige myndigheder ikke blot glæder sig over, at private udviklere ønsker at være behjælpelige:
+
+	»I stedet for at lave åbne løsninger, hvor borgerne får adgang til dataene, så bygger staten semidefekte komplette løsninger, der er ufleksible og ikke kan modificeres. Det svarer til, at staten i stedet for at bygge almindelige veje byggede særlige veje, som man kun måtte køre på i statens biler, og at deres biler var polkaprikkede og kun kunne køre i bakgear.«
+
+	Friis bakkes op af Panton: »Ulempen ved at lave totalløsningerne er, at systemerne bliver langt mere sårbare,« påpeger han. »NemID var nede i tre dage i oktober på grund af en opdatering. Hvis man havde haft en delløsning, som man kunne navigere trafikken over på, havde man undgået, at systemet var blevet lammet.«
+
+	Lars Frelle-Petersen, direktør i Digitaliseringsstyrelsen, der administrerer det offentlige digitale Danmark, understreger vigtigheden af at tage hensyn til brugerne, blandt andet med henblik på høj udbredelse. Så mange borgere som muligt skal have adgang til og forstå at bruge løsningen.
+
+	»Hvis vi for eksempel tager nedbruddet hos NemID i oktober, så var det trods alt kun 20 procent af brugerne, der blev ramt. Det er selvfølgelig for mange, men det vigtigste for os er at nå den brede skare af brugere og sikre, at de er trygge ved at bruge løsningerne. 94 procent af NemID’s brugere er tilfredse med produktet.«
+
+	Lars Frelle-Petersen er ikke afvisende over for at samarbejde med tredjepartsudviklere, men han understreger, at Digitaliseringsstyrelsens muligheder er begrænsede:
+
+	»Vi er underlagt udbuds- og forvaltningsregler, som gør det svært for små virksomheder at byde ind på opgaver. Og der skal for eksempel indgås ordentlige kontrakter, så det er muligt at placere ansvaret i det øjeblik, der laves fejl.«
+
+	Andre virksomheder er mere åbne, heriblandt Rejsekort A/S: »De har mulighed for at lave løsninger, som vi ikke selv kan tilbyde, fordi vores totalløsninger skal dække så store dele af markedet,« forklarer direktør hos Rejsekort A/S Bjørn Wahlsten og henviser til en android-app, som udvikleren Casper Bang netop har lanceret som et alternativ til Rejsekorts egen.
+
+	At rejsekortet blev født med en sikkerhedsbrist, der gør det muligt at hacke sig til gratis ture, gjorde Christian Panton Rejsekort A/S opmærksom på i 2010. Men Wahlsten anser ikke dette for at være et stort problem:
+
+	»Løsningen er ikke lavet, så det er umuligt at snyde, den er lavet til ærlige mennesker og følger de internationale standarder på området. Dagens billettyper er langt lettere at masseproducere – for eksempel ved at kopiere dem. Hvis det skulle lykkes nogen at manipulere dataene på rejsekortet, så vil kortet oftest gå i stykker.«
+
+	Bjørn Wahlsten understreger dog også, at svindel vil blive anmeldt: »Jeg har intet imod, at hackere er nysgerrige og teoretisk udfordrer vores løsninger, men hvis de gør det i praksis og benytter et kort, hvor data er manipuleret, så er det svindel, som vi selvfølgelig anmelder.«
+
+	Åbenhed hos det offentlige
+
+	Der er langsomt ved at ske en forandring i retning af mere åbenhed, siden Michael Friis i 2011 og 2012 offentliggjorde dataene fra CVR-registret. I 2012 besluttede regeringen at frikøbe dataene fra blandt andet adresseregistre, CVR-registre, matrikelopmålinger samt detaljerede landkort, så alle danskere har fri adgang til dem.
+
+	Lars Frelle-Petersen, ser overordnet positivt på den udvikling:
+
+	»Selvfølgelig er der områder, hvor markedet kan lave løsninger, som vi ikke er de bedste til at lave. Derfor kan jeg kun opfordre til, at de innovative, dynamiske ildsjæle kaster sig over de mindre og åbne systemer i stedet for de store komplekse, der indeholder data, som vi af sikkerhedsmæssige grunde ikke kan eksperimentere med,« forklarer han.
+
+	Tim Jordan ser det som en generel tendens i lande som Storbritannien, USA og Denmark: »For kun få år siden var det umuligt at tale om åbne data. Nu prioriteres det politisk og diskuteres offentligt,« forklarer han og påpeger, at civilsamfundet alene det seneste år har fået en helt anden bevidsthed om den slags – blandt andet på grund af Snowdens læk.
+
+	»Lækket beviste, at en stor del af de platforme, som brugerne indtil nu har opfattet som sikre, er fejlbehæftede, hvilket vil sige, at brugerne hverken kan forvente privatliv eller kontrol over hvilke informationer, man deler med andre. Jeg ser det som en øjenåbner for civilsamfundet og som noget, der giver hacktivisterne fornyet relevans.«
+

@@ -1,0 +1,181 @@
+For the NSA, espionage was a means to strengthen the US position in climate negotiations
+At the Copenhagen Climate Summit in 2009, the world's nations were supposed to reach an agreement that would protect future generations against catastrophic climate change. But not everyone was playing by the rules. A leaked document now reveals that the US employed the NSA, its signals intelligence agency, to intercept information about other countries' views on the climate negotiations before and during the summit. According to observers, the spying may have contributed to the Americans getting their way in the negotiations
+
+
+ 
+	On December 7 2009, a document was posted on an internal National Security Agency (NSA) website. The document, from the agency’s division S17 for Economic and Global Issues, outlines NSA efforts to collect intelligence about the COP15, the UN climate summit in Copenhagen. Its central paragraphs are classified as 'top secret'.
+
+The document, which Information has obtained via NSA whistleblower Edward Snowden, describes how, »analysts here at NSA, as well as our second party partners, will continue to provide policymakers with unique, timely, and valuable insights into key countries' preparations and goals for the conference, as well as the deliberations within countries on climate change policies and negotiation strategies.«
+
+	The NSA deals with signals intelligence activities, and proponents of the agency’s methods usually focus on its role in the war on terror. However, the leaked document illustrates that the NSA and its second party partners, i.e. intelligence agencies from Great Britain, Canada, Australian and New Zealand, also played a central role in promoting American strategic interests. 
+
+	The document is dated on the opening day of the climate summit in Copenhagen's Bella Center. Some have called the summit the most important of its kind since the end of World War II. More than a hundred government leaders participated. Never before had so many heads of state been gathered outside the UN headquarters in New York. 
+
+
+
+			 
+
+
+  dc.embed.loadNote('http://www.documentcloud.org/documents/1010560/annotations/142512.js');
+
+
+
+	A UN campaign gave Copenhagen a new name: Hopenhagen. The goal was for the world’s nations to pen a global agreement on CO2 emissions reduction in the Danish capital. An agreement designed to slow down global warming, which most scientists believe would have disastrous consequences for life on earth. As then British Prime Minister Gordon Brown said in a speech before COP15:
+
+	»If we do not reach a deal at this time, let us be in no doubt: once the damage from unchecked emissions growth is done, no retrospective global agreement in some future period can undo that choice. By then it will be irretrievably too late.«
+
+	Pressure on the US
+
+	Enormous economic interests were at stake in the countries’ negotiation of CO2 reductions. Governments worried that commitments would slow them down in the global race to increase competitiveness and maximize growth. In order to ensure the best possible position in the negotiations, the Americans employed the technological capacities of the NSA spies.
+
+	According to another top secret document, the NSA was already involved in climate related intelligence activities several years before the COP15. The document from the S17 division was posted to the internal NSA website on May 14 2007. Then US Under Secretary of Defense for Intelligence, James R. Clapper, who now oversees the NSA as Director of National Intelligence, is quoted from an internal NSA conference:
+
+	»Increasingly the environment is becoming an adversary for us. And I believe that the capabilities and assets of the Intelligence Community are going to be brought to bear increasingly in assessing the environment as an adversary.«
+
+	The general theme of the document is a set of risk assessments on various effects of climate change that the entire intelligence community was working on. However, the document suggests that the NSA's actual focus in relation to climate change was spying on other countries to collect intelligence that would support American interests, rather than preventing future climate catastrophes. It describes the US as being under pressure because of its role as the historically largest carbon emitter. A pressure to which the NSA spies were already responding:
+
+	»SIGINT (Signals Intelligence, ed.) has already alerted policymakers to anticipate specific foreign pressure on the United States and has provided insights into planned actions on this issue by key nations and leaders.«
+
+	The Danish 'rescue plan'
+
+	On December 15 2007, approximately six months after the NSA mentions its warning to American decision-makers about the increased pressure on the U.S to reduce the country’s CO2 emissions, the countries adopted the so called Bali Road Map. The road map established the goal to reach a binding agreement on CO2 emissions reduction at the COP15 in Copenhagen in December 2009.
+
+	It remains unclear precisely when the NSA began to target the summit specifically. However, the NSA document about the agency’s COP15 efforts reveals that, ahead of the summit, the agency was already collecting information about other countries’ preparation for the Copenhagen negotiations. The document refers to a report from the end of November in which the intelligence agency »detailed China's efforts to coordinate its position with India and ensure that the two leaders of the developing world are working towards the same outcome.«
+
+	The document then goes on: »Another report provided advance details of the Danish proposal and their efforts to launch a "rescue plan" to save COP-15.«
+
+	In other words, it appears that the Danish COP15 chair was one of the NSA targets before the climate summit.
+Information has spoken to government officials from the Danish COP15 office, which was in charge of planning the summit. They agree that »the Danish proposal« and the “rescue plan” mentioned in the document refer to a draft agreement written up by the Danes and adjusted repeatedly in the months leading up to the event.
+
+	The proposal was controversial, because it suggested abandoning the Kyoto protocol, which legally commits the world’s richest nations to specific CO2 reductions. Ahead of the summit, the Americans had refused to commit to the protocol, whereas developing nations had demanded that the world’s wealthiest nations continue to lead the battle against global warming. 
+
+	Despite the fact that Denmark was chair of the summit and as such was to facilitate discussions between the parties in a neutral manner, the Danes had produced a draft agreement ahead of COP15 which favored American interests. The draft was written on the initiative of the Prime Minister’s Office where Permanent Under-Secretary of State Bo Lidegaard was in charge of preparations for the summit.
+
+	The plan was to present the proposal during the negotiations at Copenhagen's Bella Center. But it was to be kept strictly confidential in the months leading up to the summit. This was of great importance to the Danish Minister for Climate and Energy, Connie Hedegaard. Today, as EU Commissioner for Climate Action, she does not want to comment on the Danish proposal.
+
+	However, in a book published in 2010 by now deceased journalist Per Meilstrup, which is the most thorough examination of the summit to date, Connie Hedegaard is quoted repeatedly as stressing the importance of making sure that the Americans did not see the US friendly Danish text. Were they to see it, the minister said, there would be a great risk that they would »sit back and only feign participation in the UN negotiations because they would wait for Denmark to present the proposal.«
+
+	Don’t show the Americans the Danish draft
+
+	Ahead of an October 2009 visit in the Danish Prime Minister's Office by US chief negotiator Todd Stern, Connie Hedegaard and Prime Minister Lars Løkke Rasmussen agreed that Todd Stern was not to be given the Danish draft proposal. According to Per Meilstrup, they did not want him to »go back home thinking that Denmark is going to rescue the US.«
+
+	The climate minister and her staff took special care to keep track of every paper copy of the Danish draft. If handed out, each copy was collected again at the end of the meetings. But no security precautions were taken to protect the document in electronic form. 
+
+	According to Information’s sources in the COP15 office, different versions of the non-encrypted document were emailed back and forth between employees in the ministries involved in the climate summit planning. This would make intercepting the document a relatively easy task for the NSA. 
+
+	The decision at the COP15 Secretariat was to delay handing over the Danish draft to other countries for as long as possible. But we know that at some point during the weeks leading up to the summit, the Prime Minister's Office, the Ministry of Climate and Energy, and the Ministry of Foreign Affairs agreed to hand over the draft to the United States, China and other key countries. The reason was that the Danes wanted to be able to negotiate with each individual country on the basis of the draft in the remaining days before the summit itself.
+
+	Several sources from the COP15 Secretariat are of the opinion that Permanent Under-Secretary of State Bo Lidegaard had already given the draft to the Americans in spite of the decision not to disclose it. Lidegaard, now editor-in-chief at the Danish daily Politiken, denies this.
+
+	He tells Information that, according to his recollection, the Americans may have been given or shown a draft at the so-called Pre-COP in Copenhagen in the middle of November. He is certain that »in the week-end before the conference, the Danish Chair invited a large group of key countries to an informal meeting in Copenhagen, at which the United States, China and other countries were given the Danish draft.«
+
+	America sat back
+
+	The question is whether the Americans had already gotten hold of the Danish draft before it was handed to them few weeks before the COP15. Since the NSA's role in the intelligence community is to provide signals intelligence, the agency itself likely intercepted the intelligence on the Danish draft by spying on key Danish officials' electronic communication about the confidential draft agreement. The paragraph about the Danish "rescue plan" is marked 'SI' (Special Intelligence, ed.), the NSA term for intelligence intercepted by monitoring electronic communications.
+
+	The leaked NSA document, which is dated on the opening day of the COP15, does not specify at which point in time the agency intercepted the information. The document's wording about »advance details«, however, suggests that the agency managed to intercept the information before the Danes gave the draft to American climate negotiators shortly before the Copenhagen summit. It is also noteworthy that the NSA considered the intelligence about the rescue plan an example of the agency’s efforts to deliver information that is »unique, timely, and valuable.«
+
+	Several officials from the COP15 office have told Information that they believe advance American knowledge of the Danish proposal may help explain US positioning in the months leading up to the summit. While many other countries formulated promises that were increasingly ambitious, the Obama administration never moderated its position that it would not accept any agreement resembling the Kyoto protocol. Also, the Americans only offered a 4-6 percent reduction in CO2 emissions as compared to 1990 levels, despite the fact that the UN recommendation for developed nations was 25-40 percent. 
+
+	As one government official says: »They simply sat back, just as we had feared they would if they knew about our document. They made no constructive statements. Obviously, if they had known about our plans since the fall of 2009, it was in their interest to simply wait for our draft proposal to be brought to the table at the summit.«
+
+	Intelligence for Obama
+
+	If the Danish hosts failed to pay attention to the risk of electronic spying before the climate summit, security was a much greater priority at Copenhagen’s Bella Center once the summit opened its doors on December 7 2009.
+	But the Danes were not aware that, on the opening day of the climate summit, the world’s most advanced intelligence agency, the NSA, described it as self-evident that the agency would be collecting signals intelligence during the summit.
+
+	The leaked document states that »leaders and negotiating teams from around the world will undoubtedly be engaging in intense last-minute policy formulating; at the same time, they will be holding sidebar discussions with their counterparts - details of which are of great interest to our policymakers.« 
+
+
+
+			 
+
+
+  dc.embed.loadNote('http://www.documentcloud.org/documents/1010560/annotations/142513.js');
+
+
+
+	And it adds: »Signals intelligence will undoubtedly play a significant role in keeping our negotiators as well informed as possible throughout the 2-week event.«
+
+	'Sidebar discussions' refer to informal and ongoing discussions between delegations from the different countries which took place in pre-booked conference rooms, in hallways, and in common areas at the conference center. According to the document, the information collected by NSA would be used to brief American politicians, notably including President Barack Obama and then Secretary of State Hillary Clinton, both of whom attended the 2009 summit. 
+
+	Diplomat phones
+
+	Logistics at the summit was handled by the Danish Ministry of Foreign Affairs in collaboration with the UN and the Danish Security and Intelligence Service (PET). Together with the IT companies ATEA and CSC, the ministry had designed a whole new infrastructure for the more than 25.000 registered participants, which focused on both physical and digital security in relation to the technical installations. 
+
+	The leaked NSA document does not specify how the agency and its allied partners were planning to spy on electronic communication during COP15, but subsequent disclosures based on documents from Edward Snowden provide a sense of the methods available to the spy agencies.
+
+	NSA’s close allies in the British intelligence agency GCHQ, for example, had carried out operations during two G20 summits in London in the six months leading up to the summit in Copenhagen. An internal GCHQ presentation, which is also classified as ’top secret’, states: »Diplomatic targets from all nations have an MO of using smartphones.« 
+
+
+
+			 
+
+
+  dc.embed.loadNote('http://www.documentcloud.org/documents/1010561/annotations/142514.js');
+
+
+
+	The presentation goes on to describe how the agency broke hacked into delegates’ Blackberries in order to be able to read their emails and listen in on their phone conversations; how the agency installed software on computers at the summit internet cafes in order to access pass codes and emails; and how it supplied 45 analysts with data allowing them to register, in real time, who made phone calls to whom during the summit.
+
+	Little protection 
+
+	At the climate summit in Bella Center, a jumble of electronic communication was designed to enable delegates to stay in contact with one another as well as with politicians and officials in their home countries. IP phones, mobile phones, laptops and stationary computers as well as special video conferences. In other words, a wide range of attack surfaces for the specialized hackers and analysts of the American intelligence service. 
+
+	The specific details of security measures at Bella Center remain confidential but according to information obtained by this newspaper, firewall chains from several different manufacturers were installed in order to protect the internal network, and a so-called 'ethical hacker' tested the configuration for security holes. Also, the Danish Security and Intelligence Service swept the conference center for hidden microphones.
+
+	Recent disclosures from Edward Snowden show, however, that such measures offer little protection against the NSA. Relevant to the Danish measures, for instance, the agency has developed back doors into a number of firewalls. It also has the ability to use people's cellphones as microphones. And it has access to a number of sophisticated eavesdropping technologies, which are almost impossible to detect. On of them is a passive microphone, which is able to pick up speech at a normal office level from a great distance, and which transmits data by reflecting a signal from a radar placed at an appropriate distance.
+
+	Spy rumors
+
+	The question of wiretapping is briefly mentioned in Meilstrup’s book about the summit. He writes that, »rumors abound at Bella Center about wiretapping equipment, directional microphones, leaks and diplomats who photograph secret documents with their cellphones.«
+
+	But in addition to surveillance at the event location itself and spying via the internal network, the NSA was also able to target delegate communication outside the internal network when delegates accessed the Internet and local phone networks. And, via other NSA surveillance programs disclosed by mr. Snowden, NSA was able to intercept emails, phone calls and text messages. 
+
+	At the time of the summit, none of this was a known concern to any of the officials to whom Information has spoken.
+	»It may seem naive, but we did not consider it, and I also do not remember receiving any kind of warning about it,« says one source from the COP15 office. Several Danish delegates have told Information that during the summit, the Danes sent non-encrypted emails to each other from their laptops and cellphones about negotiation strategies that they would not want other countries’ negotiators to know about. One official reports being careful not to mention particularly sensitive issues in phone conversations.
+
+	»But I was unaware of the need to encrypt my emails,« says the official. The leaked NSA document does not specify whether NSA was intercepting confidential information specifically by spying on delegates’ email correspondence. However, there is every indication to suggest that the Americans have indeed somehow obtained access to information not intended for them. According to Per Meilstrup, »several members of the Danish delegation often feel that the other parties are surprisingly well-informed about issues that have only been discussed behind closed doors.«
+
+	And several sources from the Danish delegation have told Information that maintaining confidentiality during the negotiations was difficult. 
+
+	»Both the Americans and the Chinese were always peculiarly well-informed. Particularly the Americans. I was often completely taken aback by what they knew,« says an official from the COP15 office. 
+
+	No agreement
+
+	In the end, the world’s nations did not succeed in achieving the binding agreement on CO2 emissions reduction. The differences between the parties were too great. One gulf in particular proved insurmountable: the one between the world’s biggest CO2 emitters, China and the United States.
+
+	The Chinese did commit to significant CO2 reductions but also insisted on an agreement which would only be legally binding for the developed countries. The United States, on the other hand, maintained that such an agreement, which would have been similar to the Kyoto protocol, was unacceptable. And while the EU tried to comply with the recommendations from the UN Climate Panel  by offering a 20 percent reduction by the year 2020 in relation to 1990, and was willing to increase this number to 30 percent if a global agreement were to be reached, the Americans continued to reject a reduction above 4-6 percent.
+
+	The leak of a version of the Danish draft proposal by the British newspaper The Guardian on the second day of negotiations did not improve the negotiation climate. Developing nations criticized the Danish chairmanship for failing to remain neutral and for taking sides in the Kyoto protocol conflict. They refused to base negotiations on what they considered a proposal designed according to American interests. 
+
+	In the end, however, the US managed to arrive at a result that supported American interests. On the final night of the summit, December 18, President Obama led intense negotiations between heads of states and representatives from a small group of twenty-six countries, including China, India, South Africa, Brazil, and a number of EU countries. These negotiations resulted in the so-called Copenhagen Accord. The Copenhagen Accord was not an actual agreement but a declaration, which summit participants did not even collectively approve but merely agreed to, in UN terms, »take note« of. 
+
+	Brokenhagen
+
+	The declaration did not legally obligate the countries to deliver specific CO2 emissions reductions; it did not prepare the ground for a continuation of the Kyoto protocol; and it allowed countries to define individual goals for their own CO2 reduction. In the case of the United States: the same 4-6 percent that the Americans had proposed prior to the negotiations. 
+
+	Andreas Carlgren, Sweden’s Minister for the Environment and representative for the Swedish EU presidency, called the climate summit in Copenhagen a »disaster« and »a great failure.« And CNN host Becky Anderson commented: "What had been billed 'Hopenhagen'" as delegates and activists arrived here just two weeks ago will perhaps be best remembered as 'Brokenhagen' by many." 
+
+	President Obama, on the other hand, referred to the Copenhagen Accord as »an important milestone« and a »meaningful and unprecedented breakthrough.«
+
+	‘A huge advantage’ 
+
+	Today, about four years after the Copenhagen Climate Summit, it seems clear that many different factors contributed to the failure to arrive at an ambitious global climate agreement. That is the position of John Nordbo, Head of the Danish WWF Climate Program, who followed the climate summit closely.
+
+	It does, however, look obvious to him that spying could have given Americans a boost in their effort to influence the negotiations in their direction.
+
+	»It gives them incredible opportunities. In many contexts, they will know other countries’ internal agreements on how far they are willing to go. And they will know where to apply pressure, and whether to align themselves with the Danes, the Brazilians, or with some other country with shared interests. This gives them a unique position from which to manipulate things in their direction,« he says.
+
+	According to John Nordbo, the Americans seemed »very self-assured« in the period leading up to the Copenhagen Climate Summit. »They had an aura of ‘we are coming and we will get our way’. I have usually assumed that it was because they felt that they had the Danish Chairmanship in the palm of their hand, but spying could also have contributed," he says and adds with reference to Danish draft proposal and its leaning towards US interests:
+
+	»The spying may well have helped convince the Americans that they could trust the Danes to deliver what the US wanted.«
+
+	None of the Danish delegates to whom Information has spoken wished to add to speculations about what specific information the Americans could have intercepted by spying against other countries’ delegations during the climate summit. But in the words of a central official:
+
+	»Obviously, if you know the strategies of the other countries, their thoughts on the negotiations and their bottom line in terms of how far they will go, you have a huge advantage.«
+
+	 
+
+For press inquiries contact Nikolai Thyssen at nith@information.dk or contact us on Twitter at @informeren
+

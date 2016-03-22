@@ -1,0 +1,33 @@
+Se her top og bund på nye skolerangliste
+Undervisningsministeriet offentliggør en rangliste over landets bedste skoler, korrigeret for social baggrund.
+
+
+ For første gang offentliggør Undervisningsministeriet en liste, der rangerer alle skoler i landet.
+Ranglisten er lavet ved at sammenligne en skoles faktiske karaktergennemsnit med, hvad eleverne burde score af karakterer, når man blandt andet tager hensyn til forældrenes uddannelse og økonomi.
+Den skole, der har den største positive forskel, topper ranglisten.
+Listen indeholder både folkeskoler, efterskoler og privatskoler.
+Her kommer top ti folkeskoler: Første tal er det faktiske karaktergennemsnit, tallet i parentes er forskellen til det forventede snit.
+Dragør Skole: 8,7 (+1,1)
+Engelsborgskolen i Lyngby-Taarbæk: 8,5 (+0,9)
+Hummeltofteskolen: 8,5 (+0,9)
+Fredensborg Skole: 8,1 (+0,9)
+Stubbæk Skole i Aabenraa: 8,1 (+0,9)
+Store Magleby Skole i Dragør: 8 (+0,9)
+Hyllehøjskolen i Middelfart: 7,9 (+0,9)
+Gjellerupskolen i Herning 7,9 (+0,9)
+Tvis Skole i Holstebro: 7,9 (+0,9)
+Rugkobbelskolen i Aabenraa: 7,8 (+0,9)
+
+Bund ti:
+Skærbæk Skole i Tønder: 4,5 (-1,2)
+Blågård Skole i København: 3,5 (-1,1)
+Magleblikskolen i Halsnæs: 4,4 (-1,1)
+Tinderhøj Skole i Rødovre: 4,8 (-1,1)
+Over Jerstal Skole i Hederslev: 4,2 (-1)
+Mou Skole i Aalborg 4,5 (-1)
+Nørrevangskolen i Randers: 4,6 (-1)
+Absalons Skole i Holbæk: 4,7 8-1)
+Skolen i Midten i Hedensted: 5,1 (-1)
+Slotskolen i Horsens: 4,2 (-0,9)
+Sønderkærskolen i Hvidovre: 4,2 (-0,9)
+Kilde: Undervisningsministeriet.

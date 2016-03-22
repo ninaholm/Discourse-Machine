@@ -1,0 +1,15 @@
+Regionen Hovedstaden har sjusket med patientdata
+Tusinder af brugere har haft adgang til patientjournaler, selv om de slet ikke skulle have haft det.
+
+
+ Region Hovedstaden har haft gevaldigt rod i, hvem der kan kigge i patientjournaler. Det skriver Jyllands-Posten.
+Ifølge avisen er det op mod 20.000 brugere i regionen, der fejlagtigt har haft adgang til patientjournaler.
+Den fejlagtige adgang, der er kommet frem under en kulegravning foretaget af Datatilsynet, er sket, da regionen blandt andet ikke har lukket for adgangen for personer, der er stoppet i deres job eller har fået job på et andet sygehus.
+- En del medarbejdere har roller, der giver adgang til data, ud over hvad deres funktion tilsiger, at de har behov for, refererer Jyllands-Posten fra et møde i regionen.
+Region Hovedstaden oplyser, at cirka 7000 ikke-sundhedspersoner som portører, receptionister, lægesekretærer, socialrådgivere og økonomiansatte i dag har adgang til patientjournalsystemet.
+Samtidig viser dokumenter, Jyllands-Posten er i besiddelse af, at læger, sygeplejersker, radiografer og andre med en bred adgang til patientjournalerne har haft mulighed for at læse i samtlige patientjournaler på det sygehus, de er ansat på.
+Og for at læse i patientjournaler fra andre sygehuse i regionen.
+Ifølge sundhedsjurist Kent Kristensen, Syddansk Universitet, er der tale om et klokkeklart brud på både persondataloven, sundhedsloven og sikkerhedsbekendtgørelsen.
+- Regionen udviser en enestående mangel på respekt for reglerne, siger Kent Kristensen.
+Vicedirektør i regionens it-center Pia Kopke erkender over for Jyllands-Posten, at procedurerne har været utilstrækkelige. Regionen er nu ved at rydde op.
+Ifølge formand for Danske Regioner Bent Hansen (S) er det uacceptabelt, at regionerne stadig ikke har styr på it-sikkerheden.

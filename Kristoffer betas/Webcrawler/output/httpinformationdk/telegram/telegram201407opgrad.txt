@@ -1,0 +1,4 @@
+Opgrader computeren: Kvart million afskæres fra NemID
+Der er igen rod med NemID, som ikke er kompatibelt med styresystemet Windows XP, hvilket afskærer 256.000.
+
+

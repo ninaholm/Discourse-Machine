@@ -1,0 +1,40 @@
+Kun overvågning sikrer vores privatliv
+Vi er nødt til at droppe sølvpapirhatten og omfavne de samfundsmæssige fordele, udveksling af personfølsomme data giver. Lad os redefinere ’privatliv’ og begynde at diskutere, hvordan åbenhed kan drive retningen for digitaliseringen
+
+
+ KRONIK
+Vil du forebygge terrorangreb, eller skal staten vide alt om dig?
+I debatten om den såkaldte sessionslogning er det endnu en gang lykkedes politikere og aktivister at reducere udfordringerne ved dataindsamling til et valg mellem mere sikkerhed eller mere frihed.
+Og lige så åbenlyst fordummende dette dilemma er, lige så irrelevant er det. For et digitaliseret samfund kan sagtens indbefatte både overvågning og privatliv – vi mangler bare visionen og handlekraften.
+Privatlivsaktivister mangler visioner, når de ikke indser de åbenlyse fordele, der eksisterer for ikke blot samfundet, men også det enkelte individ, ved en øget dataindsamling. Politikere mangler handlekraft, når de påstår, at systematisk dataindsamling og overvågning kun kan eksistere ureguleret og uden gennemsigtighed.
+Resultatet bliver en polariseret debat med et vakuum, hvor vi som samfund ikke udnytter de mange fordele, digitaliseringen medfører, og hvor jeg som individ ikke kan føle mig sikker på, om mit privatliv misbruges.
+Vi må stoppe med at debattere, om dataindsamling skal finde sted, og i stedet kræve øget dataindsamling – men i redefinerede, regulerede samt anderledes, overvågede rammer.
+Privatliv og bekvemmelighed
+Retten til privatliv er så principiel, at den er beskrevet både i Grundlovens paragraf 72 og inkluderet i FN’s Menneskerettighedskonventions artikel 12 fra 1948. Men selv om retten til privatliv i dag er mere aktuel end nogensinde, må vi indse, at det gamle privatlivsbegreb ikke længere er tidssvarende for vores digitaliserede samfund.
+Fælles for begrebet ’privatliv’ i både Grundloven og Menneskerettighedskonventionen er forestillingen om, at det altid er i individets egen interesse, at personfølsomme data bliver placeret lokalt hos det enkelte individ.
+Det var sund fornuft dengang, da der hverken i 1849 eller i 1948 var fordele for det enkelte individ ved, at personfølsomme data kunne tilgås af andre. Fremmedes adgang til personfølsomme data var pr. definition en ulempe.
+Men det er ikke længere en selvfølge i det digitaliserede samfund. Ofte er det faktisk i individets egen interesse, hvis personfølsomme data ikke placeres lokalt hos ham eller hende.
+Tag f.eks. sundhedssystemet. I 1948 var der ingen fordele ved, at personfølsomme informationer om sygdomme var tilgængelige for andre end individet selv og dennes behandler.
+I dag kan det enkelte menneske opnå enormt store fordele ved, at data om sygdomme gøres tilgængelige i centrale registre og databaser. Det kan hjælpe med at diagnosticere lidelser og skabe ny viden om sygdommen, som i sidste ende kan bidrage til udvikling af medicin.
+Den øgede digitalisering betyder, at det på stadig flere områder bliver favorabelt for individet, at visse personfølsomme oplysninger gøres tilgængelige for andre.
+Samtidig må vi også acceptere, at vi historisk set har en lang tradition for at give afkald på privatliv i bytte for bekvemmelighed. Feriebreve blev erstattet af billigere postkort, som postbuddet kunne læse, dankortet blev den hyppigste betalingsmetode, og vi er i dag 3,5 mio. danskere, der månedligt udveksler enorme mængder af data med Facebook i bytte for en platform, hvor vi kan kommunikere med venner lidt mere gnidningsfrit, end vi kan via andre medier.
+Det digitale samfund skaber altså større incitament til at dele visse personfølsomme oplysninger, og samtidig er vi mere villige end nogensinde til selv at udveksle personfølsomme data mod goder. Derfor er det også nødvendigt at redefinere hele privatlivsdebatten fra at omhandle retten til, at personfølsomme data hemmeligholdes, til at omhandle sikkerheden for, at personfølsomme data ikke misbruges.
+Mere, ikke mindre overvågning
+Når udveksling af personfølsomme data vil danne baggrund for et større privatøkonomisk forbrug, og når individets egen sikkerhed øges som resultat af dataudveksling, er vi fra et samfundssynspunkt nødt til at minimere risikoen for misbrug. Det betyder, at vi – ligesom i andre teknisk komplicerede transaktioner – fra politisk hold er nødt til at beskytte den svage part, når personfølsomme data udleveres.
+Det betyder også, at vi har brug for mere opsyn med dem, der indsamler og opbevarer personfølsomme data.
+Derfor er det heller ikke holdbart, at politikerne kræver, at teleselskaberne udfører sessionslogning, uden at de og staten selv er med til holde opsyn med, at disse data ikke bliver misbrugt.
+Men også i tilfælde, hvor personfølsomme data indsamles uden statslig indblanding og som led i en transaktion mellem virksomheder og privatpersoner, må staten påtage sig en større rolle i at forhindre misbrug.
+På samme måde som vi fører opsyn med virksomheders håndtering af fødevarer af hensyn til samfundets helbred eller fører opsyn med momsindberetning af hensyn til samfundsøkonomien, bliver vi nødt til at øge overvågningen af dataindsamling af hensyn til samfundssikkerheden.
+Svaret mod misbrug af personfølsomme data må altså være mere og ikke mindre overvågning.
+Kontrol med staten
+Men samtidig må vi også indse, at risikoen for misbrug af personfølsomme data ikke kun eksisterer i den markedsøkonomiske udveksling af data, men også i den statslige indsamling af data. Derfor er en del af svaret, at vi også øger kontrollen med den statslige indsamling.
+Det er på alle tænkelige måder ubegribeligt, at vi som befolkning ikke har indsigt i, hvilke personfølsomme data staten indsamler om os, og om muligt endnu mere ubegribeligt, at vi ikke har en uafhængig instans, der fører kontrol med, at disse data ikke misbruges.
+Vi har ingen idé om, hvilke af vores personfølsomme oplysninger der kan misbruges, eller hvor risikoen for misbrug af dem kan forekomme.
+At det vil kræve en dommerkendelse for politiet at få adgang til sessionslogning, er et skridt i den rigtige retning. Men den uhindrede adgang til og systematiske overvågning af private borgere, som Forsvarets Efterretningstjeneste og Politiets Efterretningstjeneste har hjemmel til at foretage uden dommerkendelser, er en overhængende trussel imod vores privatliv. Især når Edward Snowden har afsløret, præcis hvor indskrænkende overvågningen er for vores privatliv.
+Med andre ord bliver vi nødt til at droppe sølvpapirhatten og omfavne de samfundsmæssige fordele, udveksling af personfølsom data giver.
+Vi må forstå, at en sådan udveksling oftest er i individets egen interesse og sker ud fra individets eget ønske. Og vi er nødt til at sikre øget overvågning og regulering af virksomhedernes og ikke mindst statens dataindsamling.
+Men frem for alt må vi skabe en ny diskurs i debatten om personfølsomme data, hvor åbenhed og visioner skal drive retningen for digitaliseringen.
+For så længe der fra politisk hold insisteres på at hemmeligholde overvågning, og så længe vi lader en forældet definition på privatliv definere vores digitale adfærd, går vi alle glip af de enorme fordele, som digitaliseringen medfører.
+Vi kan passende begynde med at diskutere sessionslogning ud fra disse rammer.
+Anders Schäffner er digital udviklingsredaktør for Nordisk Film TV
+

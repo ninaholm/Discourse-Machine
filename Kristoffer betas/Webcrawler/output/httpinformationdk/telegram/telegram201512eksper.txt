@@ -1,0 +1,16 @@
+Ekspert: Elektronisk valg er sværere end det lyder
+Andre steder i verden er der mulighed for at stemme elektronisk, men i Danmark er det stadig ikke muligt.
+
+
+ Hvorfor afholdes en folkeafstemning ikke elektronisk?
+Det spørgsmål har mange danskere sikkert stillet sig selv, mens de torsdag trodser det triste decembervejr på vej til valgstederne for at sætte deres kryds.
+Selvom det måske ikke umiddelbart virker til at være kompliceret at lave et elektronisk system til formålet med det teknologien ellers formår i 2015, så forklarer lektor ved IT-Universitetet i København, Carsten Schürmann, at det hele handler om sikkerhed.
+- Problemet med E-valg er, at du skal være sikker på identiteten på den, som stemmer. Men samtidig skal afstemningen være hemmelig, siger han til Ritzau.
+Det er derfor, at Nem-ID ikke vil kunne bruges. Nem-ID vil sikre, at det er den rigtige person, der stemmer, men samtidigt vil det gøre, at afstemningen ikke er hemmelig, da personen elektronisk vil identificere sig selv.
+Flere steder i verden er det muligt at afgive sin stemme elektronisk ved valgstedet, men det er det ikke i Danmark.
+Schürmann forklarer, at det er sværere, end det lyder, at lave et elektronisk valgsystem man kan stole hundrede procent på.
+- Går der noget galt, så kan man ikke bare gå tilbage og se, hvor fejlen er opstået, for de afgivne stemmer skal være anonyme.
+- Jeg kan godt forstå, at folk synes, det lyder mærkeligt, at det er svært at lave et program, der virker, men vælgernes tillid er på spil, og derfor er der ikke plads til den mindste fejl, siger lektoren.
+Carsten Schürmann er sikker på, at vi en dag i fremtiden kommer til at stemme elektronisk.
+ Han fortæller, at mange lande undersøger mulighederne indenfor området, og nogle steder er E-valg allerede muligt.
+I Estland tilbyder man at stemme over internettet som et alternativ til at stemme ved valgstederne eller via brev. 33 procent af alle stemmer i Estland afgives ifølge Schürmann via internettet.

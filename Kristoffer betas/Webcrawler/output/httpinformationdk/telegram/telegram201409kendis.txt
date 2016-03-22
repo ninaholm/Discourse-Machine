@@ -1,0 +1,14 @@
+Kendis-nøgenbilleder nedlægger newzealandsk internet
+Internetbrugere blev lokket til at klikke sig frem til nøgenbilleder, men downloadede ondsindet software.
+
+
+ Nysgerrige newzealændere formodes i weekenden at have lagt landets internet ned.
+De forsøgte at klikke sig ind på hjemmesider med nøgenbilleder af kendte kvinder, men linkene viste sig at være falsk lokkemad. I stedet for at se billeder af letpåklædte stjerner som sangerinden Rihanna fik newzealænderne installeret skadelig software på computerne, der satte gang i et decideret internetangreb.
+Landets største internetudbyder, Spark, måtte kæmpe helt til søndag, før skaderne var blevet udbedret. Linkene begyndte at sprede sig fredag.
+Ifølge Spark var der tale om et såkaldt "dynamisk" cyber-angreb, hvor udbyderens systemer blev overbelastet og måtte give efter.
+Foruden billeder af Rihanna var også skuespilleren Jennifer Lawrence og sangerinden Avril Lavigne med til at lokke museklik ud af folk i New Zealand.
+Billederne stammer fra et tyveri af billeder fra en såkaldt cloud-service, hvor man kan gemme filer på internettet.
+Det er uvist, om de afslørende billeder stammer fra Apples iCloud, hvor flere kendisser for nylig har fået private billeder stjålet og lagt til skue på nettet.
+It-sikkerhedsfirmaet Trend Micro advarede kort inden angrebet imod at klikke på linkene.
+Firmaet oplyser, at linkene blandt andet førte hen til en side, hvor internetbrugeren blev tilbudt at downloade en software, så vedkommende kunne se en video med Jennifer Lawrence. Programmet var dog ondsindet og indeholdt såkaldt malware.
+Newzealandske myndigheder er ikke klar over, hvem der står bag angrebet, som blev iværksat uden for landets grænser.

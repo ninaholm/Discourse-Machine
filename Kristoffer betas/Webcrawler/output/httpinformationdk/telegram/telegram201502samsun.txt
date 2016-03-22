@@ -1,0 +1,14 @@
+Samsung-fjernsyn giver hackere adgang til din stue
+It-sikkerhedsekspert advarer om risiko for hacking af intelligent fjernsyn, der optager private samtaler.
+
+
+ Samsungs nye fjernsyn hører alt, hvad du siger. Det er smart, når du beder fjernsynet om at skifte kanal eller skrue op for lyden, men fjernsynet lytter også, når du snakker om andre mere personlige ting.
+Informationerne bliver ifølge fjernsynets manual sendt til en tredjepart, og det kan hackere udnytte til at opsamle følsomme oplysninger, mener it-sikkerhedsekspert i CSIS, Peter Kruse.
+- Hackerne kan viderestille netværkstrafikken så den information, der skulle være sendt til producenten, bliver sendt til en, der ønsker at opsamle informationerne, siger han og tilføjer:
+- Det er alt sammen et spørgsmål om, hvor trafikken går hen. Det er kun det, der begrænser, at folk kan lytte med på hvad som helst, der foregår i stuen.
+Det betyder altså, at hackere kan optage private samtaler, der foregår inden for hjemmets fire vægge. Også for private virksomheder er der en potentiel sikkerhedsbrist.
+- Man kan forestille sig, at hackerne kan lytte med til et møde i et konferencelokale, hvor der er et tændt Samsung-fjernsyn, og hvor der bliver sagt fortrolige ting, siger it-sikkerhedsekspert Peter Kruse.
+Generelt synes han, at det nogle gange går lidt for hurtigt, når der bliver integreret nye intelligente egenskaber i hverdagens elektronik.
+- Hvis man introducerer en masse funktionalitet uden at sikre sig, at det er ansvarligt, så risikerer man at skabe en masse problemstillinger for en masse mennesker og private virksomheder, siger Peter Kruse.
+Stemmefunktionen i fjernsynet kan slukkes, men Peter Kruse mener, at Samsung skal gøre noget mere for at oplyse brugerne.
+- Jeg synes det rigtige at gøre i denne her sammenhæng, er i det mindste at gå ud og advare om risikoen, siger han.

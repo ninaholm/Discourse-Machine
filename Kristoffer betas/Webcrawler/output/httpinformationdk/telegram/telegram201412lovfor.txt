@@ -1,0 +1,13 @@
+Lovforslag om adgang til tele-data bekymrer branche
+Telebranchen advarer mod brud på danskernes retssikkerhed, hvis FE med nyt lovforslag får adgang til data.
+
+
+ Regeringen lægger med et nyt lovforslag op til, at Center for Cybersikkerhed, der hører under Forsvarets Efterretningstjeneste (FE), skal have adgang til flere af teleselskabernes - og dermed danskernes - følsomme oplysninger.
+- Center for Cybersikkerhed kan til enhver tid mod behørig legitimation uden retskendelse få adgang til udbyderes lokaliteter med henblik på indsamling af oplysninger, står der ifølge Information i lovforslaget.
+Men forslaget giver dybe panderynker hos telebranchen
+- Det strider mod almindelige retssikkerhedsmæssige principper, og det er meget vanskeligt at se, hvad begrundelsen skulle være for at indføre et sådant indgribende instrument på et område, hvor der er behov for at styrke gennemsigtighed og tillid til myndigheder og aktører, siger Jakob Willer, direktør i brancheorganisationen Teleindustrien, til Information.
+Han får opbakning fra Rasmus Theede fra Rådet for Digital Sikkerhed. Han roser Center for Cybersikkerheds arbejde, men advarer mod at gennemføre hastelovgivning på området.
+- Med al opmærksomheden om Edward Snowden, vil det undre os, hvis regeringen giver Forsvarets Efterretningstjeneste så kontroversielle beføjelser, siger han til Berlingske og uddyber:
+- Det ligner noget, der sker i stater, som vi ikke har lyst til at sammenligne os med. Hvis man skal sparke døren ind i en bygning, bør det absolut være med en dommerkendelse.
+Udkastet til lovforslaget blev offentliggjort af it-eksperten Poul-Henning Kamp på online-mediet Version 2 i denne uge.
+Forsvarsminister Nicolai Wammen (S) ønsker ikke at kommentere lovforslaget.

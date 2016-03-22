@@ -1,0 +1,13 @@
+De skønne spildte anstrengelser
+Magnus Carlsen måtte nøjes med remis efter 122 træk
+
+
+ Det syvende matchparti i VM-dysten mellem Carlsen og Anand i Sotji blev det hidtil længste. Anand valgte med de sorte brikker igen Berlin-forsvaret (“Berlinmuren”) i spansk parti, og denne gang gik nordmanden ind i en af hovedvarianterne og fik efterhånden oparbejdet en lovende stilling, men så ...
+1.e4 e5 2.Sf3 Sc6 3.Lb5 Sf6 4.0–0 Sxe4 5.d4 Sd6 6.Lxc6 dxc6 7.dxe5 Sf5 8.Dxd8+ Kxd8 9.h3 Ke8 10.Sc3 h5 11.Lf4 Le7 12.Tad1 Le6 13.Sg5 Th6 14.g3 Lxg5 15.Lxg5 Tg6 16.h4 f6 17.exf6 gxf6 18.Lf4 Sxh4 19.f3 Td8 20.Kf2 Txd1 21.Sxd1 Sf5 22.Th1 Lxa2 23.Txh5 Le6 24.g4 Sd6 25.Th7 Sf7 26.Se3 Kd8 27.Sf5 c5 28.Sg3 Se5 29.Th8+ Tg8 30.Lxe5 fxe5 31.Th5 ...
+Se diagrammet.
+En kritisk situation for Anand, der er ved at blive rullet af brættet. Han vælger at hugge den gordiske knude over med: 31. - Lxg4! 32.fxg4 Txg4 33.Txe5 b6 34.Se4 Th4 35.Ke2 Th6 36.b3 Kd7 37.Kd2 Kc6 38.Sc3 a6 39.Te4 Th2+ 40.Kc1 Th1+ ...
+Tidskontrollen er overstået uden drama, og hvid spiller naturligvis på gevinst. Meningerne på nettet var delte her. Den danske stormester Lars Bo Hansen hævdede, at der var mindst lige så stor chance for hvid gevinst som for remis.
+41.Kb2 Th6 42.Sd1 Tg6 43.Se3 Th6 44.Te7 Th2 45.Te6+ Kb7 46.Kc3 Th4 47.Kb2 Th2 48.Sd5 Td2 49.Sf6 Tf2 50.Kc3 Tf4 51.Se4 Th4 52.Sf2 Th2 53.Tf6 Th7 54.Sd3 Th3 55.Kd2 Th2+ 56.Tf2 Th4 57.c4 Th3 58.Kc2 Th7 59.Sb2 Th5 60.Te2 Tg5 61.Sd1 b5 62.Sc3 c6 63.Se4 Th5 64.Sf6 Tg5 65.Te7+ Kb6 66.Sd7+ Ka5 67.Te4 Tg2+ 68.Kc1 Tg1+ 69.Kd2 Tg2+ 70.Ke1 bxc4!
+Så går det mod remis, og i lutter ærgrelse herover slæbte Carlsen partiet omkring 25 træk længere, end der var klædeligt, læs: sportsligt. 71.Txc4 Tg3 72.Sxc5 Kb5 73.Tc2 a5 74.Kf2 Th3 75.Tc1 Kb4 76.Ke2 Tc3 77.Sd3+ Kxb3 78.Ta1 Kc4 79.Sf2 Kb5 80.Tb1+ Kc4 81.Se4 Ta3 82.Sd2+ Kd5 83.Th1 a4 84.Th5+ Kd4 85.Th4+ Kc5 86.Kd1 Kb5 87.Kc2 Tg3 88.Se4 Tg2+ 89.Kd3 a3 90.Sc3+ Kb6 91.Ta4 a2 92.Sxa2 Tg3+ 93.Kc2 Tg2+ 94.Kb3 Tg3+ 95.Sc3 Th3 96.Tb4+ Kc7 97.Tg4 Th7 98.Kc4 Tf7 99.Tg5 Kb6 100.Sa4+ Kc7 101.Kc5 Kd7 102.Kb6 Tf1 103.Sc5+ Ke7 104.Kxc6 Td1 105.Tg6 Kf7 106.Th6 Tg1 107.Kd5 Tg5+ 108.Kd4 Tg6 109.Th1 Tg2 110.Se4 Ta2 111.Tf1+ Ke7 112.Sc3 Th2 113.Sd5+ Kd6 114.Tf6+ Kd7 115.Sf4 Th1 116.Tg6 Td1+ 117.Sd3 Ke7 118.Ta6 Kd7 119.Ke4 Ke7 120.Tc6 Kd7 121.Tc1 Txc1 122.Sxc1 - og endelig: 0,5-0,5.
+Stillingen var hermed 4-3 i Carlsens favør, men Anands seje forsvarsspil må skabe bekymrede miner i den norske lejr - og omvendt give den sympatiske inder tro på, at det kan lade sig gøre at genfinde VM-titlen.
+

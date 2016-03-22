@@ -1,0 +1,25 @@
+Ingen garanti mod flere testsammenbrud
+Efter sammenbruddet på de nationale test i sidste uge er leverandøren bag nu overbevist om, at testene virker. Men nogen garanti er der ikke, når det er it-systemer, mener COWI. Socialdemokraterne mener, det er uholdbart at tvinge den samlede danske folkeskole til at være prøveklud
+
+
+ Efter den landsdækkende premiere midt i februar brød de nationale test i folkeskolen igen sammen for en uge siden. COWI, der har stået for udviklingen af testene, mener dog, at testene nu er mere driftsikre.
+De obligatoriske nationale test er allerede forsinket tre år og har kostet 50 millioner mere end planlagt.
+Men ifølge direktør i Skolestyrelsen Martin Isenbecker er det første gang, at der er tekniske problemer med testene.
+»Problemet har hidtil været, at testene ikke var gode nok. Der har ikke været tekniske problemer før. Tværtimod er der blevet taget mere end 200.000 test i efteråret,« forklarer Martin Isenbecker, der endnu ikke ved, om sammenbruddet får økonomiske konsekvenser for leverandøren COWI.
+»Det er klart, at sådan et forløb har en betydning for, hvordan de nationale test bliver opfattet, og det er rigtig ærgerligt, for de her test, tror jeg, kan være en stor hjælp til evalueringen på skolerne,« siger Martin Isenbecker.
+Ingen garanti
+Men selv om COWI har kørt diverse belastningstest siden sammenbruddet i sidste uge, så er det netop kun: Test.
+Knud Erik Christensen, direktør i COWI, kan ikke udstede en garanti for, at de virker:
+»Vi forventer selvfølgelig ikke, at de går ned igen, men når det er it-systemer, så kan man aldrig garantere noget. Men når vi går i luften igen, vil der være sat ekstra overvågning på, så vi er parat til at handle med det samme, hvis der opstår noget uregelmæssigt.«
+De nationale test er en helt ny måde at teste skoleelever på, fordi testene er adaptive - det vil sige ændrer sig efter barnets kunnen. Og det er ifølge Knud Erik Christensen en af forklaringerne på, hvorfor de nationale test er svære at få til at fungere.
+Spørgsmålet er så, om de gør det nu, hvor COWI har gennemprøvet systemet endnu en gang. Sidste uges problemer opstod, da der var 4.000 brugere på samtidig. COWI har nu belastet systemet med helt op til 10.000 brugere.
+»Derfor er vi trygge ved, at det kører nu,« siger Knud Erik Christensen.
+Spørgsmålet er så, om systemet kan klare, når det er 10.000 'virkelige' skolebørn, der går på.
+»Udfordringen for os har været at simulere den virkelighed, vi oplevede i mandags, og det har vi ikke været gode nok til, for der opstod nogle forsinkelser, som vi ikke havde haft i vores tidligere forsøg,« forklarer Knud Erik Christensen.
+De nationale test skulle fungere igen fra i dag. Testene er først obligatoriske for alle danske folkeskoleelever igen fra på mandag den 15. marts, oplyser Skolestyrelsen.
+Uholdbar situation
+Socialdemokraterne, der er med i forliget om de nationale test, mener det er uholdbart at køre med samtlige test igen, når COWI ikke kan garantere, at testene virker.
+»Vi mister fuldstændig opbakning i folkeskolen, når den skal være prøveklud for test, der ikke virker igen. Vi har sagt meget tydeligt til regeringen og DF, at vi ikke kan anbefale, at testene kører igen. At de bør gøres frivillige til de i en lang periode har kørt uden problemer - og så kan de gennemføres nationalt,« siger Christine Antorini.
+Socialdemokraternes uddannelsesordfører havde håbet, at den nye undervisningsminister havde et mere pragmatisk forhold til at få gennemført testene på en ordentlig måde.
+»Så sker der fejl fremover ligger ansvaret nu 100 procent på Tina Nedergaards bord. Hun kunne have taget affære, men hun gør intet og lader det hele køre videre vel vidende, at ikke engang firmaet bag vil garantere, at det er i orden,« mener Christine Antorini.
+

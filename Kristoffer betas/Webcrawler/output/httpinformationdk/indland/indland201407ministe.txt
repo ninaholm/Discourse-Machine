@@ -1,0 +1,25 @@
+Minister mørkelægger samarbejde med NSA
+’Såfremt det måtte være aktuelt’, vil regeringen fortælle hemmeligt folketingsudvalg om samarbejdet med NSA. Men heller ikke andre, lyder det fra forsvarsministeren
+
+
+ Offentligheden kan ikke få at vide, om Forsvarets Efterretningstjeneste (FE) med loven i hånden samarbejder med den amerikanske efterretningstjeneste NSA om at tappe fiberkabler, der transporterer internet- og teletrafik igennem Danmark.
+Selv om dokumenter, Information har fået adgang til via whistlebloweren Edward Snowden, afslører, at et sådan samarbejde efter alt dømme finder sted, afviser forsvarsminister Nicolai Wammen (S) i en række svar til Folketingets forsvarsudvalg at redegøre for dette – og med hvilken hjemmel det i givet fald foregår.
+Information beskrev i en række artikler i juni et samarbejde mellem NSA og FE om tapning af fiberkabler, men det stod ikke klart, hvordan FE og NSA i så fald får adgang til data. De store teleselskaber ville ikke afvise, at de gav FE adgang til data fra kablerne uden dommerkendelser, men kun sige at de overholdt de forpligtelser, de var underlagt »i henhold til loven«.
+Spørgsmålene forsøgte derfor både at afklare, hvilke regler der i så fald er for sådan et samarbejde, men også om hvorvidt FE har lov til »selvstændigt at koble sig op på danske fiberkabler«.
+I en række enslydende svar henviser forsvarsministeren nu til, at »oplysninger af den omhandlede karakter giver regeringen, såfremt det måtte være aktuelt, alene til Folketingets Udvalg vedrørende Efterretningstjenesterne«. Kontroludvalget består af fem folketingsmedlemmer, som er udpeget af de fem største partier i Folketinget. Medlemmerne har tavshedspligt om, hvad de erfarer i udvalget.
+»Mere generelt kan det oplyses, at Forsvarets Efterretningstjenestes (FE) elektroniske indhentning, herunder samarbejdet med partnere, skal foregå inden for rammerne af dansk ret,« skriver Nicolai Wammen.
+Han henviser i svarene til, at Lov om Forsvarets Efterretningstjeneste giver hjemmel til at »samarbejde med udenlandske efterretningstjenester, herunder videregive oplysninger til udenlandske samarbejdspartnere«, samt de paragraffer i loven som i brede formuleringer slår fast, at FE »kan indsamle og indhente oplysninger, der kan have betydning for tjenestens efterretningsmæssige virksomhed«.
+RAMPART-A
+Adgangen til fiberkabler er en hjørnesten i NSA’s globale masseovervågning. Internettets ‘rygrad’ kaldes kablerne, der transporterer telefonopkald og internettrafik, det vil blandt andet sige e-mails, Skype-opkald og Facebook-beskeder.
+Tilsyneladende er samarbejdet mellem NSA og FE en del af et omfattende, internationalt NSA-program om kabeladgang med kodenavnet RAMPART-A, som de lækkede dokumenter tyder på i hvert fald inkluderer Danmark, Tyskland og en række andre af NSA’s tredjeparts-partnerlande, som endnu ikke er identificeret.
+I de fiberkabler, der krydser Danmark, passerer både international og dansk trafik, og da FE har vid adgang til at dele rådata med udenlandske tjenester, har der været spekuleret i, om også danske data finder vej til den amerikanske efterretningstjeneste via samarbejdet.
+FE har afvist at kommentere på udleveringen af rådata, men tidligere har FE-chef Thomas Ahrenkiel sagt til Politiken, at den danske efterretningstjeneste deler data indsamlet »i et konfliktområde i udlandet« med NSA.
+I den forbindelse udtalte Thomas Ahrenkiel, at »skulle der være danskrelaterede data, så har vi nogle filtre, der renser dem for danske informationer, inden de udleveres til partnere«.
+Ifølge en kilde med kendskab til FE’s filtrering af data fra en konfliktzone vil noget lignende være tilfældet med data indsamlet ved kabeltap i Danmark, men der er tale om en relativt grov filtrering, der ikke f.eks. vil kunne opfange eksempelvis danskere med Gmail.com adresser.
+’Uacceptabelt’ svar
+Enhedslistens fungerende ordfører, Per Clausen, kalder forsvarsministerens svar for »uacceptabelt«.
+»Der bliver jo spurgt til, hvilke regler som principielt gælder, og hvordan man samarbejder. Det handler ikke om konkrete sager, og hvordan efterretningstjenesten konkret handler. Så det er uacceptabelt, at forsvarsministeren ikke vil svare på spørgsmålene. Det understreger, at den kontrol, vi har med efterretningstjenesterne i Danmark, er af en sådan karakter, at vi ikke har sikkerhed for, at den virker. Vi kan nemlig ikke få svar på de relevante spørgsmål,« siger Per Clausen.
+Hverken Venstres eller SF’s medlemmer af kontroludvalget ønsker at kommentere forsvarsministeren svar – herunder om de har eller ønsker at få en redegørelse for samarbejdet mellem FE og NSA.
+SF’s Karina Lorentzen Dehnhardt henviser til, at det vil være »strafbart« at udtale sig, mens Venstres udvalgsformand Karsten Nonbo også tier.
+»Kontroludvalget er jo ikke et offentligt udvalg, der sådan farer ud og fortæller om alting,« siger kontroludvalgets formand.
+

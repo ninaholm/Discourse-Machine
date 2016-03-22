@@ -1,0 +1,34 @@
+Storbritannien ønsker internetovervågning, som fejlede i Danmark
+Storbritannien er i gang med at behandle et lovforslag, der skal gøre det muligt at overvåge alle briters brug af internettet. Det har Danmark før forsøgt med meget begrænset succes
+
+
+ Der er få ting, som den britiske regering med premierminister David Cameron i spidsen kan blive enige med sine kritikere om, når det gælder det vidtrækkende og kontroversielle forslag til en ny overvågningslov, som lige nu er under behandling i parlamentet. Men én ting er der ingen, der er uenige om: Lovforslaget er særdeles vigtigt – både for kritikerne og for den konservative regering. I sidste uge betegnede indenrigsminister Theresa May lovforslaget som »betydeligt«:
+»Både i størrelse og også i forhold til de beføjelser, som der ligger i det. Og betydningsfuldt i forhold til karakteren af den trussel, som vi står over for,« som hun sagde under et udvalgsmøde.
+I lovforslaget, der er på flere hundrede sider, og som har været under behandling siden november, er der et stort antal elementer. Regeringens udlægning er, at lovforslaget mestendels samler beføjelser, som myndighederne i forvejen har. Men der er også et yderst kontroversielt nyt tiltag.
+Regeringen vil gøre det muligt at kræve, at internetudbydere logger oplysninger om alle briters brug af internettet i op til ét år. De data skal det så være muligt for politi og efterretningstjenester at tilgå med en dommerkendelse.
+Intentionen med forslaget er at gøre det muligt at finde ud af, om en person har tilgået eller distribueret eksempelvis børnepornografisk materiale. Eller finde ud af, om en savnet person har brugt Facebook i forløbet op til, at personen er forsvundet. Eller finde ud af, af hvem og hvornår et billede er uploadet til en hjemmeside.
+Der er altså tale om oplysninger om, hvilke computere eller mobiltelefoner der har kommunikeret med hvilke internettjenester og servere på hvilket tidspunkt.
+I dag har de britiske myndigheder mulighed for at kræve, at internetudbydere logger disse oplysninger for individuelle personer fremadrettet, hvis myndighederne beder om det. Lovforslaget handler om at gøre det muligt at logge oplysningerne for hele befolkningen, så myndighederne bagudrettet kan tilgå alle briters brug af internettet.
+De danske erfaringer
+Tidligere har Danmark forsøgt at overvåge danskernes brug af internettet på en lignende måde. Det var dog en stor fiasko.
+Og indsamlingen blev stoppet i sommeren 2014 med henvisning til, at det var tvivlsomt, om overvågningen var brugbar. Det skete også i umiddelbar forlængelse af, at EU-Domstolen i en opsigtsvækkende dom underkendte EU’s såkaldte logningsdirektiv, men det var altså ikke den officielle begrundelse for at afskaffe den danske internet-overvågning.
+Lige inden internetovervågningen blev afskaffet, viste tal fra brancheorganisationen Teleindustrien, at overvågningen samlet set medførte 3,5 billioner registreringer årligt. Det svarede til, at hver dansker gennemsnitligt blev registreret én gang i minuttet.
+En redegørelse fra slutningen af 2012, som Justitsministeriet lavede, viste da også, at man reelt kun kunne finde én enkelt sag som eksempel på, at internetovervågningen havde været nyttig i efterforskningsøjemed. Politiets Efterretningstjeneste udtalte også dengang, at tjenesten brugte internetovervågningen i meget få tilfælde.
+Justitsministeriets samlede vurdering var, at der var »alvorlige praktiske problemer forbundet med anvendelsen af den sessionslogning, som internetudbyderne er forpligtede til at foretage«, som der stod i redegørelsen.
+Og de britiske politikere ved også godt, hvordan forsøget med at overvåge danskernes internetbrug gik. Jesper Lund, der er formand for IT-Politisk Forening i Danmark, har været på besøg i det britiske parlament og fortalt et udvalg, som arbejder med lovforslaget, om de danske erfaringer.
+Foreningen har også opfordret briterne til at overveje, om lovforslaget virkeligt er muligt at gennemføre i praksis. De danske erfaringer har været meget negative – selv set fra politiets synspunkt.
+I sidste uge blev indenrigsminister Theresa May så spurgt til de danske erfaringer af Labour-politikeren Shabana Mahmood.
+»I Danmark nåede de frem til, at de bare opsamlede en meget stor mængde data af begrænset brugbarhed. Det var ikke særligt effektivt i forhold til at hjælpe politiet med at gøre deres arbejde,« sagde Shabana Mahmood og spurgte, hvad ministeren tænkte om de danske erfaringer.
+»Som I nok kan forestille jer, så har vi talt med danskerne om deres erfaringer,« svarede Theresa May.
+Hun påpegede, at der er tekniske forskelle mellem det danske overvågningskoncept og så det britiske forslag. Det er uden tvivl rigtigt. Og måske kan den britiske regering finde en teknisk løsning, der virker, selv om mange eksperter er i tvivl.
+Til lægen og på nettet
+Selv hvis det lykkedes, er der imidlertid mange muligheder for at omgå internetovervågningen. Det vil blot kræve, at man bruger anonymiseringsværktøjer som Tor-netværket eller en såkaldt VPN-forbindelse. Det har flere eksperter påpeget under behandlingen af lovforslaget.
+Tilbage er også kritikken af den masseovervågning, som lovforslaget under alle omstændigheder vil kunne medføre. Tre af de såkaldte FN-specialrapportører for henholdsvis ytringsfrihed, forsamlingsfrihed og for menneskerettighedsforkæmpere advarer således i et høringssvar til loven om, at det samlede forslag kan føre til masseovervågning uden ordentlig kontrol.
+Den britiske Information Commissioner, som kan sammenlignes med det danske Datatilsyn, er stærkt kritisk over for internetovervågningen.
+»Det kan føre til et detaljeret og indgribende billede af en persons interesser …« skriver myndigheden.
+Organisationen Privacy International mener også, at denne form for internetovervågning »potentielt kan krænke folks privatliv i en væsentlig grad«.
+Eller som Paul Bernal, der er it-ekspert og jurist på University of East Anglia Law School, sagde til britiske parlamentsmedlemmer under et udvalgsmøde:
+»Når du går til lægen, så forventer du fortrolighed, når du diskuterer dit helbred. Hvis du besøger en hjemmeside for at opsøge viden om en særlig sygdom, så kan det afsløre lige så meget, som du afslører over for din læge – måske afslører det endda mere, fordi folk forventer, at de kan være mere intime på nettet, end de måske er klar til over for en læge,« sagde han.
+Som et modsvar til, at indenrigsminister Theresa May nu forsøger at overvåge briternes brug af internettet, har avisen The Independent søgt aktindsigt i, hvilke hjemmesider ministeren har besøgt.
+Logikken er, at hvis hun kræver de oplysninger af alle andre, så bør hun også udlevere sine egne. Indtil videre har avisen dog fået afslag på den anmodning om aktindsigt – det ville ministeren ikke være med til.
+

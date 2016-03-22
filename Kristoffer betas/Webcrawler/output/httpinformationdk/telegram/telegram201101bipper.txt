@@ -1,0 +1,4 @@
+Bippere hjælper patienter på skadestuen
+En bipper skal forkorte patienters ventetid på skadestuen, så de frit kan gå rundt, indtil det er deres tur.
+
+

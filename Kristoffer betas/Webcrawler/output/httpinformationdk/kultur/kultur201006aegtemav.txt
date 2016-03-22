@@ -1,0 +1,14 @@
+En ægte maverick
+En kort fortælling om en af vor tids sjældne opfindersjæle, der har fødselsdag i dag
+
+
+ I en tid hvor computere er blevet allemandseje, og langt de fleste nye tiltag kommer fra de store etablerede aktører på markedet, kan det vække en nostalgisk følelse hos de, der har beskæftiget sig med IT siden de tidlige dage, at enkeltpersoner med gode ideer stadig kan finde en plads til at revolutionere markedet.
+Og især de typiske purunge programmører, som overrasker med programmer eller ydelser, som de har programmeret i soveværelset. Nyere eksempler på dette er det sociale medie Facebook, fildelingstjenesten Napster, og, som det måske mest banebrydende, open source-browseren Firefox.
+Manden bag Firefox, Blake Ross, fylder i dag 25 år, hvilket i de fleste erhvervskredse er en passende alder for en nyansat trainee, og det var faktisk også, hvad Blake Ross var, da han i år 2000 startede hos den skrantende browser-producent Netscape.
+Men da var Ross bare 15 år gammel, og at han havde valgt en praktikplads hos et firma, som i den grad var presset af Microsofts massive succes med browseren Internet Explorer - hvilket en senere retssag erklærede, skyldtes en konkurrenceforvridende distribution - skyldtes, at virksomheden som en af de allerførste var overgået til at producere i den frie, brugerorienterede open source-standard; og altså populært sagt skrev opskriften udenpå kagen.
+Firefox, der således begyndte som et sideprojekt for en teenager i 10. klasse, blev udviklet med det mål at være et alternativ til virksomheden Mozillas meget produkttyngede pakkeløsninger, og skulle tilgodese et ønske blandt brugere om at kunne få en 'slankere' browser, der kun var netop det - en browser. Mozilla var med på den.
+Ideens overvældende succes var mere, end de fleste kunne have regnet med; idag er Firefox standardbrowser for mere end hver fjerde netbruger og har gennem flere år været den eneste seriøse udfordrer til Microsofts tidligere så totale dominans.
+Ross selv har for længst forladt projektet og er i færd med nye projekter, ved siden af sine studier ved Stanford universitetet. Ironisk nok har han udgivet Firefox-guiden Firefox for dummies, men han har derudover siden 2006 arbejdet på et projekt, som skal administrere et mere brugervenligt samarbejde mellem netværk og brugerfalde, kaldet Parakey.
+Projektet er for nyligt blevet opkøbt af Facebook, så det er sikkert ikke det sidste, man har hørt til Blake Ross.
+
+

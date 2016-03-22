@@ -1,0 +1,29 @@
+Efterretningstjeneste får uhindret adgang til dansk data
+Flere eksperter kritiserer lovudkast mod hackerangreb. Loven krænker retssikkerheden, lyder kritikken
+
+
+ 
+	En ny lov, der skal styrke forsvaret mod hackerangreb, vil sætte danskernes retssikkerhed over styr.
+
+	Sådan lyder kritikken fra flere sagkyndige, skriver Politiken onsdag.
+
+	Loven lægger nemlig den hidtidige civile overvågning af internetsikkerhed ind under Forsvarets Efterretningstjeneste (FE).
+
+	Det betyder, at den hemmelige tjeneste får adgang til alle oplysninger, som borgere og virksomheder deler med offentlige myndigheder over internettet, uden at det bliver muligt at følge med i, hvad FE gør med oplysningerne, og hvilke udenlandske tjenester, FE vælger at dele data med.
+
+	»Borgeres og virksomheders værn mod unødvendige indgreb fra staten sættes ud af kraft,« siger formand for Rådet for Digital Sikkerhed Birgitte Kofod Olsen til Politiken.
+
+	Professor i it-ret ved Aalborg Universitet Søren Sandfeld Jakobsen kalder det fornuftigt nok at ændre organiseringen af cyberforsvaret for derved at styrke indsatsen mod hackerangreb.
+
+	Men professoren finder flere problemer i lovudkastet og mener, at det understreger behovet for en afklaring af FEs forhold til den amerikanske efterretningstjeneste, NSA.
+
+	»Med en sådan lov får man skabt en kanal, hvor data legalt kan indsamles i Danmark, videregives til FE og videre til NSA i kraft af deres samarbejde.«
+
+	»Det skærper behovet for klarere snitflader i forholdet til NSA, så vi har snor i, hvad de bruger vore data til,« siger Søren Sandfeld Jakobsen til Politiken.
+
+	Statens overvågning af internetsikkerhed var tidligere delt i to. En civil del under Videnskabsministeriet, og en militær del under Forsvarsministeriet.
+
+	Regeringen besluttede i regeringsgrundlaget at samle de to dele til én under Forsvarsministeriet. Det skulle ske ved dannelsen af Center for Cybersikkerhed, som bliver lagt ind under FE.
+
+	Den nye lov om IT-sikkerhed har været i høring, og forsvarsminister Nicolai Wammen (S) ønsker ikke at svare på kritikken, før han har studeret samtlige høringssvar.
+

@@ -1,0 +1,19 @@
+New York Filharmonikerne spiller historisk koncert i Nordkorea
+I billeder: New York Philharmonic bragte det musikalske diplomati til Nordkorea, da symfoniorkestret gav en koncert i hjertet af det kommunistiske land
+
+
+ <?php drupal_add_js('files/flash/swfobject.js', 'module'); ?>
+var so = new SWFObject("/files/flash/norkd/soundslider.swf", "egetBanner", "600", "400", "6", "#ffffff");
+so.write("slideshow");
+
+New York Philharmonic gjorde tirsdag sit til at bløde op på den såkaldte "ondskabens akse", da symfoniorkestret gav koncert i Nordkoreas hovedstad, Pyongyang.
+ New York Philharmonic er det første større amerikanske orkester, der spiller i Nordkorea. Med dets 106 medlemmer er det desuden den største amerikanske delegation nogensinde i det kommunistiske land.
+ Koncerten blev indledt med først den nordkoreanske og derefter den amerikanske nationalsang, som begge fik publikum til at give stående bifald.
+ Tilsyneladende var den nordkoreanske leder, Kim Jong-il, ikke blandt de omkring 2500 gæster i koncertsalen i Pyongyang.
+ Den usædvanlige koncert er tegn på en forbedring i forholdet mellem USA og Nordkorea. De to lande er stadig i gang med forhandlinger om at skrotte det nordkoreanske styres atomvåbenprogram.
+ Det er ikke første gang, at New York Philharmonic praktiserer det musikalske diplomati. I 1959 gav orkestret en koncert i Sovjetunionen, som ifølge orkesterleder Lorin Maazel var med til at lirke jerntæppet op.
+ - Sovjetstyret indså ikke, at det var et tveægget sværd, for ved at gøre det at lade de folk udefra påvirke deres eget folk, sagde Maazel forud for koncerten.
+ På spørgsmålet om, hvorvidt han mente, at det samme kunne ske i Nordkorea, svarede han:
+ - Der er ingen paralleller i historien, kun ligheder.
+ Han tilføjede, at koncerten kunne være et meget lille skridt, som forhåbentlig vil føre til flere kulturelle og sociale udvekslinger.
+ Foruden de to landes nationalsange spillede New York Philharmonic blandt andet tredje akt af Richard Wagners "Lohengrin," og George Gershwins "An American in Paris".

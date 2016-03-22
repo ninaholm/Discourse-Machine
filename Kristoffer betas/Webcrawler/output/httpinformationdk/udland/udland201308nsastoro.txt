@@ -1,0 +1,36 @@
+NSA er i stor offentlig krise
+Edward Snowdens fortsatte afsløringer af NSA’s overvågnings-programmer efterlader efterretnings-tjenesten med store forklaringsproblemer og har sat gang i den største debat om overvågning i USA siden 11. september 2001
+Edward Snowdens afsløringer har bragt den firestjernede general og chef for NSA Keith Alexander (billedet) i defensiven. Som følge af afsløringerne kan han nu risikere at blive pålagt begrænsninger af de overvågningsprogrammer, som han siden 11. september ellers stort set kun har været med til at udvide.
+
+
+ 
+	De indsamler milliarder af telefonoplysninger og emails. Overvåger fremmede landes ambassader og har opbygget overvågningsprogrammet XKeyscore, der gør det muligt for NSA’s ansatte at få adgang til millioner af borgeres private kommunikationer på internettet via en gigantisk søgbar database.
+
+	Mens Edward Snowden i går kunne forlade lufthavnen i Moskva med en aftale om asyl i Rusland i foreløbigt et år, efterlader hans fortsatte afsløringer den amerikanske efterretningstjeneste NSA (National Security Agency) i en af sine største offentlige kriser nogensinde.
+
+	Afsløringerne, der har stået på i over en måned, har igangsat den største debat om overvågning siden efterretningstjenesternes beføjelser blev kraftigt udvidet i tiden efter terrorangrebet 11. september 2001. Efter terrorangrebet var efterretningsmiljøet af den opfattelse, at de på grund af retssikkerhedsmæssige begrænsninger havde overset vigtige oplysninger, der kunne have forhindret angrebet. I månederne derefter blev de begrænsninger lige så stille ophævet, og det blev startskuddet for det gigantiske overvågningsapparat, som Edward Snowden nu har løftet sløret for.
+
+	Blandt andet whistleblowerne William Binney og Thomas Drake har tidligere offentliggjort oplysninger mundtligt, der i sit indhold minder om Snowdens. Men da det ikke har været bakket op af dokumenter, er det ofte blevet blankt afvist fra officiel side.
+
+	»Vi opbevarer ikke data på amerikanske borgere,« sagde NSA-chef Keith Alexander sidste sommer ifølge Wired, mens chefen for de amerikanske efterretningstjenester James Clapper direkte adspurgt om NSA indsamlede »nogen form for data overhovedet på millioner eller hundrede millioner af amerikanere?« svarede: »Nej, sir,« og uddybede: »Ikke bevidst. Der er sager, hvor de uforsætligt måske kunne komme til at indsamle. Men ikke bevidst«.
+
+	Netop den store afstand mellem de officielle forklaringer og de detaljerede oplysninger om massive overvågningsprogrammer, der nu lækkes, er det, der har ført til forandringerne i den amerikanske overvågningsdebat. Som den demokratiske senaor Sheldon Whitehouse siger til AP:
+
+	»Vi har masser af fine informationer derude, som hjælper den amerikanske offentlighed til at forstå disse programmer, men det er kommet for sent ud. Det kom ud som svar på en lækage. Der var ikke nogen organiseret plan for, hvordan vi rationelt ville deklassificere det, så den amerikanske befolkning kunne deltage i debatten,« siger han.
+
+	Nye alliancer
+
+	I sidste uge endte en afstemning i Repræsentanternes Hus, der ville nedlægge et kontroversielt overvågningsprogram som indsamler millioner af telefonoplysninger, med at blive snævert stemt ned 217-205. Telefonovervågningsprogrammet har været særligt kontroversielt, da regeringen – efter programmet blev afsløret – forsikrede om, at der var klare begrænsninger på brugen af databasen, som kun meget sjældent blev brugt til at søge oplysninger om amerikanske statsborgere.
+
+	Kun 300 gange blev databasen brugt med det formål sidste år, forklarede de.
+
+	Men da databasen fungerer ved ikke blot at søge oplysninger på en enkelt person, men også alle de personer vedkommende har ringet til, og alle de personer som alle de personer har ringet til osv. kan det sammenlagt hurtigt samle sig til oplysninger om millioner af amerikanske borgere. En detalje som ikke har gjort det stigende antal kritikere mildere stemt.
+
+	»Det blev beskrevet som et diskret program, der går efter folk, der ønsker at forårsage skade, men når du ser på, hvad programmet rent faktisk kan, så berører det en substantiel mængde amerikanere,« siger senator Dick Durbin ifølge AP.
+
+	Selve stemmeafgivningen viste også, at Snowdens afsløringer har skabt nye alliancer mellem republikanere og demokrater, da 94 republikanere og 111 demokrater stod sammen og stemte for at nedlægge programmet.
+
+	Mens diskussionerne fortsætter i de lovgivende forsamlinger og komiteer blev chefen for NSA Keith Alexander onsdag sendt på charmeoffensiv blandt nationens bedste hackere på sikkerhedskonferencen Blackhat. Her forklarede han, at NSA er sat i verden for at bekæmpe terrorister og sørge for den nationale sikkerhed. En opgave, som han fortsat gerne vil have hackernes hjælp til: »I er den største samling af tekniske talenter noget sted i hele verden. Jeg vil gerne have, at I hjælper os med at gøre det bedre,« sagde han i en appel, hvor han også kaldte flere af den seneste tids afsløringer i medierne for usande.
+
+	»Du løj over for Kongressen. Hvorfor skulle vi tro på, at du ikke også lyver over for os nu?,« lød et af tilråbene fra salen.
+

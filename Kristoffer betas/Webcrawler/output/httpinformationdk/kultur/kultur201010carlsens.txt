@@ -1,0 +1,17 @@
+Carlsen suveræn i Nanjing
+Den norske teenager tilbage som verdensetter
+
+
+ Det norske skakfænomen Magnus Carlsen, der endnu ikke er fyldt tyve år - det sker først den 30. november - demonstrerede i sidste uge i Nanjing, at hans lille formkrise under skak-OL i Rusland og delvist under grand slam-turneringen i Bilbao var forbigående. I suveræn stil sejrede han foran fem af verdens førende stormestre, heriblandt verdensmesteren Anand og eksverdensmesteren Topalov. Mod Anand spillede han to interessante remiser, men inderen var i den grad på nederlagets rand i det andet, hvor Carlsens sædvanlige instinkt for at slå en groggy modstander knockout for en gangs skyld svigtede.
+Begge hans opgør mod Topalov resulterede imidlertid i hurtige gevinster. I det første tilfælde blev bulgareren decideret udspillet og måtte kapitulere efter 32 træk. I det andet parti holdt Topalov med de hvide brikker længe skindet på næsen, og efter 31 træk havde man denne stilling på brættet:
+Se diagrammet.
+Sort står nok noget bedre her, men de færreste havde vel forestillet sig, at Topalov kunne tabe partiet - og da slet ikke så hurtigt, som det skete efter:
+32.Tc3?
+En gevaldig bøhmand. Og denne gang så Carlsen blottelsen og replicerede med et rent stød til kæben: 32. - Sxf2!
+En kombination, vi alle kan forstå. For på 33.Kxf2 følger jo 33. - Se4+ og haps på c3 i næste træk. Topalov forsøgte sig med 33.Tc7, men efter 33. - S2e4 kunne han godt indse, at slaget var tabt: 0-1.
+Slutstillingen i Nanjing: 1. Carlsen, Norge, 7 points 2. Anand, Indien, 6 p. 3. Bacrot, Frankrig, 5 p. 4.-5. Gashimov, Aserbajdsjan, og Topalov, Bulgarien, begge 4,5 p. 6. Wang Yue, Kina, 3 p.
+En slutstilling, der efter mit skøn må indebære, at Carlsen atter bliver rangeret som nr. 1 på den såkaldte live-rangliste, der et par gange om ugen opdateres på chess.liverating.org.
+Lyn-VM i Moskva
+Næste gang man har mulighed for at følge den norske ridder på nettet, bliver under World Blitz Chess Championship 2010 (VM i lynskak 2010), der finder sted i Moskva i dagene 16.-18. november. Her kommer Carlsen til at dyste mod kapaciteter som Kramnik og Aronian samt en række frygtede 'lynhajer' som Grischuk, Karjakin, Nakamura, Mamedyarov og Radjabov. Sidste år vandt Carlsen den prestigefyldte turnering og har siden dengang kunnet kalde sig verdensmester i lynskak. Der er i alt 20 stormestre om buddet i år, og da man spiller med dobbelte runder, skal hver spiller altså ud i 38 partier i løbet af de tre dage. Live-transmissionen fungerede kun tåleligt sidst, men med den generelle tekniske udvikling in mente må man forvente, at det bliver endnu sjovere at være med på en kikker denne gang.
+
+

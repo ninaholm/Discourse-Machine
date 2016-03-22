@@ -1,0 +1,33 @@
+Prominent hacker blev FBI-informant
+Ifølge de amerikanske myndigheder gik Hector Xavier Monsegur – kendt under hackernavnet ’Sabu’ – med til at blive informant, da han for få måneder siden blev anholdt for sin ’hacktivisme’
+I hackermiljøet var der mistanke om, at ’Sabu ’ var blevet informant.
+
+
+ Han var den selvlærte ’elitehacker’ bag en række ødelæggende angreb på det amerikanske Senat, på Zimbabwes regering og på flere andre fjender derimellem.
+Fra sin lejlighed i New York, hvor han boede med sine to børn, førte den 28-årige Hector Xavier Monsegur et dristigt dobbeltliv som internetaktivisten ’Sabu’ tilknyttet gruppen LulzSec – lidt af en berømthed inden for hackernes verden.
+Tirsdag blev Sabus identitet så afsløret, da det kom frem, at Monsegur havde erkendt sig skyldig i anklager om computerhacking, og at han siden august 2011 havde været informant for FBI, netop som den internationale indsats for at slå ned på hackerkollektivet Anonymous tog fart.
+Monsegur var dybt involveret i de angreb, der fandt sted i december på vegne af WikiLeaks. Det fremgår af de retsakter, som tirsdag blev offentliggjort i New York.
+Hackeren agerede som ’rooter’, dvs. han identificerede svage punkter i hjemmesider for multinationale virksomheder, deriblandt Visa, MasterCard og PayPal, som hans med-’hactivister’ fra Anynomous derefter skulle forsøge at udnytte.
+Ifølge FBI var Sabu dybt involveret i de af WikiLeaks iscenesatte Operation Payback-angreb, der formåede at stjæle dokumenter fra Yemens og Zimbabwes regeringer og ødelægge hjemmesiden for den daværende tunesiske premierminister.
+Sabu påtog sig altid hurtigt ansvaret for disse angreb med den hensigt at håne retsmyndighederne og vinde respekt i hackermiljøet. Og selv om rygterne om hans identitet begyndte at cirkulere blandt hackere, forblev de præcise detaljer stadig ukendte.
+Fældet af begynderfejl
+Den 7. juni sidste år var det slut. FBI’s agenter fandt frem til Monsegur i dennes lejlighed i Manhattan. Ifølge de amerikanske medier var eksperthackeren blevet offer for sin egen skødesløshed. FBI opdagede, at han havde logget sig ind på et internetchatroom fra sin egen internet-adresse – en begynderfejl inden for al computerhacking.
+Den 15. august sidste år og uden sine medhackeres viden erkendte Monsegur sig skyldig i 12 anklagepunkter i forbindelse med computerkriminalitet. Med udsigt til at blive idømt op til 124 års fængsel indvilgede Monsegur i at blive FBI-informant. FBI konfiskerede derfor Monsegurs egen nedslidte laptop og erstattede den med bureauets egen, som blev overvåget døgnet rundt.
+Når Sabu gik online, forblev han i rollen som udæskende hacker.
+»Det næste, I vil påstå, er garanteret, at jeg arbejder for CIA, og at jeg er en blackop,« skrev han til The Guardian, da avisen i juli foretog en undersøgelse af hackningen af tabloidavisen The Suns hjemmeside. »Er jeg stikker/informant? Tag jer sammen! Jeg kender ikke identiteten på nogen af dem, der arbejder i min gruppe,« lød det i et onlineindlæg, som tilskrives Monsegur, fra oktober sidste år – få uger efter, at han var gået i FBI’s tjeneste.
+»Det sidste, jeg kunne finde på, var at gøre noget, der kunne få mine folk knaldet. Jeg er en voksen mand, der klarer mine problemer selv. Jeg har været i fængsel før, og jeg er ikke bange for det. Faktisk er der meget lidt, jeg er bange for, især i de her dage.«
+For sent
+Indlægget var en reaktion på kritik fra andre hackere, der i stigende grad beskyldte Sabu for at være ’medieluder’ og informant. Disse rygter vandt stor udbredelse. Og kun 14 timer efter at han undgik fængsel ved at gå i de amerikanske myndigheders tjeneste, udnævnte en hac-kergruppe Sabu til at være ’kinesisk infiltrator’.
+»På det seneste har jeg slappet lidt af, fokuseret på mit personlige liv. Jeg er ikke forpligtet til at lave det her i resten af mit liv,« lød det nu fra Sabus Twitter-konto.
+»Jeg har allerede fået indflydelse. Hvis jeg forsvinder nu eller bliver knaldet, vil det allerede være for sent.«
+I indlægget beskriver Monsegur sig selv som professionel sikkerhedsforsker, men han menes at have været arbejdsløs siden lukningen af fildelingsgiganten LimeWire, oplyser amerikanske politikilder til Fox News.
+Tv-stationen citerer Monsegurs føringsagenter, der betegner ham som en regeringsfjendsk, anti-kapitalistisk hacker med stærke politiske holdninger. FBI-folkene hævder, at hans nu berygtede online-tilnavn stammer fra en professionel bryder fra Staten Island kendt som Sabu Elephant Boy.
+I. Kan. Ikke. Stoppe. Mig.
+Og hackeren synes klart at have hentet inspiration hos New York-bryderen. Pr. automatik reagerede han med aggressive svar til politiet, journalister og andre, der søgte at komme i kontakt med ham via sociale netværkstjenester.
+»Jeg giver ikke en skid for, hvad nogen tror, og jeg giver ikke en skid for, at I har et horn i siden på mig,« skrev han på hjemmesiden Pastebin.com.
+»Slutresultatet vil altid være: I. Kan. Ikke. Stoppe. Mig. Lev med det …«
+FBI’s føringsagenter betegner Monsegur som meget intelligent, men doven. Ifølge Fox News fandt de amerikanske myndigheder frem til ham, da han forsøgte at sælge stjålne kreditkortoplysninger til andre over Facebook.
+Det er ikke klart, hvor lukrative Monsegurs kortvarige ’rædselsregime’ blev. Men Sabus fald vil med garanti give onlinedønninger i hackerkollektiverne i lang tid fremover.
+ 
+© The Guardian og InformationOversat af Niels Ivar Larsen
+

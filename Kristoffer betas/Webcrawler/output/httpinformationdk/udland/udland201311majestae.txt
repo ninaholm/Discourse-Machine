@@ -1,0 +1,29 @@
+Hendes Majestæts hemmelige hackertjeneste
+En specialenhed hos den britiske efterretnings-tjeneste GCHQ har brugt falske LinkedIn-sider til målrettede hackerangreb på medarbejdere hos europæiske mobil- og faktureringsselskaber. Angrebene gav adgang til at aflytte selskabernes kunder og placere malware på deres telefoner
+
+
+ 
+	En britisk specialenhed hos efterretningstjenesten GCHQ har hacket særligt udpegede medarbejdere hos en række internationale mobilselskaber og faktureringsvirksomheder.
+
+	Ved hjælp af en sofistikeret teknik kaldet Quantom Insert trænger hackerne ind i det øjeblik, de intetanende medarbejdere besøger det sociale medie LinkedIn, men i stedet får en forfalsket side som samtidig placerer skræddersyet malware på deres computere.
+
+	På den måde er specialenheden kommet ind i tekniske systemer, der udover at give adgang til telefon- og internetdata også bringer dem tættere på et overordnet mål om at kunne udnytte »enhver mobil enhed, overalt, til enhver tid« til spionage.
+
+	Det er det tyske magasin Spiegel, der i går ved hjælp af dokumenter lækket af Edward Snowden har kunnet afsløre den britiske hacker-enhed. De lækkede dokumenter viser, hvordan enheden har udvalgt og profileret »kandidater« blandt medarbejdere i firmaerne og kortlagt deres computerenheder, konti og mailadresser i diagrammer.
+
+	Kortlæggelsen af en indisk medarbejder hos faktureringsvirksomheden Mach gjorde ifølge Spiegel »hans digitale liv åben som en bog« og til et nemt bytte for enheden, der »hacker i hendes Majestæts hemmelige tjeneste«.
+
+	Nørder i sigtekornet
+
+	Udover LinkedIn har de britiske hackere også brugt falske versioner af nyhedstjenesten Slashdot, en tjeneste, der beskriver sit virke som »nyheder for nørder«, til at plante malware hos systemadministratorer og netværkseksperter, da deres computere er særligt værdifulde som ‘angrebspunkter’ der giver adgang til telenetværkene.
+
+	Dybt inde i EU-systemet
+
+	Blandt de ramte virksomheder er Belgiens største teleudbyder, Belgacom, datterselskabet BICS samt en række andre virksomheder, der håndterer regnskabsdata for telekunder.
+
+	Belgacom er ikke bare Belgiens største teleudbyder, men har også blandt andet EU-Kommissionen, Europarådet og Europaparlamentet som kunder. I Belgacoms tilfælde kunne GCHQ over en længere periode gennemføre operationer indefra. Spiegel beskriver, hvordan man har angrebet de særlige roaming-knudepunkter, der forbinder internationale telefonsamtaler og dataforbindelser og brugt dem til at gennemføre ’Man In The Middle’-angreb på kunderne. På den måde har den britiske efterretningstjeneste kunnet overvåge »internetkommunikation, vedkommendes position, og endda kunne smugle spyware ind på enheden,« fortæller mobileksperten Philippe Langlois til Spiegel.
+
+	Hos LinkedIn tager man ikke så overraskende nyheden »meget alvorligt« og »kan ikke acceptere at en forfalsket version af en LinkedIn-profil bruges som beskrevet,« siger en talsperson til Spiegel.
+
+	Quantom Insert – der er udviklet af amerikanske NSA – bruges ikke kun til at sætte sig på telekommunikationsudstyr, men også til at hacke andre væsentlige institutioner. En af dem, der er blevet udsat for det, er ifølge Spiegel de olieeksporterende landes organisation, OPEC.
+

@@ -1,0 +1,15 @@
+Hackere stjæler følsomme data om danskeres gæld
+Hackere har stjålet data fra RKI-registret for at udstille, hvor let det er at få adgang til personlig data.
+
+
+ Oplysninger om, hvad gældstyngede danskere skylder, er faldet i de forkerte hænder.
+Ukendte gerningsmænd har nemlig fået fingrene i nogle af de mest følsomme data fra det såkaldte RKI-register, der rummer borgeres og firmaers skyldneroplysninger, skriver Politiken.
+Anonyme hackere har sendt eksempler på de fortrolige data, der er matchet med borgernes cpr-numre, til avisen.
+Ifølge hackergruppen er motivet i lyset af Nets-skandalen at udstille, hvor let det er at få adgang til personfølsomme oplysninger fra firmaer og myndigheder.
+- Anonymous Denmark kræver, at den danske regering beskytter sine borgeres private data bedre. Det her er bare en lille prøve på, hvor meget sikkerheden halter, skriver gruppen i en kort besked til Politiken onsdag.
+Ifølge hackerne har de ingen intentioner om hverken at offentliggøre data eller at udnytte dem på anden vis.
+Selskabet Experian, der driver skyldnerregistret, var ikke før Politikens henvendelse opmærksom på angrebet.
+Men efter en intern undersøgelse i går kunne selskabet bekræfte, at oplysningerne stammer fra RKI-registret. Ifølge pressechef Frank Papsø kommer de kompromitterende data dog fra en af RKI's mange partnere.
+- Det er vigtigt at understrege, at det ikke er RKI, der er blevet hacket, siger pressechefen til Politiken, med henvisning til, at skyldnerdata hos RKI ikke opbevares sammen med cpr-numrene. I de hackede data er oplysningerne nemlig sammenflettede.
+- Men vi skal til bunds i sagen. Det skulle jo gerne være sådan, at når Experian tager vare på folks data, så bliver der passet godt på dem, siger Frank Papsø til Politiken.
+Experian vil nu melde sagen til Datatilsynet og til politiet. Datatilsynet fører i forvejen et skærpet tilsyn med Experian, fordi der i persondataloven er særlig stramme krav til kreditoplysningsbureauer.

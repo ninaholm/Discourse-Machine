@@ -1,0 +1,39 @@
+Pres for dansk cyber-strategi
+Det må være statens ansvar at beskytte Danmarks kritiske infrastruktur på nettet, mener foreningen Dansk IT. De private virksomheder er skeptiske, men Socialdemokraterne vil have videnskabsministeren til at undersøge behovet
+Elnettet er et af de mere alvorlige eksempler på kritisk infrastruktur, der bliver styret via digitale netværk, og som i teorien kan blive mål for et cyberangreb. For hvis strømmen går, bliver en stor del af det øvrige kriseberedskab også sat ud af spillet.
+
+
+ Forestil dig, at en målrettet computerorm trænger ind i det danske elnet og sender skjulte ordrer til transformatorstationer, der får dem til at brænde sammen og efterlade store dele af landet uden strøm i ugevis. Det lyder måske urealistisk, men teknisk set er det muligt, og sidste sommer skete noget lignende for flere hundrede centrifuger i den iranske atomindustri med den såkaldte Stuxnet-orm.
+Hidtil er der brugt mange kræfter på at spekulere i, hvor angrebet kom fra, men vi burde bekymre os mere om, hvordan vi forhindrer, at det sker i Danmark, mener foreningen for it-professionelle, Dansk IT.
+I dag er det op til energiselskaberne at vurdere, hvor realistisk truslen er, og hvor mange ressourcer, der skal kastes efter den. Men det bør være statens opgave at fastsætte overordnede principper, mener Klaus Kvorning Hansen, formand for Dansk IT, der arbejder uafhængigt af brancheforeningsinteresser og dermed ikke har direkte økonomisk interesse i at tale en trussel op.
+»Vi synes, det er ligegyldigt, hvor truslen kommer fra. Det er en realitet, at det er teknisk muligt at lave den type angreb, og derfor bør vi fra centralt hold forholde os til, hvad vil gøre for at beskytte vores infrastruktur,« siger han.
+Hidtil har regeringen ikke forholdt sig til truslen, men på baggrund af Informations artikelserie om cyberforsvar har Socialdemokraternes it-ordfører, Yildiz Akdogan, nu stillet en række spørgsmål til videnskabsministeren.
+»Set i lyset af, at der er kommet mere bevågenhed på Danmark, på både godt og ondt, så er det interessant at se på, hvorfor vi ikke har en national strategi for internettrusler,« siger Yildiz Akdogan.
+I vores nabolande har man allerede udviklet strategier og enheder, der skal tage sig af cyberforsvar, og alene ud fra den betragtning er vi bagud, mener Klaus Kvorning Hansen.
+»Men det afgørende er nu, at vi ser at komme i gang og indhenter det, vi måtte have forsømt i mellemtiden,« siger han.
+Hvis strømmen går
+Elnettet er et af de mere alvorlige eksempler på kritisk infrastruktur, der bliver styret via digitale netværk, og som i teorien kan blive mål for et cyberangreb. For hvis strømmen går, bliver en stor del af det øvrige kriseberedskab også sat ud af spillet.
+I sidste uge lancerede Tyskland et nyt center for cyberforsvar til at beskytte landets el- og vandforsyning og andre dele af den livsvigtige infrastruktur. I centret sidder der repræsentanter fra den tyske beredskabsstyrelse, politiet, efterretningstjenesten, forsvaret og andre myndigheder.
+I Danmark derimod er hvert enkelt ministerium ansvarlig for hver sin del af den kritiske infrastruktur, det såkaldte sektoransvar.
+Miljøministeriet skal sikre sig, at vandforsyningen er tilstrækkeligt beskyttet mod cyberangreb, mens elforsyningen hører under Energistyrelsen.
+Her fungerer det sådan, at alle elselskaber skal have deres egne beredskabsplaner, som bygger på en konkret vurdering af de risici og sårbarheder, der er i selskabet. Energistyrelsen har arrangeret møder for selskaberne for at gøre opmærksom på, hvad der er af cybertrusler, og hvor vigtigt det er at beskytte sig selv over for dem.
+»Vores strategi er at prøve at få det her opprioriteret ude i selskaberne. For det er derude, forsvaret skal styrkes,« siger Uffe Strandkjær, der er konsulent i Energistyrelsen med ansvar for beredskab.
+Men derudover stiller Energistyrelsen ikke specifikke sikkerhedskrav til selskaberne. Styrelsen har ikke den specifikke, it-faglige viden, der skal til, og det er samtidig et område, der bevæger sig hastigt, siger Uffe Strandkjær.
+»Sektoransvaret er et udmærket princip for beredskabet, men denne opgave forudsætter en koordinering på tværs af sektorerne,« siger han.
+Kunne være sket
+Det er konkret det offentligt ejede Energinet.dk, der har ansvaret for, at det samlede danske elnet fungerer på tværs af de private elselskaber. Det styrer Energinet.dk fra et kontrolrum i Fredericia, og her gav Stuxnet-ormen anledning til at se på selskabets egen sikkerhed, siger it-direktør Claus W. Kofoed.
+»Når der kommer sådan et angreb, så bliver man nødt til at tage det alvorligt. Og havde det været os, så ja, så kunne det være sket, men for vores vedkommende var risikobilledet minimalt. Så det har ikke ændret på vores setup,« siger Claus W. Kofoed.
+Ligesom det iranske atomkraftkompleks har Energinet.dk afkoblet de vigtigste systemer fra internettet.
+Men i Iran mener man, at ormen er kommet ind via en usb-nøgle, og hos Energinet.dk er der meget få personer, der har adgang til at sætte en usb-nøgle i de computere, der styrer de vigtigste systemer, forklarer Claus W. Kofoed.
+Et andet element i selskabets cyberforsvar er at hyre et eksternt sikkerhedsfirma til at angribe de systemer, der er på internettet for at opdage eventuelle svagheder.
+»Så der er et beredskab for det her,« forsikrer Claus W. Kofoed.
+DI er skeptisk
+I it-brancheforeningen DI ITEK kan chefkonsulent Henning Mortensen ikke se behovet for en national strategi. Han har speciale i it-kriminalitet, og han ser sektoransvaret som den mest fornuftige løsning til at beskytte Danmarks kritiske infrastruktur, også i cyberspace.
+»Vi kan ikke beskytte alle data lige meget. Det vil være dyrt, og det vil også være dumt. Derfor er der behov for, at vi får sat ind for at beskytte de rigtigt vigtige data, og det er man bedst til at vurdere, der hvor man indsamler dem,« siger Henning Mortensen.
+I stedet kunne det være en idé fra centralt hold at udvikle nogle vejledninger til, hvilke typer data, der skal beskyttes hvordan, mener Henning Mortensen.
+»Det er ikke alle steder, hvor der er tilstrækkeligt faglige kompetencer til at foretage de vurderinger, eller hvor budgetterne er lige store til at foretage den sikring, der skal til. Så hvis man supplerer sektoransvaret med centralt udviklet vejledningsmateriale, så vil vi være nået et godt stykke vej,« siger han.
+Så langt er han og foreningen Dansk IT enige.
+»Alle firmaer har selvfølgelig en interesse i at beskytte sig selv, men når det billedligt talt handler om at beskytte vores grænser, så kan der være god grund til at koordinere den type beskyttelse, vi vil have mod det her. Der er ikke nogen grund til, at man skal opfinde den dybe tallerken flere forskellige steder,« siger formand Klaus Kvorning Hansen.
+
+
+

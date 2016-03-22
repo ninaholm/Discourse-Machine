@@ -1,0 +1,27 @@
+Softwarepatenter vil stoppe it-udviklingen
+Et ja til en europæisk patentdomstol vil spænde ben for udviklingen af software, ligesom som det er sket i USA, mener Fagforbundet af it-profesionelle (PROSA)
+ 
+	Niels Bertelsen, formand for Fagforbundet af it-professionelle (PROSA)
+
+
+ 
+– Hvad anbefaler I jeres medlemmer at stemme til Den Europæiske Patentdomstol?
+
+	»Vi anbefaler vores medlemmer at stemme nej. Men det anbefaler vi i øvrigt også alle andre, der kan komme i nærheden af at stemme. Vi gør det, fordi vi kan se, at der med EU-domstolen er en øget risiko for, at der kommer softwarepatenter ind ad bagdøren, og det er vi voldsomt imod. Dem, der skal beskyttes, er jo allerede beskyttet af ophavsretloven.«
+
+– Hvorfor er I imod softwarepatenter?
+
+	»Patenterne vil forhindre den udvikling, der har været med til at skabe it-branchen. Software er ideer, så hvis der kommer patenter på software, kan man jo tage patenter på al udvikling inden for software. Derfor er det heller ikke tilladt at lave softwarepatentering i dag. Software projekter sammenstykkes af tusindvis af ideer, og det vil blive stort set umuligt at skrive nogen form for kode til software uden potentielt at krænke et softwarepatent, hvis patenterne bliver indført i EU, som de allerede er i USA. For eksempel estimerede Google i 2011, at en smartphone kan indeholde op til 250.000 patentkrav. Hvis man ser det i lyset af amerikansk lov, så det ville blive meget dyrt at udvikle nyt.«
+
+– Hvilke konsekvenser har softwarepatenterne i praksis?
+
+	»Patenter kan være med til at bremse den teknologiske udvikling, besværliggøre open source-projekter, gøre produkter og tjenester dyrere og favorisere store virksomheder, der har de nødvendige ressourcer til at forfølge et patent. Det gør det sværere at etablere de innovative små og mellemstore virksomheder. De bliver tvunget til hele tiden at sikre sig mod, at de ikke bruger patenter, andre har. På den måde bliver det dyrere at udvikle, eller man risikerer, at de, der sidder på patenterne, ikke vil frigive dem.«
+
+	»Samtidig vil en lang række kreative virksomheder begynde at optage patenter og spekulere i at sende breve ud til virksomheder og opkræve penge, for det, de mener, er deres patent. I USA er der eksempler på virksomheder, der opkøber patenter og udsteder fakturaer til virksomheder, der benytter sig af patentet. Det kan være en smartphone, for næsten alle dele i den er jo patenteret, og derfor skal du sikre dig, at du ikke overtræder de uhyggeligt mange patenter, eller også skal du opkøbe rettighederne.«
+
+	»Men du kan altså ikke som mobiltelefonproducent undgå at betale for licens i et eller andet omfang, og det gør produktet dyrere.«
+
+– Hvad betyder det, at Det Europæiske Patentkontor (EPO), som allerede i dag udsteder softwarepatenter, skal indgå som en del af det nye enhedspatent?
+
+	»Afhængig af, hvilken praksis den nye domstol vil følge, er der risiko for, at Den Europæiske Patentdomstol rent administrativt vil indføre softwarepatenter. Indtil nu har EPO kun godkendt softwarepatenter formelt, i praksis er de aldrig blevet anerkendt af nogen europæisk domstol. Hvis EPO imidlertid bliver en del af patentdomstolen, og patentdomstolen vælger at håndhæve patenterne, så kan de nationale domstole intet gøre. Problemet er, at alle, der siger ja til domstolen, hævder, at softwarepatenter ikke eksisterer, og derfor stemmer de ja, men softwarepatenter eksisterer altså, og de risikerer at få reel indflydelse med en fælles europæisk domstol.«
+

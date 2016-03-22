@@ -1,0 +1,34 @@
+E-valg giver demokratiske problemer
+Til efterårets menighedsrådsvalg kan man stemme fra sin hjemmecomputer. Men de populære e-valg, som er på vej til Danmark, er usikre og udgør derfor et demokratisk problem, viser nyt speciale
+Fremtidens e-valg kan give hackere mulighed for atpåvirke valgresultatet viser erfaringer fra Holland. Model
+
+
+ Forskellige former for elektroniske valg er blevet populære rundt om i verden, og nu er e-valget også på vej til Danmark. Et næsten enigt folketing har besluttet at efterårets valg til menighedsrådene, kan foregå hjemme fra stuerne med en digital signatur, og Kommunernes Landsforening arbejder på at indføre e-valg ved kommunalvalget i 2009. 
+Men det er muligvis fordi politikerne ikke er klar over hvilke problemer, der er forbundet med e-valg, mener Mikkel Selsøe Sørensen og Iben Lewinsky, der har skrevet speciale om e-valg. 
+De to specialestuderende fra henholdsvis IT-universitet og Københavns Universitet har undersøgt flere forskellige måder at afholde e-valg på. Der er problemer med dem alle, og ikke mindst den måde, man har tænkt sig at gøre det i Danmark:
+"Den mest grelle model er, når det skal foregå hjemme i folks stuer via Digital Signatur. Det skaber usikkerhed om, hvorvidt det er den stemmeberettigede, der rent faktisk stemmer," siger Mikkel Selsøe Sørensen. Han frygter blandt andet, at folk vil begynde at sælge eller forære deres stemmer væk:
+"Man kan give sin stemme til sin kæreste eller sin mormor. 'Jeg gider ikke stemme - du kan få min'. Det kan man ikke sikre sig imod. Der kan også være folk, der bliver påvirket af andre, mens de afgiver stemmen. Måske endda truet," siger Mikkel Selsøe Sørensen.
+Tvivl
+Dertil kommer en lang række af tekniske usikkerheder ved e-valg:
+"Når man stemmer på en computer, kan der manipuleres med stemmen. Som vælger har man ikke mulighed for at se, om ens stemme rent faktisk bliver talt. Og om det bliver gjort på en måde, der er i overensstemmelse med det, man har stemt. Ved et papirvalg putter man sedlen i en overvåget boks, og den tælles af valgtilforordnede, der overvåger hinanden. Det er meget svært for nogen at manipulere med tallene - det er det også med et e-valg, men det er ikke umuligt. Og hvis nogen har ændret på tallene, har man ikke mulighed for at se, at det er ændret," siger Mikkel Selsøe Sørensen, som mener, at indførelsen af e-valg skaber demokratiske problemer. 
+Hans vejleder, lektor på ITU og adjunct assistant professor på Yale University, Carsten Schürmann, er en af de herboende eksperter i e-valg, og han deler de bekymringer, som Mikkel Selsøe Sørensen og Iben Lewinsky har fundet frem til:
+"Der findes mange udenlandske eksempler på, at valgcomputere er blevet hacket," siger han. 
+Holland er gået tilbage til papirvalg efter, en gruppe af tyske hackere viste, hvor let de kunne manipulere med valgresultatet uden, at det kunne opdages. Og det var endda et mere sikkert system, hvor man kom ned i et stemmelokale og stemte på en særlig computer.
+"Det er nemmere at lave et sikkert system med en computer i et valglokale - valg over internettet er noget sværere at gøre troværdige. Men selv ved e-valg i valglokaler har det flere gange vist sig at være muligt at manipulere." 
+Utroværdig
+Derfor mener Carsten Schürmann også, at den danske model ved menighedsrådsvalgene er utroværdig: 
+"Det kræver, at man som minimum har tillid til software, operativsystem og internetudbyder. Jeg siger ikke, at der er nogen, der vil os det dårligt. Men der kan også være en simpel programfejl - altså en menneskelig fejl. Og ingen har nogen mulighed for at opdage det. Man får bare et tal ud i den anden ende, som man må stole på, for der er ingen mulighed for at tælle efter, sådan som man har med papirstemmer." 
+Den manglende mulighed for at kontrollere systemet er et altafgørende problem, mener også Mikkel Selsøe Sørensen. 
+Han gør derfor op med det mest brugte argument for, at man godt kan bruge e-valg - nemlig, at virksomheder og private i dag overfører store beløb sikkert over nettet:
+"Når man overfører penge over en netbank, så har man hele tiden et bevis. Hvis der pludselig mangler 10.000 kroner på ens konto, så ved man, at der er noget galt og kan tage affære. Man kan ikke kontrollere sit e-valg," siger han. 
+Netop problemet med, at ingen kan opdage snyd og fejl, mener Carsten Schürmann er den væsentligste grund til at være meget påpasselig med at indføre den form for e-valg, som nu kommer til Danmark:
+"Valget til menighedsrådene bliver en succes - det kan jo ikke blive andet, for man vil finde frem til et resultat. Og jeg kan allerede høre for mig, hvordan politikerne vil bruge det som et argument for at indføre samme system ved næste folketingsvalg. Det gik jo godt sidst. Men der er ingen, der til den tid ved, om det var det rigtige resultat, der kommer frem til menighedsrådsvalget," siger han. 
+Naiv tilgang
+Carsten Schürmann mener, at politikerne har en naiv tilgang til e-valg: 
+"Normalt når man tester ny teknologi, så foregår det i et lukket forsøg i 'et laboratorium'. Her bruger man et helt nyt system med det samme. Men det handler om demokratiet, så jeg er meget bekymret," siger han. 
+Han mener også, at politikerne burde have kontaktet eksperterne på eksempelvis IT-Universitetet, inden de gik i gang. 
+"Der er positive ting ved e-valg, og det er muligt at lave gode stemmemaskiner. Derfor burde regeringen have snakket med os og hørt hvilke problemer, der kan være. Men man har ikke kontaktet os," siger han.
+Mikkel Selsøe Sørensen og Iben Lewinsky har faktisk taget kontakt til kirkeminister Birthe Rønn Hornbech(V), da lovforslaget om menighedsrådsvalget blev behandlet, hvor de blandt andet delte deres viden om problemerne ved e-valg med ministeren, men det gav ikke det store resultat:
+"Vi fik et svar, hvor der mere eller mindre stod, at de havde tjek på tingene, og at de ville fortsætte. Så det var lidt skuffende," siger Mikkel Selsøe Sørensen.
+ville@infromation.dk
+

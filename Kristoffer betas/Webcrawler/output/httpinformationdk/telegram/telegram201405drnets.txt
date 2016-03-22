@@ -1,0 +1,18 @@
+DR: Nets advaret om sikkerhedshul hos IBM i 2010
+I 2010 blev Nets advaret om mulige huller i sikkerheden hos IBM, oplyser DR Nyheder.
+
+
+ Det var en ansat hos underleverandøren IBM, der gennem flere år lækkede fortrolige oplysninger om kendte danskeres hævekorttransaktioner til ugebladet Se og Hør.
+Men allerede i 2010 blev ledelsen i Nets advaret om mulige huller i sikkerheden hos netop IBM, oplyser DR Nyheder.
+DR Nyheder har fået aktindsigt i de såkaldte systemrevisionsrapporter fra Nets.
+I en revisionsrapport fra foråret 2010, foretaget af revisionsselskabet PriceWaterhouseCoopers om IBM's drift af Nem-ID-systemet, lyder det således:
+"Der eksisterer flere enkeltstående svagheder vedrørende adgangs- og rettighedshåndtering samt systemopsætning i relation til den infrastruktur, der er outsourcet til IBM".
+"Heraf er en svaghed vedrørende adgangsforhold til det generelle mainframe-miljø vurderet som selvstændig væsentlig".
+Ifølge DR Nyheders oplysninger arbejdede den mistænkte IBM-medarbejder med overvågning af netop IBM's mainframe-miljø.
+- At revisionen tilbage i 2010 har påpeget lige præcis det her, kan virke meget chokerende. Det er yderst interessant, at det blev påpeget af revisionen, at der var manglende styr på adgangen til de her mainframe-systemer hos IBM. Og det er jo netop dem, som vi jo har mistanke om, er blevet misbrugt i den konkrete sag, siger teknisk direktør hos it-sikkerhedsfirmaet CSIS, Jan Kaastrup til DR Nyheder.
+Hos Nets undskylder man sig med, at revisionsrapporten fra 2010 kun handlede om Nem-ID-systemet og ikke betalingskortsystemet. Og at advarslen derfor ikke kunne overføres på betalingskortedelen:
+- Vi har en meget høj generel sikkerhed, både i vores systemer, i vores platforme og i vores adgange generelt, siger Susanne Brønnum, landechef for Nets.
+Men ifølge sikkerhedseksperten burde revisionsforbeholdet dengang have advaret Nets om, at sikkerheden hos IBM generelt ikke var på toppen.
+Hos Digitaliseringsstyrelsen, der varetager statens kontrol med NemID, understreger man, at de omtalte problemer i revisionsrapporten blev udbedret i 2011.
+Det har ikke været muligt for DR Nyheder at få en kommentar fra IBM om sagen.
+

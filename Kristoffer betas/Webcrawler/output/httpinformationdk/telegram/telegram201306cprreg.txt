@@ -1,0 +1,34 @@
+Cpr-register udsat for hackerangreb
+Politiets kørekortregister, herunder cpr-numre, er blevet hacket i sommeren 2012, og der kan være foretaget ændringer i registret, oplyser Rigspolitiet
+
+
+ 
+	Rigspolitiet og it-firmaet CSC har konstateret, at politiets kørekortregister, herunder CPR-numre samt oplysninger om efterlyste personer i Schengen-registrene, er blevet hacket i 2012.
+
+	- Det er ikke konstateret, at der skulle være foretaget ændringer i registrene, men det kan på nuværende tidspunkt ikke udelukkes, oplyser Rigspolitiet, der mistænker en svensk og en dansk mand i sagen.
+
+	Gerningsmændene har i perioden fra april til august 2012 downloadet et stort antal filer fra CSC's såkaldte mainframe-anlæg, og politiet ser med stor alvor på angrebet.
+
+	- Der er tale om et alvorligt brud på den IT-sikkerhed, der nødvendigvis skal være omkring politiets registre, og som vi forventer, at CSC til enhver tid sikrer, siger rigspolitichef Jens Henrik Højbjerg.
+
+	- Derfor ser politiet på sagen med den største alvor. Det er naturligvis helt uacceptabelt, at det har været muligt at få adgang til politiets registre trods de meget høje sikkerhedsstandarder, som vi kræver og forventer af vores leverandør, siger han.
+
+	På samme anlæg hos CSC befinder sig også registre fra andre myndigheder.
+
+	Det drejer sig blandt andet om Skat, cpr og Moderniseringsstyrelsen. Det er ikke konstateret, at gerningsmændene skulle have haft adgang til disse registre, hentet oplysninger i dem eller ændret oplysninger, men det kan ikke udelukkes.
+
+	Politiet har ikke set tegn på, at gerningsmændene skulle have misbrugt nogen af oplysningerne.
+
+	Rigspolitiet har sikret sig, at CSC har arbejdet intensivt på at afklare omfanget af det omhandlede sikkerhedsbrist, og der er foretaget en række skridt for at genoprette sikkerheden i de berørte registre.
+
+	Samtidig har Rigspolitiet bedt Politiets Efterretningstjeneste om som national sikkerhedsmyndighed og IT-sikkerhedsmyndighed for politiet at foretage yderligere undersøgelser i sagen.
+	Undersøgelserne laves i tæt samarbejde med Center for Cybersikkerhed under Forsvarets Efterretningstjeneste.
+
+	- Formålet med undersøgelserne er dels at vurdere omfanget af sikkerhedsbruddet, og om andre offentlige IT-systemer kan være berørt, dels at sikre at der træffes de nødvendige sikkerhedsforanstaltninger på baggrund af sagen, siger chefen for Politiets Efterretningstjeneste, Jakob Scharf.
+
+	Der laves i den forbindelse en grundig sikkerhedsmæssig gennemgang af politiets IT-systemer.
+
+	- Såfremt efterforskningen eller de yderligere undersøgelser i sagen giver anledning hertil, vil myndigheder eller andre, som må anses for berørt af sikkerhedsbruddet, modtage nærmere underretning, siger Scharf.
+
+	En svensk statsborger er mistænkt i sagen. Han er i øjeblikket frihedsberøvet i Sverige i en anden sag, og dansk politi har nu begæret ham udleveret. Københavns Politi har onsdag anholdt en dansk mand, der mistænkes for også at have forbindelse til sagen.
+

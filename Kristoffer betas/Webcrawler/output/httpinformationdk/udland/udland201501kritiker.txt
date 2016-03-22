@@ -1,0 +1,15 @@
+Kritikere: Politiet ønsker alt for vide rammer for overvågning af bilister
+Rigspolitiet vil fotografere og registrere hundredtusinder af bilister ved hjælp af et nyt overvågningssystem. Men de regler for brugen af registreringerne, som politiet selv foreslår i et nyt notat, er ifølge kritikere ikke stramme nok
+
+
+ Alt for lempelige regler. Det siger flere organisationer om de krav, som Rigspolitiet i et hidtil ukendt notat selv har formuleret for, hvornår det skal have lov til at anvende oplysninger fra et kommende system, der systematisk skal overvåge bilisters bevægelser.
+Systemet, der efter planen skal opsættes i år, fungerer ved hjælp af mobile og fastplacerede kameraer, som fotograferer biler og derefter identificerer nummerplader. Men alle forbipasserende biler vil i udgangspunktet blive registreret. Dermed vil personer, der ikke er mistænkte for noget, blive registret, og oplysningerne vil ifølge forslaget blive gemt i én måned.
+Notatet fra Rigspolitiet, som Information har fået aktindsigt i, viser så nu, at politiet ønsker at kunne bruge disse oplysninger bagudrettet i alle tilfælde, hvor der efterforskes kriminalitet, som »kan« føre til en fængselsstraf af en hvilken som helst længde.
+»Reelt vil politiet ved næsten alle lovovertrædelser, som de har en interesse i at efterforske, kunne få oplysninger om, hvem der har været hvor på hvilket tidspunkt i løbet af den sidste måned,« siger Jesper Lund, der er næstformand i IT-Politisk Forening. Formanden for Rådet for Digital Sikkerhed, Birgitte Kofod Olsen, mener, at der i det mindste bør fastsættes et krav om, at efterforskningen skal handle om lovovertrædelser, som kan straffes med eksempelvis halvandet års fængsel. Det er et krav ved mange såkaldte tvangsindgreb, påpeger hun.
+»Ellers opfylder man ikke de retssikkerhedsgarantier, som vi normalt opererer med,« siger Birgitte Kofod Olsen, der mener, at det ’grundlæggende’ problem er, at systemet masseindsamler oplysninger om personer, der er ikke er mistænkte.
+Politiet: Uhensigtsmæssig grænse
+Men ifølge notatet fra Rigspolitiet vil det ikke være »hensigtsmæssigt« at fastsætte en sådan grænse på halvandet år. Årsagen er, at det ikke ville være muligt at bruge de indsamlede oplysninger i systemet bagudrettet, hvis det eksempelvis omhandler efterforskninger om udlændinges ulovlige arbejde eller ophold i Danmark. Disse lovovertrædelser straffes nemlig med mindre end halvandet års fængsel.
+Politidirektør Svend Larsen fra Rigspolitiet ønsker ikke at kommentere kritikken på nuværende tidspunkt.
+Han henviser til, at Rigspolitiet har sendt sagen til Datatilsynet, som nu skal vurdere, om Rigspolitiets forslag holder sig inden for lovgivningen.
+Beregninger lavet af Rigspolitiet viser, at systemet med en vist antal kameraer kan registrere 600.000 biler dagligt. Oplysningerne, der vil blive gemt i systemet, omfatter et foto af bilen, nummerpladen, placeringen og tidspunktet.
+

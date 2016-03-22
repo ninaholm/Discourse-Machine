@@ -1,0 +1,27 @@
+To nederlag til Carlsen i træk
+Han kom dog stærkt tilbage med to gevinster
+
+
+ 
+	Det er efterhånden en sjældenhed, at den 23-årige norske verdensmester Magnus Carlsen taber et skakparti, selv om han konstant spiller mod de allerbedste på kloden. Men i den igangværende mindeturnering for Vugar Gashimov – stormesteren, der så tragisk døde af en hjernetumor i januar, blot 27 år gammel – tabte Carlsen sensationelt to partier i træk: I fjerde runde blev han som sort mod Caruana slået med sine egne midler, dvs. positionelt kværnende spil – hvorefter han i femte runde som hvid gik galt i byen mod Radjabovs ’kongeinder’. I begge tilfælde sad man tilbage med en fornemmelse af, at verdensmesteren manglede et gear i åbningsspillet. Men der var råd til det. For i de første tre runder havde Carlsen efter det spil, der normalt kendetegner ham, samlet 2,5 point i hus, og da man efter turneringens eneste hviledag tog fat på 6. runde, kom han tilbage på sporet med en hurtig gevinst over aserbajdsjaneren Mamedyarov, endda med de sorte brikker: 1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.Dc2 d5 5.Sf3 (?)
+
+	Hvid ofrer en bonde i denne variant, måske en kende for kækt?
+
+	5. dxc4 6.Lg5 b5 7.a4 c6 8.g3 Lb7 9.Lg2 Sbd7 10.0–0 Db6 11.e4 a6 12.Tfd1 h6 13.Le3 0–0 14.d5 c5 15.a5 Dd8 16.dxe6 fxe6 17.Sh4 Lxc3 18.bxc3 De8 19.f4!?
+
+	Hvid søger stadig efter kompensation for bonden, men den er endnu ikke dukket op i horisonten.
+
+	19. Td8 20.h3 Tf7 21.Td6 e5 22.f5 Sf8!
+
+	Partiets fineste træk. Carlsen giver bonden tilbage for aktivt spil, der ikke mindst begrunder sig på, at den hvide bonde på e4 er en svækling. Mamedyarov krakelerer forbløffende hurtigt.
+
+	23.Lxc5 Txd6 24.Lxd6 Td7 25.Lxf8 Dxf8 ...
+
+	Hvid er i alvorlige problemer. På 26.Te1 kan Carlsen spille det stærke 26. - Td3! med flere ubehagelige trusler. Heller ikke partifortsættelsen redder Mamedyarov: 26.Td1 Dc5+ 27.Kh2 Lxe4!
+
+	Og hvid opgav. Efter 28.Lxe4 Txd1 29.Dxd1 Sxe4 er hans stilling håbløs.
+
+	I 7. runde vandt Carlsen igen som sort, denne gang over sin faste kunde Nakamura, og da de øvrige partier sluttede remis, var stillingen med tre runder tilbage: 1. Carlsen, 4,5 p. 2. Radjabov, 4 p. 3.-4. Caruana og Karjakin, begge 3,5 p. 5. Nakamura, 3 p. 6. Mamedyarov, 2,5 p.
+
+	Runderne starter kl. 12 dansk tid, og der er ’virtuel billet’ til spillesalen i Shamkir, Aserbajdsjan, via dsu.dk. Dækningen er grandios.
+

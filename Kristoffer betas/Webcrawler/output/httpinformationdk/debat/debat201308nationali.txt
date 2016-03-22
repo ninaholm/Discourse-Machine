@@ -1,0 +1,43 @@
+Skal vi nationalisere Google og Facebook?
+At bryde de monopollignende tilstande inden for søgeværktøjer og sociale tjenester vil være et effektivt modtræk til efterretningsvæseners massive dataovervågning
+
+
+ 
+	At søge uden Google er lige så utænkeligt som at netværke uden Facebook. Men selv de to selskabers nok så fremragende algoritmer er kun en del af forklaringen på, at begge er blevet noget nær enerådende på deres særlige felter. Som pionerer fik Google og Facebook et forspring: Som de første kunne de indsamle en kritisk masse af data om deres brugere. Dette satte dem i stand til at tilbyde unikke tjenester, ingen rival kunne matche.
+
+	Tag Googles personsøgning eller Facebooks graph search-funktion. Begge er elementære og nemme at genskabe for andre tjenesteudbydere. Men det er den datamængde, de kan trække på, ikke.
+
+	Hvis vi skulle genopbygge vores informationsinfrastruktur forfra, skulle det være med henblik på at anspore til større konkurrence?
+
+	En mulighed kunne være at gøre ’den sociale graf’ – det vil sige de mange overlappende forbindelser, en given bruger har til andre, tilgængelig i regi af en offentlig institution. Lovgivere skulle så forpligte administratorerne til at sikre, at alle interessenter ville kunne få samme adgang til potentielt relevante brugerdata.
+
+	Google og Facebook har været eminente til at kortlægge vores sociale forbindelser, men deres dominans udelukker, at der kan udtænkes på alternative måder til at kortlægge dem og gøre dem bredere tilgængelige.
+
+	I stedet for at hælde offentlige penge i opbygge nye søgemaskiner – et projekt, som blev sat i gang af europæiske regeringer, men hurtigt opgivet – skulle vores lovgivere hellere fokusere på at sikre, at adgangen til brugerdata demokratiseres. Bedre søgemaskiner og nye typer sociale netværkssider ville kunne lukrere på det og vokse på egen hånd, uden behov for ekstra opbakning fra offentligheden.
+
+	En sådan ordning kunne have andre fordele. F.eks. ville lovgiverne bedre kunne opretholde kontrol over, hvordan brugerdata indsamles og udnyttes af tredjepart.
+
+	Det skulle selvfølgelig være muligt at anonymisere data, så nye personlige tjenester kunne udvikles uden at kompromittere brugernes privatlivsbeskyttelse.
+
+	Data er allerede samlet
+
+	For et par måneder siden ville tanken om et sådant projekt have kunnet afvises som urealistisk. Dengang var der ikke nogen interesse for at omorganisere vores informationsinfrastruktur, og desuden ville det kræve enorme ressourcer at indsamle alle disse oplysninger og organisere dem på en ny og nemmere måde. Og hvem skulle finansiere projektet?
+
+	Med Edward Snowdens afsløringer af de omfattende overvågningsoperationer, der foregår i NSA-regi, har vi fået svaret. Tag blot NSA’s meget omdiskuterede samling af metadata – de tilsyneladende uskyldige oplysninger om, hvem der ringer til hvem og hvornår. Det er lige præcis sådanne metadata, der vil blive behov for til at opbygge en bedre og offentligt administreret social graf. Formentlig har NSA allerede konstrueret en sådan social graf – ikke kun til sig selv, men også til allierede nationers efterretningstjenester.
+
+	Vi kan diskutere etikken og lovligheden i sådanne initiativer, til vi bliver blå i hovedet – og det bør vi naturligvis blive. For som Snowdens læk dokumenterer, er NSA’s system indsvøbt i hemmeligholdelse, løsrevet fra al demokratisk kontrol og på alle måder støttet af det militærindustrielle kompleks. Så, ja. Det må handle om at reformere NSA’s dataindsamlingspraksisser, så demokratisk ansvarspådragelse bliver mulig.
+
+	I mellemtiden melder der sig et akut pragmatisk spørgsmål: NSA har alle disse data, og de kommer ikke til at forsvinde. Det ville være et kolossalt fejlgreb ikke at etablere en global institution, der kunne gøre i det mindste udvalgte udsnit af disse data tilgængelige for offentligheden. Som et (utopisk) minimum bør det være muligt at fremstille en rudimentær social graf og gøre den globalt søgbar i regi af et civilt agentur, måske FN.
+
+	Styrk konkurrencen
+
+	Der er naturligvis en mængde tekniske forhindringer og potentielle bekymringer for privatlivets fred, der først må løses. Stærke regler om anonymitet og mulighed for at trække data tilbage vil være uomgængelige. De etablerede teknologiselskaber ville ikke synes om det – det var jo dem, der gav alle disse data til NSA. Men både Google og Facebook ved, at reguleringsmyndighederne ikke i det lange løb vil kunne acceptere den fortsatte mangel på egentlig konkurrence inden for søgning og sociale tjenester. Og så vil de gøre noget ved det. Dette ’noget’ kan sagtens blive mere drastisk, end hvad der her foreslås.
+
+	Det egentlige valg, vi står over for nu, er mellem på den ene side en fremtid, hvor Google og Facebook fortsætter med at dominere deres kernemarkeder totalt og indsamler stadig flere data om deres brugere. Og på den anden en fremtid, hvor disse selskabers magt holdes i skak af øget konkurrence. For øjeblikket har brugerne ikke noget andet valg end at holde sig til Google og Facebook, eftersom de brugerdata, som de allerede selv har afgivet, afkaster de optimale søgeresultater og rigeste sociale forbindelser.
+
+	Naturligvis kan det blive svært at overbevise denne verdens NSA’er – i USA og andre steder – om at åbenhed og datadeling skulle være i deres interesse. Spiontjenesterne er yderst tilfredse med den igangværende centralisering af telekommunikation. Så længe nogle få knudepunkter som Google og Facebook suger alle brugerdata og organiserer dem, er de nemme at arbejde med for spiontjenesterne. Et virkeligt konkurrencepræget marked for søgning og sociale netværkstjenester med snesevis af store spillere – hver med forskellige tilgange til beskyttelse af privatlivets fred og dataindsamling – ville være en sand hovedpine for efterretningstjenesterne.
+
+© Evgeny Morozov og Information
+
+Oversat af Niels Ivar Larsen
+

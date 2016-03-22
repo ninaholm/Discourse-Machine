@@ -1,0 +1,32 @@
+Robotten rammer altid plet
+Gennem tre års ph.d.-arbejde har Henrik Skov Midtiby udviklet landbrugsrobotter, der kan minimere brug af sprøjtemidler uden at nedsætte markernes udbytte
+Det er ikke drømmen om rigdom, der driver Henrik Skov Midtiby, men en dybtfølt interesse for, hvordan tingene hænger sammen.
+
+
+ Mens flere og flere forbrugere kræver økologiske afgrøder, stiller den voksende verdensbefolkning krav om stadigt større fødevareproduktion. Problemet er, at økologiske landmænd producerer mindre udbytte pr. hektar end deres sprøjtende kolleger i det konventionelle landbrug. Et dilemma, som Henrik Skov Midtiby fra Syddansk Universitet behandler i sin ph.d.
+»Løsningen må være at give økologerne adgang til en effektiv ukrudtsbekæmpelse, som er helt uden brug af sprøjtemidler, og at udvikle metoder, så det konventionelle landbrug kan sprøjte så lidt som overhovedet muligt. På den måde kan man skåne miljøet og samtidig producere samme store mængde afgrøder,« siger Henrik Skov Midtiby.
+Under arbejdet på afhandlingen har han sammen med et forskerhold brugt sin datalogiske baggrund til at udvikle en robotteknik, der på sigt kan reducere forbruget af sprøjtemidler til et minimum.
+»Helt grundlæggende har vi udviklet et system, hvor vi monterer kameraer, computere og mikrosprøjter på landbrugsmaskiner. Kameraerne filmer marken og videresender billederne til computeren, der analyserer dem med software, vi har programmeret,« fortæller Henrik Skov Midtiby.
+Computeren vurderer, om planterne er afgrøder eller ukrudt. Derefter kan den så styre en række mikrosprøjter, der med stor præcision rammer ukrudtet med et lille skud dødelig roundup. Dermed undgår man at skulle sprøjte hele marken som i dag. Forsøget har indtil videre kun været udført i et drivhus, men resultaterne var overbevisende. Ni ud af ti ukrudtsplanter blev opdaget og sprøjtet af robotten, og efter kort tid var 98 procent af dem sendt til de evige marker. Og fordi man kun sprøjtede på lige netop ukrudtet, kunne man samtidig reducere forbruget af sprøjtemidler med hele 95 procent, forklarer Henrik Skov Midtiby:
+»Problemet er at få det til at virke i stor skala. Et er at lave forsøget i et drivhus, men at overføre forsøget til en mark kræver en landbrugsmaskine med meget præcist udstyr. Det skal kunne sprøjte felter på én kvadratcentimeter, mens maskinen er i fart på en ujævn mark,« siger han.
+De største udfordringer under det tre år lange ph.d.-arbejde var da også at få laboratorie-ideerne til at fungere ude på marken.
+Hvordan vinder vi?
+»Når du ser en mark, virker den umiddelbart flad, fin og velordnet. Men når man så skal have en robot til at arbejde, opdager man pludselig en masse ting, man ikke har tænkt på ved skrivebordet,« siger Henrik Skov Midtiby.
+Eksempelvis var det svært at finde et egnet kamera til robotten.
+»Lyset på en mark svinger meget. En dag er der høj sol med hårde skygger. Andre gange er der overskyet og gråt. Det er meget anderledes, end når man arbejder indendørs, hvor lyset er konstant. Så man skal have et kamera, der fungerer i al slags vejr, og sådan et køber man ikke lige nede hos fotohandleren,« siger Henrik Skov Midtiby.
+Han oplevede også, at skadedyr åd afgrøderne under forsøget.
+»Verden er jo anderledes, end vi forventer. Det er både udfordringen og det sjove. Hvordan vinder vi? Hvordan ender vi med at herske over den? Hvad skal vi finde på? Det er et sjovt spil,« siger han.
+Selv om teknikken til at identificere og sprøjte ukrudt ved hjælp af robotteknologi fungerer i et drivhusforsøg, kræver det endnu en del videreudvikling, før den kan anvendes på landets marker. I stedet samarbejder den Fyns-baserede forsker i disse år med den sjællandske maskinproducent Frank Poulsen Engineering om at koble sin robotteknik med deres lugemaskiner. Men hvor sprøjterobotten skulle genkende og udrydde ukrudtet, er det meningen, at lugerobotten skal kunne genkende og luge uden om afgrøderne. På den måde kan man holde ukrudtet nede uden at bruge gift.
+Lugerobotterne er allerede i stand til at arbejde med letgenkendelige afgrøder som salat i drivhuse. Men på sigt er målet at lave robotter, der kan arbejde udendørs med at luge eksempelvis roemarker. Og senere endnu mere komplicerede afgrøder.
+»Der produceres stort set ikke økologiske sukkerroer i Danmark, fordi det er alt for arbejdskrævende at luge ukrudtet væk i stedet for at sprøjte markerne. Men hvis vi kan få robotterne til at luge ukrudtet, kan vi producere roer uden at sprøjte overhovedet.«
+Frank Poulsen Engineering sælger maskiner til en lang række europæiske lande. En sofistikeret lugerobot kan måske blive en fremtidig eksportvare, der kan skabe eftertragtede grønne arbejdspladser herhjemme. Og måske gøre den 30-årige Henrik Skov Midtiby velhavende.
+»Jeg har faktisk ikke helt styr på, om det er mig eller universitetet, der i sidste ende vil have rettighederne til opfindelsen. Perspektiverne er store, men der er først penge i det, hvis det kommer op i skala. Men det er nu ikke noget, jeg går og regner med. Og det er ikke min motivation for at forske,« siger han.
+Paradoksalt
+Hans naturvidenskabelige interesse kommer derimod fra opvæksten på et nedlagt landbrug syd for Skjern.
+»Jeg fik mulighed for at skille en motor ad og bore en knallert, og så havde jeg nogle forældre, der fortalte om naturen, og om hvordan maskiner virker. Så jeg har interesseret mig for naturvidenskab fra en ung alder,« siger Henrik Skov Midtiby.
+En interesse, han gennem sine studieår på Syddansk Universitet har forsøgt at videregive ved at tage ud og fortælle om naturvidenskab på forskellige ungdomsuddannelser. Det har ikke altid været lige let.
+»Det er et paradoks, at vores samfund bygger på teknik, men at det bare ikke interesserer folk, hvordan tingene virker. Det er i højere kurs at synge rent eller at være tv-vært. Det synes jeg er underligt,« siger den unge forsker.
+Han tror, at vi om fem år vil se lugerobotter hakke ukrudt på det, der til den tid vil være Danmarks første økologiske roemarker.
+»Robotteknologi vil gøre det muligt for at gøre landbruget langt mere miljøvenligt. Men det kræver også, at politikerne hjælper udviklingen på vej. For i sidste ende handler det jo om, at det skal være billigere at investere i ny teknologi end at blive ved med at sprøjte. Mange landmænd er rigtig interesserede i at gå nye veje, men det kræver, at økonomien hænger sammen.«
+ 
+

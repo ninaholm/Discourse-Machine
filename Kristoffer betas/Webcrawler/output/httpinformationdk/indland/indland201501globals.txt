@@ -1,0 +1,37 @@
+Global sikkerhedsbrist rammer teleselskaber i Danmark
+Et sikkerhedshul i det system, som teleselskaberne verden over bruger til at kommunikere med hinanden, gør det muligt at spore telefoners fysiske placering i Danmark. TDC arbejder nu med flere ’løsninger’ på problemet. Teleselskabet 3 siger derimod, at det vil være komplekst at blokere
+ Informations mobiltelefon blev lokaliseret af it-eksperten Karsten Nohl til det markerede røde punkt. Fysisk var telefonen et sted i den stiplede cirkel. De få hundrede meters unøjagtighed kan skyldes det opslagskort, som eksperten anvendte
+
+
+ Flere it-eksperter præsenterede for nylig en række svagheder i it-sikkerheden i det såkaldte signalsystem SS7, som gør det muligt for teleselskaber verden over at snakke sammen. Det skete på en konference ved navn Chaos Communication Congress i Hamborg i Tyskland.
+Den tyske it-ekspert Karsten Nohl afdækkede blandt andet, hvordan det er muligt at aflytte mobilsamtaler. Han afdækkede også, hvordan man kan viderestille mobiltelefoners udgående og indgående opkald til andre telefonnumre – uden at brugeren umiddelbart opdager det.
+En anden it-ekspert viste desuden, hvordan det via samme systems svagheder er muligt at spore mobiltelefoners placering verden over.
+For Information har Karsten Nohl, der er en af de førende eksperter på området, foretaget en række test af to danske teleselskabers netværk. Testene afslører, at det også i Danmark er muligt at spore mobiltelefoners fysiske placering.
+»De fleste netværk har kun den mest nødvendige sikkerhed, og så tror de, at de er sikre nok,« siger Karsten Nohl, der er forskningschef i et it-sikkerhedsfirma i Berlin.
+Kun med kendskab til et telefonnummer, der tilhører Information, demonstrerede Karsten Nohl, hvordan det er muligt at lokalisere den telefon, der benytter sig af telefonnummeret, med få hundrede meters præcision. Det lod sig gøre, selv om Karsten Nohl befandt sig i Tyskland, mens han udførte testene.
+I det konkrete tilfælde var nummeret tilknyttet teleselskabet TDC. Karsten Nohl lokaliserede i løbet af kort tid, at telefonen befandt sig i nærheden af Dronning Louises Bro i København. Det passede med den fysiske placering med få hundrede meters præcision.
+Information har forelagt resultaterne af Karsten Nohls test for TDC. Selskabet arbejder nu på »to konkrete løsninger« på problemstillingen.
+På spørgsmålet om, hvorfor TDC ikke har rustet sig mod, at denne slags lokalisering af mobiltelefoner kan forekomme, svarer selskabet, at funktionen bruges »legalt« i forbindelse med såkaldt roaming.
+»Hidtil« har det »bygget på gensidig tillid mellem operatørerne«, skriver en pressemedarbejder til Information.
+Karsten Nohl har også vist Information, at en lignende sporing er mulig i Danmark, hvis mobiltelefonen er knyttet til teleselskabet 3’s netværk. Her er sikkerheden dog lidt bedre ifølge Karsten Nohl.
+»På det netværk er vi kun i stand til at finde ud af, hvilken by – og potentielt hvilken del af byen – mobiltelefonen befinder sig i,« siger Karsten Nohl, der siger, at usikkerheden kan være på op til et par kilometer i tilfældet med 3.
+På baggrund af testene vurderer Karsten Nohl, at det vil være muligt at spore størstedelen af mobilkunderne, der tilhører de to netværk, med samme præcision, som det er sket i testene. Information havde i alle tilfælde givet lov til, at it-eksperten sporede telefonnumrene.
+Nemmere adgang
+Torben Rune, der er teleekspert og direktør i det danske it-firma Netplan, er overrasket over, at private kan få adgang til det såkaldte SS7-signalsystem.
+»Det er voldsomt indgribende i privatlivets fred, hvis de kan det,« siger han.
+I august sidste år dokumenterede den amerikanske avis The Washing-ton Post, at en række private efterretningsfirmaer har tilbudt regeringer verden over at spore personers færden ved at benytte svaghederne i signalsystemet. I udgangspunktet blev systemet da også designet således, at adgangen til det var »eksklusiv« for teleselskaberne, siger Karsten Nohl.
+»Men i dag er det ikke svært at få adgang til,« siger Karsten Nohl. Den påstand har den tyske it-ekspert Tobias Engel, der også er en af de førende eksperter på området, bakket op om flere gange.
+Philippe Langlois, der er administrerende direktør for det franske it-sikkerhedsselskab P1 Security, siger til Information, at der er flere forskellige måder for private at få adgang til systemet på.
+En af de ulovlige metoder foregår ved, at »ondsindede personer rutinemæssigt angriber dårligt beskyttede teleoperatører via internettet«, siger Philippe Langlois.
+En meget begrænset adgang kan også købes med et kreditkort på nettet, mens en legal og fuld adgang er svær at få, siger Philippe Langlois.
+Karsten Nohl selv ønsker ikke at fortælle, hvordan han har fået adgang til systemet.
+Pres på teleselskaber
+Adspurgt om sin vurdering af, hvorfor teleselskaberne verden over ikke har lukket for sikkerhedsbristerne i systemet for længst, svarer Karsten Nohl: »Teleselskaberne har været plaget af sårbarhed efter sårbarhed i de seneste år. Først når det offentlige pres er stort nok, har de gjort noget. Hvis presset ikke er der, bruger de tid på andre sårbarheder i deres systemer.«
+I Tyskland er en række teleselskaber blevet gjort opmærksom på problemerne, forklarer Karsten Nohl.
+»Alle fire netværk i landet var sårbare over for denne slags angreb. Men i løbet af tre uger lukkede alle netværk for de alvorligste huller. Så i løbet af tre uger er det altså muligt at gå fra at have et netværk, der er sårbart, til et netværk, der er rimeligt sikkert,« siger han.
+Hos teleselskabet 3 i Danmark er selskabets tilgang umiddelbart noget anderledes, da Information forelægger resultaterne af de test, som Karsten Nohl har udført af 3’s mobilnetværk i Danmark.
+I en skriftlig kommentar skriver kommunikationskonsulent Hanne Damgaard fra 3, at hun har været i kontakt med selskabets øverste netværksansvarlige i Sverige efter Informations henvendelse.
+Hun skriver videre, at hvis teleselskabet skulle blokere for den omtalte mulighed for at spore mobiltelefoner, ville det »formentlig« være »en både kompleks og ustabil løsning, og vi er ikke bekendt med, at andre operatører har opsat sådanne blokeringer i deres systemer«.
+Hanne Damgaard skriver også, at det ikke er tilladt for ’slutbrugere’ at tilgå signalsystemet: »uanset, om det er muligt eller ej«.
+»Hos 3 har vi ikke tidligere oplevet misbrug af SS7 – og anser det for ulovlig indtrængen i vores systemer at opfordre til det,« slutter kommunikationskonsulenten.
+

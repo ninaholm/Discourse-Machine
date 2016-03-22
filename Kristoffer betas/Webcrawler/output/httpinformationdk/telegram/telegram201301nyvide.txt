@@ -1,0 +1,20 @@
+Ny viden giver kræftpatienter mere effektiv kemoterapi
+Forskere finder gen, som skruer op for effekten af kemoterapi.
+
+
+ Mange patienter lider under behandling med kemoterapi, der er den mest anvendte behandling til kræftpatienter. De får kraftige bivirkninger, og langt fra alle reagerer positivt på behandlingen.
+Ny forskning viser nu, at genet FBH1 kan hjælpe med at øge effekten.
+
+Det er forskere fra Biotech Research and Innovation Centre (BRIC) og Center for Sund Aldring på Københavns Universitet, der har fundet, at genet FBH1 kan hjælpe med at skrue op for effekten af kemoterapi.
+Resultaterne publiceres tirsdag i tidsskriftet Nature Communications.
+ - Vores nye resultater viser, at genet FBH1 er afgørende for, at nogle former for kemoterapi bliver virksomt i kroppen og kan dræbe kræftcellerne, siger lektor Claus Sørensen, som leder forskerholdet bag resultaterne.
+- Hvis man kan finde en anvendelig metode til at skrue op for genet, kan man altså udnytte kroppens egne ressourcer til at øge effekten af kræftbehandling.
+Forskerne har brugt en nyere metode, kaldet RNA interferens, til at undersøge, om nogle af generne i vores arvemateriale er vigtige for, om kræftceller reagerer på kemoterapi.
+ - Ved enkeltvis at fjerne forskellige gener fra kræftceller med metoden og derefter udsætte cellerne for behandling med kemoterapi, fandt vi ud af, at genet FBH1 er helt afgørende for effekten, siger postdoc Kasper Fugger.
+Han har stået for den eksperimentelle del af undersøgelsen.
+- Tilstedeværelsen af dette gen er simpelthen påkrævet for at kunne dræbe kræftcellerne med den form for kemoterapi, vi har undersøgt.
+Kemoterapi virker ved, at kræftceller udsættes for en form for voldsom stress, mens de deler sig.
+Det resulterer i dannelsen af dna skader, som ikke kan repareres, og det får til sidst kræftcellen til at dø.
+De nye resultater viser, at det netop er genet FBH1, som medvirker til dannelsen af dna- skader, når man behandler med kemoterapi, og den viden kan på sigt bruges til bedre behandling af kræftpatienter.
+Det næste skridt for forskergruppen er at undersøge forekomsten af ændringer, såkaldte mutationer i FBH1, så man kan indrette behandlingen endnu bedre.
+Desuden ønsker forskerne at undersøge, om de kan skrue op for aktiviteten af FBH1 i kræftceller.

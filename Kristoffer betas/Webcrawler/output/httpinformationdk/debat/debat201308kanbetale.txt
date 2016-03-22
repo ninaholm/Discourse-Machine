@@ -1,0 +1,55 @@
+Kan det betale sig at redde kloden?
+Når Finansministeriet beregner gevinsten ved forskellige klimatiltag, ser man stort på gevinster, som forbedrer folkesundheden, mens værdien af mindre luftforurening undervurderes. Nogle klimatiltag diskvalificeres, alene fordi de faktisk virker
+
+
+ 
+	Da regeringen for nylig fremlagde sin klimaplan, var der ikke alene tale om en lang liste over tiltag, som kan gavne klimaet. Det var også en omfattende regneøvelse, der for hver af de 78 tiltag skulle vise, hvor stor reduktion af klimagas det giver, og hvad det koster i kroner pr. reduceret ton C02. Målet var at finde frem til, hvor det bedst kan betale sig at sætte ind.
+
+	De samfundsøkonomiske beregninger gives meget stor vægt af både politikere og myndigheder. Derfor er det værd at kigge dem efter i sømmene for at finde ud af, om de faktisk inddrager alle vigtige faktorer – om de er præget af udsyn eller tunnelsyn.
+
+	Desværre er der meget tunnelsyn, og der er indbygget nogle skævheder, som får nogle indgreb til at se særligt ufordelagtige ud, selv om de med en lidt mere fremsynet målestok ville have store positive effekter for både klima, miljø og folkesundhed.
+
+	Transporten går fri – igen
+
+	F.eks. ser indgreb over for transport meget dyre ud. Så hvis man prioriterer de lavthængende frugter først og går i gang med de af klimaplanens tiltag, som er billigst, trækker transporten endnu engang frinummer.
+
+	Det vil imidlertid være et stort problem, fordi udslippet fra person- og varetransport kommer til at udgøre en stadig større del af fremtidens samlede klimagasudslip. Og det tager tid at omstille sektoren, så vi kan ikke bare blive ved at vente med at gå i gang.
+
+	Samtidig har mange af tiltagene andre gavnlige effekter end klimaeffekter. I klimaplanen kaldes det sideeffekter. Regeringen har prøvet at inddrage disse synergieffekter, men det er kun delvist lykkedes – og på transportområdet kun i beskedent omfang. Det skyldes, at flere af de positive effekter ikke registreres i de traditionelle samfundsøkonomiske beregninger. Man værdisætter effekten af støj og luftforurening, men f.eks. tager man ikke den effekt, de ultrafine partikler har på helbredet. Det skyldes, at EU ikke har en grænseværdi for disse, selv om de hører til den allerfarligste del af luftforureningen.
+
+	Man medregner heller ikke den positive effekt på folkesundheden, når folk stiller bilen og cykler eller går – i kombination med kollektiv trafik. En meget stor del af vores sundhedsudgifter skyldes ellers sygdomme knyttet til netop mangel på motion. Derimod medregnes bilisternes tidstab, hvis de må køre lidt langsommere eller må tage cykel og tog – det værdisættes højt og er med til at gøre begrænsning af privatbilisme til dyre tiltag.
+
+	Diskvalificerede elbiler
+
+	Et af de suverænt dyreste tiltag i planen, målt pr. ton C02-reduktion, er sænkning af den maksimale hastighed på motorveje fra 130 til 110 km i timen. Den høje pris skyldes bilisternes tidstab, og det til trods for at det kun ville tage få minutter længere at køre f.eks. fra København til Odense.
+
+	For den, der cykler i en halv time hver dag og dermed kan spare den halve time i motionscentret og alligevel undgå diabetes eller hjerte-kar-sygdomme, medregnes ingen gevinst for samfundsøkonomien. Der er ellers tale om meget store udgifter, som i høj grad ville forbedre den beregnede samfundsøkonomi ved at begrænse bilkørsel. Der er f.eks. lavet flere beregninger både i Danmark (senest af konsulentfirmaet Incentive) og i udlandet af samfundsøkonomien ved at investere i cykelstier, hvor man – i modsætning til de danske myndigheder – medregner denne effekt af øget motion og lavere sygelighed. De viser samstemmende, at cykelstier er den allermest rentable trafikinvestering for samfundet.
+
+	Når man erstatter benzin- og dieselbiler med elbiler, får man også en lang række fordele. Nogle af dem er medregnet i klimaplanen – f.eks. nedsat C02 – støj- og luftforurening – dog er den farligste form for luftforurening som nævnt udeladt. Men herudover har elbilerne den fordel, at man skaber et fleksibelt elforbrug ved at oplade elbiler om natten. Det vil bidrage til fremtidens fleksible energisystem. Det er en nødvendig forudsætning for en kraftig udbygning af vindmøllebestanden, der som bekendt producerer, som vinden blæser. Denne fordel ved elbiler medregnes heller ikke i de samfundsøkonomiske beregninger. Her medregnes kun C02-besparelsen i selve elbilen – og ikke at den skaber mulighed for flere vindmøller i energisystemet.
+
+	Gråspurvene har det varmt
+
+	Regeringen har i Klimaplanen også regnet på C02-gevinsten ved at stoppe handel- og serviceerhvervenes adgang til at få refunderet elafgift – dvs. at lade dem betale samme elafgift som almindelige borgere. Gjorde man det, ville de få samme motivation til at spare på el som private husstande – en motivation, de ikke har i dag.
+
+	For at være sikker på, at det ikke truer erhvervets konkurrenceevne, har man desuden regnet på den mulighed, at man fører afgiftspengene tilbage til erhvervet efter antal beskæftigede. Med modellen ville virksomhederne trods tilbageføringen være motiverede til at spare på el, fordi den ville blive dyrere.
+
+	Tiltaget giver en meget stor C02-reduktion på 1,1 million ton/år. Alligevel når man frem til, at det er et dyrt tiltag – det koster 886 kroner pr. ton C02-reduktion.
+
+	Men går man ned i beregningerne, tager man sig til hovedet. I det alternative forslag, hvor erhvervet får refunderet elafgiften i forhold til antal ansatte, fås en gevinst på 11 milliarder kroner til erhvervet, fordi de sparer energiomkostninger, men stadig får afgiften refunderet. Denne gevinst fjerner man ved at indsætte et fiktivt begreb – ’transaktionsomkostninger’ – og fratrække disse. Det er fiktive omkostninger, som man antager må være der, for ellers havde virksomhederne selv gennemført energibesparelserne, uden at man behøvede indføre afgift. Det fremgår, at omkostningerne egentlig skulle beregnes konkret, men det mener økonomerne ikke, man kan. Så derfor sætter man dem blot lig med erhvervenes gevinst – som så, keine Hexerei, er væk!
+
+	Dernæst finder økonomerne et såkaldt ’velfærdstab’. Det dækker over, at elafgiften angiveligt skulle sænke arbejdsudbuddet – uanset om erhvervene får pengene retur eller ej! Når man føler trang til at antage dette, kan det kun skyldes, at man helt generelt forudsætter, at alle afgifter sænker arbejdsudbuddet.
+
+	Dertil kommer, at staten taber penge, fordi erhvervene sparer på el og dermed betaler mindre i afgift. Med andre ord: Dette virkemiddel har den ulempe, at det faktisk virker! Det svarer til at sige, at rygestopkurser er dyre for samfundet, hvis de virker, for så mister staten afgiftsindtægter på tobakssalg.
+
+	Alt i alt når økonomerne altså frem til, at det er meget dyrt for samfundet, hvis f.eks. et hotel holder op med at fyre for gråspurvene!
+
+	Sund fornuft, tak
+
+	Klimaplanen skal have perspektiv ud over 2020 – frem mod målet om et fossilfrit samfund i 2050. Her nytter det ikke blot at sige, at vi f.eks. højst vil betale 300 eller 500 kroner pr. ton C02-reduktion. Regeringens beregninger viser, at de billigste virkemidler næsten alle vedrører landbruget. Det skyldes, at disse regnemetoder er bedre til at opfange de positive sideeffekter inden for landbrug, dvs. især reduktion af kvælstofudledning. Hvis man kun vælger de billigste virkemidler – ud fra disse traditionelle samfundsøkonomiske beregninger, kommer transporten til endnu engang at trække frinummer. Og så forpasser man chancen for at slå flere fluer med ét smæk og reducere transportens klimagasudslip, dens store bidrag til sundhedsskadelig luftforurening, trængslen og de store folkesygdomme, som er knyttet til mangel på motion.
+
+	Min appel til politikerne er derfor: Brug jeres sunde fornuft og byg ikke jeres beslutninger alene på Finansministeriets regnestykker.
+
+	 
+
+Christian Ege er sekretariatsleder i Det Økologiske Råd
+

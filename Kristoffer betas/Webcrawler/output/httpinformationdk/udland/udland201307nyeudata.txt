@@ -1,0 +1,37 @@
+Ny EU-datalov truer amerikanske internetgiganters dominans
+NSA-skandalen har skabt ny politisk opbakning til skærpet databeskyttelse i EU. Det kan bryde den amerikanske dominans af internet-markedet. Danmark går på listefødder
+
+
+ 
+	USA har faktisk gjort Europa en tjeneste ved at udspionere europæerne gennem det såkaldte PRISM-program iværksat af National Security Agency, NSA. Det mener EU’s justitskommissær, Viviane Reding.
+
+	»PRISM har været en brat opvågnen for dem, der har forsøgt at blokere for eller ignorere behovet for en ny stærk databeskyttelse i Europa. Mange borgere har længe haft en mistanke om, at de data, de giver videre til internetfirmaer, misbruges. Men det er først nu, at der er skabt opmærksomhed nok til at få en datareform på plads,« siger hun.
+
+	Meget tyder på, at justitskommissæren har ret. Efter at man i halvandet år har forhandlet i EU-systemet om en ændring af EU’s nuværende databeskyttelsesregler, der stammer fra 1995, da mindre end en procent af europæerne brugte internettet, er der med NSA-affæren sat mere politisk strøm på spørgsmålet.
+
+	På et møde mellem EU’s justitsministre i fredags i Vilnius fik Reding overvældende opbakning til at gå videre med sit forslag. I et fælles indlæg gjorde den tyske og den franske justitsminister det klart, at lovgivningen skal på plads inden årets udgang, og at man om nødvendigt er parat til at gennemføre den med en flertalsafstemning, hvis Storbritannien fortsætter med at stritte imod.
+
+	Den tyske forbundskansler, Angela Merkel, kastede sin vægt bag Reding, da Merkel for nylig erklærede, at hun ønsker en »stram« fælles EU-lovgivning for at forhindre, at personlige oplysninger fra internettjenester misbruges som gennem PRISM.
+
+	»Internetselskaber, som opererer i Europa, f.eks. Facebook og Google, skal rapportere til de europæiske myndigheder, hvem de giver deres oplysninger videre til,« sagde Merkel.
+
+	Den tyske kansler er under indenrigspolitisk pres i NSA-affæren forud for valget til Forbundsdagen i september. Frankrig har derimod længe haft Google og andre amerikanske internet-giganter i søgelyset. Det franske datatilsyn, CNIL, truer således Google med bøder i millionklassen for ulovlig indsamling af oplysninger om franske borgere.
+
+	Justitskommissær Viviane Reding overvejer at opsige en nuværende aftale kaldet Safe Harbour, som har reguleret amerikanske internetfirmaers adgang til Europa siden 2000. Aftalen indebærer, at de amerikanske internetfirmaer principielt skal overholde europæisk datalov, men kontrollen med firmaerne er overladt til de amerikanske myndigheder, nemlig det amerikanske handelsministerium. Aftalen er derfor blevet kritiseret af europæiske databeskyttelsesmyndigheder for at være mangelfuld, og den har nu vist sig ikke at kunne forhindre NSA i at få adgang til internetfirmaers oplysninger.
+
+	»Vi har en fornemmelse af, at Safe Harbour-aftalen måske ikke er så sikker endda,« sagde Reding i Vilnius.
+
+	Den amerikanske internet-industri har lobbyet intenst i EU-Kommissionen i Bruxelles og i Europa-Parlamentet for at få den kommende fælles EU-databeskyttelse gjort imndre restriktiv med argumentet om, at erhvervslivets interesser i ny informationsteknologi kommer først i en økonomisk krise.
+
+	Men i Europa-Parlamentet forlanger de førende partier nu forslaget strammet endnu mere op. Brugere skal have retten til at ’blive glemt’ – det vil sige, at deres oplysninger skal slettes fra nettet på forlangende. Og firmaer, der overtræder EU’s nye lovgivning, skal kunne idømmes bøder på op til to procent af deres omsætning.
+
+	Langt hovedparten af verdens internet-trafik går gennem amerikanske firmaer, og i industrien er man bekymret over den nye europæiske lovgivning og følgerne af PRISM. Google sidder på 90 procent af det europæiske internetmarked, og otte ud af ti Facebook-brugere bor uden for USA.
+
+	»Det kan blive en trussel mod disse firmaers eksistens,« har teknologi-investoren Michael Arrington skrevet i sin blog. »Opfattelsen af, at de (internetfirmaerne, red.) er NSA og den amerikanske regerings forlængede arm kan komme til at gøre ondt,« mener han – herunder på de nye markeder i Asien og Latinamerika.
+
+	Frihandelsaftale i spil
+
+	Omvendt har EU også en økonomisk bagtanke med den kommende datalovgivning. Hvis den kan sætte en global standard for datalovgivning, kan den bryde den amerikanske dominans på markedet og give europæiske udbydere bedre chancer. Derfor vil EU også kræve, at EU’s restriktive databeskyttelse bliver et element i de netop åbnede forhandlinger om en transatlantisk handelsaftale.
+
+	Det huer ikke alle medlemslande. Storbritannien – som har sit særlige forhold til USA at tænke på – er imod den nye EU-datalov. Det samme er Sverige, mens Danmark er forbeholden. Fra dansk side er man særligt bekymret for, at striden om databeskyttelse kan få forhandlingerne om frihandelsaftalen med USA til at gå trægt. Det er hensynet til de danske rederier, som er afgørende for den danske forhandlingsposition. Fra dansk side håber man at få USA til at opgive den såkaldte Jones Act fra 1920, der forhindrer udenlandske rederier i at komme ind på det amerikanske marked for indenrigsfragt.
+

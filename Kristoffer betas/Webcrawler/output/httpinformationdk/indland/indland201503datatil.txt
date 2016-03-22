@@ -1,0 +1,23 @@
+Datatilsynet til politiet: Få orden i register over efterlyste biler
+Datatilsynet påpeger, at politiets register over efterlyste biler skal bringes i orden. Det sker, efter at tilsynet er blevet forelagt politiets egen evaluering af et forsøg med at overvåge bilister, der viser, at systemet producerer særdeles mange falske alarmer
+Politiets foreløbige evaluering af et forsøg med såkaldt automatisk nummerpladegengivelse viser, at systemet til at overvåge bilister producerer falske alarmer i cirka ni ud af ti tilfælde, når det handler om efterlyste biler.
+
+
+ Der skal styr på politiets register over efterlyste biler, siger jurist hos Datatilsynet Birgit Kleis. Det sker, efter at Information har forelagt Datatilsynet politiets egen foreløbige evaluering af et forsøg med såkaldt automatisk nummerpladegenkendelse.
+Evalueringen, som Information har fået aktindsigt i og tidligere omtalt, viser, at systemet til at overvåge bilister producerer falske alarmer i cirka ni ud af ti tilfælde, når det handler om efterlyste biler.
+»Det tyder på, at de ikke har orden i deres datakvalitet, hvad angår efterlyste køretøjer. Det må de selvfølgelig se at få, og det skal de under alle omstændigheder have,« siger Birgit Kleis og tilføjer:
+»Det er i sagens natur en grundlæggende forudsætning, at datakvaliteten er i orden – ikke kun for at automatisk nummerpladegenkendelse kan fungere – men i det hele taget. Det følger også af lovgivningen«.
+En af årsagerne til de mange falske alarmer er dårlig ‘datadisciplin’, hvad angår det register, som politiet fører over efterlyste biler. Det handler delvist om, at ansatte i politiet ikke får afmeldt biler, når de reelt ikke længere er efterlyst.
+Politiets evaluering har også ført til kritik fra IT-Politisk Forening, der mener, at de mange falske alarmer kan betyde, at bilister bliver stoppet og mistænkeliggjort uden nogen grund, eller at politiet overser vigtige sager eller spilder ressourcer.
+Ole Andersen, der er vicepolitimester hos Rigspolitiet, skriver i en kommentar til Information, at forsøget med automatisk nummerpladegenkendelse netop blev »gennemført med henblik på at få praktiske erfaringer«.
+»De problemer, som blev afdækket i forhold til valide hit, tages der naturligvis hånd om i forbindelse med arbejdet på at udrulle ANPG (automatisk nummerpladegenkendelse, red.) som et permanent redskab,« skriver han og tilføjer:
+»Det skal i den forbindelse noteres, at forsøget blev gennemført med et forholdsvis primitivt teknisk setup, mens den permanente ANPG vil ske på baggrund af en ny og mere avanceret teknisk platform.«
+Ikke sendt til tilsynet
+Rigspolitiet har i flere notater beskrevet planerne for et permanent system og politiets foreløbige erfaringer over for Datatilsynet. Men evalueringen, der viser, at systemet producerer mange falske alarmer, har Rigspolitiet ikke sendt til tilsynet.
+Birgit Kleis fra Datatilsynet påpeger i den forbindelse, at det er en forudsætning i lovgivningen, at registre som det, politiet fører over efterlyste køretøjer, skal indeholde retvisende oplysninger. Potentielt kunne det have ført til en anmærkning, hvis Datatilsynet var blevet orienteret om problemet, vurderer Birgit Kleis.
+Men det ville formentlig ikke have ændret Datatilsynets foreløbige behandling af Rigspolitiets planer om at indføre automatisk nummerpladegenkendelse, hvis tilsynet havde kendt til problemet med de falske alarmer, netop fordi det allerede er et krav, at registre skal indeholde retvisende oplysninger.
+Vicepolitimester Ole Andersen understreger, at »der ikke bevidst er forholdt Datatilsynet nogen oplysninger«.
+»Tværtimod har Rigspolitiet lagt vægt på, at oplyse sagen bedst muligt,« skriver han i en kommentar. Han henviser til et af de omfangsrige notater, som Rigspolitiet allerede har sendt til tilsynet, hvor problemerne angående de mange falske alarmer dog ikke er beskrevet.
+Desuden påpeger Ole Andersen, at politiets evaluering af forsøget, der er fra slutningen af 2013, overordnet set viser, at systemet vil være et værdifuldt politimæssigt redskab – hvis man ser bort fra problemet med de mange falske alarmer.
+Datatilsynet har for nylig sendt en såkaldt udtalelse til Rigspolitiet, hvori tilsynet redegør for, at den fremtidige brug af automatisk nummerpladegenkendelse skal begrænses på visse punkter, hvis den skal være i overensstemmelse med persondataloven.
+

@@ -1,0 +1,17 @@
+Kunsten at forudse valgresultater
+En amerikansk professor har opstillet en formel, der præcist beregner resultatet for præsidentvalget, og opstillet ufravigelige tommelfingerregler, der gør meningsmålinger overflødige
+
+
+ "Det er svært at spå - især om fremtiden," sagde Robert Storm Pedersen engang. Og det havde han jo så evig ret i. Men i USA lader de sig ikke afskrække af sådanne pessimistiske udtalelser. Statskundskabsprofessoren Michael S. Lewis-Beck har indsamlet og opstillet en række modeller for, hvem der vinder det amerikanske præsidentvalg. 
+Så hvis De - ærede læser - er inderligt træt af de evindelige meningsmålinger, så er her en række andre forecasts, der endegyldigt viser, hvorfor resultatet blev, som det blev. 
+Here we go:
+-Den højeste kandidat vil altid vinde 
+-Kandidaten med mest hår vil vinde
+-Kandidaten med det længste navn vil altid vinde.
+Og disse forudsigelser har stort set passet hver gang. Den eneste kandidat, der vandt trods lavere højde, var Jimmy Carter (181 cm), der sikrede sig en - om end overraskende snæver - sejr over den tidligere professionelle amerikanske fodboldspiller Gerald Ford (189 cm). Så hvad tænkte republikanerne på, da de opstillede McCain (173 cm) mod Obama (184 cm)?
+At en skaldepande som Ford blev opstillet, må opfattes som direkte dumt. Tyndhårede mænd taber altid. Hvad tænke demokraterne på, da de opstillede den halvskaldede George McGovern mod den hårfagre Richard Nixon i 1972? Troede McCain nogensinde, at han havde en chance med sit hentehår mod Obamas kortklippede afro-krøller? (I Frankrig er det i øvrigt modsat - kandidaten med mindst hår vinder!) 
+Og så er der navnet. Hvem kunne tro, at Albert Gore (ti bogstaver) havde en chance mod George Walker Bush (16 bogstaver)? Eller, at Richard Milhouse Nixon (20 bogstaver) havde en chance mod John Fitzgerald Kennedy (24 bogstaver)? Eller, at John Sidney McCain (16 bogstaver) havde skyggen af chance mod Barack Hussein Obama (18 bogstaver)? 
+Valg på formel
+Men så er der de mere videnskabelige forudsigelser. Professor Lewis-Beck har også opstillet en matematisk formel - en lineær regressions-model for statistikere. Den lyder: Vote (Præs) = - 20.90 + 6.83 BNP + 1.40 PP. Det betyder oversat til dansk, at resultatet er afhængigt af BNP i seks måneder før valget og det regerende partis kandidats popularitet i juli i valgåret (her forkortet PP). Hvis vi sætter tallene ind, får vi følgende: - 20.90 + 6.83* 1.3 + 1.40*42 = 46.8, altså lidt over seksogfyrre procent til McCain. Og 53.2 til Obama. Det er ikke rent galt, vel? Eller var det? Når De læser dette, ved De, om forudsigelserne var korrekte! 
+
+

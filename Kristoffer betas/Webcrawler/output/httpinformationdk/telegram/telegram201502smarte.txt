@@ -1,0 +1,14 @@
+Smarte fjernsyn fra Samsung er på kant med dansk lov
+Foreninger kritiserer Samsung for at optage dine private samtaler, når du ser tv. Ekspert kalder det ulovligt.
+
+
+ Det vækker kritik fra flere sider, at den sydkoreanske teknologigigant Samsung kan lytte med på samtalen i stuen, når du ser tv - og ikke mindst, at selskabet agter at sende følsomme oplysninger videre til tredjepart.
+De stemmestyrede såkaldte smart-tv nøjes nemlig ikke med at lytte, når dets ejer siger "skru up" eller "skift til DR1", men også når der tales privat i stuen eller soveværelset.
+Således står der i policen for virksomhedens smart-tv, at "hvis (...) talte ord indeholder personlig eller anden følsom information, vil den information være at finde i de data, der bliver opfanget og sendt videre til tredjepart," skriver Berlingske.
+Men formuleringen er i strid med dansk lovgivning, mener en ekspert.
+- Samsung er langt fra at opfylde kravene til et eksplicit samtykke, som der er i dansk lov, ved blot at skrive noget i en manual om, at hvis man tager fjernsynet i brug, risikerer man, at private samtaler bliver optaget og sendt videre, siger Thomas Munk Rasmussen, partner i advokatfirmaet Bech-Bruun og specialist i persondatalovgivning, til avisen.
+Han vurderer, at det også er ulovligt, at de danske forbrugere ikke ved, hvilken tredjepart der er tale om.
+Samsungs formulering giver også panderynker hos Forbrugerrådet Tænk, Rådet for Digital Sikkerhed og IT-politisk Forening.
+- Det er jo en lille computer, du lukker ind i dit hjem, og som du ikke har kontrollen over. Hvis nogen var specielt interesserede i, hvad du havde at sige, kunne det sagtens bliver aflyttet. Data bliver sendt over nettet, og vi ved, at NSA (amerikansk efterretningstjeneste, red.) kan få en kopi af alt, der bliver sendt, siger Niels Elgaard Larsen, formand for IT-politisk Forening, til Berlingske.
+EU arbejder i øjeblikket på en forordning, der skal stramme samtlige EU-landes regler for datasikkerhed for forbrugerne. Et arbejde, der har været i gang i flere år.
+Samsung oplyste mandag i en global udtalelse, at det krypterer oplysningerne fra forbrugerne.

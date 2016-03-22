@@ -1,0 +1,4 @@
+Banker vil hente kunder efter storbankers kasselukninger
+Mindre banker satser på kunder fra Danske Bank og Nordea, som flittigt lukker filialer med kassebetjening.
+
+

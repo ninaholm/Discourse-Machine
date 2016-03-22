@@ -1,0 +1,22 @@
+Fremtidens beredskab uden politi?
+Teknologirådet - der rådgiver Folketinget - måtte afholde høring om fremtidens beredskab uden politiets deltagelse
+
+
+ Hvordan vil ny administrations- og kommandoteknologi påvirke fremtidens katastrofeberedskab? Hvem skal samarbejde med hvem og om hvad? Og hvilken fælleskultur bør etableres? 
+Det var nogle af de spørgsmål, der skulle drøftes på den høring, som Teknologirådet for nylig indkaldte til med ledende beredskabsmyndigheder i panelet. Beredskabet står nemlig - med Økonomistyrelsen som procesansvarlig - foran indførelse af en ny teknologi, der endelig vil muliggøre kommunikation mellem beredskabsmyndighederne på tværs. 
+I betragtning af at politiet skal stå for det nye digitale SIkkerhedsNEt (SINE), kan man undre sig over, at politiet ikke fandt det umagen værd at møde op og bidrage til Teknologirådets rådgivning af Folketinget.
+Udfordringerne for fremtidens beredskab har grundlæggende ændret sig. I daghandler det om at prioritere samfundssikkerheden og ikke - som tidligere - om forsvaret af territorialgrænserne eller isoleret om 'blå blink'-beredskabet.
+I dansk beredskabstænkning dominerer princippet om sektoransvaret, og kun udeblivelsen af alvorlige lokale ulykker er vel årsagen til, at kommunerne har afholdt sig fra at insistere på et horisontalt, geografisk områdeansvar. 
+Forebyggelse bør naturligvis altid have første prioritet! Men er ulykken ude, ønsker vi som borgere naturligvis hurtig respons fra 'blå blink' mv. Men uanset om beredskabet anskues fra statslig eller kommunalt hold, så bør rækkefølgen i beredskabets tilrettelæggelse principielt være: 1. fremtidens udfordringer, 2. risikoanalyse, 3. samfundssikkerhed (herunder forebyggelse), 4. beredskabets kommunikationsarkitektur, 5. teknologi.
+Selv om de nye risici ikke respekterer geografiske og funktionelle grænser, så fremgik det af høringen, at beredskabskommunikationen alene defineres i en national ramme, og at Danmark - som eneste land - har valgt en løsning, hvor kommunikationen mellem beredskabets mange parter er funderet i privatejede radiofrekvenser og på et privatejet radionet, som ejes af amerikanske Motorola. 
+Privatejet net
+Hvorvidt det vil være muligt i fremtiden for Danmark at blive integreret i et europæisk beredskabsnetværk, f.eks. med vore svenske naboer, der baserer sit beredskabsnet på åbne interoperable standarder, må stå ubesvaret efter høringen. 
+Har Danmark således været tidligt ude, når det drejede sig om at få afhændet beredskabskommunikationen og lagt den i hænderne på private og med statslige subsidier til etableringen af det Motorola-ejede net, så kunne der alligevel ikke oplyses noget om, hvem der skal samarbejde med hvem og hvordan i fremtidens beredskab, udover at det bliver politiet, som får ledelsen af beredskabsnettet. Dette til trods for, at politireformens nye geografiske inddeling ikke matcher med den nye kommunestruktur. 
+Selvom 112-alarmcentralerne er indgang til hele vort beredskab, så er centralerne slet ikke - trods deres overblik over anvendelse af ressourcer - involveret i overvejelserne i forbindelse med det nye beredskabsnet.
+Og hvad der synes uforståeligt: Ingen af beredskabets eksperter kunne henvise til en eneste by, hvor den nye teknologi fungerer på et skadested. 
+I modsætning til Sverige, hvor kommunernes status forhindrer, at man kan kommandere kommuner ind i et landsnet, så kan den danske stat kommandere kommuner mf. ind i det Motorola-ejede private net. 
+Beredskabskultur?
+Og hvad betyder så den nye teknologi for kulturen i beredskabet? 'Læring' er jo umiddelbart et plus-ord, men er 'læring' pr. definition positiv? Teknologien foregår jo ind i en struktur, der skal understøttes. Og hvordan vil et privatejet net, hvor Motorola har leverandør- og tjenesteydelsesmonopol påvirke beredskabskulturen, når det samtidig betænkes, at politiet sidder for bordenden, og Danmark i øvrigt ikke har nogen overordnet tværgående beredskabsmyndighed?
+Uden politiets bidrag til høringen og med et vedtaget Motorola monopol, hvis muligheder og begrænsninger, der ikke kunne redegøres for på høringen, er mit spørgsmål: Ønsker myndighederne overhovedet rådgivning af Folketinget. 
+Niels Johan Juhl-Nielsen er formand for foreningen af brugerne af Professionel Mobil Radiokommunikation. Han deltog som spørger i Teknologi-rådets høring i december 2007
+

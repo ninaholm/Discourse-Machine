@@ -1,0 +1,13 @@
+Matematik kan redde forsøgsdyr
+Forsøgsdyr verden over kan få en redningsplanke fra matematikkens verden, der kan erstatte forsøg med dyr.
+
+
+ Avancerede matematiske modeller kan simulere de processer, der foregår i menneskekroppen. Det betyder, at et stort antal dyreforsøg nu kan erstattes af matematik, skriver videnskab.dk.
+- Vi er i dag nået så langt, at lægerne kan begynde at bruge resultaterne af vores modeller til beslutningsstøtte i behandling af rigtige patienter.
+Det siger professor i matematik ved Roskilde Universitet, Johnny T. Ottesen, som forsker i at udvikle matematiske modeller af kroppens organsystemer.
+Han har netop modtaget en pris for sin banebrydende forskning, der kan bruges inden for medicinudvikling og test af giftighed. 
+De matematiske modeller over kroppens kredsløb kan give ny viden om almindelige folkesygdomme som hjerte-kar-sygdomme, forhøjet blodtryk, stress, depression eller diabetes.
+- Når man i dag vil udvikle en ny medicin mod depression, kigger man typisk på, om man har et stof, der virker mod nogle former på depression, siger han til videnskab.dk
+Derefter prøves medicinen på dyr for at se, om de dør, om medicinen giver bivirkninger eller ingen effekt har.
+I stedet kan man opstille matematiske ligninger, og man kan undersøge, hvilke konstanter og dermed hvilke mekanisme, der har med depression at gøre. 
+- Det ville måske kræve tusindvis af dyreforsøg at få svar på noget, som én ligning ville kunne give svaret på uden brug af dyr, siger han til videnskab.dk

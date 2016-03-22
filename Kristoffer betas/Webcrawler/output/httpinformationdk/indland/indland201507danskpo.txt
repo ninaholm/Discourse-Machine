@@ -1,0 +1,32 @@
+Dansk politi køber overvågningssystem fra kontroversielt firma
+Lækkede dokumenter afslører, at dansk politi indgår i millionhandel med kontroversielt italiensk overvågningsfirma via en leverandør. Firmaet har også solgt overvågningssystemer til mange diktaturstater, og derfor er det moralsk forkasteligt at købe af dem, mener organisationer
+
+
+ Mens det italienske firma Hacking Team er centrum for en verdensomspændende skandale på grund af salg af overvågningsudstyr til totalitære stater, viser det sig nu, at dansk politi indgår i en millionhandel med firmaet via en leverandør. Det afslører lækkede dokumenter og e-mails, der er blandt tusindvis af filer fra Hacking Team, som søndag blev lækket til offentligheden.
+Millionhandlen er beskrevet i et underskrevet købsforslag mellem Hacking Team og den amerikansk-israelske leverandør NICE Systems. Heri står gentagne gange, at »slutbrugeren« af systemet er »Danish National Police«.
+Aftalen mellem Hacking Team og leverandøren er på mindst 570.000 euro, hvilket svarer til omkring 4,2 millioner danske kroner. Politidirektør Svend Larsen bekræfter, at Rigspolitiet har købt systemet via leverandøren NICE Systems, men siger, at det endnu ikke er leveret. Han vil ikke oplyse, hvor mange penge Rigspolitiet selv har givet for det.
+Profit over etik
+Systemet, som er bestilt til Danmark, hedder Remote Control System, og er stærkt omdiskuteret.
+»Det er en meget effektiv måde at spionere mod hvem som helst, når som helst og hvor som helst. Og så er det en nem ’peg og klik’-løsning, som diktatorer kan få for småpenge,« vurderer Claudio Guarnieri, der er it-sikkerhedsforsker og tilknyttet Centre for Human & Internet Rights i Tyskland.
+Hacking Team har blandt andet solgt dets produkter til lande som Sudan, Bahrain, Kasakhstan og en lang række andre totalitære regimer. Analyser, der blev foretaget før lækagen, har desuden vist, at systemet er blevet brugt mod aktivister og uafhængige journalister.
+På den baggrund kritiserer Privacy International, som er en organisation, der kæmper for retten til privatliv, Danmark og andre europæiske landes køb af produkter fra Hacking Team.
+»Hacking Team har vist, at de er ude af stand til at regulere sig selv, og at de sætter profit over etik. Der bør helt klart sættes spørgsmålstegn ved de europæiske myndigheder, som laver forretning med selskaber, der også sælger til undertrykkende regimer, som rutinemæssigt går efter aktivister, civilsamfundet og journalister,« skriver Edin Omanovic fra Privacy International i en kommentar til Information.
+»Enten har myndighederne i Europa ikke udvist rettidig omhu, eller også valgte de at købe Hacking Teams teknologi på trods af disse problemer,« fortsætter han.
+Jesper Lund, der er formand i IT-Politisk Forening i Danmark, kritiserer ligeledes dansk politi:
+»Hvis man endelig skal købe sådan et system, så må man sikre sig, at firmaet bag holder deres sti ren og kun sælger til ansvarlige regeringer,« siger han.
+Den kritik vil politidirektør Svend Larsen ikke kommentere.
+Læs også: Politidirektør: Alle regler er fulgt
+Inficerer computere
+It-sikkerhedsforskeren Claudio Guarnieri, der har beskæftiget sig med Hacking Teams produkter, forklarer, at det system, som dansk politi har købt, kan inficere en udvalgt computer eller mobil med et program, og at det derefter vil være muligt for politiet at tilgå den via fjernadgang.
+»Man kan sammenligne det med en person, der konstant kigger dig over skulderen,« forklarer han.
+Blandt de lækkede dokumenter fra Hacking Team er også brugsmanualer, der viser, hvordan systemet dermed kan bruges til at tilgå computerens mails, billeder og andre filer. Systemet kan eksempelvis også bruges til at hente optagelser fra computerens webcam og mikrofon, og det kan alt sammen foregå, uden at brugeren af computeren ved det.
+Dansk politi har også købt muligheden for at kunne installere et program på mobiltelefoner, der gør det muligt at tilgå sms’er, kontakter, mails, chat-applikationer og kalenderaftaler på en udvalgt brugers mobiltelefon.
+Men om politiet har købt muligheden for at installere det uden først at have fysisk adgang til telefonen er uklart.
+Politidirektør Svend Larsen understreger, at politiet i Danmark kun vil bruge overvågningsmulighederne med en dommerkendelse, men vil ikke kommentere, hvad systemet konkret kan og ikke kan af hensyn til fremtidigt politiarbejde.
+Han siger desuden, at Remote Control System er en del af et meget større indkøb, der er foregået efter et større udbud, og at valget er faldet på den leverandør, der er bedst og billigst.
+Desuden er alle regler fulgt i forbindelse med købet, understreger han.
+Hacking Teams kommunikationschef, Eric Rabe, vil ikke kommentere på den danske sag. Men i forhold til kritikken fra Privacy International siger han til Information:
+»Vi – og samfundet generelt – er blevet mere opmærksomme på spørgsmål om privatliv de seneste omkring fem år. Så vi har indført firmapolitikker for at forsøge at undgå, at vores software bliver misbrugt. Og vi gør vores bedste for at holde øje med det. Men vi står ikke for de efterforskninger, som myndighederne bruger produkterne til. Så vi må bruge vores sunde fornuft.«
+Læs også: Diktatorernes digitale lejesoldater
+Christian Panton og Jens Christian Hillerup har bidraget med research og teknisk viden til denne artikel.
+

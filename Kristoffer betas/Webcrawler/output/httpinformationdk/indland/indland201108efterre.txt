@@ -1,0 +1,24 @@
+'Selv ikke efterretningstjenester kan knække vores koder'
+Daniel Domscheit-Berg forklarer her, hvorfor han inviterer hackere til at bryde ind i sin nye whistleblower-platform
+
+
+ Hvorfor skal vi stole på Openleaks?
+»Af samme grunde som vi stoler på dem, vi kender: Vi har positive erfaringer med dem, de reagerer åbent og imødekommende på kritiske spørgsmål, og vi kan få alt at vide om deres baggrund. Vi vil ikke blot skabe større gennemsigtighed, vi vil også selv arbejde gennemsigtigt.«
+Betyder det, at I ikke kræver, at folk stoler på Open Leaks, men bare håber på, at folk vil holde øje med projektet?
+»Netop. At vi kan nyde tillid blandt whistleblowere er i sagens natur grundlaget for vores arbejde, men vi kan ikke kræve det af dem. Tværtimod må vi selv gøre noget, for at indgyde tillid. Nogen vil nok altid være skeptiske. Vi vil ikke den løsning, alle bruger og hjælper gerne andre webportaler, som har samme mål, som vi. Jo flere platforme, whistleblowere har at henvende sig til, jo bedre.«
+I åbner nu for jeres Open Leaks-indberetnings-platform i første omgang for en begrænset prøveperiode. Hvad vil I opnå med det?
+»Vi opfordrer hackere og brugere til at teste vores system. Alle kan kigge på Open Leaks i fem dage og gøre forsøg på at hacke platformen, ødelægge den, eller hvad det skal være. Meningen med stresstesten er at give os nye viden om, hvordan vi kan sikre systemet endnu bedre. Eller ideelt set: konstatere, at selv efter fem dages konstant bombardement er systemet sikkert nok.«
+Vil I placere hemmelige filer i de mailboxe, I beder hackere om at angribe?
+»Jeg vil helt sikkert lægge noget i vores mailboxe. Rent praktisk forudser jeg heller ikke problemer for whistleblowere. Hvert dokument bliver med det samme låst med en kode, som end ikke en efterretningstjeneste kan knække. Den digitale nøgle, man skal have for at læse filen, findes heller ikke på vore servere. Det betyder, at selv hvis en hacker skulle få adgang til en af de uploadede filer, så vil hun ikke være i stand til at åbne den.«
+Hvorved adskiller Open Leaks sig fra Wikileaks?
+»På open Leaks bliver en informant ikke ført til et centralt websted, hvor hun så uploader sine dokumenter og herefter skal vente på, at Wikileaks evaluerer dem, færdigovervejer, om de har tid til at finde nogen, der kan gå dybere ind dem, vurderer dem i forhold til politisk vigtighed osv. Wikileaks er for centraliseret. Når det fungerer og det gjorde det opstår der massive flaskehalse i processen med at modtage og publicere dokumenter.«
+Hvordan undgår i det problem?
+»På vores site har informanten flere valg, når hun skal beslutte, hvad der skal ske med materialet f.eks. give det til en foretrukken partner, det kunne være en avis, hun stoler på eller, som hun ved, har de nødvendige ressourcer for at arbejde videre med det. I modsætning til Wikileaks publicerer Open Leaks ikke dokumenter. Hvordan dokumenterne bedst når frem til offentligheden, og der bedst følges op på deres informationer, om de skal holdes hemmeligt af beskyttelseshensyn, hvordan de skal redigeres osv. alle disse spørgsmål overlader vi til folk, der arbejder med professionelt med dem f.eks. journalister.
+Hvad nu hvis journalisterne siger: De dokumenter må absolut ikke offentliggøres, da det kan bringe menneskeliv i fare? Har Open Leaks en metode til at låse et dokument imod kildens vilje?
+»Vi har ikke fundet det endelige svar på dét spørgsmål. Vi er i testfasen i gang med at udarbejde en intern evalueringsproces, så vi kan agere ansvarsfuldt i sådanne tilfælde.«
+Kan alle være med i Open Leaks?
+»Vi opfatter os selv som en politisk neutral organisation. Vi er ikke journalister, men tekniske serviceudbydere, som garanterer en sikker overførsel af data.«
+Er højrepopulister velkomne som partnere?
+»Politiske partier kan ikke blive partnere hos Open Leaks. Og jeg kan forsikre for, at vi endnu ikke har modtaget henvendelser fra ekstremistgrupper.«
+© Der Freitag og Information. Oversat af Niels Ivar Larsen
+

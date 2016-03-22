@@ -1,0 +1,19 @@
+Fortjent sejr til Aronian
+Verdenstoeren var bedst i Wijk aan Zee
+
+
+ Med en remis i løbet af blot 12 træk sikrede Levon Aronian sig i 13. og sidste runde af superturneringen i Wijk aan Zee en udelt førsteplads. Og det var en uhyre fortjent en af slagsen. Aronian spillede opfindsomt og aggressivt hele turneringen igennem, og det siger en del om hans præstation, at han kunne tillade sig at tabe til verdensetteren Magnus Carlsen og - ulige mere overraskende - til tjekken David Navarra og alligevel have luft til forfølgerne i denne slutstilling:
+1. Aronian, Armenien, 9 p. 2.-4. Carlsen, Norge, Radjabov, Aserbajdsjan, og Caruana, Italien, alle 8 p. 4.5., Ivanchuk, Ukraine, og Nakamura, USA, begge 7,5 p. 7. Kamsky, USA, 7 p. 8. Karjakin, Rusland, 6,5 p 9. Van Wely, Holland, 5,5 p. 10-12. Gelfand, Israel, Topalov, Bulgarien, og Gashimov, Aserbajdsjan, alle 5 p. 13.-14. Giri, Holland, og Navara, Tjekkiet, begge 4,5 p.
+Aronian vandt hele syv partier, så der er nok at vælge imellem. Vi tager det fra 10. runde, hvor han som sort i tidnødsfasen udspillede det hollandske håb, teenageren Anish Giri:
+1.d4 d5 2.c4 e6 3.Sc3 Le7 4.Sf3 Sf6 5.Lf4 0—0 6.e3 Sbd7 7.Le2 dxc4 8.0—0 Sb6 9.Dc2 Sh5 10.Le5 f6 11.Sg5 fxg5 12.Lxh5 Ld7 13.Lf3 Txf3!?
+Sort giver en kvalitet, men får masser af kompensation. 14.gxf3 Ld6 15.De4 Lc6 16.Dg4 De7 17.Lxd6 cxd6 18.Se4 h6 19.Dg3 d5 20.Sc3 Tf8 21.Se2 Tf5 22.Kg2 Sd7 23.Th1 Sf8 24.h4 Sg6 25.f4 Sxh4+ 26.Kf1 Db4 27.Tb1 Le8 28.Sc3 De7 29.b4 Tf8 30.Tb2 Lg6 31.Ke1 Ld3 32.fxg5 Sf3+ 33.Kd1 hxg5 34.Dh3 Df6 35.Kc1 Lg6 36.a4 Td8 37.Se2 e5!
+Åbner sluserne ned mod den hvide konge.
+38.Dg4 exd4 39.exd4 Te8 40.Dd7 c3 41.Ta2 Se1!
+Smart spillet af armenieren.
+42.Txe1 Df4+ ...
+Se diagrammet.
+Sorts sidste træk er dræber. For slår Giri dronningen, bliver han jo sat mat på e1.
+43.Kd1 De4 ...
+Og her opgav hvid. Med et tårn i overskud, men med en tabt stilling. Sorts hovedtrussel er Db1+ - det kan hvid ikke stille noget op imod.
+Carlsen spillede ’lige op’ og fører stadig den såkaldte liverating-liste med 2837, men Aronian ånder ham nu i nakken med 2824.
+

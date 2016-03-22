@@ -1,0 +1,15 @@
+Ekamenssnyd kan afsløres
+
+
+
+ Folkeskolens elektroniske afgangsprøve kan hackes. Det fastslår Hacklab, en gruppe københavnske it-entusiaster, over for it-nyhedsmediet Version2. Hacklab fandt i går et hul i sikkerheden på demonstrationstesten af prøverne i biologi og geografi, der afvikles i dag og i morgen.
+ - Det tog cirka en halv time at finde hullet, og derefter brugte vi halvanden time på at implementere et hack, der virkede i både Internet Explorer og Firefox, siger en anonym talsperson fra Hacklab til Version2.
+ Testen er lavet sådan, at svarene godkendes på elevens egen computer, og er man lidt ferm til at læse koder, kan man ifølge Hacklab aflure 80 procent af besvarelserne.
+Men Skolestyrelsen, som har ansvaret for eksaminerne, er ikke urolige, men advarer i stedet mod snyd. 
+ - Det, vi kan sige, er, at det er forbudt at snyde. Vi har mulighed for at afsløre snyd, fordi leverandøren overvåger systemet og kan identificere dem, som har snydt, fordi der føres logbog over dem. Hver elev er logget ind med et individuelt id, som kan spores. Hvis det kan bevises, at man har snydt, bliver man bortvist fra prøven, siger Tine Bak, kontorchef i Skolestyrelsen.
+ Hun mener ikke, at eleverne kan have forberedt sig på at hacke hjemmefra, fordi prøven først kan tilgås, når man sidder i eksamenslokalet.
+ Hacklab gjorde tidligere opmærksom på, at gruppen ikke var sikker på, hvorvidt den egentlige eksamen ville indeholde samme fejl som testversionen. Dog er Version2 kl. 12.25 i dag blevet kontaktet af Hacklab med denne meddelelse: - Det medlem, du talte med, har nu netop taget prøven. Alle opgaverne var af typer, man kunne snyde med, og systemet var det samme.
+ Skolestyrelsen er i gang med at undersøge sagen.
+ - Vi har besluttet, at vi ikke vil presse leverandøren lige nu, fordi prøverne er i fuld gang med at blive afviklet. Men vi afventer svar fra leverandøren, før vi kan sige noget om, hvorvidt der er hul i sikkerheden.
+Hacklab opfordrer myndighederne til at passe bedre på en anden gang.
+ - Næste gang bør der sættes flere ressurser af til at teste systemet igennem, inden det sendes ud, siger talspersonen fra Hacklab.

@@ -1,0 +1,11 @@
+Informations skolepanel
+Information inviterer læserne til at spille en aktiv rolle, når vi i de kommende måneder sætter fokus på folkeskolen. Nye undersøgelser viser, at stadig flere fravælger folkeskolen til fordel for fri- og privatskoler, og det stiller en række spørgsmål: Hvad vil vi egentligt med folkeskolen, og har vi overhovedet brug for en folkeskole for alle? Vi åbner op og inviterer jer til at bidrage aktivt i vores dækning.
+
+
+ Når folkeskolen i 2014 fejrer sit 200 års jubilæum er det måske ikke længere som en af samfundets bærende institutioner, der bygger bro mellem sociale klasser og kulturelle skel. Folkeskolen er en institution under pres fra manglende opbakning, finansiering og hyppige strategiske skift fra det politiske niveau. Men er det overhovedet et problem, og er tiden løbet fra en folkeskole for alle?
+Information sætter i de kommende måneder fokus på folkeskolen og runder både de moralske dilemmaer i skolevalget, den kommende skolereform, distriktsændringer i København samt indsatsen for at styrke kvaliteten i undervisningen og opbakningen i den brede befolkning. 
+Vi har inviteret Blågård Skole på Nørrebro i København, miljøet omkring skolen, forældreorganisationen Brug Folkeskolen og Anne Vang, borgmester for Børn- og Ungeforvaltningen i København, ind i debatten og inviterer nu alle læsere, der har en aktiv interesse i folkeskolen til at deltage aktivt.
+Meld dig i Informations skolepanel, og styrk debatten om folkeskolens fremtid ved at byde ind med ideer til artikler og opinionsindlæg og bidrag med dine erfaringer med og viden om folkeskolen som lærer, forældre, forsker, elev eller bare alment interesseret.
+Oplysningerne behandles fortroligt af redaktionen og er ikke tilgængelige for andre. Oplysningerne er ikke til citat eller anden journalistisk brug uden jeres godkendelse.
+  _podioWebForm.render("155335")
+

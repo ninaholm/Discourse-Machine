@@ -1,0 +1,19 @@
+Minister imødekommer kritik i sag om persondata
+Sikkerhedskravene skal præciseres, lover fungerende sundhedsminister Pia Olsen Dyhr i sag om kommuners adgang til personfølsomme sundhedsoplysninger om borgerne
+Både Etisk Råd, Lægeforeningen, Danske Regioner og flere andre organisationer har kritiseret, at man vil give kommuner adgang til oplysninger om borgernes sundhedstilstand. Sundhedministeren lover nu at imødekomme kritikken.
+
+
+ »Jeg kan allerede nu sige, at flere af forslagene til præcisering af sikkerhedskravene vil blive indarbejdet i den endelige bekendtgørelse,« skriver fungerende sundhedsminister Pia Olsen Dyhr (SF) i en mail til Information.
+Det sker efter avisens omtale af den kritik, som bl.a. Datatilsynet, Lægeforeningen, Forbrugerrådet og Etisk Råd har rettet mod Sundhedsministeriets udkast til en bekendtgørelse om kommuners og regioners adgang til sundhedsoplysninger på cpr-niveau om alle landets borgere.
+Datatilsynet spurgte bl.a., hvilke registre der præcis er tale om, og om de er anmeldt til Datatilsynet.
+»Det indgår vi nu i en dialog med Datatilsynet om,« fortsætter mailen fra Pia Olsen Dyhr.
+Hun oplyser desuden, at Sundhedsministeriet ikke er færdig med at behandle høringssvarene.
+’Målrettet planlægning’
+Et af de registre, som den kommende bekendtgørelse vil åbne for adgang til, er helt nyt og hedder ’KØS adm’ med binavnet: Kommunaløkonomisk Sundhedsinformationsgrundlag.
+En anmeldelse af KØS adm-databasen er ifølge Sundhedsministeriet sendt til Datatilsynet i december sidste år, og den 7. februar har Datatilsynet kvitteret.
+Ifølge anmeldelsen kommer oplysningerne i KØS adm-databasen fra mange forskellige kilder, bl.a. sygehusenes systemer, registreringer i praksissektoren, sundheds- og plejeoplysninger fra de kommunale systemer foruden »sundhedsoplysninger i registre varetaget af de centrale sundhedsmyndigheder«.
+Konkret er der tale om cpr-nummer, bopæl, kode for behandlende sygehus, afdelingsafsnit, indlæggelses-, behandlings- og udskrivningsoplysninger samt ydelser fra de privatpraktiserende læger i forbindelse med indlæggelsen.
+Desuden skal oplysninger om kommunale sundhedsydelser fra sundhedsplejersker, hjemmehjælp og hjemmesygepleje, forbyggende hjemmebesøg herunder oplysninger om visiteret tid, start- og sluttidspunkter, antal leverede besøg osv. overføres til KØS adm.
+Oplysningerne skal ikke bruges i forbindelse med konkret behandling af de berørte borgere.
+Som Pia Olsen Dyhr skriver til Information, skal de give kommuner og regioner »mulighed for at foretage en bedre og mere målrettet planlægning af sundhedsindsatsen til gavn for patienterne.«
+

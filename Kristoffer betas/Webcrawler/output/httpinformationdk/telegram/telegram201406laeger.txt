@@ -1,0 +1,14 @@
+Læger: Giv ikke sundhedsdata til private virksomheder
+Private virksomheder skal ikke have adgang til danskernes sundhedsdata, siger formanden for Lægeforeningen.
+
+
+ Danskernes personlige helbredsoplysninger skal ikke havne i hænderne hos private virksomheder.
+Sådan siger formanden for Lægeforeningen, Mads Koch Hansen efter at Berlingske mandag kunne berette, at Statens Serum Institut hvert år udtrækker millioner af personlige helbredsoplysninger, som bliver givet til forskningsprojekter og private firmaer.
+- Vi ser den naturlige samarbejdspartner som enten at være et sygehus, en specifik læge eller et forskningsinstitut, der sammen med et privat firma kan udøve forskningen. Det med bare at give personhenførbare sundhedsdata til private firmaer er ikke vejen frem, siger han.
+Ifølge Lægeforeningens formand er det dog i orden, at de personlige oplysninger bliver givet til forskningsprojekter baseret på registre.
+- Det er en særdeles vigtig kilde til årsagssammenhænge. For eksempel hvis man kigger på om der er en sammenhæng mellem mobiltelefoni og kræft. Det kan man kun se via statistisk forskning.
+ - Og kun få steder i verden kan man kombinere oplysninger, som man kan i Danmark på grund af vores cpr-register, siger Mads Koch Hansen.
+Men også selve udleveringen af helbredsoplysninger til forskningsprojekterne til private firmaer skal der laves om på, mener Mads Koch Hansen.
+- Hvis man skal udlevere data, så skal det ikke være personhenførbare data, men krypterede data. Det vil sige, at man fjerner cpr-nummer og navn, sådan at kun i det omfang, det er nødvendigt, bruger man cpr-numrene til at koble oplysningerne sammen. Så fjerner man cpr-numrene bagefter.
+- Man kan godt forske på data, uden at vide hvem personerne er. Hvis der skal følges op på nogle oplysninger, så skal det være en læge, som patienten jo typisk kender, der kontakter patienten, siger Mads Koch Hansen.
+De udleverede oplysninger kommer fra forskellige registre som Cancerregistret og Abortregistret, og i flere tilfælde bliver CPR-numre altså også udleveret.

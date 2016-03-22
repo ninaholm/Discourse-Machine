@@ -1,0 +1,47 @@
+Snowdens afsløringer vil forandre internettet
+Chokket over det massive omfang af NSA’s overvågnings-operationer har skabt massiv efterspørgsel efter sikre kommunikations-kanaler – det er kun et spørgsmål om tid, før markedet og andre stater vil imødekomme den
+
+
+ 
+	Edward Snowden ser indtil videre ud til at kunne unddrage sig amerikansk ’retfærdighed’. At han har indskrevet sig i historien som den mest effektive whistleblower nogensinde, er uomtvisteligt. Lige så sikkert er det, at hans afsløringer vil komme til at medføre en omfattende omstrukturering af verdens vigtigste kommunikationssystem: internettet. Det – i højere grad end hans opholdssted og videre skæbne – er nu den store historie.
+
+	Den 8. august besluttede Lavabit, en e-mail-udbyder med base i USA, at lukke. Det skete, fordi NSA havde begæret samme adgang til Lavabits kunde-e-mails, som den amerikanske spiontjeneste allerede havde krævet af internetvirksomheder som Google, Facebook, Yahoo, Amazon og Microsoft.
+
+	Virksomhedens ejer, Ladar Levison, blev også pålagt at holde NSA’s begæring hemmelig, men ikke desto mindre skrev han til sine kunder:
+
+	»Jeg er blevet stillet over for et vanskeligt valg: enten at gøre mig selv til medskyldig i forbrydelser mod det amerikanske folk eller opgive frugterne af ti års hårdt arbejde og lukke Lavabit. Jeg vil fraråde enhver at betro private data til virksomheder med fysisk tilknytning til USA.«
+
+	Jon Callas, direktør for Silent Circle, en anden krypteret e-mail service, valgte også at lukke, fordi han ikke længere kunne garantere beskyttelse af sine kunders data.
+
+	I sin konklusion gik han endnu videre. »E-mail-kommunikation efter normale internet-protokoller (...) kan i dag ikke længere regnes for sikker,« skrev han.
+
+	Kortlægger hele dit netværk
+
+	NSA’s masseovervågning giver ikke blot USA’s regering adgang til alt, hvad amerikanere meddeler hinanden. Den ødelægger også privatlivsbeskyttelsen for alle andre, eftersom den gængse standard for internet routing-protokoller betyder, at kommunikationsstrømme ikke følger den korteste afstand, men altid tager den rute, der til hver en tid er hurtigst og mindst overbelastet. Det vil som oftest sige: en rute, der går over amerikanske forbindelser. Derved ryger trafikken direkte i hænderne på NSA.
+
+	»Der er alene tale om metadata, der ikke afslører indhold. Tro nu ikke, at NSA sidder og aflytter alle vores mobilopkald eller læser med i vores e-mailkorrespondance,« lyder nu budskabet fra senator Dianne Feinstein, formand for Senatets efterretningsudvalg.
+
+	Nej, selvfølgelig aflytter og læser NSA ikke milliarder af opkald og mails. Maskiner kan ikke aflytte og aflæse, og hvem har ressourcer til at sætte mennesker til det? Men maskinerne kan bruge metadata som opkaldstlister til at identificere alle, du nogensinde har talt med, og alle, som de nogensinde har talt med osv., osv.
+
+	Hvis en afde mange amerikanere, der har talt med nogen i udlandet med et muslimsk navn (eller med en person, der arbejder for Siemens, Samsung og andre væsentlige industrielle konkurrenter til USA), kan NSA hurtigt fatte interesse for vedkommende og iværksætte en mere målrettet overvågning.
+
+	Markedet som problemknuser
+
+	Foreign Intelligence Surveillance Court, den hemmelige efterretningdomstol, der tager stilling til NSA’s overvåningsbegæringer, har siden 2001 modtaget 20.919 af disse – og afvist så få som ti. Derudover har FISC også udstedt generelle autorisationer, som i mange tilfælde betyder, at NSA slet ikke behøver at få en særskilt retskendelse. Og er man ikke amerikansk statsborger eller bosat i Amerika, må man under alle omstændigheder kalkulere med at kunne være jaget vildt hele året rundt.
+
+	De fleste amerikanere ser ud til at kunne leve med det, hypnotiserede som de er af al det postyr omkring en eller anden enorm terrortrussel, som sikkerhedsbaronerne ivrigt spiller på for at retfærdiggøre de endeløse udvidelser af deres imperium (som nu tæller næsten en million medarbejdere). En nylig meningsmåling fra Pew Research Centre viser således, at 62 procent af amerikanerne finder ’terrorbekæmpelse’ vigtigere end privatlivets fred.
+
+	Men hører du til det store flertal af internetbrugere, der ikke er amerikanere, ikke lever i evig angst for terrorkomplotter og må undvære selv amerikaneres rudimentære retsbeskyttelse mod NSA-overvågning, vil du garanteret ønske, at der var måder, hvorpå du kunne slippe for at blive udspioneret. Fat mod! Det må nu betragtes som givet, at ’markedskræfterne’ eller andre regeringer er på vej til at udvikle den slags teknologier.
+
+	Det, der er brug for, er, at de lande, hvor spiontjenesterne ikke er kommet helt ud af kontrol, investerer i internettet, så datastrømmene går uden om USA. For ikkeamerikanere vil det herefter blive et spørgsmål om at koble sig på en af de mange nye servere, der vil dukke opfor at imødekomme den voldsomt stigende efterspørgsel efter sikre internettjenester.
+
+	Finske internetservere lægger allerede stor vægt på sikkerhed. Og Tyskland, hvis historiske erfaringer med Gestapo og Stasi har affødt en instinktiv modvilje mod NSA-spionage, kunne tænkes at tage føringen inden for opbygningen af ikke-amerikansk internetkapacitet. Det kunne også være store lande som Brasilien og Indien, der er mindre sårbare over for amerikansk pres. Under alle omstændigheder er det en enorm markedsmulighed. Og det er kun en spørgsmål om tid, før den vil blive udnyttet.
+
+	Taberne bliver de store amerikanske internetudbydere, der vil sande, at stedse færre kunder vil ønske at gemme data i de amerikanske ’cloud’-tjenester.
+
+	Som Jennifer Granick fra Stanford Law School Center for Internet and Society udtrykker det: »USA opfandt internettet, og vores internetvirksomheder erdominerende på verdensplan. Men i sin iver efter at udspionere alt og alle kan USA’s statsmagt ende med at tage livet af vores mest produktive industri.«
+
+© Gwynne Dyer og Information
+
+Oversat af Niels Ivar Larsen
+

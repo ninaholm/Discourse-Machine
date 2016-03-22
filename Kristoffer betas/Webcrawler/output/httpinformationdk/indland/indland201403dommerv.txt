@@ -1,0 +1,35 @@
+Dommer: ’Jeg ved ikke helt, hvad en krypteret container er’
+Oplysninger skaffet af svensk politi fra en krypteret harddisk, og hvem der gemmer sig bag chatnavnene ‘Advanced Persistent Terrorist Threat’ og ‘My Evil Twin’ er omdrejningspunkterne for en stor, dansk hackersag
+
+
+ 
+	Fy for satan! Føj!« udbryder en tilhører, inden han rejser sig og forlader Retten på Frederiksberg. Dommeren har netop truffet afgørelse om at forlænge varetægtsfængslingen af den 29-årige mistænkte hacker Gottfrid Svartholm Warg i endnu fire uger.
+
+LÆS: Landsret åbner dørene i stor hackersag
+
+	Svenskeren er mistænkt for i starten af 2012 at bryde ind i centrale systemer hos virksomheden CSC og kopiere det danske kørekortregister samt oplysninger fra Schengen-registret. Det var første gang, at offentligheden fik adgang til at få indsigt i begrundelserne for at opretholde varetægtsfængslingen, da alle andre retsmøder er blevet holdt bag lukkede døre. Anklager Maria Cingari forklarede først, at det centrale bevismateriale drejer sig om politiets adgang til chatsamtaler mellem brugerne ‘My Evil Twin’ (som politiet mener er Gottfrid Svartholm Warg) og ‘Advanced Persistent Terrorist Threat’ (som politiet mener er en 20-årig sigtet dansker). Ifølge anklageren startede angrebet mod CSC kort efter, at oplysninger blev udvekslet mellem de to brugere. Udover chatloggen argumenterede anklageren for, at beviser fundet på en Macbook hos Warg bestyrker mistanken mod svenskeren. På computeren er der i den samme krypterede container - en krypteret del af harddisken - fundet oplysninger fra både CSC-hacket og personlige dokumenter tilhørende Warg.
+
+	»Det forhold, at der er fundet personlige dokumenter i den krypterede container, bestyrker mistanken mod Warg,« sagde Maria Cingari i retten og argumenterede for, at Warg på fri fod ville kunne obstruere den yderligere efterforskning af sagen - særligt materiale som politiet mener befinder sig i blandt andet Iran og Cambodia:
+
+	»Warg kan slette oplysninger på servere i udlandet. Politiet kan ikke finde ud af, hvor de er. Man leder stadig efter de spor, og der skal ikke gives mulighed for at slette dem,« sagde Cingari.
+
+	Et argument, der ifølge Wargs forsvarer Luise Høj ikke er holdbart, da svenskeren allerede, mens han sad fængslet i Sverige, havde uovervågede besøg og derfor mulighed for at få slettet bevismateriale, hvis han havde ønsket det.
+
+	»Han har haft fri adgang til familie og venner. Han har ikke noget ønske om at slette oplysninger, og hvis han havde, så var det nok allerede sket. Politiet har haft halvandet år til at finde det, og der er intet der tyder på, at de vil finde det nu,« sagde hun.
+
+	Det centrale stridspunkt handler om bevisførelsen for, at Warg og den 20-årige dansker er identiske med de to chatnicksw. En bevisførelse som det ifølge forsvareren ikke er lykkedes dansk politi at komme nogen vegne med, siden de fik udleveret bevismaterialet fra de svenske myndigheder:
+
+	»Hvad er det egentlig, der hænger min klient op på den chatlog? Der er ikke noget i den chatlog, der godtgør, at han skulle være My Evil Twin,« sagde Luise Høj.
+
+	En Mærsk-agtig container
+
+	Hun fremhævede, at Warg nægter sig skyldig i påstandene, da han hævder, at hans computer er blevet fjernstyret til at udføre angrebet via internettet. En argumentation, der fik ham frikendt for et angreb på Nordea i Sverige, som ifølge forsvareren i teknisk udførsel minder om angrebet på CSC i Danmark. Angrebet på Nordea som han blev frikendt for, var der også beviser for i den samme krypterede container, som nu er hele omdrejningspunktet i den danske sag. Forsvarets argumenter gjorde ikke det store indtryk på dommeren, der mente, at der både var grund til at tro, at Warg ville slette beviser og flygte ud af landet, hvis han blev løsladt.
+
+	»Jeg ved ikke helt, hvad en krypteret container er, men jeg forestiller mig sådan en Mærsk-agtig container med en krypteret lås på,« sagde dommeren, forlængede varetægtsfængslingen og sikrede sig derme dagens Twitter-berømmelse.
+
+	Forsvarer Luise Høj er skuffet over afgørelsen, men ikke overrasket over at dommeren valgte at forlænge fængslingen.
+
+	»Der er nærmest ikke sket noget siden grundlovsforhøret. De tekniske rapporter handler om alt det, der er sket på CSC. Men eftersom, at vi ikke mener, det er min klient, der står bag indtrængningen, så er det ikke noget, der handler om min klients skyld,« siger Luise Høj til Information.
+
+LÆS: Danmarkshistoriens største hackersag skal afgøres til september
+

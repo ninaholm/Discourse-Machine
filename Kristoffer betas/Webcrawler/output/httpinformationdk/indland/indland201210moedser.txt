@@ -1,0 +1,21 @@
+Mød seriens hovedpersoner
+I de næste måneder følge information.dk livet på Blågård Skole. Ikke fordi skolen har særlige problemer, men fordi Blågård Skolen er et godt eksempel på den danske folkeskoles mange udfordringer. Københavns Kommune forsøger at vende udviklingen på Blågård Skole ved at ændre på skoledistriktet og gøre skolen til en såkaldt profilskole – vi vil i den kommende tid se, hvad det gør ved skolen, ved eleverne, forældrene og lærerne.
+
+
+ I de næste måneder følge information.dk livet på Blågård Skole. Ikke fordi skolen har særlige problemer, men fordi Blågård Skolen er et godt eksempel på den danske folkeskoles mange udfordringer. Københavns Kommune forsøger at vende udviklingen på Blågård Skole ved at ændre på skoledistriktet og gøre skolen til en såkaldt profilskole – vi vil i den kommende tid se, hvad det gør ved skolen, ved eleverne, forældrene og lærerne.
+Vi vil følge livet på Blågård Skole gennem fire hovedpersoner.
+Du kan møde to af dem allerede i dag:
+Jesper Kristensen, medlem af bestyrelsen
+Jesper Kristensen er far til fire og medlem af skolebestyrelsen på Blågård Skole. Sammen med andre forældre besøger han kvarterets børnehaver for at vende skolens ry:
+”Når man har været på skolen i nogle år, lærer man forældrene at kende på kryds og tværs. Man får en følelsesmæssig tilknytning til skolen, så når nogle udtaler sig grimt om skolen, bliver jeg personligt indigneret. Du skal ikke komme og tale sådan om min skole. Du ved ikke hvad du snakker om. Opfør dig ordentligt”.
+Elsebeth Hagen, forælder
+33 år, cand.scient.pol, arbejder i Styrelsen for Forskning og Innovation. Mor til Anna på 2 år Bastian på 5 ½ år, der netop er startet i 0.b på Blågård Skole. Bor på Nørrebro med sin mand Jens Juul, der er fotograf og billedkunstner.
+»Jeg har da også været påvirket af debatterne og tænkt, om jeg er en frygtelig mor, som gør mine børn til sociale eksperimenter? Sætter jeg deres fremtid på spil ved at have en holdning til det her? Det tror jeg ikke.«
+Pia Madsen, skoleleder
+Skoleleder ved Blågård Skole, nyansat fra marts 2012 efter gode resultater som skoleleder på Nyboder Skole.
+»Jeg er helt blown away af Pia Madsen. Jeg føler, at der med hende er nogle store vinger, som tager sig af alle de små kyllinger. Hun er en dame med spark i,« fortæller Elsebeth Hagen, mor til Bastian i 0.b.
+9. klasse + Krista Clausen, klasselærer
+Klasselærer for 9.b og koordinator for Blågård Skoles nye profilskolesatsning, hvor omdrejningspunktet er kommunikation og medier. Det betyder opgradering af IT-udstyret, engelsk fra 1. klasse og at eleverne lærer at formidle gennem grafisk design, foto, radio, journalistik, teater, dans, sport, billedkunst.
+ Spørgsmål? Ideer! Skriv til folkeskolen@information.dk
+#next_pages_container { width: 5px; hight: 5px; position: absolute; top: -100px; left: -100px; z-index: 2147483647 !important; }
+

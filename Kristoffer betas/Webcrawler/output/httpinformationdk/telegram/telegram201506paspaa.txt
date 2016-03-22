@@ -1,0 +1,14 @@
+Pas på ukendte wi-fi-netværk, når du sommersurfer
+Find ud af, hvem der står bag wi-fi-netværket, før du logger på, lyder rådet fra it-sikkerhedsekspert.
+
+
+ Med sommeren i vente bevæger mange danskere sig fra dagligstuens trygge internetrammer til udenlandske caféers usikre og måske falske wi-fi.
+Og det kan koste dyrt at hoppe på et netværk, som man ikke ved, hvem der står bag. Det kan nemlig være kriminelle, der er ude på at stjæle data fra dig, advarer Bo Skeel fra it-sikkerhedsfirmaet Bitdefender.
+ - Vi ser hvert år eksempler på, at hackere er koblet på disse offentlige netværk eller endda opretter et netværk til lejligheden med et tillokkende navn og blot sidder og venter på, at en person med en sårbar, ubeskyttet enhed logger på, siger Bo Skeel.
+- Det er altid vigtigt at bruge sin sunde fornuft, inden man på sommerferien logger på det første og bedste wi-fi, man kommer forbi i lufthavnen, stranden eller hotellobbyen.
+Ifølge Bo Skeel er det nemt at oprette og overvåge et netværk og infiltrere en telefon eller computer.
+- Det er meget nemt at lave et falsk netværk. Alle kan lave et falsk netværk med deres egen telefon og kalde det "Free Wi-fi" i stedet for "Ibs iPhone", siger han.
+Især ransomware-angreb er begyndt at blive udbredt, og Bo Skeel fortæller, at fire ud af ti angreb på Android-telefoner er ransomware, hvor hackeren holder din telefon som gidsel i bytte for en løsesum.
+- Ransomware går ud på at stjæle din telefon, uden at den fysisk er stjålet. Det er en malware, der inficerer telefonen og napper billeder og dokumenter eller låser hele telefonen, og derefter beder om penge.
+- Giver du dem ikke pengene, så står du med en ubrugelig telefon. De viser en besked direkte på telefonen, der forklarer hvordan du overfører pengene, siger Bo Skeel.
+Også programmer, der kan bruges til ransomware-angreb, er nemme at få fingrene i og kan downloades gratis på nettet. Bo Skeel råder blandt andet til, at man spørger en ansat på caféen eller hotellet om det præcise navn på netværket.

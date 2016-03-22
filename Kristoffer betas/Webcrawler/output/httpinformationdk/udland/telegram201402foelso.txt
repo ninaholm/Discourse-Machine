@@ -1,0 +1,16 @@
+Følsomme dankort-oplysninger kan havne i udlandet
+Politikere og Finansforbundet er bekymret for datasikkerheden, netop som dankort-ejeren Nets kan blive solgt.
+
+
+ Der er god grund til at tænke sig om, før Nets, der står bag dankortet, betalingsservice og NemID, får mulighed for at rykke servere med store mængder personfølsomme oplysninger til udlandet.
+Nets er i gang med at blive solgt, men den nuværende lovgivning kan ikke forhindre, at serverne bliver flyttet til lande, hvor myndighedskontrol bliver svær. Og det kan gå ud over datasikkerheden, skriver Berlingske.
+- Der er grund til at være bekymret. Det bliver ikke nødvendigvis mindre sikkert af, at serverne står i Tyskland, men man skal tænke sig om.
+- Jo længere væk den server kommer, jo sværere er det for Danmark at føre opsyn med den, siger professor Lars Ramkilde Knudsen fra DTU, der er ekspert i kryptologi og it-sikkerhed, til Berlingske.
+Michael Budolfsen, der næstformand i Finansforbundet, er også bekymret, og han opfordrer politikere til at sørge for, at der bliver taget hånd om problematikken i salgsbetingelserne.
+Han peger på, at hvis de danske data ryger til USA, vil efterretningstjenesten NSA få uhindret adgang til dem.
+Nets har allerede servere i Norden og i Estland. Men Nets kan også outsource til andre lande, hvis der bliver EU-standardkontrakt med den underleverandør, der skal styre datalageret.
+I Folketinget vækker oplysningerne bekymring på tværs af partierne, skriver Berlingske.
+Og Dansk Folkepartis it-ordfører, Dennis Flydtkjær, vil tage sagen op med erhvervs- og vækstminister Henrik Sass Larsen (S) ved et allerede indkaldt samråd omkring Nets-salget.
+Danskerne skal dog ikke "frygte misbrug af følsomme data", siger Henrik Sass Larsen til Berlingske.
+Nets er allerede et privat selskab, som hovedsageligt ejes af norske og danske banker. Danmarks Nationalbank ejer knap ti procent af selskabet.
+Myndighedsopgaven med at overvåge betalingsformidlingen i Danmark ligger hos Nationalbanken. Og ifølge Nationalbanken er det ikke nødvendigt for banken at eje en del af Nets for at overvåge betalingsformen i Danmark.

@@ -1,0 +1,47 @@
+Nyt dataangreb lukker ned for Wikileaks
+Det kontroversielle WikiLeaks, er ikke længere tilgængelig, fordi netstedets datavært har lukket for serveren
+
+
+ WikiLeaks afsløringer af kompromitterende, hemmeligstemplede telegrammer fra den amerikanske udenrigstjeneste er ikke længere tilgængelige. Everydns.net, der er hovedvært for det kontroversielle netsted, har fredag morgen lukket for serveren.
+"Domænet wikileaks.org er blevet slukket af det amerikanske everydns.net efter påståede masseangreb, skriver det sociale netværk Twitter, ifølge den svenske avis Aftonbladet.
+- Jeg har fået indikationer af, at det handler om et såkaldt DDOS-angreb. Det betyder, at serveren druknes i anmodninger om ikke at udlevere informationer, siger Joakim von Braun, der er it-ekspert og sikkerhedsrådgiver for Aftonbladet. Han tilføjer:
+- Det betyder, at serverne bliver overbelastede, så de ikke kan udlevere informationer. Det er ikke første gang, at WikiLeaks udsættes for angreb. Senest i tirsdags var netstedet udsat for et it-angreb, og organisationens hjemmeside blev ramt i store dele af Europa og USA.
+Han siger til avisen, at det også var et DDOS-angreb. Desuden skal WikiLeaks også have været ramt af et angreb søndag.
+- Det er gået i bølger i løbet af ugen, og fra tid til anden har det været vanskeligt at komme ind på WikiLeaks' server. Når det sker, giver det problemer for leverandøren, og det kan så give problemer for hele virksomheden og dens kunder rammes, siger Joakim von Braun. 
+Ifølge Joakim von Braun er det formentlig privatpersoner, der står bag angrebene på WikiLeaks.
+- Nogen større viden og kompetence er ikke påkrævet for at udføre denne form for angreb. Det kan være en politisk motiveret ung, en amerikaner, der ser WikiLeaks som USA's fjende. Der er værktøjer på internet til den slags, siger Joakim von Braun.
+Men hvis den, der står bag angrebene, ønsker at skjule sin identitet kræver det mere viden ifølge Aftonbladets sikkerhedskonsulent.
+Opdatering: Wikileaks hjemmeside stadig tilgængelig
+I en statusmeddelelse på Twitter meddeler Wikileaks at man flytter til Schweiz og vil kunne nås på netadressen wikileaks.ch. Ligeledes vil man kunne tilgå Wikileaks hjemmeside på denne IP-adresse: http://213.251.145.96/.
+USA beskylde for at orkestrere angreb på Wikileaks. The Guardian har mere på denne historie: WikiLeaks vanishes from web as US company removes DNS support
+De seneste opdateringer fra Wikileaks:
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 6000,
+  width: 460,
+  height: 400,
+  theme: {
+    shell: {
+      background: '#333333',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#000000',
+      links: '#005893'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('wikileaks').start();
+
+

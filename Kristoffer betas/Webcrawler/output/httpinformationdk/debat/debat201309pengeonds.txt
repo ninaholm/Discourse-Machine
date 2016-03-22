@@ -1,0 +1,48 @@
+Penge, ondskab og finanskrisen
+Tilliden til det finansielle system skal genoprettes. Men midt i reguleringsiveren kan lovgiverne let komme til at promovere alternativer, der er mindre stabile og mere uigennemskuelige end det nuværende system
+Hektiske børshandlere på New Yorks børs i september 2008, mens Merrill Lynchs direktør, John Thain,  kører på  tv og kommenterer, at investeringsbank Lehman Brothers er på vej mod at gå konkurs.
+
+
+ 
+	Fem år efter Lehman Brothers’ fald er den vestlige verden fortsat præget af det største økonomiske tilbageslag i efterkrigstiden. Tilliden til det finansielle system kan ligge på et lille sted. Forståeligt nok ser mange penge, for slet ikke at nævne banker, som roden til alt ondt.
+
+	Men for to af økonomiens mere krøllede hjerner, John Moore og Nobuhiro Kiyotaki, er penge ikke roden til alt ondt – ondskab er derimod roden til alle penge. Når jeg går til tandlægen, kan jeg ikke betale hende med økonomiydelser. Og selv om hun måtte tro på et gældsbevis fra mig, er det ikke penge, som hun kan betale andre med.
+
+	Andre, som hun handler med, kender mig ikke. De vil være nervøse for, at jeg er ond og ikke står på mål for mine forpligtigelser. Derfor skal jeg betale med penge og ikke med et gældsbevis. Penge er likvide, fordi der er almen tillid til deres værdi. Penge er imidlertid ikke noget entydigt begreb. Penge er både kontanter og indlån i banker. Værdipapirer har forskellige grader af pengeegenskaber, afhængigt af hvor likvide de er, og graden af deres pengeegenskaberne svinger over tid.
+
+	Nervøse holder på pengene
+
+	Hvorfor er det interessant, at økonomer kan forklare eksistensen af penge og banker, når alle og enhver kan se, at de eksisterer? Det er det, fordi rationalet for forskellige former for penge og deres likviditet er vigtig for at forstå finanskrisen. Når der opstår mistillid til, hvad der er gode penge, er helvedet løs i det finansielle system. Så står vi i kø foran bankerne, og værdipapirerne er på brandudsalg. Alle vil være likvide, og priserne på mindre likvide aktiver falder. Investeringerne i realøkonomien i form af maskiner og fabrikker stopper, og som forbrugere reagerer vi på den forøgede usikkerhed ved at holde på pengene. Økonomien går i stå.
+
+	Den store britiske økonom John Maynard Keynes var meget opmærksom på betydningen af forbrugernes og især investorernes tillid til økonomien for den økonomiske udvikling. Likviditet var et andet centralt emne for ham. Hvis verden er ond, vil alle gerne være likvide og have rede penge. Som konsekvens falder prisen på andre finansielle instrumenter, og både låntagers kapacitet til at stille sikkerhed for lån samt långivers kapacitet til at give lån mindskes. I de seneste 20 år har der været en stigende erkendelse af, at påvirkningen af finansieringsmulighederne er det væsentligste problem for realøkonomien ved en finansiel krise.
+
+	De første tegn på finanskrisen viste sig for alvor i sommeren 2007, hvor markedet for udveksling af penge bankerne imellem blev meget nervøst. Hvis man som undertegnede var så privilegeret at observere det fra første række – i mit tilfælde som chef for handelsafdelingen i Nationalbanken – var man ikke i tvivl om, at der var noget alvorligt i gang.
+
+	Dem der sad længere væk og primært fulgte de realøkonomiske indikatorer, kunne imidlertid ikke se noget i deres tal før slutningen af 2008. Det, der begyndte som en likviditetskrise, skabte med en vis forsinkelse en solvenskrise og en kapitalknaphed i banksystemet, der resulterede i et voldsomt realøkonomisk tilbageslag.
+
+	Reguleringstsunami
+
+	Finanskrisen har givet anledning til en tsunami af forslag om, hvordan vi undgår fremtidige kriser. I EU har man vedtaget det formentlig største lovkompleks nogensinde med henblik på at stramme reguleringen af bankerne. Kravene til egenkapital forhøjes med faktor fem, og man indfører krav om, hvor megen likviditet bankerne skal have. Begge dele er med til at mindske risikoen for, at bankernes kunder bliver nervøse og trækker deres penge ud.
+
+	Der er ikke tvivl om, at kapital- og likviditetskravene var for lempelige før finanskrisen. Spørgsmålet er, hvor højt de skal op, og om der er behov for andre tiltag. I dag kommer det af regeringen nedsatte Rangvid-udvalg med sin udlægning af krisens årsager. Det vil være mod et udvalgs natur at konkludere, at de mange igangsatte initiativer er tilstrækkelige.
+
+	I den mest ekstreme reform kunne man skille indlåns- og udlånsfunktionen i en bank ud i separate enheder. Man kunne stille krav om, at banker kun måtte placere deres indlån i centralbanker eller statsobligationer, og at udlån skulle foregå gennem andre institutioner, der skulle finansiere sig i kapitalmarkedet gennem udstedelse af aktier eller obligationer. Det system kaldes narrow banking og har så forskellige tilhængere som den nu afdøde økonom Milton Friedman og den danske sociolog Ole Bjerg.
+
+	Både den nuværende og den fremtidige regulering går et stykke i den retning, idet bankernes placering af midler i statsobligationer favoriseres. Det viste sig katastrofalt i Grækenland og Cypern, hvor nedskrivningen af græske statsobligationer trak bankerne ned.
+
+	I USA var det amerikanske forsøg på at finansiere en stadig større del af udlånene via de finansielle markeder en væsentlig faktor bag finanskrisen. Markedet mistede tilliden til de udstedte værdipapirer, deres likviditet gik i dørken, og de institutioner, der holdt dem, fik problemer. Problemerne spredte sig til andre markeder, i takt med at der opstod brandudsalg af andre værdipapirer.
+
+	Modsat har et andet eksempel på kapitalmarkedsfinansieret udlån, nemlig dansk realkredit, holdt hånden under dansk økonomi under finanskrisen. Obligationsfinansieringen har her vist sig mere stabil end de fleste indlån, bl.a. som følge af den meget simple og transparente forretningsmodel. Det er et paradoks, at denne forretningsmodel straffes i den kommende regulering.
+
+	Svær regulering
+
+	Det er svært at regulere optimalt, men det er nemt at skrue op for reguleringen af banker og realkreditinstitutter. De er veldefinerede juridiske enheder. Opgaven bliver straks sværere, når det drejer sig om skyggebanksystemet. Termen betegner den mere diffuse del af det finansielle system, som står for den del af kreditgivningen, der går uden om det mere veldefinerede finansielle system, som banker og realkredit. Det er svært at få et fast greb om en skygge(-bank). Den er ikke veldefineret, og der er få ting, der flytter sig så nemt som penge.
+
+	Før finanskrisen gik mere kredit i USA gennem skyggebanksystemet end gennem det etablerede banksystem. I Kina, hvor man for tiden lægger pres på banksystemet for at dæmpe udviklingen i ejendomspriserne, er der tegn på en tilsvarende udvikling.
+
+	I Danmark har vi erfaring fra 1970’erne og begyndelsen af 1980’erne med, hvordan begrænsninger på udlån fra banker og realkredit skabte et marked for pantebrevsfinansiering. Hvilket var dyrere og også på andre områder dårligere end realkreditfinansieringen.
+
+	Vi skal passe på, at vi ikke bygger en finansiel Maginot-linje, som det finansielle system kører udenom, ligesom Tyskland kørte uden om den franske forsvarslinje i begyndelsen af Anden Verdenskrig. Der skal findes en fornuftig balance mellem det at sikre det finansielle system og det at pålægge det så mange omkostninger, at man bremser opsvinget eller promoverer alternativer, der er mindre stabile og mere uigennemskuelige. Banker og realkreditinstitutter bør deltage konstruktivt i dette arbejde med henblik på at genetablere den tillid, som er både baggrunden for og grundlaget for deres virksomhed.
+
+Jesper Berg er underdirektør i Nykredit og tidligere afdelingschef i Nationalbanken
+

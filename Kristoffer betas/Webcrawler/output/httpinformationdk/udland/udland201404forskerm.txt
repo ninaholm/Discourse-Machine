@@ -1,0 +1,58 @@
+Forsker: Majsrester i tanken værre for klima end benzin
+Andengenerations bioethanol baseret på majshøstens restprodukter kan give mere CO2 end benzin, siger amerikansk forskerhold. Tendentiøs undersøgelse, mener Novozymes, der fører an med de nye biobrændstoffer
+ Majs behandles på en fabrik i Colorado, USA. Det har indtil nu været antaget, at den såkaldte andengenerations-ethanol, der kommer ud af majs ville løse problemet med, at majsproduktionen gik til brændstof i stedet for sultne munde, og at den samtidig hjalp kraftigt på CO2-udslippet, men det sidste sætter en ny rapport spørgsmålstegn ved.
+
+
+ 
+	Der er ingen nemme løsninger, når det kommer til at finde alternative brændstoffer til benzinbilerne. Den langvarige kritik af at ’putte mad i tanken‘ i form af biobrændstof baseret på fødevarer har drejet fokus i retning af de såkaldte andengenerations-biobrændstoffer, fremstillet af restprodukter fra landbruget. Danske Novozymes er i front på verdensplan med at udvikle disse nye, angiveligt mere bæredygtige motorbrændstoffer.
+
+	Nu sætter en ny videnskabelig undersøgelse, finansieret af den amerikanske regering, imidlertid spørgsmål ved klimavenligheden, når det gælder andengenerations-bioethanol produceret på affald fra de amerikanske majsmarker.
+
+	»Gennemsnitsværdien er syv pct. større end for benzin«, når det gælder CO2-udledning pr. energienhed fra ethanol fremstillet af majsrester, lyder nøglesætningen i studiet, gennemført af forskere fra University of Nebraska-Lincoln og netop offentliggjort i tidsskriftet Nature Climate Change.
+
+	USA har gennem en årrække brugt en stigende andel af selve majsproduktionen til bioethanol. Hvor mere end 90 pct. af den amerikanske majs i 2000 gik til fødevarer og foder og mindre end fem pct. til bioethanol, anvendtes sidste år hele 43 pct. af majskolberne til motorbrændstof og kun 15 pct. til fødevarer. Den majs, der sidste år endte i benzintanken, kunne ifølge amerikanske forskere have sikret kalorieindtaget til 500 millioner mennesker i et helt år.
+
+	Denne udvikling har påvirket fødevarepriserne og fremkaldt stærk international kritik, og det har motiveret satsningen på andengenerations biobrændstoffer, hvor det f.eks. er stubbe, stilke og blade frem for majskolber, hvedekerner eller raps, der bruges.
+
+	Novozymes sælger i dag enzymer til amerikanske producenter af førstegenerations-ethanol baseret på selve majskolberne, men man er samtidig førende, når det gælder de enzymer, der skal bruges til at nedbryde cellulosen i planteresterne på vejen til andengenerations-ethanol. I USA samarbejder man bl.a. med selskabet Abengoa, der er tæt på at åbne det første amerikanske anlæg til produktion af andengenerations ethanol baseret på majsrester.
+
+	»Det vurderes, at cellulosebaseret ethanol vil reducere CO2-udledninger med 90 pct. sammenlignet med benzinbaseret brændstof,« hedder det på Novozymes’ hjemmeside.
+
+	Det er den vurdering, som anfægtes af den ny undersøgelse fra biologen Adam Liska og hans kolleger på University of Nebraska-Lincoln.
+
+	»At bruge rester fra majsafgrøden til at producere ethanol og andre biobrændstoffer reducerer jordens kulstofindhold og kan skabe større mængder drivhusgasser end benzin,« hedder det i den pressemeddelelse, der ledsager undersøgelsen i Nature Climate Change.
+
+	Jorden forringes
+
+	Adam Liska har anvendt en supercomputer-model til at vurdere, hvad der sker, når man fjerner planteresterne fra majsmarker for at bruge dem til ethanolproduktion. At det reducerer jordens kulstofindhold er ikke en ny indsigt, men det har været svært at afgøre, hvor meget det i sig selv øger CO2-afgivelsen fra jorden. Det er det, studiet forsøger at klarlægge.
+
+	Forskerholdet har gennemført ni års målinger af CO2-udsivning fra en given mark og brugt det til at teste gyldigheden af den model, man har opbygget på grundlag af 36 markstudier fra forskellige egne af Jorden. Med modellen har man herefter kunnet sætte tal på udsivningen fra en typisk majsmark efter høst.
+
+	Når man opgør CO2-udsivningen over en femårig periode og dertil lægger CO2-udslip ved selve ethanol-produktionen, får man ifølge forskerholdet en samlet CO2-udledning pr. energienhed, der er syv pct. højere end ved traditionel benzin. Altså langt fra Novozymes’ udsagn om 90 pct. mindre CO2-udledning.
+
+	Resultaterne »skaber tvivl om, hvorvidt majsrester kan bruges til at leve op til regeringens krav om at presse ethanolproduktionen op og bringe drivhusgasudledningerne ned,« konkluderer pressemeddelelsen.
+
+	Novozymes: Kritisabel artikel
+
+	Hos Novozymes har man været i dialog med Liska i en årrække og selv anvendt hans tidligere studier. Men den aktuelle undersøgelse er man langt fra enig i.
+
+	»Man har længe vidst, at hvis man medtager aspektet med jordens kulstofindhold, så vil det på kort sigt give betydelige drivhusgasudledninger og mindske klimafordelene ved bioethanol fra majsrester,« siger Jesper Kløverpris, bæredygtighedsspecialist hos Novozymes.
+
+	»Men på længere sigt vil det ikke ødelægge den store klimafordel ved at fortrænge fossil benzin med cellulosebaseret ethanol. Min største anke mod studiet er derfor, at Liska ser på et meget kort tidsperspektiv, fem-10 år. Det ville have været nemt for ham med modellen at se 20-30 år frem – der er nok ingen, der bygger en fabrik for kun at producere bioethanol i fem år.«
+
+	Ifølge Jesper Kløverpris vil jordens organiske kulstofindhold overgå til en ny ligevægt efter en periode med fjernelse af afgrøderester. Der er dermed tale om en midlertidig effekt, som aftager med tiden. Ifølge Liskas egne data ændres merudledningen på syv pct. CO2 i forhold til benzin da også til en gevinst på 21 pct., hvis man ser på en 10-årig periode, påpeger Novozymes-medarbejderen.
+
+	I en mail til Information skriver Adam Liska, at »det, alle reelt ønsker at vide er, hvordan disse systemer opfører sig de første 10 år.«
+
+	En anden indvending fra Novozymes er, at forskerholdet bruger en urimelig høj værdi for det senere CO2-udslip ved selve ethanol-produktionen. Hvis denne også indebærer en samtidig elproduktion, der erstatter el fra f.eks. et kulkraftværk, så giver det i sig selv en mærkbar CO2-gevinst, der ændrer det samlede regnskab i bioethanols favør.
+
+	»Ved at ignorere denne drivhusgas-gevinst drejes resultaterne yderligere i negativ retning,« siger Jesper Kløverpris.
+
+	Forskerholdet gør dog selv opmærksom på, at hvis man vælger at kombinere ethanolfremstillingen med elproduktion, og hvis denne elproduktion erstatter kul, så kan det reducere de samlede CO2-udledninger nok til, at andengenerations ethanol på majsrester bliver bedre for klimaet end benzin. Hvordan regnskabet ser ud, hvis det er elproduktion med f.eks. naturgas eller vind, der erstattes, fremgår ikke.
+
+	Studiet i Nature Climate Change er gennemført af ni forskere med Liska i spidsen og har været igennem en otte måneder lang godkendelsesproces hos tidsskriftets faglige rådgivere før offentliggørelsen i denne uge.
+
+	»Vi forventer ikke, at Liskas rapport får nogen betydning for vores fremtidige salg af enzymer til at omdanne planterester til bioethanol,« siger Thomas Bomhoff, investeringschef hos Novozymes.
+
+	»Vi arbejder på højtryk med en række partnere på globalt plan for at vise teknologiens kommercielle bæredygtighed. Vores forventning er, at vi vil sælge enzymer til minimum 15 sådanne anlæg i 2017.«
+

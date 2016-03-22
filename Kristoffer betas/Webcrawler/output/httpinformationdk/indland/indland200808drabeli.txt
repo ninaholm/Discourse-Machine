@@ -1,0 +1,17 @@
+En drabelig drage
+Aronian vandt grand prix-turneringen i Sochi
+
+
+ Den armenske stormester Levon Aronian viste endnu engang klassen, da han i den sydrussiske kurby Sotji med en fornem slutspurt lagde resten af grand prix-feltet bag sig og snuppede førstepladsen i denne slutstilling: 1. Aronian, Armenien, 8,5 points. 2. Radjabov, Aserbajdsjan, 8 p. 3.-4. Wang Yue, Kina, og Kamsky, USA, begge 7,5 p. 5.-7. Jakovenko, Rusland, Svidler, Rusland, og Karjakin, Ukraine, alle 7 p. 8.-9. Ivanchuk, Ukraine, og Gashimov, Aserbajdsjan, begge 6,5 p. 10.-11. Grischuk, Rusland, og Cheparinov, Bulgarien, begge 6 p. 12. Gelfand, Israel, 5,5 p. 13-14. Navara, Tjekkiet, og Al-Modiakhi, Qatar, begge 4. 
+Qatar-manden var med som en tribut for, at hans hjemland er vært for det næste grand-prix-stævne, der afholdes i december, og hvor det norske VM-håb Magnus Carlsen er blandt deltagerne. Der spilles i alt seks grand prix-turneringer, og hver deltager skal deltage i fire af dem. Det første, der blev afviklet i Baku tidligere på året havde Gashimov, Wang Yue og Magnus Carlsen på en delt førsteplads.
+I 13. og sidste runde i Sotji oplevede man en så forrygende fight mellem Karjakin og Radjabov, at man undervejs blev strejfet af den tanke, at der var gået ged i overførslen fra Sortehavsbyen, eller at nogen sad og legede med brikkerne:
+1.e4 c5 2.Sf3 d6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 g6 6.Le3 Lg7 7.f3 0-0 8.Dd2 Sc6 9.Lc4 Ld7 10.0-0-0 Tc8 11.Lb3 Se5 12.Kb1 a6 13.h4 h5 14.g4 hxg4 15.h5 Sxh5 16.Tdg1 Da5 17.Lh6 Lf6! 
+En drabelig udgave af dragevarianten i siciliansk - og spillet rasende hurtigt, navnlig fra sorts side. Radjabovs valg er åbenlyst bedre end 17. - Txc3?!, som Carlsen spillede mod Anand i hurtig-turneringen i Mainz for nylig. 
+18.fxg4 Lxg4 19.Lxf8 Kxf8 20.De3 Txc3 21.Dxc3 Dxc3 ...
+Dermed fører hvid med to kvaliteter, men Radjabov ved, at det rigeligt opvejes af sorts 'latente bondelavine'. 
+22.bxc3 e6 23.Lc4 Sxc4 24.Txg4 Le5 25.Tg2 b5 26.Tf2 Kg8 27.a4 bxa4 28.Ka2 Sf6 29.Te2 d5! 30.exd5 Sxd5 31.Th3 Lxd4 32.cxd4 Sf4 33.Teh2 Sxh3 34.Txh3 g5 35.Tg3 f6 36.Tc3 Sd2 37.Td3 Se4 38.c4 Kf7 39.c5 g4 40.c6 Ke7 41.d5 exd5 42.c7 Kd7 43.Txd5+ Kxc7 44.Tf5 g3 45.Tf4 Kd7 46.Kb2 Ke6 47.Txe4+ Kf5 ...
+Se diagrammet. 
+Hvids tårn og konge kan ikke tæmme de sorte bønder, og vi oplever i det følgende træktvangs-motivet udfolde sig: 48.Te1 - (det nytter heller ikke at slå på a4) -Kg4 49.Kc2 g2 50.Kd2 Kg3 51.Ke2 a3 52.Ta1 a2 ...
+Og hvid opgav. 
+
+

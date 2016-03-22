@@ -1,0 +1,24 @@
+It-råd: FE-adgang er uden fortilfælde
+Rådet for Digital Sikkerhed tilslutter sig kritikken af et lækket lovudkast, som giver Forsvarets Efterretningstjeneste fysisk adgang til teleselskaber i Danmark uden retskendelse
+
+
+ Hvis Center for Cybersikkerhed, der er en del af Forsvarets Efterretningstjeneste (FE), får adgang til teleselskaber som beskrevet i et lækket lovudkast, så er det uden fortilfælde. Det siger Rasmus Theede, der er næstformand i Rådet for Digital Sikkerhed.
+Som beskrevet i Information torsdag giver lovudkastet centret mulighed for til »enhver tid« at få fysisk adgang til teleselskabers lokaliteter med det formål at indsamle »oplysninger«. Det kan ske uden retskendelse.
+»Jeg kender i hvert fald ikke til andre tilfælde, hvor myndigheder på den måde, uden dommerkendelse, så at sige kan sparke døren op til bygninger og få adgang til de oplysninger, som man nu engang vil have adgang til,« siger Rasmus Theede.
+»Konkurrencemyndigheder og andre, der laver sådanne ’razziaer’, skal jo have en dommerkendelse, hvis de regner med, at der er foregået noget ulovligt,« fortsætter han.
+Rasmus Theede peger – ligesom Forsvarsministeriet gjorde torsdag i Information – på, at lovudkastet er foreløbigt og endnu ikke er sendt i offentlig høring. Samtidig er der ingen såkaldte lovbemærkninger i det lækkede udkast. Det gør det svært at vurdere præcist, understreger næstformanden.
+»Men når man direkte skal have adgang til et selskabs bygninger og oplysninger, som måske kan være borgeres data, så bør det altså ske med en dommerkendelse,« siger Theede, der desuden er koncernsikkerhedschef hos it-leverandøren KMD.
+Ifølge Forsvarsministeriet har lovudkastet til formål, at »styrke informationssikkerheden i det danske samfund til gavn for både borgerne og dansk økonomi«.
+Rasmus Theede mener, at det er positivt, at der er fokus på it-sikkerhed, men han og Rådet for Digital Sikkerhed er imidlertid betænkelige ved, at de udvidede beføjelser skal gives til Center for Cybersikkerhed, som er en del af Forsvarets Efterretningstjeneste.
+»Det giver en mistænkelighed, som vi ikke har brug for. Især efter Snowden-sagen. I mit eget arbejde i KMD har jeg oplevet, at kunder har været nervøse for, hvordan vi samarbejder med Center for Cybersikkerhed,« siger Rasmus Theede.
+Han henviser dermed til whistlebloweren Edward Snowden, der lækkede klassificerede NSA-dokumenter og afslørede den amerikanske efterretningstjenestes omfattende masseovervågning. Samtidig påpeger han desuden, at han overordnet set støtter Center for Cybersikkerheds »mission og lægger vægt på et godt samarbejde med dem«.
+»Vi skal dog passe på, at vi i vores iver for at styrke sikkerheden i Danmark ikke får vedtaget hastelovgivning, der svækker den generelle retssikkerhed og dermed tillid fra borgere og virksomheder,« siger Rasmus Theede.
+Større rolle end i dag
+Rikke Frank Jørgensen, der er forsker hos Institut for Menneskerettigheder, påpeger, at det er svært at se ud fra lovudkastet, præcist hvor omfattende et mandat Center for Cybersikkerhed får med loven.
+Der er dog som udgangspunkt tale om nye og vidtrækkende beføjelser til centret, mener hun.
+»Man må læse det sådan, at det nu er Center for Cybersikkerhed, der primært får opgaven som garant for informationssikkerhed i forhold til udbydere som teleselskaberne,« siger Rikke Frank Jørgensen.
+Center for Cybersikkerhed skal ifølge lovudkastet også kunne fastsætte regler om, hvordan teleselskaberne skal orientere centret, hvis de har tænkt sig at indgå aftaler »vedrørende leverancer af væsentlige dele af udbyderens net og tjenester eller driften heraf«.
+Det tolker Rikke Frank Jørgensen som, at centret som minimum skal orienteres, hvis selskaberne foretager indkøb af nyt udstyr.
+»Samlet set giver det centret en helt ny rolle og magt i forhold til teleselskaberne,« siger hun.
+Forsvarsministeriet har ikke yderligere bemærkninger til kritikken, men henviser til et tidligere svar til Information, hvor ministeriet blandt andet skriver, at et lovudkast vil blive sendt i en mere formel høringsproces, hvor en bredere kreds vil kunne komme med bemærkninger til det.
+

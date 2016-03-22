@@ -1,0 +1,12 @@
+Hackere angriber valutafonden
+FBI undersøger internetangreb på IMF, Den Internationale Valutafond.
+
+
+ Den Internationale Valutafond, IMF, har skærpet sin internet- og datasikkerhed, efter at organisationen har været udsat for "et sofistikeret hackerangreb", som det kaldes.
+Det amerikanske forbundspoliti, FBI, er gået ind i sagen og undersøger de nærmere omstændigheder ved angrebet.
+Angrebet mod IMF, der ligger inde med følsomme oplysninger om alverdens lande, er endnu et eksempel på tiltagende angreb via internettet på internationale organisationer og multinationale firmaer.
+Det er ikke oplyst, hvornår hackerangrebet har fundet sted. Ifølge finansnyhedsbureauet Bloomberg skete angrebet før 14 . maj, hvor IMF-chefen Dominique Strauss-Kahn blev anholdt for sexoverfald på et hotel i New York.
+En dataekspert, der har arbejdet både for IMF og søsterorganisationen Verdensbanken, siger, at angrebet helt sikkert er et forsøg på at installere software i IMF's dataanlæg, så gerningsmændene eller den stat, som sandsynligvis står bag, vil være i stand til at skaffe sig oplysninger om de informationer, IMF ligger inde med.
+- Det var et målrettet angreb, siger Tom Kellerman fra IMF.
+En talsmand for IMF siger, at organisationens dataanlæg fungerer normalt trods angrebet.
+Eksperter anser det for givet, at en stat må stå bag angrebet, da det næppe er sandsynlig, at privatpersoner har kapacitet til at udføre angreb.

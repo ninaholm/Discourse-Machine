@@ -1,0 +1,13 @@
+Politiet opdager fejl i dna-register
+I op mod 1000 tilfælde har politiets dna-system ved en fejl ikke spyttet navnet ud på den mulige gerningsmand.
+
+
+ Politiet har opdaget en fejl i dna-registret. Opdagelsen baner muligvis vejen for opklaring i op mod 1000 sager. Systemet har ikke spyttet alle de navne ud, som det burde, når det har gransket politiets dna-spor fra diverse gerningssteder.
+- I forbindelse med sagen om Amagermanden kom vi til at tale om, hvorvidt systemet nu også gav os alle de match, det skulle. Vi foretog nogle test, og det viste sig så, at det gjorde det ikke, siger politiinspektør Jørn Gravesen, der er chef for National Kriminalteknisk Enhed.
+Systemet skal sammenkoble dna-spor fundet på gerningssteder med de personer, som optræder i politiets dna-register, men det er i flere tilfælde slået fejl.
+Det er i sager, hvor dna-sporene har en såkaldt blandingsprofil. Det vil sige, at det biologiske materiale, som dna-profilen er lavet på baggrund af, stammer fra mere end én person.
+- Det er en programmeringsfejl, der har gjort, at systemet ikke har koblet blandingsprofiler og persondelen af registret sammen, siger Jørn Gravesen til Ritzau.
+De nye oplysninger i alle de berørte sager vil nu blive sendt ud i de respektive politikredse, som står for efterforskningen. Her skal det vise sig, om de nye oplysninger kan bidrage yderligere til opklaringen af sagerne.
+Politiets nuværende dna-system blev indført i 2006, og lige siden da har systemet snydt efterforskerne for navne på mulige gerningsmænd og personer, der på anden måde kunne være relevante i efterforskningen.
+- Det er rigtig ærgerligt, at det her først bliver opdaget nu. Det bliver et stort arbejde at behandle alle de sager, siger Jørn Gravesen.
+De berørte dna-profiler skal nu en tur forbi Retsgenetisk Afdeling på Københavns Universitet. Her skal eksperterne bekræfte, at der er overensstemmelse mellem spor og gerningsmænd.

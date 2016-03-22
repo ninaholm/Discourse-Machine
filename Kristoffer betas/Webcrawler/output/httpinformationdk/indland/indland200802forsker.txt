@@ -1,0 +1,26 @@
+Forskere har udviklet det hidtil største menneskeskabte dna-molekyle
+Det betyder at 'kunstigt liv' er meget tæt på at blive skabt i et reagensglas
+
+
+ Muligheden for at skabe en syntetisk form for liv i et laboratorium er kommet fristende tæt på virkeligheden, efter at forskere netop har meddelt, at de har udviklet det største menneskeskabte dna-molekyle - livets kemiske blåtryk.
+Med den kontroversielle amerikanske videnskabelige iværksætter Craig Venter i spidsen har forskere skabt en frit levende organismes totale dna-genom. Det betyder, at 'kunstigt liv' er meget tæt på at blive skabt i et reagensglas.
+Det enorme dna-molekyle er en kopi af det kromosom, der udgør det komplette genom af mycoplasma genitalium. 
+Dr. Venter og hans kolleger fremstillede kromosomet ved at placere hver af dets 582.970 individuelle kemiske enheder i den korrekte genetiske rækkefølge.
+Dette var det sidste, afgørende skridt, før forskerne forsøger at nå deres ultimative mål: at indføre det syntetiske genom i en tom 'skal' af en ikkelevende celle, for at se om de kan skabe en selvkopierende, menneskeskabt organisme.
+Dr. Venter siger, at målet med forskningen er at skabe nye, kunstige livsformer, der kan hjælpe med at løse verdens mest presserende miljøproblemer, f.eks. ved at producere grønne biobrændstoffer, nedbryde giftigt affald eller endog optage kuldioxid fra atmosfæren.
+Han understreger, at alle nye mikrober, der udvikles i processen, ikke kan inficere andre organismer - specielt menneskelige - og at de ikke vil være i stand til at overleve uden for et laboratorium. Det skyldes de selvdestruerende mekanismer, man har indbygget i deres dna.
+Et softwareprogram
+Dr. Venter sammenligner resultatet med skabelsen af et softwareprogram til en computers styresystem. Det næste skridt bliver at installere styresystemet i en tom celles computerhardware og se, om den kan 'starte op'.
+"Vi vil gerne understrege, at vi endnu ikke har startet disse syntetiske kromosomer op - Der er stadig problemer, der skal løses, men vi har tillid til, at de kan løses," siger dr. Venter. "Jeg bliver overrasket, hvis det ikke sker i 2008."
+Blandt forskerne på projektet var Hamilton Smith, som i 1978 fik en delt Nobelpris for sin opdagelse af, hvordan man kan dele dna ved at benytte kemikalier kaldet restriction enzymers.
+Dr. Smith fortæller, at man fremstillede 101 dna-fragmenter eller 'kassetter', hver af dem bestående af mellem 5.000 og 7.000 dna-enheder, der dækkede hele længden af mycoplasmaets kromosom. Kassetterne blev først 'klonede' i celler fra levende bakterier og derefter overført til gærceller for at skabe det endelige, fuldt formede kromosom. Man har valgt mycoplasma genitalium, fordi det har et af de mindste, kendte genomer, og forskerne var interesserede i at finde det mindst nødvendige sæt gener, der skulle til for at skabe en frit levende organisme. 
+Dets genom blev første gang ordnet i rækkefølge i 1995, af et hold forskere der bl.a. omfattede Venter og Smith.
+I 1999 fortalte dr. Venter, at han havde planer om at starte et genomprojekt baseret på mycoplasma for at undersøge, hvilke gener der er essentielle for at skabe liv, og hvilke der er overflødige.
+Dr. Smith udtaler, at han synes analogien med computeren er god. 
+"Genomet er styresystemet for en celle, og cellens cytoplasma er det hardware, man har brug for for at starte genomet op. Sammen skaber de to en levende, reproducerende celle."
+På længere sigt ønsker forskerne at konstruere et kunstigt genom, der indeholder ekstra sæt af gener, der kan udføre nyttige opgaver, f.eks. skabe nye biobrændstoffer som ren brint, en af de reneste energikilder.
+"Da vi indledte dette arbejde for adskillige år siden, vidste vi, det ville blive vanskeligt. Vi har vist, at det er muligt at fremstille store genomer, så man kan udvikle relevante ting som biobrændstof," siger dr. Hamilton.
+Dr. Venter afviste spørgsmål om etikken i at fremstille kunstige livsformer og siger, at han ikke kender til et område inden for moderne videnskab, "der starter med etiske diskussioner, før man har foretaget det første eksperiment."
+© The Independent og Information
+Oversat af Ebbe Rossander
+

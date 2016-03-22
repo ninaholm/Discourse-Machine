@@ -1,0 +1,11 @@
+Microsoft vil sikre sig mod NSA-overvågning
+IT-selskabet reagerer nu på en mistanke om, at efterretningstjenesten NSA har infiltreret dets netværk.
+
+
+ Mistanken om, at efterretningstjenesten NSA er brudt ind Microsofts globale netværk, får nu konsekvenser.
+Den amerikanske IT-gigant vil styrke sit tekniske bolværk mod overvågning af internettrafikken gennem en stærkere kryptering. Det siger kilder med kendskab til sagen til Washington Post.
+I oktober voksede mistanken om, at NSA er lykkedes med at infiltrere Microsoft-tjenester. Dokumenter, lækket af den tidligere NSA-medarbejder Edward Snowden, beskrev efterretningstjenestens operationer mod to af Microsofts rivaler, Google og Yahoo.
+I papirerne bliver Microsofts Hotmail og Windows Messenger også nævnt.
+Ledelsen i Microsoft vil i denne uge beslutte, hvordan selskabet kan beskytte sin kunder bedre mod overvågning, og hvor hurtigt det skal ske, siger kilderne til avisen.
+Selv om Microsoft siger, at virksomheden ikke har håndfaste beviser på, at den er udsat for overvågning fra NSA, siger selskabets chefjurist, Brad Smith, at det vil være "meget foruroligende" og muligvis i strid med forfatningen, hvis det er tilfældet.
+Google, Facebook, Yahoo og andre store teknologifirmaer er allerede begyndt at styrke deres netværk for at gøre det sværere for efterretningstjenester, private selskaber eller kriminelle at overvåge brugernes aktiviteter på internettet.

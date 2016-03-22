@@ -1,0 +1,46 @@
+Tysk efterretningstjeneste udleverede data til NSA
+Den tyske efterretningstjeneste har udleveret store mængder data til de amerikanske kolleger i NSA. Afsløringerne lægger nyt pres på tyske regeringskredse, der har afvist kendskab til samarbejde
+Kort efter at den amerikanske NSA-lyttestation i Bad Aibling i Bayern officielt lukkede i 2004, blev faciliteterne overtaget af den tyske efterretningstjeneste BND, der i vidt omfang har videreført NSA’s storstilede overvågning af satellit- og telekommunikation. Amerikanske overvågnings-eksperter fra NSA flyttede ved samme lejlighed ind i barakker tæt på BND’s nye anlæg på stedet.
+
+
+ 
+	Den tyske kansler, Angela Merkel, har tidligere nægtet ethvert kendskab til et muligt samarbejde mellem den tyske efterretningstjeneste BND og den kontroversielle amerikanske efterretningstjeneste NSA. Men i weekenden måtte BND indrømme, at man i vidt omfang har stillet informationer til rådighed for NSA.
+
+	Oplysningerne har vakt fornyet bestyrtelse i både den tyske opposition og regeringen, der kræver nye udmeldinger fra efterretningstjenesten.
+
+	»BND må en gang for alle lægge alle fakta på bordet,« siger justitsminister Sabine Leutheusser-Schnarrenberger til avisen Münchner Merkur.
+
+	Oplysninger om BND’s udlevering af såkaldte metadata til NSA stammer fra ugemagasinet Der Spiegel, der har set dokumenter fra NSA-whistlebloweren Edward Snowden. Der Spiegel beretter også, at både udenrigstjenesten BND (Bundesnachrichtendienst) og det tyske Verfassungsschutz, der tager sig af indenrigspolitiske trusler, anvender NSA-programmet XKeyScore, der tillader real time-overvågning af telekommunikation såvel som lagring af store mængder data.
+
+	Alene i december 2012 indsamlede NSA ifølge Snowdens oplysninger omtrent 500 mio. stykker metadata i Tyskland. Dermed er Tyskland det europæiske land, der overvåges mest intenst af den amerikanske efterretningstjeneste.
+
+	Ifølge en talsmand for BND stammer de pågældende data fra udenlandske telekommunikationsforbindelser. BND renser ifølge eget udsagn de pågældende metadata for oplysninger, der vedrører tyske borgeres telekommunikation, før udlevering til NSA. Dermed forbryder tjenesten sig ikke mod den tyske grundlov.
+
+	Det er imidlertid ikke en udlægning, der købes af eksperter med kendskab til overvågning:
+
+	»En del af de data havner konstant utilsigtet i amerikanske hænder. Hvis man for eksempel sender post fra en e-mailadresse med endelsen .com fra Weinheim til Washington, løber kommunikationen over diverse servere. At samtlige private data skulle kunne sies fuldstændigt fra, anser jeg for udelukket,« siger den tyske spionage-ekspert Erich Schmidt-Eenboom til Spiegel.
+
+	En pinlig affære
+
+	Afsløringer af tyske spioners rolle i udleveringen af data til de amerikanske kolleger i NSA er imidlertid en pinlig sag for de øverste regeringscirkler i Berlin. Hvis den tyske efterretningstjeneste har udleveret data til NSA, står det nemlig i grel kontrast til udsagn fra ledende politikere og myndighedspersoner.
+
+	Tidligere har chefen for BND, Gerhard Schindler, bedyret, at hans efterretningstjeneste kun to gange har udleveret data relateret til tyske borgere til NSA. Begge gange i fuld overensstemmelse med den såkaldte G10-lov, der beskytter tyske borgeres privatliv. Merkels stabschef, Ronald Pofalla, der officielt har ansvar for at koordinere de tyske efterretningstjenester, har tilsvarende forsikret, at tyske myndigheder har handlet i overensstemmelse med gældende love om beskyttelse af personfølsomme data.
+
+	De officielle forsikringer overbeviser imidlertid ikke den tyske statsanklagemyndighed, der i forvejen efterforsker omfanget af NSA’s overvågning af tysk telekommunikation. Statsadvokaturen kræver nu svar af en række tyske ministerier og efterretningstjenester med henblik på at afklare, om der er bedrevet udenlandsk spionage mod tyske borgere på tysk jord.
+
+	I Tyskland er et afgørende spørgsmål derfor, hvor de pågældende data er blevet indsamlet, og den tyske regering har rettet officiel henvendelse til den amerikanske regering for at få at vide, hvorfra de pågældende data stammer.
+
+	På tysk jord
+
+	Der Spiegels afsløring på baggrund af Snowdens lækkede NSA-dokumenter antyder, at NSA opererer på tysk jord. I dokumenterne omtales to datacentre med kodenavnene »US-987LA« og »US-987LB« som udgangspunkt for indsamlingen af tyske data. Der er tale om såkaldte SIGAD (signals intelligence activity designators, red.). Adspurgt af Der Spiegel har den tyske efterretningstjeneste BND forklaret, at det første kodenavn sandsynligvis dækker over den tidligere NSA-lyttestation Bad Aibling i delstaten Bayern, der officielt lukkede i september 2004.
+
+	Kort efter lukningen blev faciliteterne ved Bad Aibling overtaget af det tyske BND, der i vidt omfang har videreført NSA’s storstilede overvågning af satellit- og telekommunikation. Overvågningseksperter fra NSA flyttede ved samme lejlighed ind i barakker tæt på BND’s nye anlæg i Bad Aibling. NSA har dermed angiveligt sin egen kommunikationscentral, hvorfra amerikanske spioner overvåger datastrømme i Afghanistan og Mellemøsten. Samtidig tyder meget på, at de to efterretningstjenester har udvekslet teknologi, blandt andet XKeyScore, der anvendes til overvågning og lagring af indholdet af telekommunikation. Ifølge BND er tysk telekommunikation og tyske statsborgere ikke omfattet af overvågningen.
+
+	Danmark som ’tredjepart’
+
+	Ifølge Snowden-dokumenterne udliciterede NSA også SIGAD-opgaver til såkaldte ’tredjeparter’. Sædvanligvis er det lande, NSA betegner som ’tredjeparter’. Bl.a. falder Danmark inden for denne kategori sammen med f.eks. Tyskland, Frankrig, Østrig, Belgien og Polen. Det er imidlertid ikke lykkedes Information at få indsigt i de pågældende dokumenter.
+
+	I weekenden talte Angela Merkel for en international aftale om beskyttelse af personfølsomme data.
+
+	»I det 21. århundrede burde vi være i stand til at nå frem til globale aftaler,« sagde Merkel til avisen Welt am Sonntag. »Hvis digital kommunikation rejser nye spørgsmål på globalt niveau, bør vi tage udfordringen op. Det vil Tyskland arbejde for.«
+

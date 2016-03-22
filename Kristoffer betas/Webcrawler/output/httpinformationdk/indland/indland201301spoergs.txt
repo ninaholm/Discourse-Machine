@@ -1,0 +1,49 @@
+Spørgsmål 5: Og for Danmark (gerne et bud i pct.)?
+DOKUMENATION
+
+
+ Jørgen Ørstrøm Møller:
+Trendvækst på 1,5-2% stigende i løbet af perioden og måske højere end 2% i de sidste 2-3 år.
+Carl-Johan Dalgaard:
+Samme svar.
+Hans Aage:
+Ca. 0 pct.
+Christen Sørensen:
+Måske lidt mere grundet et bedre udgangspunkt end EU-gennemsnittet: 1,25 pct. p.a.
+Katarina Juselius:
+Stort set samme svar som under punkt 4. Danmark står nok lidt bedre rustet end mange EU-lande, men behovet for nytænkning er stort, hvis væksten skal vende tilbage.
+Peder Andersen:
+Hænger jo sammen med spørgsmål 4. Men der er potentiale til, at den danske vækstrate er lidt over EU vækstraten. Hvis jeg skal aftvinges et svar, bliver det en gennemsnitlig vækstrate på 1,5 pct.. Ret meget over 2 pct. er svært at forestille sig.
+Bengt-Åke Lundvall:
+Næppe mere end 1-2 pct., hvis man ikke lægger kursen helt om. DK nyder godt af krisen i Sydeuropa i form af gratis kapitaltilførsel til den danske stat. En mindre økonomdomineret regering kunne bruge dette til at finansiere ambitiøs grøn infrastruktur – men det sker nok ikke.
+Inge Røpke:
+Udviklingen i EU er afgørende – og uforudsigelig.
+Det er ikke umuligt – hverken i EU eller i Danmark – at forestille sig en keynesiansk krisepolitik med fokus på grøn omstilling, der på én gang ville øge væksten og forbedre mulighederne for at håndtere de miljømæssige udfordringer, såkaldt ’grøn vækst’. Det ville være at foretrække for den aktuelle politik, der lægger vægt på at trykke lønningerne, mindske velfærden og øge uligheden for at forbedre konkurrenceevne og profitmuligheder. Men heller ikke denne politik ville på længere sigt føre til høje vækstrater – og det ville heller ikke være ønskeligt ud fra et globalt fordelingsperspektiv. Derfor er det vigtigt samtidig at udvikle politik, der sigter på omstilling til et velfungerende samfund med lav eller ingen vækst.
+Henrik Plaschke:
+Fortsat krise og stagnation – vi har ikke nået bunden.
+Vedr. 4. og 5.: Vurderingerne er baseret på en antagelse om, at de aktuelle former for økonomisk politik indenfor EU og Danmark videreføres, hvilket (desværre!) forekommer realistisk givet den form for økonomiske tænkning, der dominerer.
+Mikael Skou Andersen:
+0,5 pct.
+Anders Chr. Hansen:
+Det gælder også Danmark, hvor væksten afhænger af væksten i resten af Europa og i hvert fald ikke bliver høj. I 2013 falder de offentlige investeringer markant for hurtigere at opnå balance på de offentlige budgetter. De private investeringer fremmes med investeringsvindue og fremme af energiinvesteringer, men det forventes fortsat ikke at kunne opveje den løbende nedslidning og forældelse af kapitalapparatet. Kapitalapparatet skrumper. Uanset lave renter og høje fradrag udskyder virksomhederne deres investeringer i ny produktion, indtil der er en efterspørgsel efter den. Til gengæld giver skattereformen husholdningerne større budgetter, men det er usikkert, om de vil blive brugt til at betale af på gæld eller forbruge mere. Tilbage står eksporten, men eurolandene – også Tyskland – er i recession og vil være det ind i 2013, så de vil importere mindre. Selv Sverige har negativ vækst ved udgangen af 2012. Uden investeringspolitikken og skattelettelserne ville det gå værre, men der skal nok mere til for at vende job-kurven.
+Niels Kærgård:
+Lidt over det europæiske gennemsnit, men ikke høj.
+Duncan Wigan:
+Som spm. 4
+Bo Sandemann Rasmussen:
+I samme interval som for resten af EU.
+Jesper Jespersen:
+Det samme.
+Thorkil Casse:
+Nok snarere en vækst som svinger omkring nul. Men det er gætværk at sætte en procentsats på.
+Søren Kjeldsen-Kragh:
+2-2,5 pct. pr. år i gennemsnit
+Jakob Brøchner Madsen:
+Sikkert 1 pct. – måske lidt mere.
+Frede Hvelplund:
+2-4 pct., hvis det lykkes at gennemføre en systematisk grøn politik, bl.a. på energiområdet. Men det er der heller ikke p.t. meget, der tyder på. Målsætningerne er gode nok, men midlerne er slet ikke tilstrækkelige. F.eks. planlægges stadigt statsfinansieret Universitetsbyggeri efter 2015 standard i stedet for 2020 standard. F.eks. betales varmeregningen på f.eks. AAU stadig som en kvadratmeter-afregning og ikke som en forbrugsafregning. Så der er intet incitament til at spare på el og varme. Og planlagt nyt byggeri, som skal stå måske i 100 år, planlægges efter 2015 standard og ikke 2020 standard.
+Finn Østrup:
+Se spm. 4
+ 
+#next_pages_container { width: 5px; hight: 5px; position: absolute; top: -100px; left: -100px; z-index: 2147483647 !important; }
+

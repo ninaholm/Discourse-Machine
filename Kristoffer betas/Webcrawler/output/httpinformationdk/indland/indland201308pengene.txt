@@ -1,0 +1,103 @@
+Pengene? De kommer som sendt fra himlen
+Mønter og sedler udgør i dag under fem procent af den danske pengemængde. Næsten alle vore penge er virtuelle tegn på en computerskærm. Og det er private banker – ikke Nationalbanken – der står for den store produktion af penge ud af den blå luft
+ 
+	Illustration: Marie Boye/iBureauet
+
+
+ 
+	Har De et par kroner til en hjemløs?« Folk, der bruger S-toget i hovedstaden, kan ikke være i tvivl om, at der er mennesker i dette samfund, der mangler penge. Kroner og øre, mønter og sedler, der kan om sættes til en kop kaffe, en bajer, et måltid mad.
+
+	De fleste S-togspassagerer siger nej. »Jeg har ingen kontanter,« lyder en hyppig reaktion. Det kan være sandt, og man kan jo ikke så godt give den hjemløse sit dankort, tilbyde et indhug i ens kassekredit eller udstede et eller andet værdipapir i toget mellem Svanemøllen og Nordhavn Station.
+
+	Der er to slags penge. Fysiske penge og virtuelle penge. Hvor den hjemløse har brug for kontanter, lever de fleste af os i stigende grad i de virtuelle penges verden. Går man ind og ser på Nationalbankens Balancestatistik for penge- og realkreditinstitutter, var der i januar i år 53,6 milliarder kroner i omløb i form af sedler og mønter, fremstillet i henholdsvis Seddeltrykkeriet og Den Kgl. Mønt i Nationalbankens bygning i Havnegade. Men samme statistik fortæller om en samlet dansk pengemængde på 1.170,8 mia. kr. Det betyder, at kun 4,6 pct. af pengene i Danmark er rigtige ’gammeldags’ penge, som man kan opbevare i sin pung. Resten – 95,4 pct. af pengemængden – er i dag tal på en skærm.
+
+	Hvor i alverden kommer de fra? Hvem fremstiller dem? Hvor bliver de af? Og er de til at regne med?
+
+	Pengemultiplikatoren
+
+	Helge Pedersen har arbejdet i den finansielle sektor i næsten 30 år, de seneste 15 år som cheføkonom i Nordea. Han har undervist på Københavns Universitet og Copenhagen Business School, og han har skrevet økonomiske lærebøger – bl.a. om hvor pengene kommer fra.
+
+	»Pengemultiplikatoren,« siger Helge Pedersen. Mekanismen, der ud af den blå luft og i private bankers regi skaber stadig flere virtuelle penge.
+
+	På cheføkonomens computerskærm toner en tabel frem med uoverskuelige talkolonner og begreber som seddelbrøk, kassereserve og pengemultiplikator. Men i grunden er det ikke så indviklet.
+
+	»Når f.eks. husholdninger, virksomheder og kommuner sætter deres penge i banken, så er det efterfølgende bankens funktion at sikre, at denne opsparing kommer ud til nogle, der har brug for at låne penge. Bankerne skal holde på en vis reserve, så du kan få penge ud igen i morgen, hvis du vil det, men resten kan bankerne låne ud,« siger Helge Pedersen. Han giver et eksempel med bankkunde A, der sætter én mio. kroner ind på sin bankkonto. Af denne million beholder banken måske 10 pct. i kassereserve, så A til enhver tid kan hæve en del af sit indestående. Men de øvrige 900.000 kr. låner banken ud til kunde B, som måske tager 10 pct. ud i kontanter, dvs. 90.000 kr. Resten – 810.000 kr. – står nu på kunde B’s bankkonto. Af dette beløb holder banken igen på 10 pct. som kassereserve og udlåner herefter resten – 729.000 kr. – til kunde C, som hæver 10 pct. i kontanter og lader resten stå: 656.100 kr.
+
+	Med afsæt i A’s ene million står der altså nu sammenlagt 1.000.000 + 810.000 + 656.100, dvs. næsten 2,5 mio. kr., på de tre kunders bankbøger.
+
+	»Dette er pengemultiplikatoren,« siger Helge Pedersen. En ganske enkel formel, der fortæller, hvorledes pengemængden vokser via udlånsaktiviteterne.
+
+	»Via et indledende indlån på én mio. er der efter en snes sådanne transaktioner skabt penge i økonomien svarende til fem gange størrelsen af det første indlån, nemlig godt fem mio. kr. På den måde sker der en betydelig pengeskabelse i banksektoren.«
+
+	Præcis hvor mange penge, der skabes, afhænger af myndighedernes krav til størrelsen af bankernes kassereserve samt af, hvor stor en del af lånet, bankkunden tager ud i kontanter. Er reservekravet mere end 10 pct., vil de gentagne udlån baseret på den indledende million lede til mindre end de fem mio. Er reservekravet mindre, kan der til gengæld skabes flere virtuelle penge.
+
+	»Myndighederne kan altså regulere pengeskabelsen via kravet til bankernes kassereserve,« påpeger cheføkonomen.
+
+	På samme måde kan bankkunden påvirke bankernes pengeskabelse i kraft af, hvor meget han eller hun tager ud i form af kontanter.
+
+	»I den sammenhæng er det godt for bankerne, at vi via dankortet i høj grad er gået over til det kontantløse samfund, hvor vi i princippet lader alle pengene stå i banken,« siger Helge Pedersen og viser med talkolonnerne, hvordan den ene million via de gentagne udlån kan vokse til hele ni mio. kr., hvis bankkunderne ikke tager 10 pct. af deres lån ud i kontanter, men kun én pct.
+
+	»Det kan være en god forretningsmodel for bankerne, for bankerne lever jo via rentebetalingen af at låne pengene ud.«
+
+	Et spørgsmål om tillid
+
+– Matematikken er til at begribe, men det er alligevel svært at forstå, at én mio. kr. kan blive til fem eller ni alene ved en stribe elektroniske transaktioner. Gammeldags guldmønter havde en håndgribelig værdi – hvorfra kommer værdien af alle disse virtuelle penge?
+
+	»Den kommer fra den sikkerhed, du føler, der er ved at overlade dine penge til banken. Men det er klart, at man skal være helt sikker på, at bankerne er solide, for disse penge eksisterer jo i virkeligheden ikke. Hvis alle lige pludselig får mistillid til et pengeinstitut, og der bliver run på banken, så har man et problem. Derfor har man indført en indskydergaranti, som dækker almindelige indlån op til 750.000 kr. for både privatpersoner og virksomheder.«
+
+	De talløse billioner, som den internationale finanssektors virksomheder har skabt via pengemultiplikatoren, og som i stigende grad – i hvert fald indtil finanskrisen – har været motor bag væksten, findes altså ikke i virkeligheden.
+
+	Hvis du er kunde B, der låner 900.000 kr. af banken, er det ikke sådan, at der findes en sparegris i bankens kælder, hvor de 900.000 ligger og venter på dig. Der ligger højst et stykke papir, som fortæller, at banken har en forpligtelse til at udbetale dig pengene en gang i fremtiden.
+
+	Et lån betyder, at banken lover dig en sum penge, ikke at den faktisk leverer summen. Hvis du bliver nervøs og beder om at få det fulde beløb i mønter og sedler, og andre bankkunder samtidig gør det samme, bryder systemet sammen.
+
+	Som Helge Pedersen siger: »Pengesystemet er baseret på tillid til banksystemet.«
+
+	Faktisk er systemet ikke nødvendigvis baseret på, at kunde A starter processen ved at komme med sin million og sætte den ind på bankkontoen.
+
+	I rapporten Where does money come from? fra den britiske tænketank New Economics Foundation kritiseres den foretrukne fortælling fra bankerne om indlånet som begivenheden, der muliggør udlånene og pengeskabelsen. Det er typisk omvendt, påpeger tænketanken og andre med den. Som den tidligere bankøkonom, viceafdelingschef i Den Internationale Valutafond Michael Kumhof:
+
+	»Det, der i virkeligheden sker, er præcis det modsatte. Og jeg har selv gjort det, jeg er bankmand, jeg ved, hvordan det fungerer, og du kan læse det på mange centralbankers hjemmesider – når bankerne siger til sig selv: ’Økonomien ser godt ud, vi er optimistiske, nu yder vi lån’, så behøver de ikke vente på, at nogen indsætter penge. For når de opretter et lån, skaber de et indestående. Bare sådan. Banker skaber penge ud af den blå luft.«
+
+	Altså: Ydelse af et lån betyder alene, at der åbnes to kolonner i bankens computer: Én som siger, at kunden nu har X kr., og én som siger, at banken nu har en fordring hos denne kunde på X kr. Kundens nye virtuelle penge kan samtidig være grundlaget for et nyt udlån, noteret på næste kundes konto. Den første kunde har ret til at hæve alle sine penge, samtidig med at disse står opført på den anden kundes konto. Bankpenge kan – som udtrykt af den store amerikanske økonom John Kenneth Galbraith – være to steder på én gang. Mindst.
+
+	Også næstformanden for Den Europæiske Centralbank, Vitor Constancio, har påpeget, at låneprocessen ikke starter med, at banken først sikrer sig de nødvendige indskud af virkelige penge:
+
+	»I virkeligheden foregår processen mere i den modsatte rækkefølge, ved at bankerne først tager deres beslutninger om långivning og derefter kigger efter den nødvendige finansiering og reserver i form af nationalbankens penge.«
+
+	Penge er gæld
+
+	Dagens økonomiske system og den økonomiske vækst er altså baseret på denne vedvarende låneopbygning. Eller rettere: på at nogle stifter gæld. Det danske ord ’gæld’ har samme rødder som det tyske geld, der betyder penge. Penge er gæld, når det er penge skabt via den private banksektors pengemultiplikator. Når eller hvis gælden betales, destrueres de bankskabte penge på ny, pengemængden skrumper, økonomien svækkes, job forsvinder.
+
+	»Hvis denne pengeskabelse uden for Nationalbanken ikke var der, ville det være særdeles problematisk, for så var der ikke ret mange, der kunne købe deres eget hus, og der ville ikke blive bygget ret mange veje og aldrig en metro. Vi er afhængige af, at der er et marked for gældsætning. Altså at vi kan bygge noget i dag baseret på en forventning om fremtidig indkomst,« siger Nordeas Helge Pedersen.
+
+	Han gør opmærksom på, at selve mekanismen med pengemultiplikatoren er »århundreder gammel«. Det historisk nye er omfanget af den private finanssektors pengeskabelse via den omfattende gældsopbygning.
+
+	Krisen har afsløret, hvordan bankaktionærers krav om afkast, bonusordninger til ledende bankfolk samt provision til medarbejdere, der sikrede nye udlån, har suppleret en urealistisk vækstoptimisme som drivkraften, der har drevet långivning og gældsætning til eksorbitante, uholdbare niveauer. Indledningsvis i USA, hvor husejeres evne til at betale afdrag og renter på deres voksende lån bristede, og hvor tilliden til og i finanssektoren derfor forvitrede og udløste den systemiske finanskrise.
+
+	Nogle af de store amerikanske investeringsbanker var ved krisens udbrud oppe på et niveau af långivning, der svarede til 25-30 gange deres egenkapital, fortæller Helge Pedersen.
+
+	Han nævner også den britiske bank Northern Rock – én af de banker der i iveren efter at forsyne boligejere med tilstrækkelig mange lån selv gik ud på kapitalmarkederne og optog store lån.
+
+	»Da det internationale kapitalmarked pludselig frøs til, kunne Northern Rock ikke længere skaffe finansiering. Man var til sidst helt nede på at tage lån, der måske løb i en uge til en meget høj rente, til sikring af langtløbende boliglån. Forretningsmodellen blev derfor tabsgivende med et dramatisk fald i aktiekursen og run på bankens filialer til følge,« siger Helge Pedersen om den britiske bank, der i 2008 måtte overtages af staten. En af dem, der placerer årsagen til krisen på den private banksektors ukontrollerede pengeskabelse, er lord Adair Turner, indtil for nylig formand for den britiske finansreguleringsmyndighed, Financial Services Authority.
+
+	»Den finansielle krise i 2007-08 opstod, fordi vi mislykkedes med at sætte grænser for det finansielle systems skabelse af privat kredit og penge,« sagde lord Turner ved en forelæsning i februar.
+
+– I lyset af hvordan gældsætningen løb løbsk op til krisen, bør retten til pengeskabelse så ikke ligge hos staten og nationalbanken frem for hos private bankvirksomheder?
+
+	»Så skulle alle bankerne være statsejede, men hvorfor skulle det blive bedre? Det ville være de samme folk, som var ansat,« siger Helge Pedersen.
+
+	Ny regulering på vej
+
+	Cheføkonomen synes, det er svært at sige, hvem der skal bebrejdes, at pengeskabelsen løb løbsk i form af de »relativt eksorbitante gældsniveauer«, der udløste krisen.
+
+	»Der er jo både dem, der er interesserede i at tage lånene, og dem der er interesserede i at yde lånene samt det omkringliggende samfund, der skal hindre tingene i at løbe løbsk, men måske selv kom til at undervurdere udviklingen,« siger han.
+
+	»Nu strammer man så reguleringen for at undgå endnu et systemisk nedbrud i den finansielle sektor.«
+
+	Netop nu forhandles der på Christiansborg om at skærpe kravene til de største banker, så forholdet mellem udlånenes størrelse og egenkapitalen bliver mere betryggende. Forslaget om skærpede kapitalkrav mødes ikke med begejstring i finanssektoren eller af oppositionen i Folketinget.
+
+	»Den aktuelle regulering af finanssektoren risikerer at bremse, at vi kommer ud af krisen. For hvis bankerne ikke kan låne så meget ud, som de ellers ville have gjort i den nuværende fase af krisen, kan de ikke være med til at katalysere et økonomisk opsving – der vil ikke blive investeret i nye maskiner, bygninger, boliger, veje. Sammen med spareøvelserne er det, hvad vi ser i Europa for tiden,« mener Helge Pedersen, der omvendt i et 15-20 års perspektiv ser reguleringen resultere i en mere solid finansiel sektor og derfor mindre risiko for nye store kollaps i verdensøkonomien. Mens det således diskuteres, hvor stor den bankbaserede produktion af virtuelle penge bør være, og hvordan den kan styres, mærker nogle den fortsatte krise og aktuelle minusvækst som en smertefuld mangel på kontanter af den gode gammeldags slags.
+
+	»Har De et par kroner til en hjemløs?«
+

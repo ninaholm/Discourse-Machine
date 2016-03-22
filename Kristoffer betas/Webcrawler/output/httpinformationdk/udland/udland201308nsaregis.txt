@@ -1,0 +1,57 @@
+NSA registrerer ’næsten alt’, hvad internetbrugere gør
+Spionværktøjet XKeyscore muliggør den hidtil ’mest vidtgående’ indsamling af onlinedata. Uden forudgående tilladelse kan den amerikanske efterretningstjenestes medarbejdere søge i e-mailkorrespondance, aktivitet på sociale medier og browserhistorik
+
+
+ 
+	Et tophemmeligt National Security Agency-program giver den amerikanske efterretningstjenestes analytikere adgang til at gennemsøge enorme databaser indeholdende e-mailkorrespondancer, onlinechat-sessioner og browserhistorik for millioner af enkeltpersoner – uden at de skal indhente nogen forudgående retskendelse. Det fremgår af dokumenter, som The Guardian har fået fra whistlebloweren Edward Snowden. 
+
+	I internt undervisningsmateriale praler NSA med, at programmet, der kaldes XKeyscore, er dets »mest vidtgående« system til at høste efterretninger fra internettet.
+
+	Afsløringen af XKeyscore må forventes at intensivere den allerede ophedede debat i offentligheden og den amerikanske kongres om omfanget af NSA’s overvågningsprogrammer. Den kommer på et tidspunkt, hvor højtstående amerikanske efterretningsofficerer skal vidne under en høring i det amerikanske senats retsudvalg, og hvor efterretningstjenesten har frigivet et udvalg af klassificerede dokumenter for at imødegå The Guardians tidligere historier om den omfattende indsamling af generelle telefondata, som NSA gennemfører efter særlige beføjelser fra en hemmelig efterretningsdomstol.
+
+	De senest lækkede dokumenter kaster nyt lys over ​​Edward Snowdens mest kontroversielle udtalelse i det første interview, han gav til The Guardian (bragt den 10. juni).
+
+	»Som jeg sidder her ved mit skrivebord,« sagde Snowden, »kan jeg overvåge hvem som helst, lige fra dig til din revisor, en forbundsstatslig dommer, ja, selv præsidenten, hvis bare jeg har den personlige e-mailadresse«.
+
+	Amerikanske regeringsembedsmænd har kategorisk afvist denne påstand. Mike Rogers, den republikanske formand for efterretningsudvalget i Repræsentanternes Hus, udtalte om Snowden påstand: 
+
+	»Han lyver. Det er umuligt for ham at gøre, hvad han siger, han kan gøre.«
+
+	Men XKeyscore-undervisningsmaterialet redegør i detaljer for, hvordan analytikere kan bruge programmet og andre systemer til at udvinde efterretninger fra agenturets enorme databaser ved at udfylde en simpel on-screen-formular, der kun behøver at anføre en bred begrundelse for at foretage søgningen. 
+
+	Anmodningen kommer ikke til gennemsyn hos nogen domstol eller hos andre NSA-medarbejdere, før den behandles og effektueres.
+
+	XKeyscore, hedder det i dokumenterne, er NSA’s »mest vidtrækkende« system til at høste efterretninger fra computernetværk, en proces der i agenturets fagsprog kaldes for Digital Network Intelligence (DNI). Ifølge en af fremstillingerne skulle programmet omfatte »næsten alt, hvad den typiske bruger foretager sig på internettet«, herunder indholdet af e-mails, historik over besøgte websteder og søgninger samt disses metadata.
+
+	Analytikere kan også bruge XKeyscore og andre NSA-systemer til at gennemføre løbende ’realtids’-aflytning af en given persons internetaktivitet.
+
+	300 terrorister pågrebet
+
+	I henhold til amerikansk lov er NSA forpligtet til at indhente en individuel retskendelse fra efterretningsdomstolen, hvis den overvågede person er »en amerikansk person«, hvorimod en sådan kendelse ikke er fornøden for at overvåge amerikanske statsborgeres kommunikation med udenlandske statsborgere. Men XKeyscore tilbyder den teknologiske kapacitet, om ikke den juridiske myndighed, til også at gennemføre målrettet elektronisk overvågning af amerikanere uden retskendelse. Alt hvad der kræves er, at elementære identifikationsoplysninger såsom e-mail eller IP-adresse er kendt af analytikeren.
+
+	Et præsentations-slide i undervisningsmaterialet illustrerer den digitale aktivitet under XKeyscores vedvarende dataindsamlings-aktivitet og analytikerens mulighed for til stadighed at sende forespørgsler til databasen.
+
+	Formålet med XKeyscore er desuden at give analytikere mulighed for at søge i metadata samt i indholdet af e-mails og anden internetaktivitet, såsom browserhistorik, selv når der ikke findes en kendt email-konto (en ’selector’ i NSA’s sprogbrug), som er knyttet til den person, der overvåges.
+
+	Analytikere kan også søge efter navn, telefonnummer, IP-adresse, søgeord, det anvendte sprog i internetkommunikationen, eller hvilken type browser der anvendes.
+
+	I et enkelt dokument bemærkes det, at dette er, fordi »en stærk selektion [en søgning via e-mail-adresse, red.] i sig selv kun giver meget begrænset kapacitet«, da »en stor mængde handlinger på internettet sker anonymt.«
+
+	NSA dokumenterne hævder, at i 2008 blev 300 terrorister pågrebet takket være hjælp af efterretninger fra XKeyscore.
+
+	Mailadresse er nøglen
+
+	Analytikere advares imod at gennemsøge den fulde database for indhold, da dette genererer så mange resultater, at de bliver umulige at finkæmme. I stedet anbefales de at bruge metadata, der også er gemt i databaserne, for at indsnævre søgningerne.
+
+	Et slide med overskriften ’Plug-ins’ i et dokument fra december 2012 beskriver de forskellige informationsfelter, hvor der kan søges. Disse omfatter »enhver e-mail-adresse, der kan ses i en session efter både brugernavn og domæne«, »ethvert telefonnummer, der registreres i en session (f.eks adressebogsindgange eller signaturblokke)« og brugeraktivitet – »webmail og chataktiviteten, som også omfatter brugernavn, kontaktliste, maskinspecifikke cookies osv.«
+
+	I et andet Guardian-interview i juni uddybede Snowden sin påstand om, at han ville være i stand til at læse en hvilken som helst individuel e-mail, hvis blot han havde personens e-mail-adresse. Han fortalte, at påstanden til dels byggede på de e-mail-søgefunktioner, som findes i XKeyscore – et program, som Snowden siger, han fik tilladelse til at bruge, da han arbejdede for NSA som kontraktansat i firmaet Booz Allen.
+
+	Et tophemmeligt dokument beskriver, hvordan programmet »søger inden for bundter af e-mails, websider og dokumenter«, herunder i ’til’, ’fra’, ’cc’ og ’bcc’-felterne og ’kontakt os’-feltet på hjemmesider.«
+
+	For at søge efter e-mails skal en analytiker, der bruger XKS, blot indtaste den pågældende persons e-mail-adresse i et simpelt online-søgningsskema sammen med »begrundelsen« for søgningen samt den periode, inden for hvilken der søges efter e-mails.
+
+© The Guardian og Information
+
+Oversat af Niels Ivar Larsen
+

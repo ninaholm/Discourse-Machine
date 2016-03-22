@@ -1,0 +1,15 @@
+It-chef: Således kan ny Se og Hør-sag undgås
+It-ekspert foreslår justitsminister at lovgive om ansættelsesproces i firmaer, der arbejder med følsom data.
+
+
+ Der er adskillige knapper, som justitsminister Karen Hækkerup (S) kan dreje på i forhold til at forbedre sikkerheden omkring oplysninger om borgernes elektroniske betalinger.
+Det vurderer chef for it-sikkerhedsorganisationen DK Cert, Shehzad Ahmad, efter at ministeren torsdag bestilte en kortlægning af sikkerheden i kølvandet på Se og Hør-skandalen, hvor en PBS-medarbejder har lækket informationer om kendte danskeres kreditkortaktiviteter.
+Shehzad Ahmad mener først og fremmest, at adgangen til de følsomme oplysninger skal begrænses i virksomhederne.
+- Man kan eksempelvis indføre rollebaseret adgangskontrol. Er det virkelig nødvendigt, at en driftsmedarbejder kan se al indholdet af dataene? Man må kunne lave rettigheder, så medarbejderen kun har adgang til det højst nødvendige.
+- Og hvis der så er noget følsomt data, der absolut skal bruges af medarbejderen, er der to andre medarbejdere, der først skal godkende adgangen og behandlingen, siger Shehzad Ahmad.
+Han foreslår også, at regeringen går ind og lovgiver på ansættelsesprocessen i virksomhederne.
+- Regeringen må kunne stille nogle krav som eksempelvis sikkerhedsgodkendelser. I dag er det som regel op til den enkelte virksomhed at vurdere hvilke krav, der skal stilles til kommende medarbejdere. Det er et område, man med lovgivning sagtens kan stramme op på.
+Shehzad Ahmad foreslår også, at der kigges grundigt på de systemer, som betalingskortvirksomhederne bruger.
+- Sikkerheden skal bygges ind i systemet fra dag et af. Det skal ikke være ældre systemer, som man lægger ny sikkerhed ind over. På den måde kan man sikre, at data adskilles. Driftsfolk vil kunne vedligeholde uden at kunne læse oplysningerne.
+- Jeg forestiller mig, at medarbejderen eksempelvis vil kunne se transaktionerne, valuta, tid og sted, men ikke hvem der ejer kreditkortet. Det kan sagtens lade sig gøre at adskille de ting, siger han.
+Endeligt mener Shehzad Ahmad, at Karen Hækkerup bør kigge på muligheden for at indføre hårdere straffe for datamisbrug.

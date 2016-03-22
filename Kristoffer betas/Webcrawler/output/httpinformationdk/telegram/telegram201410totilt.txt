@@ -1,0 +1,14 @@
+De to tiltalte i den store hackersag er kendt skyldige
+De to tiltalte i den store hackersag mod CSC er kendt skyldige i hacking ved Retten på Frederiksberg #hackersag
+
+
+ Den tiltalte svensker Gottfrid Svartholm Warg og den 21-årige dansker JKT er blevet kendt skyldige ved Retten på Frederiksberg i hackersagen om indbrud i et stort dataanlæg hos CSC.
+Det er Warg, der er fundet skyldig i hacking af CSC's såkaldte mainframe, mens JKT er kendt skyldig i medvirken til hacking.
+Begge er kendt skyldige efter straffelovens paragraf 263, mens Warg også er kendt skyldig i henhold til straffelovens paragraf 291.
+Ved hackerangrebene, der fandt sted i perioden april til august 2012, har hackerne fået adgang til forskellige offentlige registre, herunder CPR-registret, politiets kriminalregister og det såkaldte SIS-register over internationalt efterlyste personer.
+Helt nøjagtigt er der stjålet 246.490 registreringer fra politiets kriminalregister fordelt på 91.011 unikke personnumre.
+På tidspunktet for hackerangrebet befandt Gottfrid Svartholm Wargs computer sig i Cambodjas hovedstad, Phnom Penh.
+Svenskeren har hele tiden medgivet, at hans computer blev brugt til hackerangrebet, men sagt, at computeren var fjernstyret, og at han dermed var uskyldig. Det har retten dog vurderet anderledes.
+JKT er kendt skyldig i medvirken til hacking. I februar 2012 chattede to personer, som retten altså nu fastslår var Warg og JKT. Her chattede de om muligheden for at bryde ind i et computeranlæg hos CSC.
+#hackersag
+

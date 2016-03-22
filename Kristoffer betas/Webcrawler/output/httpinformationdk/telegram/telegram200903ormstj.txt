@@ -1,0 +1,8 @@
+Orm stjæler Facebook-koder
+
+
+
+ Det kan være risikabelt at se YouTube-videoer på Facebook. En orm skjult i klip fra YouTube kan komme ind i computeren og tage dine koder, samtidig sender den en falsk YouTube video til alle dine Facebookvenner. Det oplyser It-sikkerhedsfirmaet Trend Micro.
+ Ormen begynder med at sende en falsk meddelelse, som ser ud til at komme fra en Facebook-ven. Meddelelsen opfordrer til at kigge på en YouTube-video, som ser ud til at være lavet af en Facebook-ven. Meddelsen viser vennens navn og foto ved siden af videoen. 
+ For at komme ind i computeren sendes ormen ind via Adobe Flash-fil, som skal installeres. Det er dog et falsk link, der sender ormen ind i computeren, og dermed har hackerne adgang til computeren. Her begynder den at æde cookies og dermed login-oplysninger til sociale websites. Ormen kobler sig på websiderne ved hjælp af de informationer, den finder. Herefter kortlægger ormen alle vennerne og sender dem et link, så de også kan downloade ormen og blive inficeret af den. 
+ Det betyder, at når ormen først er kommet ind på en computer, kan den hente og sende informationer fra den og koble sig på servere samt give hackere adgang til den. 

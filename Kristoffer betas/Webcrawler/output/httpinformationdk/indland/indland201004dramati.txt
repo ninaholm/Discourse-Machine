@@ -1,0 +1,22 @@
+Dramatisk start på VM
+Topalov og Anand vandt deres hvide partier
+
+
+ Der er en langvarig tradition for, at VM-matcher i skak får en sløv begyndelse. Parterne skal lige føle hinanden lidt på tænderne med et par remiser, inden det for alvor går løs. I lørdags blev VM-matchen i Sofia indledt på ganske anden vis, da udfordreren Veselin Topalov havde hvid mod den forsvarende mester Viswanathan Anand:
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.cxd5 Sxd5 5.e4 Sxc3 6.bxc3 Lg7 7.Lc4 c5 8.Se2 Sc6 9.Le3 0-0 10.0-0 Sa5 11.Ld3 b6 12.Dd2 e5 13.Lh6 - et kendt og chancerigt bondeoffer - cxd4 14.Lxg7 Kxg7 15.cxd4 exd4 16.Tac1 Dd6 ...
+Vistnok nyt. Men bulgareren virker velforberedt og spiller hurtigt:
+17.f4 f6 18.f5 De5 19.Sf4 g5 20.Sh5+ Kg8 21.h4 h6 22.hxg5 hxg5 23.Tf3 Kf7??
+Se diagrammet.
+Inderens sidste træk bliver prompte gendrevet:
+24.Sxf6! - resten er kramper - Kxf6 25.Th3 Tg8 26.Th6+ Kf7 27.Th7+ Ke8 28.Tcc7 Kd8 29.Lb5 Dxe4 30.Txc8+ ...
+Og Anand opgav. På 30. - Kxc8 følger nemlig 31.Dc1+ med indtrængen af hendes majestæt, mens 30. - Txc8 besvares med 31.Td7+ Ke8 32.Txd4+ etc. Topalov havde brugt mindre end en time til denne udspilning.
+Anands udligning
+En rædselsfuld start for Anand. Men om søndagen fik piben en anden lyd, da det var verdensmesterens tur til at have hvid:
+1.d4 Sf6 2.c4 e6 3.Sf3 d5 4.g3 dxc4 5.Lg2 a6 6.Se5 c5 7.Sa3 cxd4 8.Saxc4 Lc5 9.0-0 0-0 10.Ld2 Sd5 11.Tc1 Sd7 12.Sd3 La7 13.La5 De7 14.Db3 Tb8 15.Da3 Dxa3 16.bxa3 ...
+Bernhard Shaw, den vittige hund, er citeret for en bemærkning om, at Richard Wagners musik er bedre end den lyder. Her er Anands stilling bedre, end den ser ud:
+16. - S7f6 17.Sce5 Te8 18.Tc2 b6 19.Ld2 Lb7 20.Tfc1 Tbd8 21.f4 Lb8 22.a4 a5 23.Sc6 Lxc6 24.Txc6 h5 25.T1c4 Se3? - forkert, mente eksperterne ved ringside, og de havde vist ret -  26.Lxe3 dxe3 27.Lf3 g6 28.Txb6 ...
+Anand blev rullet i første parti, men herfra spiller han så suverænt, at det nærmest lyser ud af hans træk: »Du er for nem, Topalov!«
+28. - La7 29.Tb3 Td4 30.Tc7 Lb8 31.Tc5 Ld6 32.Txa5 Tc8 33.Kg2 Tc2 34.a3 Ta2 35.Sb4 Lxb4 36.axb4 Sd5 37.b5 Taxa4 38.Txa4 Txa4 39.Lxd5 exd5 40.b6 Ta8 41.b7 Tb8 42.Kf3 d4 43.Ke4 - og 1-0.
+Forenkling fremmer undertiden forståelsen, så lad det være min påstand, at Topalov vandt det første parti på kombinatorisk råstyrke, mens Anand i det andet viste sig positionelt overlegen. Tredje parti spilles i dag, og efter den forrygende indledning på matchen skal vi ikke kaste os ud i nogen spådom.
+
+
