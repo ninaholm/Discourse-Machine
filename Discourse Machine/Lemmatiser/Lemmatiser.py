@@ -32,7 +32,7 @@ def lemmatise_directory(dir_path):
 		for l in line[33:]:
 			words = l.split("\t")
 			if len(words) > 1:
-				if words[1] not in string.punctuation and not words[1].isdigit():
+				if words[1] is "." or words[1] not in string.punctuation and not words[1].isdigit():
 					file_fin.write(words[1] + " ")
 		file_fin.close()
 

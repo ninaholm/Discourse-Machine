@@ -6,6 +6,7 @@ venstre
 	forbrugerombudsmand
 	ændringsforslag
 	pe
+	sonar
 	fup|fuppe
 	budgetredegørelse
 	spritdom
@@ -22,9 +23,11 @@ venstre
 	akt
 	pjece
 	udskydelse
-	venstre
 	budgetfifleri
+	green
+	ande
 	mandat
+	venstre
 	rentefradrag
 	finanslovsforlig
 	fogh
@@ -35,10 +38,9 @@ venstre
 	nxjagtighed
 	overste
 	stavad
+	konservativ
 	jann
 	sjurs
-	konservativ
-	sonar
 	aktieafgift
 	rad
 	sande
@@ -58,10 +60,10 @@ venstre
 	udhuling
 	opreklamere|opreklameret
 	eu-beskæftigelsesprojekt
-	tåre
 	beskæftigelsesprojekt
 	græde
 	ten
+	tåre
 	eu-jobprojekt
 	sommer
 	hækkerup
@@ -80,6 +82,7 @@ venstre
 	fl97-svar
 	højskoleforstander
 	t
+	ellemann-jens
 	trin|trine
 	buksti
 	fidus
@@ -89,13 +92,10 @@ venstre
 	tele-kunde
 	hovedaftager|hovedaftage
 	mm
-	thor
 	monto
-	ellemann-jens
 	eu-uenighed
+	thor
 	jobskabelse
 	åbningstale
 	anlægsprojekt
 	blokpolik
-	løje|lyve
-	gfk-prøvevalg

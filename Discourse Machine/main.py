@@ -2,27 +2,32 @@ from XML_parser.XMLparser import parse
 from TFIDF_indexer.TFIDFindexer import index
 from TFIDF_searcher.TFIDFsearcher import searchArticles, searchTopWords
 from Lemmatiser.Lemmatiser import *
-from Topic_categoriser.topic_categoriser import *
+from Topic_categoriser.topic_categoriser import run_topic_categoriser
+#from Topic_categoriser.frequent_neighbours import *
 import time
 
 starttime = time.time()
 # parsedCorpus = parse(0)
 # print
 
-# lemmatise_directory("data/xmlparser_output")
+lemmatise_directory("data/xmlparser_output")
 # print
 
-indexes = index(0)
-TFIDFindex = indexes[0]
-ARTICLEindex = indexes[1]
-print
+#indexes = index(0)
+#TFIDFindex = indexes[0]
+#ARTICLEindex = indexes[1]
+#print
 
-articles = searchArticles(TFIDFindex, ARTICLEindex)
-print
+#articles = searchArticles(TFIDFindex, ARTICLEindex)
+#print
 
-searchTopWords(TFIDFindex, ARTICLEindex, articles, 100)
-print
+# searchTopWords(TFIDFindex, ARTICLEindex, articles, 100)
+# print
 
+#run_frequent_neighbours(TFIDFindex)
+#print
+
+# Extract the list of article_ids
 # article_ids = []
 # data_folder = "data/lemmatiser_output/"
 # li = articles[0][1]
