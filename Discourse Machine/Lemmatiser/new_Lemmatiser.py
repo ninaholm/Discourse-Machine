@@ -39,7 +39,7 @@ def lemmatise_directory(dir_path):
 	print ">>LEMMATISE: Tokenising and lemmatising", len(all_files), "documents."
 	starttime = time.time()
 	
-	all_files = glob.glob(dir_path + "data/*.txt")
+	all_files = glob.glob(dir_path + "data/original_data/*.txt")
 	lemmatised_output = {}
 
 
