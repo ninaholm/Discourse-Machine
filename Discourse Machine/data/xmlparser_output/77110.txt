@@ -1,8 +1,0 @@
-RENTEFALD FÅR AKTIER TIL AT STIGE BREDT.
-
-KØBENHAVN, 25 oktober (Reuter) - Efter en negativ start som reaktion på Dow Jones&apos;s fjerde fald i træk, har det danske aktiemarked vendt rundt, og er på vej op.
-- Det er meget rentestyret i dag. Obligationerne går op, og det reagerer man på. Stigningerne rammer således meget bredt, siger en aktiehandler.
-KFX-indekset er steget 0,44 point ved middagstid fredag til kurs 127,31.
-Dealeren venter ikke de store prismæssige bevægelser i løbet af eftermiddagen, og venter, at indekset lukker på niveauet.
-Ved dobbeltklik på følgende koder kan oplysninger om den seneste udvikling på det danske aktiemarked ses: (.KFX) - KFX Indekset (.PG.CO) - Top 10 stigninger i procent (.PL.CO) - Top 10 tabere i procent (.AD.CO) - Markedsoverblik inkl. volumen i stk. (KFXc1) - KFX november futuren (0#TOP.CO)-KFX-aktier seneste kursudvikling (.AV.CO) - Top 10 efter styk-volumen (.AT.CO) - Top 10 efter kursbevægelser (/clm).
-(c) Reuters Limited 1996.
