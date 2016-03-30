@@ -26,36 +26,39 @@ def lemmatise(input_content):
 	os.remove(input_file + ".segments")
 
 	#Clean the meta from the output
-	lem_dict = lem_dict.replace("\t ", "")
+	output = []
 	lem_dict = lem_dict.split("\n")
+	for l in lem_dict[33:]:
+		words = l.split("\t")
+		if len(words) > 1:
+			if words[1] is "." or words[1] not in string.punctuation and not words[1].isdigit():
+				output.append(words[1])
 
-	return lem_dict[33:]
+	return output
 
 
 
 
-def lemmatise_directory(dir_path):
+def lemmatise_directory(dir_path):	
+	all_files = glob.glob(dir_path + "/*.in")
+
 	# Statistics
 	print ">>LEMMATISE: Tokenising and lemmatising", len(all_files), "documents."
 	starttime = time.time()
-	
-	all_files = glob.glob(dir_path + "data/original_data/*.txt")
-	lemmatised_output = {}
-
 
 	for input_file in all_files:
-		output_file = {}
+		print ">>LEMMATISE: Grabbing file", input_file.split("/")[-1]
 		with open(input_file, "r") as file:
 			articles = pickle.load(file)
 		
 		for article in articles:
-			art_content = article.value()
+			art_content = articles[article]
 			for i in range(len(art_content)):
-				art_content[i] = lemmatise_file(art_content[i])
-			output_file[article.key()] = art_content
+				art_content[i] = lemmatise(art_content[i])
+			articles[article] = art_content
 		
-		with open("data/lemmatiser_output/" + input_file, "w") as file:
-			pickle.dump(output_file, file)
+		with open("data/lemmatiser_output/" + input_file.split("/")[-1], "w") as file:
+			pickle.dump(articles, file)
 		
 
 	# Print final time stamp
