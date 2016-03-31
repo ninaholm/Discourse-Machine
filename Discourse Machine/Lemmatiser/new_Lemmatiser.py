@@ -53,7 +53,7 @@ def lemmatise_directory(dir_path):
 		
 		for article in articles:
 			art_content = articles[article]
-			for i in range(len(art_content)):
+			for i in range(1, len(art_content)):
 				art_content[i] = lemmatise(art_content[i])
 			articles[article] = art_content
 		
