@@ -8,6 +8,7 @@ import pickle
 
 
 def lemmatise(input_content):
+	split_word = " JKDHGLSHFGSNDVJNKGBFSHKGBWVDJSBFVDJSGDHGD ".lower()
 	
 	input_file = "Lemmatiser/temp"
 	
@@ -41,6 +42,7 @@ def lemmatise(input_content):
 
 def lemmatise_directory(dir_path):	
 	all_files = glob.glob(dir_path + "/*.in")
+	split_word = "JKDHGLSHFGSNDVJNKGBFSHKGBWVDJSBFVDJSGDHGD".lower()
 
 	# Statistics
 	print ">>LEMMATISE: Tokenising and lemmatising", len(all_files), "documents."
@@ -56,6 +58,9 @@ def lemmatise_directory(dir_path):
 			for i in range(1, len(art_content)):
 				art_content[i] = lemmatise(art_content[i])
 			articles[article] = art_content
+			print articles[article]
+			raw_input("press enter")
+			
 		
 		with open("data/lemmatiser_output/" + input_file.split("/")[-1], "w") as file:
 			pickle.dump(articles, file)
