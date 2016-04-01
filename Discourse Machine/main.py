@@ -10,16 +10,16 @@ starttime = time.time()
 # parsedCorpus = parse(0)
 # print
 
-lemmatise_directory("data/original_data/information")
+#lemmatise_directory("data/original_data/information")
 # print
 
-#indexes = index(0)
-#TFIDFindex = indexes[0]
-#ARTICLEindex = indexes[1]
-#print
+# indexes = index(0)
+# TFIDFindex = indexes[0]
+# ARTICLEindex = indexes[1]
+# #print
 
-#articles = searchArticles(TFIDFindex, ARTICLEindex)
-#print
+# articles = searchArticles(TFIDFindex, ARTICLEindex)
+# #print
 
 # searchTopWords(TFIDFindex, ARTICLEindex, articles, 100)
 # print
@@ -27,7 +27,7 @@ lemmatise_directory("data/original_data/information")
 #run_frequent_neighbours(TFIDFindex)
 #print
 
-# Extract the list of article_ids
+#Extract the list of article_ids
 # article_ids = []
 # data_folder = "data/lemmatiser_output/"
 # li = articles[0][1]
