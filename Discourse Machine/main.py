@@ -1,8 +1,12 @@
 from XML_parser.XMLparser import parse
-from TFIDF_indexer.TFIDFindexer import index
+from Word_indexer.Wordindexer import index
 from TFIDF_searcher.TFIDFsearcher import searchArticles, searchTopWords
 from Lemmatiser.new_Lemmatiser import *
+<<<<<<< HEAD
 from Sentiment_classifier.sentiment_classifier import run_sentiment_classifier
+=======
+# from Sentiment_classifier.sentiment_classifier import run_topic_categoriser
+>>>>>>> 653cd2678a1b6fea21aebc7a24e1d64067a2be54
 #from Topic_categoriser.frequent_neighbours import *
 import time
 
@@ -14,17 +18,26 @@ starttime = time.time()
 # print
 
 indexes = index(0)
+<<<<<<< HEAD
 TFIDFindex = indexes[0]
 ARTICLEindex = indexes[1]
 print
 
 articles = searchArticles(TFIDFindex, ARTICLEindex)
 print
+=======
+wordIndex = indexes[0]
+articleIndex = indexes[1]
+#print
 
-# searchTopWords(TFIDFindex, ARTICLEindex, articles, 100)
-# print
+articles = searchArticles(wordIndex, articleIndex)
+#print
+>>>>>>> 653cd2678a1b6fea21aebc7a24e1d64067a2be54
 
-#run_frequent_neighbours(TFIDFindex)
+searchTopWords(wordIndex, articleIndex, articles, 100)
+print
+
+#run_frequent_neighbours(wordIndex)
 #print
 
 #Extract the list of article_ids
