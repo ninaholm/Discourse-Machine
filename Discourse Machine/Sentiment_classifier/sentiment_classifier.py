@@ -18,11 +18,9 @@ def read_dictionary(dict_path):
 def calculate_sentiment_score(dictionary, article_list, WORDindex):
 	sentiment_score = 0
 	for word in dictionary:
-		if hash(word) in WORDindex:
-			print "Checking for word....", word
-			for article in WORDindex[hash(word)]:
-				print type(article)
-				if article[0] in article_list:
+		if word in WORDindex:
+			for article in WORDindex[word][1]:
+				if article in article_list:
 					print "Changing sentiment score"
 					sentiment_score = sentiment_score + dictionary[word] * article[1]
 		
@@ -32,7 +30,6 @@ def calculate_sentiment_score(dictionary, article_list, WORDindex):
 def run_sentiment_classifier(article_list, WORDindex):
 	reload(sys)
 	sys.setdefaultencoding('utf-8')
-
 
 	dict_path = "Sentiment_classifier/sentiment_dictionaries/universal_dictionary.csv"
 	
