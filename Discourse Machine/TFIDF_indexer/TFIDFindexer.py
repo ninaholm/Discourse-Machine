@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 import os
 import glob
 import operator
@@ -13,38 +15,38 @@ def index(self):
 
 	doccount = 0
 	totalwordcount = 0
+	inputdata = {}
 
-	for file in glob.glob(os.path.join(inputpath, '*.txt')):
-		doc = open(file, "r")
+	for file in glob.glob(os.path.join(inputpath, '*.in')):
+		print ">>INDEX: Unpickling: \t '%s'." %os.path.split(file)[1]
+		pickledData = open(file, "r")
+		tmp = pickle.load(pickledData)
+		inputdata.update(tmp)
+		pickledData.close()
+
+	print ">>INDEX: Indexing %s articles." % len(inputdata)
+	for doc in inputdata:
 		doccount += 1
 		wordcount = 0
-		articleid = os.path.split(file)[1]
+		articleid = doc
 
-		for line in doc:
+		for line in inputdata[doc]:
 			#print "line: %s" % line
-			line = line.lower().strip()
-
-			if len(line) < 2:
+			if len(line) < 1:
 				continue
-
-			line = line.split(" ")
 
 			for word in line:
 				if len(word) < 1:
 					continue
 				wordcount += 1
-				word = word.translate(None, "!@#$,.'")
-				word = word.translate(None, '<[]():^%">?*/_+')
-
 				if hash(word) in index:
 					if articleid in index[hash(word)][1]:
 						index[hash(word)][1][articleid] += 1 
 					else:
 						index[hash(word)][1][articleid] = 1
-			
 				else:
 					index[hash(word)] = [word, {articleid:1}]
-				#print "articleid: %s" % index[hash(word)]
+				# print "articleid: %s" % index[hash(word)]
 		totalwordcount += wordcount
 		articlecounts[articleid] = wordcount
 
