@@ -23,6 +23,7 @@ def index(self):
 		tmp = pickle.load(pickledData)
 		inputdata.update(tmp)
 		pickledData.close()
+		break
 
 	print ">>INDEX: Indexing %s articles." % len(inputdata)
 	for doc in inputdata:
@@ -40,12 +41,12 @@ def index(self):
 					continue
 				wordcount += 1
 				if word in index:
-					if articleid in index[word][1]:
-						index[word][1][articleid] += 1 
+					if articleid in index[word]:
+						index[word][articleid] += 1 
 					else:
-						index[word][1][articleid] = 1
+						index[word][articleid] = 1
 				else:
-					index[word] = [word, {articleid:1}]
+					index[word] = {articleid:1}
 				# print "articleid: %s" % index[word]
 		totalwordcount += wordcount
 		articlecounts[articleid] = wordcount

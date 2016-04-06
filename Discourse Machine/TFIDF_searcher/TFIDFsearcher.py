@@ -7,14 +7,14 @@ import time
 from Lemmatiser.Lemmatiser import *
 
 
-def searchArticles(TFIDFindex, ARTICLEindex):
+def searchArticles(wordIndex, articleIndex):
 	starttime = time.time()
 	print ">>SEARCHARTICLES: Search for top TF-IDF values has started."
 
 	searchtermspath = os.getcwd() + "/TFIDF_searcher/searchterms.txt"
 	resultspath = os.getcwd() + "/TFIDF_searcher/articleresults.txt"
 
-	totaldoccount = len(ARTICLEindex)
+	totaldoccount = len(articleIndex)
 
 	searchterms = open(searchtermspath, "r")
 
@@ -24,14 +24,14 @@ def searchArticles(TFIDFindex, ARTICLEindex):
 		term = str(term).strip()
 		# term = lemmatise_input_term(term)
 		tmpresult = []
-		if term in TFIDFindex:
-			articlehits = TFIDFindex[term][1]
+		if term in wordIndex:
+			articlehits = wordIndex[term]
 			doccount = len(articlehits)
 			IDF = math.log10(totaldoccount / float(doccount))
 
 			for article in articlehits:
 				wordcount = articlehits[article]
-				articlewordcount = ARTICLEindex[article]
+				articlewordcount = articleIndex[article]
 				TF = wordcount / float(articlewordcount)
 				TFIDF = TF * IDF
 				tmpresult.append((article, TFIDF))
@@ -63,13 +63,13 @@ def searchArticles(TFIDFindex, ARTICLEindex):
 
 
 
-def searchTopWords(TFIDFindex, ARTICLEindex,articles,num):
+def searchTopWords(wordIndex, articleIndex,articles,num):
 	starttime = time.time()
 	print ">>SEARCHWORDS: Search for topic's topwords has started."
 
 	resultspath = os.getcwd() + "/TFIDF_searcher/topwordresults.txt"
 	resultfile = open(resultspath, "w")
-	totaldoccount = len(ARTICLEindex)
+	totaldoccount = len(articleIndex)
 
 	results = []
 
@@ -79,8 +79,8 @@ def searchTopWords(TFIDFindex, ARTICLEindex,articles,num):
 		articleids = {}
 
 		for article in topic[1]:
-			# print "articleids[%s] = ARTICLEindex[%s] = %s" % (str(article[0]), str(article[0]), str(ARTICLEindex[article[0]]))
-			articleids[article[0]] = ARTICLEindex[article[0]]
+			# print "articleids[%s] = articleIndex[%s] = %s" % (str(article[0]), str(article[0]), str(articleIndex[article[0]]))
+			articleids[article[0]] = articleIndex[article[0]]
 
 
 		# for article in topic[1]:
@@ -88,18 +88,18 @@ def searchTopWords(TFIDFindex, ARTICLEindex,articles,num):
 			
 		tmpresult = {}
 
-		for value in TFIDFindex:
-			word = TFIDFindex[value][0]
+		for value in wordIndex:
+			word = value
 			if len(word) == 0:
 				continue
-			articlehits = TFIDFindex[value][1]
+			articlehits = wordIndex[value]
 
-			IDF = math.log10(len(ARTICLEindex) / float(len(articlehits)))
+			IDF = math.log10(len(articleIndex) / float(len(articlehits)))
 
 			for article in articlehits:				
 				if article in articleids:
 					wordcount = articlehits[article]
-					articlewordcount = ARTICLEindex[article]
+					articlewordcount = articleIndex[article]
 					TF = wordcount / float(articlewordcount)
 					TFIDF = TF * IDF
 					if word in tmpresult:
