@@ -94,4 +94,3 @@ def lemmatise_input_term(input_term):
 	print ">>LEMMATISE: Lemmatising term", input_term, "as", lem[1]
 	return lem[1]
 
-
