@@ -39,14 +39,14 @@ def index(self):
 				if len(word) < 1:
 					continue
 				wordcount += 1
-				if hash(word) in index:
-					if articleid in index[hash(word)][1]:
-						index[hash(word)][1][articleid] += 1 
+				if word in index:
+					if articleid in index[word][1]:
+						index[word][1][articleid] += 1 
 					else:
-						index[hash(word)][1][articleid] = 1
+						index[word][1][articleid] = 1
 				else:
-					index[hash(word)] = [word, {articleid:1}]
-				# print "articleid: %s" % index[hash(word)]
+					index[word] = [word, {articleid:1}]
+				# print "articleid: %s" % index[word]
 		totalwordcount += wordcount
 		articlecounts[articleid] = wordcount
 

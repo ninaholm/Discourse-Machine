@@ -24,8 +24,8 @@ def searchArticles(TFIDFindex, ARTICLEindex):
 		term = str(term).strip()
 		# term = lemmatise_input_term(term)
 		tmpresult = []
-		if hash(term) in TFIDFindex:
-			articlehits = TFIDFindex[hash(term)][1]
+		if term in TFIDFindex:
+			articlehits = TFIDFindex[term][1]
 			doccount = len(articlehits)
 			IDF = math.log10(totaldoccount / float(doccount))
 
