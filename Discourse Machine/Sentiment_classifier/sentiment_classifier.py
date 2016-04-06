@@ -19,11 +19,10 @@ def calculate_sentiment_score(dictionary, article_list, WORDindex):
 	sentiment_score = 0
 	for word in dictionary:
 		if word in WORDindex:
-			for article in WORDindex[word][1]:
+			for article in WORDindex[word]:
 				if article in article_list:
-					print "Changing sentiment score"
-					sentiment_score = sentiment_score + dictionary[word] * article[1]
-		
+					sentiment_score = sentiment_score + int(dictionary[word]) * int(WORDindex[word][article])
+
 	return sentiment_score
 
 

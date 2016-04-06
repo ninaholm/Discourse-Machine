@@ -25,18 +25,16 @@ print
 articles = searchArticles(wordIndex, articleIndex)
 print
 
+
 # searchTopWords(wordIndex, articleIndex, articles, 100)
 # print
 
-#run_frequent_neighbours(wordIndex)
-#print
-
 #Extract the list of article_ids
 article_ids = []
-data_folder = "data/lemmatiser_output/"
 li = articles[0][1]
 for l in li:
-	article_ids.append(data_folder + l[0])
+	article_ids.append(l[0])
+
 
 run_sentiment_classifier(article_ids, wordIndex)
 print
