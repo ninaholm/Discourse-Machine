@@ -31,8 +31,7 @@ print
 
 #Extract the list of article_ids
 article_ids = []
-li = articles[0][1]
-for l in li:
+for l in articles[0][1]:
 	article_ids.append(l[0])
 
 
