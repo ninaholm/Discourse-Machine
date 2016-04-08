@@ -20,8 +20,8 @@ starttime = time.time()
 
 createLog(0)
 
-inputfiles = [["indland.in"], ["udland.in"], ["debat.in"],["kultur.in"]]
-# inputfiles = [["test_indland.in"], ["test_udland.in"]]
+# inputfiles = [["indland.in"], ["udland.in"], ["debat.in"],["kultur.in"]]
+inputfiles = [["test_data.in"]]
 
 # Loops through the chosen corpora and returns sentimentscore for every searchterm in them.
 for inputfile in inputfiles:
@@ -36,17 +36,10 @@ for inputfile in inputfiles:
 	for term in searchtermsfile:
 		searchterms.append(str(term).strip())
 
-<<<<<<< HEAD
-#Extract the list of article_ids
-article_ids = []
-for l in articles[0][1]:
-	article_ids.append(l[0])
-=======
 	# Loops through all searchterms and calculates their sentimentscore for the current corpus.
 	for term in searchterms:
 		articles = searchArticles(wordIndex, articleIndex, term)
 		print
->>>>>>> 5527d92c3848c4e477ddca04595dc21dd550372c
 
 		if len(articles) == 0:
 			continue
