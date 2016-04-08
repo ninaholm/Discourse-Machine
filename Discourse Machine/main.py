@@ -3,13 +3,14 @@ from Word_indexer.Wordindexer import index
 from TFIDF_searcher.TFIDFsearcher import searchArticles, searchTopWords
 from Lemmatiser.new_Lemmatiser import *
 from Sentiment_classifier.sentiment_classifier import run_sentiment_classifier
-from log.logger import log, createLog
+from log.logger import log, createLog, logChoice
 import time
 import sys
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
+logChoice = logChoice(0)
 
 starttime = time.time()
 # parsedCorpus = parse(0)
@@ -18,10 +19,11 @@ starttime = time.time()
 #lemmatise_directory("data/original_data/information")
 # print
 
-createLog(0)
+if logChoice == True:
+	createLog(0)
 
-inputfiles = [["indland.in"], ["udland.in"], ["debat.in"],["kultur.in"]]
-# inputfiles = [["test_indland.in"], ["test_udland.in"]]
+# inputfiles = [["indland.in"], ["udland.in"], ["debat.in"],["kultur.in"]]
+inputfiles = [["test_indland.in"], ["test_udland.in"]]
 
 # Loops through the chosen corpora and returns sentimentscore for every searchterm in them.
 for inputfile in inputfiles:
@@ -61,6 +63,7 @@ totalTime = round((time.time() - starttime), 3)
 print "Total time elapsed: %s seconds" % totalTime
 print
 
-log(totalTime)
+if logChoice == True:
+	log(totalTime)
 # input_term = raw_input("Enter topic term: ")
 # lem_input_term = lemmatise_input_term(input_term)

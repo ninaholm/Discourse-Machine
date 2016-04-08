@@ -1,6 +1,3 @@
 venstre
-enhedslisten
-df
-alternativ
-konservative
-sf
+højre
+ligeud

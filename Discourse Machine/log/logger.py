@@ -6,6 +6,8 @@ import time
 from time import gmtime, strftime
 import pickle
 from tabulate import *
+from operator import itemgetter
+import sys
 
 def log(totalTime):
 	logarray = unpickle(0)
@@ -30,27 +32,29 @@ def log(totalTime):
 		corporaCount += 1
 		corpusmetadata = ""
 		articleNum = 0
-		corpustable = [["TERM", "# ARTICLES", "SEARCH", "SENTIMENT", "SCORE"]]
+		corpusheader = ["TERM", "# ARTICLES", "SEARCH", "SENTIMENT", "SCORE"]
+		corpuscontent = []
 		for data in corpus: 
 			if len(data) == lenlimit:
 				corpusmetadata = "Corpus:\t\t\t %s \nArticles:\t\t %s\nUnique words:\t\t %s\nAvg. word/article:\t %s\nPickle time:\t\t %s s\nIndex time:\t\t %s s\nTotal time:\t\t %s s\n\n" %(data[0], data[1], data[2], data[3], data[4], data[5], data[6])
 				articleNum = data[1]
 				sentimentheader.append(data[0])
 				continue
-			term = data[0].decode('utf8')
+			term = data[0]
 			score = data[4]
 
 			# data[1] = str(data[1])
  			data[2] = str(data[2]) + " s"
 			data[3] = str(data[3]) + " s"
-			corpustable.append(data[0:5])
+			corpuscontent.append(data[0:5])
 
 			if term in sentimentdict:
 				sentimentdict[term].append(score)
 			else:
 				sentimentdict[term] = [score]
 		sentimentdict = padSentimentTable(sentimentdict, corporaCount)
-		timetable = table(corpustable[0], corpustable[1:])
+		corpuscontent.sort(key=itemgetter(0))
+		timetable = table(corpusheader, corpuscontent)
 		log.write("-" * 75 + "\n")
 		log.write(corpusmetadata)
 		log.write(timetable + "\n\n")
@@ -63,7 +67,7 @@ def log(totalTime):
 			arr.append(score)
 		sentimentcontent.append(arr)
 
-	print sentimentcontent
+	# print sentimentcontent
 
 	for scores in sentimentcontent:
 		empty = True
@@ -85,6 +89,7 @@ def log(totalTime):
 			avg = int(avg / count)
 			scores.append(avg)
 	sentimentheader.append("Average")
+	sentimentcontent = sorted(sentimentcontent, key=lambda result: sentimentcontent[1], reverse=True)
 
 	sentimenttable = table(sentimentheader, sentimentcontent)
 
@@ -103,6 +108,11 @@ def unpickle(self):
 	return logarray
 
 def table(header, content):
+	for rows in content:
+		term = rows[0]
+		term = unicode(term, 'utf-8')
+		rows[0] = term
+
 	return tabulate(content, headers=header,tablefmt='orgtbl')
 
 def getMainMeta(corpora, totalTime):
@@ -155,7 +165,23 @@ def padSentimentTable(sentimentdict, corporaCount):
 
 	return sentimentdict
 
+def logChoice(self):
 
+	while True:
+		sys.stdout.write('\r' + "\r>> ENTER = \tNO LOG.\n>> ANY KEY = \tLOG.\n>> Enter choice..." + ' ' * 1)
+		sys.stdout.flush() # important
+		userinput = raw_input()
+
+		if userinput == "":
+			# sys.stdout.flush() # important
+			print ">> Logging has been disabled\n"
+			return False
+		elif userinput != "":
+			# sys.stdout.flush() # important
+			print "\r>> Logging has been enabled.\n"
+			return True
+		else:
+			print "Wrong input. Try again."
 
 
 
