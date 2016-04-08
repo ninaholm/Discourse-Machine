@@ -1,0 +1,36 @@
+
+####################################################################################################
+
+Time:		 10:34:08 08-04-2016 
+Corpora:	 1 
+Dict. size:	 344 
+Time elapsed:	 0.423 s
+
+---------------------------------------------------------------------------
+Corpus:			 test_data.in_ 
+Articles:		 100
+Unique words:		 10913
+Avg. word/article:	 803
+Pickle time:		 0.345 s
+Index time:		 0.042 s
+Total time:		 0.387 s
+
+| TERM         |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|--------------+--------------+----------+-------------+---------|
+| venstre      |            4 | 0.0 s    | 0.008 s     |      22 |
+| alternativ   |            2 | 0.0 s    | 0.001 s     |      11 |
+| konservative |            1 | 0.0 s    | 0.001 s     |       0 |
+| sf           |            1 | 0.0 s    | 0.001 s     |       3 |
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM         | test_data.in_   | Average   |
+|--------------+-----------------+-----------|
+| konservative | 0               | 0         |
+| df           | -               | -         |
+| enhedslisten | -               | -         |
+| venstre      | 22              | 22        |
+| alternativ   | 11              | 11        |
+| sf           | 3               | 3         |
+

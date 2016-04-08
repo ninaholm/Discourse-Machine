@@ -25,6 +25,7 @@ if logChoice == True:
 # inputfiles = [["indland.in"], ["udland.in"], ["debat.in"],["kultur.in"]]
 inputfiles = [["test_indland.in"], ["test_udland.in"]]
 
+
 # Loops through the chosen corpora and returns sentimentscore for every searchterm in them.
 for inputfile in inputfiles:
 	indexes = index(inputfile) # Send an array consisting of filenames of the inputfiles you want indexed!
