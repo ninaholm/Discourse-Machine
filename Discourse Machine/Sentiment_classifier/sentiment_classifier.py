@@ -1,8 +1,9 @@
 import glob
 import csv
 import sys
-
-
+import time
+import os
+import pickle
 
 #Reading in dictionaries
 def read_dictionary(dict_path):
@@ -26,7 +27,8 @@ def calculate_sentiment_score(dictionary, article_list, WORDindex):
 	return sentiment_score
 
 
-def run_sentiment_classifier(article_list, WORDindex):
+def run_sentiment_classifier(article_list, WORDindex, term):
+	starttime = time.time()
 	reload(sys)
 	sys.setdefaultencoding('utf-8')
 
@@ -38,10 +40,20 @@ def run_sentiment_classifier(article_list, WORDindex):
 
 	print ">>SENTIMENT: Calculating sentiment score for %s articles" % len(article_list)
 	sentiment_score = calculate_sentiment_score(dictionary, article_list, WORDindex)
+	log(term, round((time.time() - starttime), 3), sentiment_score)
 	
 	print ">>SENTIMENT: This subset's aggregated sentiment value is", sentiment_score
 	
+def log(term, totalTime, sentiment):
+	path = os.getcwd() + "/log/tmplogarray.in"
+	picklefile = open(path, 'rb')
+	logarray = pickle.load(picklefile)
+	picklefile.close()
 
+	if logarray[len(logarray)-1][0] == term:
+		logarray[len(logarray)-1].append(totalTime)
+		logarray[len(logarray)-1].append(sentiment)
 
-
-
+	picklefile = open(path, 'wb')
+	pickle.dump(logarray, picklefile)
+	picklefile.close()

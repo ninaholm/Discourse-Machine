@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 import os
 import glob
 import operator
@@ -6,58 +8,61 @@ import pickle
 import time
 from Lemmatiser.Lemmatiser import *
 
+# Takes the previously created indexes and searches them for a given searchterm. 
+# Returns a subset of articles, in a list of tuples (articleid, TFIDF score), for the top 50% (based on TFIDF) of articles where the term exists. 
+# logdict[searchTerm + "search"] = [total runningtime, # articles]
 
-def searchArticles(wordIndex, articleIndex):
+def searchArticles(wordIndex, articleIndex, searchTerm):
 	starttime = time.time()
 	print ">>SEARCHARTICLES: Search for top TF-IDF values has started."
 
-	searchtermspath = os.getcwd() + "/TFIDF_searcher/searchterms.txt"
+	
 	resultspath = os.getcwd() + "/TFIDF_searcher/articleresults.txt"
 
 	totaldoccount = len(articleIndex)
 
-	searchterms = open(searchtermspath, "r")
+
 
 	results = []
 
-	for term in searchterms:
-		term = str(term).strip()
-		# term = lemmatise_input_term(term)
-		tmpresult = []
-		if term in wordIndex:
-			articlehits = wordIndex[term]
-			doccount = len(articlehits)
-			IDF = math.log10(totaldoccount / float(doccount))
+	term = str(searchTerm).strip()
+	# term = lemmatise_input_term(term)
+	if term in wordIndex:
+		articlehits = wordIndex[term]
+		doccount = len(articlehits)
+		IDF = math.log10(totaldoccount / float(doccount))
 
-			for article in articlehits:
-				wordcount = articlehits[article]
-				articlewordcount = articleIndex[article]
-				TF = wordcount / float(articlewordcount)
-				TFIDF = TF * IDF
-				tmpresult.append((article, TFIDF))
-				# print "TFIDF: %s * %s = %s" % (TF, IDF, TFIDF)
-		else:
-			print ">>SEARCHARTICLES: '%s' \t 0 articles." %term
-		if len(tmpresult) < 1:
-			continue
-		# Sort results on their TFIDF rating, in decreasing order.
-		tmpresult = sorted(tmpresult, key=lambda result: result[1], reverse=True)
-		print ">>SEARCHARTICLES: '%s' \t %s articles." % (term, len(tmpresult))
+		for article in articlehits:
+			wordcount = articlehits[article]
+			articlewordcount = articleIndex[article]
+			TF = wordcount / float(articlewordcount)
+			TFIDF = TF * IDF
+			results.append((article, TFIDF))
+			# print "TFIDF: %s * %s = %s" % (TF, IDF, TFIDF)
+	else:
+		print ">>SEARCHARTICLES: '%s' 0 articles. Search terminated." %term
+		return results
+	if len(results) < 2:
+		print ">>SEARCHARTICLES: '%s' too few articles. Search terminated." %term
+		results = []
+		return results
+	# Sort results on their TFIDF rating, in decreasing order.
+	results = sorted(results, key=lambda result: result[1], reverse=True)
+	print ">>SEARCHARTICLES: '%s' \t %s articles." % (term, len(results))
 
-		# Deletes the bottom 50% of our search results
-		tmpresult = tmpresult[0:len(tmpresult)/2]
-		if len(tmpresult) > 0:
-			results.append((term,tmpresult))
+	# Deletes the bottom 50% of our search results
+	results = results[0:len(results)/2]
+	
+	# resultfile = open(resultspath, "w")
+	# for result in results:
+	#  	resultfile.write(result[0] + "\n")
+	# 	for articles in result[1]:
+	# 		resultfile.write(str(articles[0]) + " : " + str(articles[1]) + "\n")
+	# resultfile.close()
+	totalTime = round((time.time() - starttime), 3)
 
-
-	resultfile = open(resultspath, "w")
-	for result in results:
-	 	resultfile.write(result[0] + "\n")
-		for articles in result[1]:
-			resultfile.write(str(articles[0]) + " : " + str(articles[1]) + "\n")
-	resultfile.close()
-
-	print ">>SEARCHARTICLES: Search has completed in %s seconds." % round((time.time() - starttime), 3)
+	print ">>SEARCHARTICLES: Search has completed in %s seconds." % totalTime
+	log(term, len(results), totalTime)
 	
 	return results
 
@@ -136,9 +141,19 @@ def searchTopWords(wordIndex, articleIndex,articles,num):
 	# return results
 
 
+def log(term, articleNum, totalTime):
+	path = os.getcwd() + "/log/tmplogarray.in"
+	picklefile = open(path, 'rb')
+	logarray = pickle.load(picklefile)
+	picklefile.close()
 
+	data = [term, articleNum, totalTime]
+	logarray.append(data)
 
-
+	picklefile = open(path, 'wb')
+	pickle.dump(logarray, picklefile)
+	picklefile.close()
+	
 
 
 
