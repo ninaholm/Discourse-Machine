@@ -1,0 +1,23 @@
+>>TEST: 100 articles.
+>>TEST: Articles are strings.
+>>TEST: The average pickle load took 0.00883890402437 seconds
+>>TEST: The average pickle dump took 0.0258635366806 seconds
+>>TEST: Articles are lists.
+>>TEST: The average pickle load took 0.34997622172 seconds
+>>TEST: The average pickle dump took 0.320866796705 seconds
+
+>>TEST: 50 articles
+>>TEST: Articles are strings.
+>>TEST: The average pickle load took 0.00491510497199 seconds
+>>TEST: The average pickle dump took 0.0154052623595 seconds
+>>TEST: Articles are lists.
+>>TEST: The average pickle load took 0.152730881566 seconds
+>>TEST: The average pickle dump took 0.145388661009 seconds
+
+>>TEST: Including string.split in the load function
+>>TEST: 100 articles
+>>TEST: Articles are strings.
+>>TEST: The average pickle load took 0.00995098701631 seconds
+>>TEST: The average pickle dump took 0.0252706378397 seconds
+
+
