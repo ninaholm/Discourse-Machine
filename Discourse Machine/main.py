@@ -1,7 +1,7 @@
 from XML_parser.XMLparser import parse
 from Word_indexer.Wordindexer import index
 from TFIDF_searcher.TFIDFsearcher import searchArticles, searchTopWords
-from Lemmatiser.new_Lemmatiser import *
+from Lemmatiser.new_Lemmatiser import lemmatise_directory, lemmatise_input_term
 from Sentiment_classifier.sentiment_classifier import run_sentiment_classifier
 from log.logger import log, createLog, logChoice
 import time
@@ -16,8 +16,10 @@ starttime = time.time()
 # parsedCorpus = parse(0)
 # print
 
-#lemmatise_directory("data/original_data/information")
+lemmatise_directory("data/test")
 # print
+
+sys.exit()
 
 if logChoice == True:
 	createLog(0)

@@ -16,15 +16,18 @@ def lemmatise_directory(dir_path):
 		#Set files and calls
 		rtf_call = "Lemmatiser/CST_tools/rtfreader -T -E UTF8 -i " + input_file
 		lem_call = "Lemmatiser/CST_tools/cstlemma -L -eU -l -p- -f Lemmatiser/CST_tools/flexrules -i " + input_file + ".segments"
+		pos_call = "Lemmatiser/CST_tools/postagger/Bin_and_Data/tagger FINAL.LEXICON " + input_file + " BIGBIGRAMLIST LEXRULEOUTFILE CONTEXT-RULEFILE -S"
+
+		output_file = input_file.replace(dir_path, "")
 
 		#Tokenise and lemmatize
 		subprocess.call(rtf_call, shell=True)
 		lem_dict = subprocess.check_output(lem_call, shell=True, stderr= subprocess.STDOUT)
 
+		subprocess.call(rtf_call + ">> data/postagger_output/" + output_file, shell=True)
+
 		#Remove .segments file to save space
 		os.remove(input_file + ".segments")
-
-		output_file = input_file.replace(dir_path, "")
 
 		#Save the lemmatized result in its own file
 		output_file = "data/lemmatiser_output/" + output_file
