@@ -65,11 +65,8 @@ def postag_directory(dir_path):
 				write_to_file(art_content[i]); tokenize()
 				art_content[i] = postag()
 			articles[article] = art_content
-			print articles[article]
-			raw_input("press enter")
-			
-		
-		with open("data/lemmatiser_output/" + input_file.split("/")[-1], "w") as file:
+
+		with open("data/postagger_output/" + input_file.split("/")[-1], "w") as file:
 			pickle.dump(articles, file)
 
 
