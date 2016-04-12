@@ -8,7 +8,7 @@ import pickle
 tools_path = "Lemmatiser/CST_tools/"
 input_file = "Lemmatiser/temp"
 tokenized_input_file = input_file + ".segments"
-split_word = "OUOUOUOFFLFL"
+split_word = "OUOUOUOFFLFL".lower()
 
 
 def lemmatise():
@@ -25,6 +25,7 @@ def lemmatise():
 			if words[1] is "." or words[1] not in string.punctuation and not words[1].isdigit():
 				output.append(words[1])
 
+	output = " ".join(output)
 	return output
 
 
@@ -44,7 +45,8 @@ def write_to_file(input_content_list):
 def split_up_output(first_item, input_content_string):
 	output_list = []
 	output_list.append(first_item)
-	for thing in input_content_string.split("\n" + split_word + "/NNP")[1:]:
+	input_content_string = input_content_string.replace("\n" + split_word + "/NNP", split_word)
+	for thing in input_content_string.split(split_word)[1:]:
 		output_list.append(thing[2:])
 	return output_list
 
