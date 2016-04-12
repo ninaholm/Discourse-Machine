@@ -14,6 +14,8 @@ def log(totalTime):
 	corpora = []
 	sentimentheader = ["TERM"]
 	sentimentdict = {}
+	timeheader = []
+	timecontent = [[]]
 	lenlimit = len(logarray[0])
 
 	log = open(os.getcwd() + "/log/log.txt", 'a')
@@ -39,6 +41,8 @@ def log(totalTime):
 				corpusmetadata = "Corpus:\t\t\t %s \nArticles:\t\t %s\nUnique words:\t\t %s\nAvg. word/article:\t %s\nPickle time:\t\t %s s\nIndex time:\t\t %s s\nTotal time:\t\t %s s\n\n" %(data[0], data[1], data[2], data[3], data[4], data[5], data[6])
 				articleNum = data[1]
 				sentimentheader.append(data[0])
+				timeheader.append(data[0])
+				timecontent[0].append(data[6])
 				continue
 			term = data[0]
 			score = data[4]
@@ -52,6 +56,7 @@ def log(totalTime):
 				sentimentdict[term].append(score)
 			else:
 				sentimentdict[term] = [score]
+
 		sentimentdict = padSentimentTable(sentimentdict, corporaCount)
 		corpuscontent.sort(key=itemgetter(0))
 		timetable = table(corpusheader, corpuscontent)
@@ -68,6 +73,20 @@ def log(totalTime):
 		sentimentcontent.append(arr)
 
 	# print sentimentcontent
+
+	for rows in timecontent:
+		avg = 0
+		count = 0
+		for value in rows:
+			avg += value
+			count += 1
+		avg = avg / count
+		rows.append(avg)
+	timeheader.append("Average")
+	
+	log.write("~" * 90 + "\n\n")
+	log.write("OVERALL TIME TABLE \n")
+	log.write(table(timeheader, timecontent) + "\n\n")
 
 	for scores in sentimentcontent:
 		empty = True
@@ -93,7 +112,7 @@ def log(totalTime):
 
 	sentimenttable = table(sentimentheader, sentimentcontent)
 
-	log.write("+" * 75 + "\n\n")
+	log.write("+" * 90 + "\n\n")
 	log.write("OVERALL SENTIMENT TABLE \n")
 	log.write(sentimenttable + "\n\n")
 
@@ -110,6 +129,8 @@ def unpickle(self):
 def table(header, content):
 	for rows in content:
 		term = rows[0]
+		if type(term) == float:
+			continue
 		term = unicode(term, 'utf-8')
 		rows[0] = term
 

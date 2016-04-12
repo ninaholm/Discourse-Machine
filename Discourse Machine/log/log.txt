@@ -34,3 +34,492 @@ OVERALL SENTIMENT TABLE
 | alternativ   | 11              | 11        |
 | sf           | 3               | 3         |
 
+
+####################################################################################################
+
+Time:		 13:49:05 08-04-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 0.67 s
+
+---------------------------------------------------------------------------
+Corpus:			 test_indland.in_ 
+Articles:		 100
+Unique words:		 7838
+Avg. word/article:	 685
+Pickle time:		 0.295 s
+Index time:		 0.029 s
+Total time:		 0.324 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| venstre |           14 | 0.0 s    | 0.001 s     |      29 |
+
+---------------------------------------------------------------------------
+Corpus:			 test_udland.in_ 
+Articles:		 100
+Unique words:		 10558
+Avg. word/article:	 786
+Pickle time:		 0.296 s
+Index time:		 0.037 s
+Total time:		 0.333 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| højre   |            2 | 0.0 s    | 0.001 s     |       6 |
+| venstre |            2 | 0.0 s    | 0.001 s     |      10 |
+
+
+####################################################################################################
+
+Time:		 13:49:24 08-04-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 0.678 s
+
+---------------------------------------------------------------------------
+Corpus:			 test_indland.in_ 
+Articles:		 100
+Unique words:		 7838
+Avg. word/article:	 685
+Pickle time:		 0.278 s
+Index time:		 0.029 s
+Total time:		 0.307 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| venstre |           14 | 0.0 s    | 0.001 s     |      29 |
+
+---------------------------------------------------------------------------
+Corpus:			 test_udland.in_ 
+Articles:		 100
+Unique words:		 10558
+Avg. word/article:	 786
+Pickle time:		 0.31 s
+Index time:		 0.042 s
+Total time:		 0.353 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| højre   |            2 | 0.0 s    | 0.001 s     |       6 |
+| venstre |            2 | 0.0 s    | 0.001 s     |      10 |
+
+
+####################################################################################################
+
+Time:		 13:50:52 08-04-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 0.685 s
+
+---------------------------------------------------------------------------
+Corpus:			 test_indland.in_ 
+Articles:		 100
+Unique words:		 7838
+Avg. word/article:	 685
+Pickle time:		 0.293 s
+Index time:		 0.029 s
+Total time:		 0.322 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| venstre |           14 | 0.0 s    | 0.001 s     |      29 |
+
+---------------------------------------------------------------------------
+Corpus:			 test_udland.in_ 
+Articles:		 100
+Unique words:		 10558
+Avg. word/article:	 786
+Pickle time:		 0.307 s
+Index time:		 0.043 s
+Total time:		 0.349 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| højre   |            2 | 0.0 s    | 0.001 s     |       6 |
+| venstre |            2 | 0.0 s    | 0.001 s     |      10 |
+
+
+####################################################################################################
+
+Time:		 13:51:30 08-04-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 0.679 s
+
+---------------------------------------------------------------------------
+Corpus:			 test_indland.in_ 
+Articles:		 100
+Unique words:		 7838
+Avg. word/article:	 685
+Pickle time:		 0.286 s
+Index time:		 0.03 s
+Total time:		 0.316 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| venstre |           14 | 0.0 s    | 0.001 s     |      29 |
+
+---------------------------------------------------------------------------
+Corpus:			 test_udland.in_ 
+Articles:		 100
+Unique words:		 10558
+Avg. word/article:	 786
+Pickle time:		 0.307 s
+Index time:		 0.044 s
+Total time:		 0.351 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| højre   |            2 | 0.0 s    | 0.001 s     |       6 |
+| venstre |            2 | 0.0 s    | 0.001 s     |      10 |
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM    | test_indland.in_   | test_udland.in_   | Average   |
+|---------+--------------------+-------------------+-----------|
+| højre   | -                  | 6                 | 6         |
+| ligeud  | -                  | -                 | -         |
+| venstre | 29                 | 10                | 19        |
+
+
+####################################################################################################
+
+Time:		 13:51:50 08-04-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 0.68 s
+
+---------------------------------------------------------------------------
+Corpus:			 test_indland.in_ 
+Articles:		 100
+Unique words:		 7838
+Avg. word/article:	 685
+Pickle time:		 0.284 s
+Index time:		 0.029 s
+Total time:		 0.313 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| venstre |           14 | 0.0 s    | 0.001 s     |      29 |
+
+---------------------------------------------------------------------------
+Corpus:			 test_udland.in_ 
+Articles:		 100
+Unique words:		 10558
+Avg. word/article:	 786
+Pickle time:		 0.315 s
+Index time:		 0.04 s
+Total time:		 0.355 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| højre   |            2 | 0.0 s    | 0.001 s     |       6 |
+| venstre |            2 | 0.0 s    | 0.001 s     |      10 |
+
+
+####################################################################################################
+
+Time:		 13:52:25 08-04-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 0.656 s
+
+---------------------------------------------------------------------------
+Corpus:			 test_indland.in_ 
+Articles:		 100
+Unique words:		 7838
+Avg. word/article:	 685
+Pickle time:		 0.276 s
+Index time:		 0.029 s
+Total time:		 0.306 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| venstre |           14 | 0.0 s    | 0.001 s     |      29 |
+
+---------------------------------------------------------------------------
+Corpus:			 test_udland.in_ 
+Articles:		 100
+Unique words:		 10558
+Avg. word/article:	 786
+Pickle time:		 0.304 s
+Index time:		 0.035 s
+Total time:		 0.339 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| højre   |            2 | 0.0 s    | 0.001 s     |       6 |
+| venstre |            2 | 0.0 s    | 0.001 s     |      10 |
+
+
+####################################################################################################
+
+Time:		 13:53:08 08-04-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 0.652 s
+
+---------------------------------------------------------------------------
+Corpus:			 test_indland.in_ 
+Articles:		 100
+Unique words:		 7838
+Avg. word/article:	 685
+Pickle time:		 0.274 s
+Index time:		 0.028 s
+Total time:		 0.302 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| venstre |           14 | 0.0 s    | 0.001 s     |      29 |
+
+---------------------------------------------------------------------------
+Corpus:			 test_udland.in_ 
+Articles:		 100
+Unique words:		 10558
+Avg. word/article:	 786
+Pickle time:		 0.303 s
+Index time:		 0.035 s
+Total time:		 0.338 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| højre   |            2 | 0.0 s    | 0.001 s     |       6 |
+| venstre |            2 | 0.0 s    | 0.001 s     |      10 |
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM    | test_indland.in_   | test_udland.in_   | Average   |
+|---------+--------------------+-------------------+-----------|
+| højre   | -                  | 6                 | 6         |
+| ligeud  | -                  | -                 | -         |
+| venstre | 29                 | 10                | 19        |
+
+
+####################################################################################################
+
+Time:		 13:53:57 08-04-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 0.642 s
+
+---------------------------------------------------------------------------
+Corpus:			 test_indland.in_ 
+Articles:		 100
+Unique words:		 7838
+Avg. word/article:	 685
+Pickle time:		 0.271 s
+Index time:		 0.029 s
+Total time:		 0.3 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| venstre |           14 | 0.0 s    | 0.001 s     |      29 |
+
+---------------------------------------------------------------------------
+Corpus:			 test_udland.in_ 
+Articles:		 100
+Unique words:		 10558
+Avg. word/article:	 786
+Pickle time:		 0.292 s
+Index time:		 0.038 s
+Total time:		 0.33 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| højre   |            2 | 0.0 s    | 0.001 s     |       6 |
+| venstre |            2 | 0.0 s    | 0.001 s     |      10 |
+
+
+####################################################################################################
+
+Time:		 13:54:54 08-04-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 0.713 s
+
+
+####################################################################################################
+
+Time:		 13:55:08 08-04-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 0.663 s
+
+---------------------------------------------------------------------------
+Corpus:			 test_indland.in_ 
+Articles:		 100
+Unique words:		 7838
+Avg. word/article:	 685
+Pickle time:		 0.282 s
+Index time:		 0.029 s
+Total time:		 0.311 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| venstre |           14 | 0.0 s    | 0.001 s     |      29 |
+
+---------------------------------------------------------------------------
+Corpus:			 test_udland.in_ 
+Articles:		 100
+Unique words:		 10558
+Avg. word/article:	 786
+Pickle time:		 0.305 s
+Index time:		 0.034 s
+Total time:		 0.34 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| højre   |            2 | 0.0 s    | 0.001 s     |       6 |
+| venstre |            2 | 0.0 s    | 0.001 s     |      10 |
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM    | test_indland.in_   | test_udland.in_   | Average   |
+|---------+--------------------+-------------------+-----------|
+| højre   | -                  | 6                 | 6         |
+| ligeud  | -                  | -                 | -         |
+| venstre | 29                 | 10                | 19        |
+
+
+####################################################################################################
+
+Time:		 13:56:57 08-04-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 0.682 s
+
+---------------------------------------------------------------------------
+Corpus:			 test_indland.in_ 
+Articles:		 100
+Unique words:		 7838
+Avg. word/article:	 685
+Pickle time:		 0.276 s
+Index time:		 0.032 s
+Total time:		 0.308 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| venstre |           14 | 0.001 s  | 0.004 s     |      29 |
+
+---------------------------------------------------------------------------
+Corpus:			 test_udland.in_ 
+Articles:		 100
+Unique words:		 10558
+Avg. word/article:	 786
+Pickle time:		 0.314 s
+Index time:		 0.043 s
+Total time:		 0.357 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| højre   |            2 | 0.0 s    | 0.001 s     |       6 |
+| venstre |            2 | 0.0 s    | 0.001 s     |      10 |
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM    | test_indland.in_   | test_udland.in_   | Average   |
+|---------+--------------------+-------------------+-----------|
+| højre   | -                  | 6                 | 6         |
+| ligeud  | -                  | -                 | -         |
+| venstre | 29                 | 10                | 19        |
+
+
+####################################################################################################
+
+Time:		 13:58:23 08-04-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 0.69 s
+
+---------------------------------------------------------------------------
+Corpus:			 test_indland.in_ 
+Articles:		 100
+Unique words:		 7838
+Avg. word/article:	 685
+Pickle time:		 0.293 s
+Index time:		 0.028 s
+Total time:		 0.321 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| venstre |           14 | 0.0 s    | 0.001 s     |      29 |
+
+---------------------------------------------------------------------------
+Corpus:			 test_udland.in_ 
+Articles:		 100
+Unique words:		 10558
+Avg. word/article:	 786
+Pickle time:		 0.323 s
+Index time:		 0.035 s
+Total time:		 0.357 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| højre   |            2 | 0.0 s    | 0.001 s     |       6 |
+| venstre |            2 | 0.0 s    | 0.001 s     |      10 |
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM    | test_indland.in_   | test_udland.in_   | Average   |
+|---------+--------------------+-------------------+-----------|
+| højre   | -                  | 6                 | 6         |
+| ligeud  | -                  | -                 | -         |
+| venstre | 29                 | 10                | 19        |
+
+
+####################################################################################################
+
+Time:		 14:00:06 08-04-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 0.67 s
+
+---------------------------------------------------------------------------
+Corpus:			 test_indland.in_ 
+Articles:		 100
+Unique words:		 7838
+Avg. word/article:	 685
+Pickle time:		 0.28 s
+Index time:		 0.029 s
+Total time:		 0.309 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| venstre |           14 | 0.0 s    | 0.001 s     |      29 |
+
+---------------------------------------------------------------------------
+Corpus:			 test_udland.in_ 
+Articles:		 100
+Unique words:		 10558
+Avg. word/article:	 786
+Pickle time:		 0.311 s
+Index time:		 0.039 s
+Total time:		 0.35 s
+
+| TERM    |   # ARTICLES | SEARCH   | SENTIMENT   |   SCORE |
+|---------+--------------+----------+-------------+---------|
+| højre   |            2 | 0.0 s    | 0.001 s     |       6 |
+| venstre |            2 | 0.0 s    | 0.001 s     |      10 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   test_indland.in_ |   test_udland.in_ |   Average |
+|--------------------+-------------------+-----------|
+|              0.309 |              0.35 |    0.3295 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM    | test_indland.in_   | test_udland.in_   | Average   |
+|---------+--------------------+-------------------+-----------|
+| højre   | -                  | 6                 | 6         |
+| ligeud  | -                  | -                 | -         |
+| venstre | 29                 | 10                | 19        |
+
