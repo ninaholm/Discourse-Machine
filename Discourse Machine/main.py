@@ -1,7 +1,5 @@
-#from XML_parser.XMLparser import parse
 from Word_indexer.Wordindexer import index
 from TFIDF_searcher.TFIDFsearcher import searchArticles, searchTopWords
-from Lemmatiser.Lemmatiser import lemmatise_directory, lemmatise_input_term, postag_directory
 from Sentiment_classifier.sentiment_classifier import run_sentiment_classifier
 from log.logger import log, createLog, logChoice
 import time
@@ -16,16 +14,11 @@ starttime = time.time()
 # parsedCorpus = parse(0)
 # print
 
-postag_directory("data/test")
-# print
-
-sys.exit()
-
 if logChoice == True:
 	createLog(0)
 
-# inputfiles = [["indland.in"], ["udland.in"], ["debat.in"],["kultur.in"]]
-inputfiles = [["test_indland.in"], ["test_udland.in"]]
+inputfiles = [["indland.in"], ["udland.in"], ["debat.in"],["kultur.in"]]
+#inputfiles = [["test_indland.in"], ["test_udland.in"]]
 
 
 # Loops through the chosen corpora and returns sentimentscore for every searchterm in them.

@@ -80,7 +80,7 @@ main(argc, argv)
 	  }
 	}
 	fclose(lexicon);
-	fprintf(stderr,"START STATE TAGGER::LEXICON READ\n");
+	/*fprintf(stderr,"START STATE TAGGER::LEXICON READ\n");*/
 
 
 /* Wordlist_hash contains a list of words.  This is used 
@@ -107,7 +107,7 @@ main(argc, argv)
 	    }
 	  }
 	  fclose(wordlist);
-	  fprintf(stderr,"START STATE TAGGER:: WORDLIST READ\n");
+	  /*fprintf(stderr,"START STATE TAGGER:: WORDLIST READ\n");*/
 	}
 
 /*********************************************************/
@@ -136,7 +136,7 @@ main(argc, argv)
 	   }
 	 }
 	 fclose(corpus);
-	 fprintf(stderr,"START STATE TAGGER:: CORPUS READ\n");  
+	 /*fprintf(stderr,"START STATE TAGGER:: CORPUS READ\n");*/  
 
 /* read in rule file */
 	rule_array = Darray_create();
@@ -168,7 +168,7 @@ main(argc, argv)
 	  }
 	}
 	  fclose(rulefile);
-	  fprintf(stderr,"START STATE TAGGER:: RULEFILE READ\n");
+	  /*fprintf(stderr,"START STATE TAGGER:: RULEFILE READ\n");*/
 
 
 
@@ -195,7 +195,7 @@ main(argc, argv)
 	  }
 	}
 	fclose(bigrams);
-	  fprintf(stderr,"START STATE TAGGER:: BIGRAMS READ\n");	
+	  /*fprintf(stderr,"START STATE TAGGER:: BIGRAMS READ\n");*/	
 
 	
         tag_array_key = Darray_create();
@@ -239,7 +239,7 @@ main(argc, argv)
 	for (count=0;count < Darray_len(rule_array);++count) {
 	  tempstr = (char *)Darray_get(rule_array,count);
 /*fprintf(stderr,"RULE IS: %s\n",tempstr);*/
-fprintf(stderr,"s");
+/*fprintf(stderr,"s");*/
 	  therule = perl_split_independent(tempstr);
 /* we don't worry about freeing "rule" space, as this is a small fraction
    of total memory used */
@@ -533,7 +533,7 @@ fprintf(stderr,"s");
 
  
 	}
-	fprintf(stderr,"\n");
+	/*fprintf(stderr,"\n");*/
 	
 
 	/* now go from darray to hash table */
