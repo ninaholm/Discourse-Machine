@@ -42,3 +42,35 @@ Total elapsed time: 	1377.58613992
 
  ################################################### 
 
+CORPUS: 		udland.in
+Number of articles: 	5998
+Unpickling data: 	0.660144090652
+Tokenizing: 		54.0200707912 seconds
+POS-tagging: 		3882.45961356 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	3941.32573009
+ - - - - - - - - - - - - - 
+CORPUS: 		indland.in
+Number of articles: 	8612
+Unpickling data: 	2.39629507065
+Tokenizing: 		112.981277943 seconds
+POS-tagging: 		5509.83523893 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	5630.91206002
+ - - - - - - - - - - - - - 
+CORPUS: 		debat.in
+Number of articles: 	8591
+Unpickling data: 	0.69789481163
+Tokenizing: 		123.57684803 seconds
+POS-tagging: 		5441.25911021 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	5570.19841981
+ - - - - - - - - - - - - - 
+CORPUS: 		udland.in
+Number of articles: 	5998
+Unpickling data: 	0.361917972565
+Tokenizing: 		45.1243083477 seconds
+POS-tagging: 		61.0935919285 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	113.103790998
+ - - - - - - - - - - - - - 

@@ -9,7 +9,7 @@ from tabulate import *
 from operator import itemgetter
 import sys
 
-def log(totalTime):
+def makeLog(totalTime):
 	logarray = unpickle(0)
 	corpora = []
 	sentimentheader = ["TERM"]
@@ -34,7 +34,7 @@ def log(totalTime):
 		corporaCount += 1
 		corpusmetadata = ""
 		articleNum = 0
-		corpusheader = ["TERM", "# ARTICLES", "SEARCH", "SENTIMENT", "SCORE"]
+		corpusheader = ["TERM", "# ARTICLES", "SEARCH", "SCORE"]
 		corpuscontent = []
 		for data in corpus: 
 			if len(data) == lenlimit:
@@ -45,12 +45,11 @@ def log(totalTime):
 				timecontent[0].append(data[6])
 				continue
 			term = data[0]
-			score = data[4]
+			score = data[3]
 
 			# data[1] = str(data[1])
  			data[2] = str(data[2]) + " s"
-			data[3] = str(data[3]) + " s"
-			corpuscontent.append(data[0:5])
+			corpuscontent.append(data[0:4])
 
 			if term in sentimentdict:
 				sentimentdict[term].append(score)
@@ -204,6 +203,44 @@ def logChoice(self):
 		else:
 			print "Wrong input. Try again."
 
+def indexLog(inputfile, articleNum, uWordsNum, avgWord, pickleTime, indexTime, totalTime):
+	path = os.getcwd() + "/log/tmplogarray.in"
+	picklefile = open(path, 'rb')
+	logarray = pickle.load(picklefile)
+	picklefile.close()
+	inputfilestring = ""
+	for x in inputfile:
+		inputfilestring += x + "_"
 
+	data = [inputfilestring, articleNum, uWordsNum, avgWord, pickleTime, indexTime, totalTime]
+	logarray.append(data)
+	
+	picklefile = open(path, 'wb')
+	pickle.dump(logarray, picklefile)
+	picklefile.close()
 
+def searchLog(term, articleNum, totalTime):
+	path = os.getcwd() + "/log/tmplogarray.in"
+	picklefile = open(path, 'rb')
+	logarray = pickle.load(picklefile)
+	picklefile.close()
 
+	data = [term, articleNum, totalTime]
+	logarray.append(data)
+
+	picklefile = open(path, 'wb')
+	pickle.dump(logarray, picklefile)
+	picklefile.close()
+
+def sentimentLog(term, sentiment):
+	path = os.getcwd() + "/log/tmplogarray.in"
+	picklefile = open(path, 'rb')
+	logarray = pickle.load(picklefile)
+	picklefile.close()
+
+	if logarray[len(logarray)-1][0] == term:
+		logarray[len(logarray)-1].append(sentiment)
+
+	picklefile = open(path, 'wb')
+	pickle.dump(logarray, picklefile)
+	picklefile.close()

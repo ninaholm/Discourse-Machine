@@ -12,14 +12,14 @@ from Lemmatiser.Lemmatiser import *
 # Returns a subset of articles, in a list of tuples (articleid, TFIDF score), for the top 50% (based on TFIDF) of articles where the term exists. 
 # logdict[searchTerm + "search"] = [total runningtime, # articles]
 
-def searchArticles(wordIndex, articleIndex, searchTerm):
+def searchArticles(Corpus, searchTerm):
 	starttime = time.time()
 	print ">>SEARCHARTICLES: Search for top TF-IDF values has started."
 
 	
 	resultspath = os.getcwd() + "/TFIDF_searcher/articleresults.txt"
 
-	totaldoccount = len(articleIndex)
+	totaldoccount = len(Corpus.articleIndex)
 
 
 
@@ -27,8 +27,8 @@ def searchArticles(wordIndex, articleIndex, searchTerm):
 
 	term = str(searchTerm).strip()
 	# term = lemmatise_input_term(term)
-	if term in wordIndex:
-		articlehits = wordIndex[term]
+	if term in Corpus.wordIndex:
+		articlehits = Corpus.wordIndex[term]
 		doccount = len(articlehits)
 		IDF = math.log10(totaldoccount / float(doccount))
 

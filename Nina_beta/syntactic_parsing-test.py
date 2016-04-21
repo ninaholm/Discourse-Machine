@@ -48,8 +48,12 @@ def load_data():
 	sentence = sentences[3] # Extract test sentence
 
 
+
+
+
 def build_sentence_matrix(n):
-	return [["[" +str(x) + "," + str(y) + "]" for x in range(n)] for y in range(n)] 
+#	return [[False for x in range(n)] for y in range(n)]
+	return [["[" +str(x) + "," + str(y) + "]" for x in range(n)] for y in range(n)]
 
 
 def print_matrix(sentence_matrix):
@@ -61,109 +65,70 @@ def print_matrix(sentence_matrix):
 
 def build_grammar():
 	grammar_rules = []
-	# grammar_rules.append(["S", "NP VP"])
-	# grammar_rules.append(["VP", "VERB NP"])
-	# grammar_rules.append(["NP", "PRON NOM"])
-	# grammar_rules.append(["NOM", "ADJ NOUN"])
-	# grammar_rules.append(["PP", "ADP PROPN"])
-	# grammar_rules.append(["NP", "NP PP"])
-	# grammar_rules.append(["NP", "NOUN"])
-	# grammar_rules.append(["NP", "PROPN"])
-	# grammar_rules.append(["VP", "VERB NP"])
-	grammar_rules.append(["NEXUS", "PRON VERB"])
-	# grammar_rules.append(["S", "NEXUS NP"])
-	grammar_rules.append(["S", "NEXUS VP"])
-	# grammar_rules.append(["NP", "PRON NOUN"])
-	grammar_rules.append(["VP", "VERB ADJ"])
-	grammar_rules.append(["", ""])
-	grammar_rules.append(["", ""])
+	grammar_dict = {}
 
-	grammar_tree = {}
-	for entry in grammar_rules:
-		grammar_tree[entry[1]] = entry[0]
-
-	return grammar_tree
+	grammar_dict["NP VP"] = [["S", 0.4]]
+	grammar_dict["NEXUS VP"] = [["S", 0.2]]
+	grammar_dict["VERB NP"] = [["VP", 0.4]]
+	grammar_dict["PRON NOM"] = [["NP", 0.4]]
+	grammar_dict["ADJ NOUN"] = [["NOM", 0.4]]
+	grammar_dict["ADP PROPN"] = [["PP", 0.4]]
+	grammar_dict["NP PP"] = [["NP", 0.4]]
+	grammar_dict["PRON VERB"] = [["NEXUS", 0.4]]
+	grammar_dict["NP VERB"] = [["NEXUS", 0.4]]
+	grammar_dict["NEXUS NP"] = [["S", 0.4]]
+	grammar_dict["NEXUS VP"] = [["S", 0.4]]
+	grammar_dict["PRON NOUN"] = [["NP", 0.4]]
+	grammar_dict["VERB ADJ"] = [["VP", 0.4]]
+	grammar_dict["PRON VP"] = [["S", 0.2]]
 
 
-def in_grammar(construction):
-	if construction in grammar_tree:
-		return grammar_tree[construction]
-	else:
-		return None
+	return grammar_dict
+
+
 
 
 grammar_tree = build_grammar()
 
-sentence = "Jeg var en glad student" # Set simple test sentence
-sentence = "Jeg er glad" # Set simple test sentence
+sentence = "Jeg er en glad studerende" # Set simple test sentence
 print sentence
 
 pos_sentence = Text(sentence).pos_tags # POS-tag sentence
-sentence_matrix = build_sentence_matrix(len(pos_sentence))
-# print_matrix(sentence_matrix)
+print pos_sentence
+sentence_matrix = build_sentence_matrix(len(pos_sentence)+1)
+print_matrix(sentence_matrix)
+print
 
+sentence_length = len(pos_sentence)
 
+# Fill out the NTs resolving to terminals
+for i in range(1, sentence_length+1):
+	sentence_matrix[1][i] = pos_sentence[i-1][1]
 
-for j in range(0, len(sentence_matrix)):
-	sentence_matrix[j][j] = pos_sentence[j][1]
-	
-	for i in range(j-1,-1,-1):
-		current_cell_to_fill = sentence_matrix[i][j]
-		print current_cell_to_fill
+print ">>PARSE: With the filled-in terminal tags"
+print_matrix(sentence_matrix)
+print
 
-		construction = sentence_matrix[i+1][j] + sentence_matrix[i][j-1]
-		sentence_matrix[i][j] = in_grammar(construction)
-
-		# for k in range(j-1, i-1, -1):
-		# 	current_cell_2 = sentence_matrix[i][k]
-
-		# 	construction = current_cell_2 + " " + sentence_matrix[j][j]
-		# 	print construction
-		# 	r = in_grammar(construction)
-		# 	print r
-		# 	if r is not None:
-		# 		sentence_matrix[i][j] = r
-
+# GO GO CKY ALGORITHM
+for substring_length in range(2, sentence_length+1):
+	print "New substring of length...", substring_length
+	for substring_start in range(1, (sentence_length - substring_length)+2):
+		for split_point in range(1, substring_length):
+			b = sentence_matrix[split_point][substring_start]
+			c = sentence_matrix[substring_length - split_point][substring_start + split_point]
+			grammar_rule = (str(b[0]) + " " + str(c)[0])
+			print "Evaluating...", grammar_rule
+			if grammar_rule in grammar_tree:
+				print "Using rule..."
+				m = 0
+				for nt in grammar_tree[grammar_rule]:
+					if b[1] * c[1] * nt[1] > m:
+						sentence_matrix[substring_length][substring_start] = grammar_tree[grammar_rule]
 	print_matrix(sentence_matrix)
-			
 
-
-			#print current_cell_1, " ---- ", current_cell_2
-
-#			construction = sentence_matrix[i][k] + " " + sentence_matrix[k][j]
-#			print construction
-	print
+print ">>PARSE: The finished product."
+print_matrix(sentence_matrix)
 
 
 
 
-
-
-
-# while True:
-# 	temp_sentence = ""
-# 	for i in range(0, len(sentence_matrix)-1):
-# 		construction = pos_sentence[i][1] + " " + pos_sentence[i+1][1]
-# 		print construction
-# 		rule = in_grammar(construction)
-# 		if rule is not None:
-# 			sentence_matrix[i][i+1] = rule
-# 			print_matrix(sentence_matrix)
-
-
-
-
-
-
-
-
-# print ">>TEST: Sentiment analysing the article"
-# print("{:<16}{}".format("Word", "Polarity")+"\n"+"-"*30)
-# for w in text.words:
-# 	pol = w.polarity
-# 	print w, pol
-# 	if pol is not 0:
-# 		print "{:<16}{:>2}".format(w.decode('utf-8'), pol)
-
-
-#print("Language Detected: Code={}, Name={}\n".format(text.language.code, text.language.name))
