@@ -6,7 +6,8 @@ import operator
 import pickle
 import time
 import math
-from log.logger import indexLog, searchLog
+import csv
+from log.logger import indexLog, searchLog, sentimentLog
 
 # Takes an array of inputfilenames, which is indexed into a dictionary with words as keys and [(articleid, count)] as values. 
 # A dictionary of articles are also returned, with articleids as keys and totalwordcount as values.
@@ -17,6 +18,9 @@ class Corpus:
 		self.wordIndex = {}
 		self.articleIndex = {}
 		self.inputfiles = inputfiles
+		self.searchterms = self.getSearchTerms()
+		self.sentimentdict = self.getSentimentDict()
+		self.sentimentscore = 0
 
 	def index(self):
 		starttime = time.time()
@@ -44,6 +48,7 @@ class Corpus:
 		for doc in inputdata:
 			doccount += 1
 			wordcount = 0
+			sentimentcount = 0
 			articleid = doc
 
 			for line in inputdata[doc]:
@@ -54,6 +59,8 @@ class Corpus:
 				for word in line:
 					if len(word) < 1:
 						continue
+					if word in self.sentimentdict:
+						sentimentcount += int(self.sentimentdict[word])
 					wordcount += 1
 					if word in index:
 						if articleid in index[word]:
@@ -64,7 +71,7 @@ class Corpus:
 						index[word] = {articleid:1}
 					# print "articleid: %s" % index[word]
 			totalwordcount += wordcount
-			articlecounts[articleid] = wordcount
+			articlecounts[articleid] = (wordcount, sentimentcount)
 		indexTime = round((time.time() - indexTime), 3)
 
 		print ">>INDEX: %s words in total." % totalwordcount
@@ -76,40 +83,40 @@ class Corpus:
 
 		totalTime = round((time.time() - starttime), 3)
 
-		print ">>INDEX: Word indexing completed in %s seconds." % totalTime
+		print ">>INDEX: Word indexing completed in %s seconds. \n" % totalTime
 		indexLog(self.inputfiles, len(inputdata), len(index), (totalwordcount / doccount), pickleTime, indexTime, totalTime)
 
 
-	def search(searchTerm):
+	def search(self, searchTerm):
 		starttime = time.time()
 		print ">>SEARCHARTICLES: Search for top TF-IDF values has started."
 
 		
 		resultspath = os.getcwd() + "/TFIDF_searcher/articleresults.txt"
 
-		totaldoccount = len(Corpus.articleIndex)
+		totaldoccount = len(self.articleIndex)
 
 		results = []
 
 		term = str(searchTerm).strip()
 		# term = lemmatise_input_term(term)
-		if term in Corpus.wordIndex:
-			articlehits = Corpus.wordIndex[term]
+		if term in self.wordIndex:
+			articlehits = self.wordIndex[term]
 			doccount = len(articlehits)
 			IDF = math.log10(totaldoccount / float(doccount))
 
 			for article in articlehits:
 				wordcount = articlehits[article]
-				articlewordcount = Corpus.articleIndex[article]
+				articlewordcount = self.articleIndex[article][0]
 				TF = wordcount / float(articlewordcount)
 				TFIDF = TF * IDF
 				results.append((article, TFIDF))
 				# print "TFIDF: %s * %s = %s" % (TF, IDF, TFIDF)
 		else:
-			print ">>SEARCHARTICLES: '%s' 0 articles. Search terminated." %term
+			print ">>SEARCHARTICLES: '%s' has 0 articles. Search terminated." %term
 			return results
 		if len(results) < 2:
-			print ">>SEARCHARTICLES: '%s' too few articles. Search terminated." %term
+			print ">>SEARCHARTICLES: '%s' has %s article(s). Search terminated." %(term,len(results))
 			results = []
 			return results
 
@@ -119,22 +126,39 @@ class Corpus:
 
 		# Deletes the bottom 50% of our search results
 		results = results[0:len(results)/2]
+		self.sentimentscore = 0
 
+		# Removes TFIDF values from the remaining articles and adds up the sentimentscore
 		for x in results:
-			print x[0]
-		
-		# resultfile = open(resultspath, "w")
-		# for result in results:
-		#  	resultfile.write(result[0] + "\n")
-		# 	for articles in result[1]:
-		# 		resultfile.write(str(articles[0]) + " : " + str(articles[1]) + "\n")
-		# resultfile.close()
+			self.sentimentscore += self.articleIndex[x[0]][1]
+			x = x[0]
+
 		totalTime = round((time.time() - starttime), 3)
 
 		print ">>SEARCHARTICLES: Search has completed in %s seconds." % totalTime
 		searchLog(term, len(results), totalTime)
-		
+		sentimentLog(term, self.sentimentscore)
 		return results
+
+	def getSentimentDict(self):
+		dict_path = "Sentiment_classifier/sentiment_dictionaries/universal_dictionary.csv"
+		with open(dict_path, "r") as csvfile:
+			dictionary = {}
+			with open(dict_path, "r") as csvfile:
+				csv_dict = csv.reader(csvfile)
+				for row in csv_dict:
+					dictionary[row[0].decode('utf-8')] = row[1]
+		return dictionary
+
+	def getSearchTerms(self):
+		searchterms = []
+		searchtermsfile = open(os.getcwd() + "/TFIDF_searcher/searchterms.txt", "r")
+		for term in searchtermsfile:
+			searchterms.append(str(term).strip())
+		print "SEARCHTERMS: %s" %searchterms
+		return searchterms
+
+
 
 
 
