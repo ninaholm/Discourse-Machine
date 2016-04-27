@@ -1,4 +1,3 @@
-import sys
 import polyglot
 from polyglot.text import Text, Word
 
@@ -10,7 +9,7 @@ class SyntacticParser(object):
 	def __init__(self):
 		self.grammar = self._import_grammar()
 
-	# run method
+	# run() method
 	def parse_sentence(self, sentence):
 		return self.build_sentence_tree(self.cky_parse(sentence))
 
@@ -110,8 +109,6 @@ class SyntacticParser(object):
 
 		print ">>PARSE: Printing the syntactic tree..."
 		tree.print_tree()
-
-
 
 
 
