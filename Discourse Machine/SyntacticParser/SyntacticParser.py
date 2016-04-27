@@ -96,6 +96,9 @@ class SyntacticParser(object):
 	def build_sentence_tree(self, sentence_matrix):
 		sentence_length = len(sentence_matrix)-1
 
+		if len(sentence_matrix[sentence_length][1])==0:
+			return None
+
 		print ">>PARSE: Building the syntactic tree."
 		# Extracting the most probably sentence structure as a binary tree
 		tree = Tree(sentence_matrix)
@@ -109,6 +112,8 @@ class SyntacticParser(object):
 
 		print ">>PARSE: Printing the syntactic tree..."
 		tree.print_tree()
+
+		return tree
 
 
 
