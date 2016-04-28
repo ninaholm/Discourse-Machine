@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import time
 import pickle
+import sys
 
 
 
@@ -25,6 +26,48 @@ class TreebankParser(object):
 		print ">>LOG: Time spent is %s seconds" % self.log.time_since_last_check()
 
 
+
+
+	def extract_terminals(self):
+		with open("ddt-1.0.xml", "r") as file:
+#		with open("test_sentence", "r") as file:
+			treebank = BeautifulSoup(file.read(), "xml")
+
+		terminals = {}
+		ve_sentences = []
+		for sentence in treebank.findAll('s'):
+			# extract terminals
+			terminals_xml = sentence.findAll('t')
+			ve_test = False
+			for t in terminals_xml:
+				cat = t.get('cat')
+				if cat == 'VE':
+					ve_test = True
+				if cat in terminals:
+					terminals[cat].append(t.get('word').encode('utf8'))
+				else:
+					terminals[cat] = [t.get('word').encode('utf8'),]
+
+			if ve_test:
+				sentence = ""
+				for t in terminals_xml:
+					sentence = sentence + " " + t.get('word').encode('utf8')
+				ve_sentences.append(sentence)
+
+		with open("terminals_output", "w") as file:
+			for s in ve_sentences:
+				file.write(s + "\n")
+
+		sys.exit()
+
+
+		with open("terminals_output", "w") as file:
+			file.write("ALL TERMINAL CATEGORIES:\n")
+			file.write(" ".join(terminals.keys()) + "\n\n\n")
+
+			for k in terminals.keys():
+				words = " ".join(terminals[k])
+				file.write(str(k) + "\n" + words + "\n\n")
 
 
 
@@ -168,9 +211,29 @@ class Logger(object):
 
 
 tp = TreebankParser()
-tp.run()
+#tp.run()
+#tp.extract_terminals()
 
-with open("temp_grammar", "r") as file:
-	grammar = pickle.load(file)
+# with open("temp_grammar", "r") as file:
+# 	grammar = pickle.load(file)
 
-grammar.print_grammar()
+# grammar.print_grammar()
+
+
+
+
+import csv
+def map_DDT_tags_to_CST_terminals():
+	grammar = Grammar()
+	with open("DDT-to-CST-mapping.csv", "r") as file:
+		data = csv.reader(file)
+
+		for row in data:
+			gr = GrammarRule(row[1], [row[0]])
+			grammar.rules[gr] = 1
+
+	grammar.print_grammar()
+	return grammar
+
+
+map_DDT_tags_to_CST_terminals()

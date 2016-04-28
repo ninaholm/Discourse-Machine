@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-23" id="root" itemid="82961" xml:lang="da">
+<title></title>
+<headline> Forbrugerpriser marts steg 1,7 pct år/år. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 23 APRIL (Reuter) - Her følger hovedtallene </p>
+<p> af Danmarks Statistiks opgørelse over forbruger- og </p>
+<p> nettopriser i marts 1997, der er offentliggjort onsdag: </p>
+<p>        måneds-    årstakt,  årstakt,     værdi    takt  marts    februar </p>
+<p>  Forbrugerpriser   202,1    0,0 pct   1,7 pct   2,2 pct </p>
+<p>  Nettopriser  306,3    0,0 pct   1,7 pct   2,3 pct </p>
+<p>  EU-metode: </p>
+<p>  Forbrugerpriser   101,1    n.a  1,5 pct   n.a. </p>
+<p>     En Reuters-rundspørge viste på forhånd, at markedet </p>
+<p> havde forventet en årsstigningstakt i forbrugerpriserne på </p>
+<p> 2,1 pct. og en stigning i nettopriserne på 2,2 pct. </p>
+<p>     Forskellen mellem Danmarks Statistiks (DS) </p>
+<p> &quot;almindelige&quot; opgørelse af inflationen og EU-metoden er, </p>
+<p> at en række forbrugergrupper er udeladt i EU-metoden. For </p>
+<p> Danmarks vedkommende udelades omkostninger til egen bolig, </p>
+<p> helseudgifter, udgifter til undervisning og </p>
+<p> daginstitutioner og visse finansielle udgifter. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-23"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-23"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-23"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-23"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="C31">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-23"></editdetail></code>
+<code code="CCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-23"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-23"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

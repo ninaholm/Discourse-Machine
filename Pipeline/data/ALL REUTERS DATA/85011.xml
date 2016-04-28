@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-20" id="root" itemid="85011" xml:lang="da">
+<title></title>
+<headline> KFX-indeks i rekord-territorium efter udløbstime. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 20 juni (Reuter) - Det danske aktiemarked </p>
+<p> fredag kl. 12.15      +/-     * KFX-indeks..................172,82      +0,82     * KFX future juli.............172,90      -0,10 </p>
+<p>     * Omsætning i KFX-papirer.....260,96 mio. kr. </p>
+<p>     * FLS fortsætter op. Stiger 4,2 pct. til kurs 223 </p>
+<p> fredag. Er steget 19 kr. på to dage. </p>
+<p>     * BG Bank fortsætter ligeledes op. Stiger 3,2 pct. til </p>
+<p> kurs 360. Tredje dag med markante stigninger. </p>
+<p>     * DDE 3,0 pct. op efter regnskab torsdag </p>
+<p>     * DLH stiger 5,4 pct. efter køb af Tim Tømmerhandel. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-20"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-20"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-20"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-20"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-20"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-20"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-20"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

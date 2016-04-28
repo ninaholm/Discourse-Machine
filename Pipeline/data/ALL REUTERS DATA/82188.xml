@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-02" id="root" itemid="82188" xml:lang="da">
+<title></title>
+<headline> Danske obligationer stiger efter USA-fremgang. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Papir      kl. 8.40      kl. 16.00 Stat 8 pct. 2006   108,30/6,73 pct.  108,02/6,77 pct. Dansk-tysk 10-årigt spænd (bp) 76      77 </p>
+<p> --------------------------------------------------------- </p>
+<p>     KØBENHAVN, 2 april (Reuter) - En lavere end ventet </p>
+<p> priskomponent i det amerikanske NAPM-indeks for marts, der </p>
+<p> blev offentliggjort tirsdag, er onsdag morgen med til at </p>
+<p> sende de danske obligationskurser op efter en stigning i </p>
+<p> kurserne på det amerikanske obligationsmarked tirsdag. </p>
+<p>     - Med beskæftigelsestal fra USA på fredag vil vi </p>
+<p> næsten blindt følge USA i denne uge, siger en handler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-02"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-02"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

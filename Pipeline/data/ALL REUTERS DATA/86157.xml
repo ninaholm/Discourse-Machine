@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-08-01" id="root" itemid="86157" xml:lang="da">
+<title></title>
+<headline> Danske aktier siver i afventende marked. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 1 august (Reuter) - Det danske aktiemarked </p>
+<p> fredag kl. 12.00:        +/- </p>
+<p>     * KFX-indekset............. 188,89     -0,29 </p>
+<p>     * August-future på KFX..... 189,00     -0,70 </p>
+<p>     * Omsætning i KFX-papirer.. 98 mio. kr. </p>
+<p>     * Tele Danmark er presset syv kr. ned efter nyheden </p>
+<p> om, at franske Mobilix har planer om at lave eget net i </p>
+<p> Danmark. </p>
+<p>     * En styrket dollar har kun i begrænset omfang giver </p>
+<p> plus til dollarfølsomme aktier, og banker har ikke fået </p>
+<p> glæde af lavere renter. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-08-01"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

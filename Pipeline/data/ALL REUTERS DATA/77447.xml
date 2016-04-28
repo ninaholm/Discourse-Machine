@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-11-12" id="root" itemid="77447" xml:lang="da">
+<title></title>
+<headline> NATIONALBANKENS VALUTAKURSER DEN 12. NOVEMBER. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 12 november (Reuter) - Nationalbanken har </p>
+<p> fastsat følgende middelkurser i dag: </p>
+<p> USD -  574,00  NLG -  342,71  JPY -    5,1531 GBP -  949,28  ITL -    0,3804     IEP -  952,27 DEM -  384,33  FIM -  127,12  GRD -    2,429 SEK -   87,22  ISK -    8,74  XEU -  735,12 NOK -   91,48  ATS -   54,620 AUD -  453,17 FRF -  113,57  ESP -    4,561 NZD -  407,43 BEF -   18,652 PTE -    3,793 SDR -  837,65 CHF -  457,63  CAD -  429,99 </p>
+<p>     I det følgende angives tal fra de seneste to hverdage. </p>
+<p>     Middelkurser 11. november: </p>
+<p> USD -  578,85  NLG -  342,98  JPY -    5,1924 GBP -  953,66  ITL -    0,3815     IEP -  956,43 DEM -  384,62  FIM -  127,40  GRD -    2,433 SEK -   87,59  ISK -    8,76  XEU -  736,30 NOK -   91,58  ATS -   54,660 AUD -  456,60 FRF -  113,71  ESP -    4,568 NZD -  410,64 BEF -   18,666 PTE -    3,796 SDR -  842,24 CHF -  457,19  CAD -  434,64 </p>
+<p>     Middelkurser 8. november: </p>
+<p> USD -  580,10  NLG -  342,69  JPY -    5,1878 GBP -  955,48  ITL -    0,3815     IEP -  957,57 DEM -  384,43  FIM -  127,33  GRD -    2,433 SEK -   87,61  ISK -    8,76  XEU -  735,74 NOK -   91,52  ATS -   54,634 AUD -  457,00 FRF -  113,73  ESP -    4,566 NZD -  412,34 BEF -   18,657 PTE -    3,800 SDR -  842,97 CHF -  456,02  CAD -  435,61. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-12"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-12"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-12"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-12"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-12"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-12"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-12"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-11-12"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

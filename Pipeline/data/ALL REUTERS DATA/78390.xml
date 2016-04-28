@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-12-17" id="root" itemid="78390" xml:lang="da">
+<title></title>
+<headline> DANSKE AKTIER FALDT TIRSDAG MED RESTEN AF EUROPA. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 17 december (Reuter) - Det danske aktiemarked faldt tirsdag tilbage med de øvrige aktiemarkeder i Europa, og umiddelbart er der ikke noget, der kan forhindre yderligere fald onsdag, forudser en aktiehandler. </p>
+<p> - Det hele faldt tilbage i dag. Det overraskende var, at det danske marked ikke faldt med de øvrige i formiddags, men i eftermiddag faldt Danmark også, siger dealeren, der venter flere minusser onsdag. </p>
+<p> KFX-indekset faldt 1,24 point til 130,10, mens december-futuren på KFX faldt 0,60 point til 130,10. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-17"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-17"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-17"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-17"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-17"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-17"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-12-17"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-08-21" id="root" itemid="75828" xml:lang="da">
+<title></title>
+<headline> SIDEPAPIRER BRAGER OP I KONSOLIDERENDE AKTIEMARKED. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 21 august (Reuter) - Det danske aktiemarked stoppede onsdag op og klappede hesten efter fem dage med konstant stigning. Markedet konsoliderede sig, og under lav omsætning sluttede KFX-indekset 0,73 point lavere i 119,86. </p>
+<p> - I morgen formiddag vil markedet nok svinge omkring en kvart pct. Men senere lurer rådsmødet i Bundesbank, og det kan blive afgørende for resten af dagen, siger en aktiechef. </p>
+<p> Der er en udpræget forventning i markedet om, at den tyske repo-rente vil blive sat ned. </p>
+<p> [MORE]. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-21"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-21"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-21"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-21"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-21"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-21"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-08-21"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-08-20" id="root" itemid="75785" xml:lang="da">
+<title></title>
+<headline> SVENSK BETALINGSBALANCEOVERSKUD 5,2 MIA SEK I JUNI. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> STOCKHOLM, 20 august (Reuter) - Overskuddet på den svenske betalingsbalance blev i juni på 5,2 mia. SEK, mod 2,6 mia. SEK i maj, oplyser Sveriges Riksbank tirsdag. </p>
+<p> Markdet havde forventet et overskud på 7,3 mia. SEK. </p>
+<p> Til sammenligning, så blev overskuddet på betalingsbalancen i juni 1995 på 6,6 mia. SEK (Reuter/jnu). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code>
+<code code="SWED">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E51">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code>
+<code code="E511">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-08-20"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

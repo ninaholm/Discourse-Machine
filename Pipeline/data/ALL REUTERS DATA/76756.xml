@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-08" id="root" itemid="76756" xml:lang="da">
+<title></title>
+<headline> SAS DANMARK ER MED PÅ NY UOFFICIEL KFX-LISTE. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 8 oktober (Reuter) - SAS Danmark er måske alligevel med i KFX-indekset på Københavns Fondsbørs, når Fondsbørsen sammensætter det nye indeks den 1. november. Det viser en beregning, som Reuters Finans er i besiddelse af. Den er udarbejdet af aktieafdelingen i en dansk bank. </p>
+<p> Beregningen er foretaget i begyndelsen af oktober, og den er dermed nyere end den liste, som n om sammensætningen af det nye KFX-indeks træffes en gang om året den 1. november af Københavns Fondsbørs efter en indviklet beregningsmetode, der tager hensyn til aktiernes markedsværdi og aktiviteten i aktierne på Fondsbørsen. </p>
+<p> Hver dag udvælges de 25 mest handlede aktier, og de 25 aktier, som flest gange har været blandt de mest handlede udgør en basisportefølje. Der efter vælges de 20 aktier i basisporteføljen, der har den største markedsværdi, og de udgør KFX-indekset. </p>
+<p> Når regnskabet gøres op, korrigeres der for de selskaber, der er blevet optaget på Københavns Fondsbørs i det forløbne år, og dermed ikke har haft mulighed for at være blandt de 25 mest handlede i hele perioden. </p>
+<p> På opgørelsen fra begyndelsen af oktober optræder tøjproducenten Carli Gry i basisporteføljen, selv om selskabets aktier har en markedsværdi på under to mia. kr. Men de er alligevel med i basisporteføljen, fordi der har været stor aktivitet i aktien i den periode, selskabet har været noteret på Fondsbørsen. </p>
+<p> Optagelse i KFX-indekset betyder traditionelt kursstigninger for en aktie, mens der normalt registeres kursfald efter udtræden af indekset. (/olm). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) 1996 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-08"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-08"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-08"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-08"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="DDLUFT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-08"></editdetail></code>
+<code code="I75">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-08"></editdetail></code>
+<code code="C14">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-08"></editdetail></code>
+<code code="CCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-08"></editdetail></code>
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-08"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-08"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-08"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

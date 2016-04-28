@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-04" id="root" itemid="79790" xml:lang="da">
+<title></title>
+<headline> STATENS NETTOFINANSIERINGSBEHOV 8,5 MIA I JAN. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 4 februar (Reuter) - Statens nettofinansieringsbehov var i januar på 8,5 mia. kr., oplyser Nationalbanken tirsdag. </p>
+<p> Bruttofinansieringsbehovet, bortset fra afdrag på udenlandske statslån, var på 14,9 mia. kr., og der er solgt indenlandske statspapirer for 14,0 mia. kr. Samtidig har der været nettoindfrielse af skatkammerbeviser for 1,7 mia. kr. (/uha/slj). </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-04"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-04"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-04"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-04"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E21">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-04"></editdetail></code>
+<code code="E212">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-04"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-04"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-04"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

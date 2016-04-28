@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-06" id="root" itemid="84489" xml:lang="da">
+<title></title>
+<headline> KFX-aktier stiger 0,5 pct med Tele Danmark i teten. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 6 juni (Reuter) - Det danske aktiemarked </p>
+<p> fredag kl. 12.00:      +/-     * KFX-indeks.................168,24   +0,79     * KFX future juni............169,70   +1,65 </p>
+<p>     * Omsætning i KFX-papirer....134,57 mio. kr. </p>
+<p>     * Tele Danmark stiger fortsat på rygter om britisk </p>
+<p> interesse i statens aktier. Handlere ser stigning som </p>
+<p> overreaktion. Aktien er siden onsdag steget seks pct. </p>
+<p>     * Novo Nordisk op fem kr. til kurs 715. Aktien er </p>
+<p> siden nytår steget 37 pct. </p>
+<p>     * DAX-indeks op 0,7 pct. i 3.698. Nyt rekordniveau. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-06"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-06"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-06"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-06"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-06"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-06"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-06"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

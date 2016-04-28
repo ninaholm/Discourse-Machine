@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-03-03" id="root" itemid="80926" xml:lang="da">
+<title></title>
+<headline> DANSKE OBLIGATIONER FORTSÆTTER NED, SPÆND HOLDER. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Papir  fredag   kl.  8.40     kl. 16.20 Stat 8 pct. 2006   111,54/6,29 pct.  112,00/6,22 pct. Dansk-tysk 10-årigt spænd (bp) 71      74 </p>
+<p> --------------------------------------------------------- </p>
+<p>     KØBENHAVN, 3 marts (Reuter) - De danske </p>
+<p> obligationskurser fortsætter mandag morgen det fald, der </p>
+<p> startede fredag efter fremkomsten af rygterne om en mulig </p>
+<p> samlet udsættelse af ØMU&apos;ens start. Udvidelsen af </p>
+<p> rentespændet til Tyskland ser dog til at holde niveauet </p>
+<p> efter en udvidelse på seks basispoint til 74 bp fredag. </p>
+<p>     - Vi er tæt på bunden, vurderer en handler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-03"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-03"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-03"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-03"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-03"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-03"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-03-03"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

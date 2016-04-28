@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-06" id="root" itemid="83400" xml:lang="da">
+<title></title>
+<headline> KFX stiger 0,58 pct, SAS 2 kr ned inden regnskab. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 6 maj (Reuter) - Det danske aktiemarked </p>
+<p> mandag kl. 11.53:         +/-     * KFX-indeks...................158,54    +0,91     * KFX future maj...............159,00    +0,90 </p>
+<p>     * Omsætning i KFX-papirer......91,85 mio. kr. </p>
+<p>     * SAS falder to kr. til kurs 68 inden regnskab og </p>
+<p> efter ny afgift på indenrigsflyvning. Analytikere venter </p>
+<p> fald i res før skat i 1 kvt på 45 pct. til 172 mio SEK. </p>
+<p>     * 14 KFX-aktier stiger, tre uændrede, tre falder. </p>
+<p>     * Den Danske Bank stiger 11 kr. til kurs 600, </p>
+<p> Unidanmark er mest omsat, stiger to kr. til kurs 335. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-06"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-06"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-06"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-06"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-06"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-06"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-06"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

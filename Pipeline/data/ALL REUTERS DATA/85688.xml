@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-07-14" id="root" itemid="85688" xml:lang="da">
+<title></title>
+<headline> Nøgletal - aktier og olie 14 juli. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     Mandag   kl. 07:00 Seneste    Forrige   +/- </p>
+<p>     ----------------------------------------------------- </p>
+<p>     KFX-indekset.........    185,34     183,29   +   2,05 </p>
+<p>     KFX (jul)............    185,80     182,25   +   3,55 </p>
+<p>     KFX (aug)............    185,85     182,55   +   3,30 </p>
+<p>     DAX..................   4040,97    3992,38   +  48,59 </p>
+<p>     FTSE.................   4799,50    4767,80   +  31,70 </p>
+<p>     Nikkei...............  20030,00   19875,49   + 154,51 </p>
+<p>     Dow Jones Industri...   7921,82    7886,76   +  35,06 </p>
+<p>     Brent 3 mdr (aug)....     18,09 17,96   +   0,13 </p>
+<p>     -----------------------------------------------------. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-14"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-14"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-14"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-14"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-14"></editdetail></code>
+<code code="M14">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-14"></editdetail></code>
+<code code="M143">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-14"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-14"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-07-14"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

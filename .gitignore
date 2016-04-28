@@ -1,4 +1,3 @@
 *.pyc
 *~
-Discourse Machine/test_main.py
-Discourse\ Machine/test_main.py
+*test_main.py

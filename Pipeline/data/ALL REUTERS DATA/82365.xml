@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-04-07" id="root" itemid="82365" xml:lang="da">
+<title></title>
+<headline> Omsætning i byerhverv steg i 4 kvt - DS. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 7 april (Reuter) - Korrigeret for sæsonbevægelser er byerhvervenes omsætning for fjerde kvartal 1996 steget 1,5 pct. i forhold til tredje kvartal 1996. Hvis der tages hensyn til en skønnet stigning i priserne på 0,75 pct. bliver den reale stigning på 0,75 pct. Stigningen i den indenlandske omsætning er realt på 0,75 pct., idet stigningen i priserne skønnes til 1,25 pct., mens eksporten har en real stigning på en pct., når der tages hensyn til et fald i eksportpriserne på 0,75 pct. Det oplyser Danmarks Statistik mandag. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-07"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-07"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-07"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-07"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-07"></editdetail></code>
+<code code="E1107">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-07"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-04-07"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-04-07"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

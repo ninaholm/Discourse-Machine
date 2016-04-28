@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-06-10" id="root" itemid="84572" xml:lang="da">
+<title></title>
+<headline> KFX-aktier nogenlunde uændret, Unibank 2 pct ned. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 10 juni (Reuter) - Det danske aktiemarked </p>
+<p> tirsdag kl. 12.15:       +/-     * KFX-indeks...............170,34      -0,06     * KFX future juni..........170,10      -0,10 </p>
+<p>     * Omsætning i KFX-papirer.. 71,71 mio. kr. </p>
+<p>     * Unibank falder 7 kr. til 363, steg mandag 9 kr. </p>
+<p>     * BG Bank stiger 2 kr. efter anbefaling fra NatWest. </p>
+<p>     * D/S 1912 stiger 0,6 pct. trods fald i USD og i </p>
+<p> oliepriser. </p>
+<p>     * Franske CAC-indeks falder 1,1 pct. DAX falder 0,2 </p>
+<p> pct., mens britiske FTSE stiger 0,2 pct. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-10"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-10"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-10"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-10"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-10"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-06-10"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-06-10"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

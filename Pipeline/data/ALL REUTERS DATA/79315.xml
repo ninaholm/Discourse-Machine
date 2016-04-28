@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-01-23" id="root" itemid="79315" xml:lang="da">
+<title></title>
+<headline> Presserunde torsdag 23 januar. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> Reuters står ikke inde for avisartiklernes nøjagtighed 1) Rejsebureauernes boykot mod SAS er slut, men det bliver kunderne, som kommer til at betale for den nye aftale mellem SAS og rejsebureauerne. (Pol. s. 16, Ber. Erh. s. 5 og flere andre aviser) </p>
+<p> 2) Konflikt-truslen hænger nu over det danske arbejdsmarked, hvor organisationer under Dansk Arbejdsgiverforening blankt afviser, at gå med til lønstigninger i den størrelsesorden, som land-og skovbrugets arbejdsgivere accepterede i sidste uge. (Børsen s. 13). </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-23"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-23"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-23"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-23"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="DDLUFT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-23"></editdetail></code>
+<code code="I75">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-23"></editdetail></code>
+<code code="E11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-23"></editdetail></code>
+<code code="E1125">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-23"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-23"></editdetail></code>
+<code code="GCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-23"></editdetail></code>
+<code code="GPOL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-23"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-01-23"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

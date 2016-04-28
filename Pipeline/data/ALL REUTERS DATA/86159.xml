@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-08-01" id="root" itemid="86159" xml:lang="da">
+<title></title>
+<headline> Dansk-tysk spænd lidt lavere i roligt marked. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>  Papir      kl. 12.20    kl. 8.45 Stat 7 pct. 2007   107,25/6,02 pct.  107,30/6,00 pct. Dansk-tysk 10-årigt spænd (bp) 49      50 Stat 8 pct. 2006   114,20/5,84 pct.  114,25/5,83 pct. </p>
+<p> ---------------------------------------------------------- </p>
+<p>     KØBENHAVN, 1 august (Reuter) - Obligationsmarkedet har </p>
+<p> fredag formiddag været roligt i venten på de amerikanske </p>
+<p> tal fredag eftermiddag. Rentespændet til Tyskland er </p>
+<p> indsnævret en anelse, og rentekurven er fladet lidt. </p>
+<p>     - Kurven flader lidt på grund af USD samt lidt </p>
+<p> nervøsitet i de korte obligationer, siger en handler. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="GFR">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="M12">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="M131">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-01"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-08-01"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

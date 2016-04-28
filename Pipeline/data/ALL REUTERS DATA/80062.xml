@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-11" id="root" itemid="80062" xml:lang="da">
+<title></title>
+<headline> DANMARK HAR FÆRREST KONKURSER I EUROPA - KØBMÆND. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> KØBENHAVN, 11 februar (Reuter) - Danmark er det land i Europa, der har oplevet det største fald i antallet af konkurser i 1996, oplyser Købmandstandens OplysningsBureau tirsdag. </p>
+<p> - Med et fald på 31 pct. fra 1995 til 1996, er Danmarks konkursudvikling den bedste i Europa. I den samme periode er det samlede antal konkurser i Europa steget med en pct., skriver Købmandstanden i en pressemeddelelse. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-11"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-11"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-11"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-11"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="E11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-11"></editdetail></code>
+<code code="ECAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-11"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-11"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

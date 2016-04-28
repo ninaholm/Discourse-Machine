@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-07-08" id="root" itemid="85515" xml:lang="da">
+<title></title>
+<headline> Dansk aktiemarked mod ny top med APM i front. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     KØBENHAVN, 8 juli (Reuter) - Det danske aktiemarked </p>
+<p> tirsdag kl 13.30:        +/-     * KFX-indekset.................178,84   +0,59     * KFX future juli..............179,50   +1,00 </p>
+<p>     * Omsætning i KFX-papirer......269,94 mio. kr. </p>
+<p>     * APM-papirer trækker KFX med op. D/S Svendborg stiger </p>
+<p> 6.500 kr. til kurs 360.500, D/S 1912 stiger 4.000 kr. til </p>
+<p> kurs 251.000. </p>
+<p>     * Sophus Berendsen ned. Falder 20 kr. til kurs 980. </p>
+<p>     * Forsikringsaktier igen i fokus. Tryg-Baltica 12 kr. </p>
+<p> op til kurs 397. Dansk Kaution stiger 13 kr. til kurs 350. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) 1997 Reuters Limited</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DEN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-08"></editdetail></code>
+<code code="EURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-08"></editdetail></code>
+<code code="SCANDZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-08"></editdetail></code>
+<code code="WEURZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-08"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M11">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-08"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-08"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-07-08"></dc>
+<dc element="dc.source" value="Reuters - Nyheder på dansk"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

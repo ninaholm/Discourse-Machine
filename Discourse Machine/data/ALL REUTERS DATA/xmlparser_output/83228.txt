@@ -1,9 +1,0 @@
-Reuters Finans - Estimater på kommende nøgletal.
-
-DATO  NØGLETAL     SNIT  LAV/HØJ   FORRIGE
-02/05 Valutatal, april
-ex nettolåntagning   100,2 mia   97,4/102,4    94,4   05/05 Ledighed marts  223.900    222.0/225.0   226.0   (begge sæsonkorr) 8,0 pct    7,9/8,1  8,1
-BG Bank, Codan, DDB, DMG, JPM, Jyske Bank, Paine W,
-Sydbank og Unibank har leveret ledighedsskøn. BG Bank,
-Codan Bank, Sydbank og Unibank har skønnet på valutatal.
-(c) Reuters Limited 1997.
