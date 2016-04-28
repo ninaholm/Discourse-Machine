@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import time
 import pickle
 import sys
-
+from Grammar import *
 
 
 class TreebankParser(object):
@@ -160,37 +160,37 @@ class Nonterminal(Terminal):
 
 
 
-class GrammarRule(object):
-	def __init__(self, left_side, constituents):
-		self.constituents = constituents
-		self.left_side = left_side
+# class GrammarRule(object):
+# 	def __init__(self, left_side, constituents):
+# 		self.constituents = constituents
+# 		self.left_side = left_side
 
-	def print_rule(self):
-		s = self.left_side + " --->"
-		for c in self.constituents:
-			s = s + " " + c
-		return s
+# 	def print_rule(self):
+# 		s = self.left_side + " --->"
+# 		for c in self.constituents:
+# 			s = s + " " + c
+# 		return s
 
-	def __hash__(self):
-		return hash((str(self.constituents), self.left_side))
+# 	def __hash__(self):
+# 		return hash((str(self.constituents), self.left_side))
 
-	def __eq__(self, other):
-		return (str(self.constituents), self.left_side) == (str(self.constituents), self.left_side)
+# 	def __eq__(self, other):
+# 		return (str(self.constituents), self.left_side) == (str(self.constituents), self.left_side)
 
 
-class Grammar(object):
-	def __init__(self):
-		self.rules = {}
+# class Grammar(object):
+# 	def __init__(self):
+# 		self.rules = {}
 
-	def count_rule(self, gr):
-		if gr in self.rules:
-			self.rules[gr] = self.rules[gr] + 1
-		else:
-			self.rules[gr] = 1
+# 	def count_rule(self, gr):
+# 		if gr in self.rules:
+# 			self.rules[gr] = self.rules[gr] + 1
+# 		else:
+# 			self.rules[gr] = 1
 
-	def print_grammar(self):
-		for rule in self.rules:
-			print rule.print_rule(), " \t", self.rules[rule]
+# 	def print_grammar(self):
+# 		for rule in self.rules:
+# 			print rule.print_rule(), " \t", self.rules[rule]
 
 
 
@@ -229,11 +229,25 @@ def map_DDT_tags_to_CST_terminals():
 		data = csv.reader(file)
 
 		for row in data:
-			gr = GrammarRule(row[1], [row[0]])
+			gr = GrammarRule(row[1], [row[0]], 1)
 			grammar.rules[gr] = 1
 
-	grammar.print_grammar()
 	return grammar
 
+g = map_DDT_tags_to_CST_terminals()
 
-map_DDT_tags_to_CST_terminals()
+
+with open("grammar.in", "r") as gfile:
+	old_grammar = pickle.load(gfile)
+
+	for gr in g.rules:
+		if gr.key() in old_grammar.rules:
+			old_grammar.rules[gr.key()].append(gr)
+		else:
+			old_grammar.rules[gr.key()] = [gr]
+
+old_grammar.print_grammar()
+
+with open("grammar.out", "w") as gfile:
+	pickle.dump(old_grammar, gfile)
+
