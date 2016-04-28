@@ -75,28 +75,21 @@ sumOcc = sum(rawgrammar.rules.values())
 
 grammar = Grammar()
 
-newRuleCount = 0
-
 for x in rawgrammar.rules:
 
 	x.prob = float(rawgrammar.rules[x]) / sumOcc
 	# print "%s = %s / %s" %(x.prob, rawgrammar.rules[x], sumOcc)
 	if len(x.constituents) > 2:
-		subRules = x.makeSubRules(newRuleCount, rawgrammar.rules[x])
+		subRules = x.makeSubRules(grammar.newRuleCount, rawgrammar.rules[x])
 		for rule in subRules:
 			# print rule.left_side
 			grammar.rules[rule] = rule
 		print 
-		newRuleCount += len(subRules)
+		grammar.newRuleCount += len(subRules)
 		continue
 	print x.left_side, " ---> \t", x.constituents, x.prob 
 	print
-	newRuleCount += 1
+	grammar.newRuleCount += 1
 	grammar.rules[x] = x
 
-
-
-	# print type(x.left_side), x.left_side
-	# print type(x.constituents), x.constituents
-	# print
 
