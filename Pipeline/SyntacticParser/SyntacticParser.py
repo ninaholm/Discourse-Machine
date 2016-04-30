@@ -1,7 +1,8 @@
 import polyglot
 from polyglot.text import Text, Word
-
-
+import pickle
+from Grammar import *
+import sys
 
 
 class SyntacticParser(object):
@@ -16,12 +17,18 @@ class SyntacticParser(object):
 	# Takes a sentence string and returns a POS-tagged version of said sentence (as a list of word:tag tuples)
 	# Can be replaced with another POS-tagger
 	def postag_sentence(self, sentence):
-		return Text(sentence).pos_tags
+		split = sentence.split(" ")
+		output = []
+		for s in split:
+			output.append(s.split("/"))
+		return output
 
 
 	# Takes a sentence string, runs CKY and returns the sentence matrix of said sentence.
 	def cky_parse(self, sentence):
+		test = False
 		print ">>PARSE: Starting the syntactic parsing..."
+		if test: print ">>PARSE: Running with test ON."
 		
 		# Set variables
 		pos_sentence = self.postag_sentence(sentence)
@@ -32,25 +39,32 @@ class SyntacticParser(object):
 		# Fill out the NTs resolving to terminals
 		print ">>PARSE: Now parsing the sentence \'%s\'" % (sentence)
 		for i in range(1, sentence_length+1):
-			po = ParseOption(pos_sentence[i-1][1], 1, None, None)
+			r = self.grammar.rules[pos_sentence[i-1][1]][0].left_side # map the CST tag to DDT tag
+			po = ParseOption(r, 1, None, None)
+			sentence_matrix[0][i].append(pos_sentence[i-1][0])
 			sentence_matrix[1][i].append(po)
+
+		if test: self._print_matrix(sentence_matrix)
 
 		# GO GO CKY ALGORITHM DO YO' THANG
 		for substring_length in range(2, sentence_length+1):
+
 			for substring_start in range(1, (sentence_length - substring_length)+2):
 				for split_point in range(1, substring_length):
 					b = sentence_matrix[split_point][substring_start]
 					c = sentence_matrix[substring_length - split_point][substring_start + split_point]
 					for b_option in b:
 						for c_option in c:
-							grammar_rule = (str(b_option.constituent) + " " + str(c_option.constituent))
-							if grammar_rule in self.grammar:
-								for nonterminal in self.grammar[grammar_rule]:
-									prob = b_option.probability * c_option.probability * nonterminal[1]
+							grammar_rule = (str(b_option.constituent) + str(c_option.constituent))
+							if grammar_rule in self.grammar.rules:
+								if test: print "grammar rule exists: " + grammar_rule
+								for nonterminal in self.grammar.rules[grammar_rule]:
+									prob = b_option.probability * c_option.probability * nonterminal.prob
 									b_option_coord = [split_point, substring_start, b.index(b_option)]
 									c_option_coord = [substring_length - split_point, substring_start + split_point, c.index(c_option)]
-									po = ParseOption(nonterminal[0], prob, b_option_coord, c_option_coord)
+									po = ParseOption(nonterminal.left_side, prob, b_option_coord, c_option_coord)
 									sentence_matrix[substring_length][substring_start].append(po)
+									if test: self._print_matrix(sentence_matrix)
 
 		print ">>PARSE: The finished CKY parse table:"
 		self._print_matrix(sentence_matrix)
@@ -69,26 +83,10 @@ class SyntacticParser(object):
 
 	# Returns a dictionary containing the grammar used by the CKY parser
 	def _import_grammar(self):
-		grammar_rules = []
-		grammar_dict = {}
-
-		grammar_dict["NP VP"] = [["S", 0.4],]
-		grammar_dict["NEXUS VP"] = [["S", 0.2],]
-		grammar_dict["VERB NP"] = [["VP", 0.4],]
-		grammar_dict["PRON NOM"] = [["NP", 0.4], ["NOM", 0.6]]
-		grammar_dict["ADJ NOUN"] = [["NOM", 0.4],]
-		grammar_dict["ADP PROPN"] = [["PP", 0.4],]
-		grammar_dict["NP PP"] = [["NP", 0.4],]
-		grammar_dict["PRON VERB"] = [["NEXUS", 0.4],]
-		grammar_dict["NP VERB"] = [["NEXUS", 0.4],]
-		grammar_dict["NEXUS NP"] = [["S", 0.4],]
-		grammar_dict["NEXUS VP"] = [["S", 0.4],]
-		grammar_dict["PRON NOUN"] = [["NP", 0.4],]
-		grammar_dict["VERB ADJ"] = [["VP", 0.4],]
-		grammar_dict["PRON VP"] = [["S", 0.2],]
-
-
-		return grammar_dict
+#		sys.modules['Grammar'] = Grammar
+		with open("SyntacticParser/grammar.in", "r") as gfile:
+			g = pickle.load(gfile)
+		return g
 
 
 
