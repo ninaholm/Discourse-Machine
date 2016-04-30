@@ -66,9 +66,10 @@ class SyntacticParser(object):
 									sentence_matrix[substring_length][substring_start].append(po)
 									if test: self._print_matrix(sentence_matrix)
 
-		print ">>PARSE: The finished CKY parse table:"
-		self._print_matrix(sentence_matrix)
-		print
+		if test:
+			print ">>PARSE: The finished CKY parse table:"
+			self._print_matrix(sentence_matrix)
+			print
 
 		return sentence_matrix
 
@@ -94,8 +95,6 @@ class SyntacticParser(object):
 	def build_sentence_tree(self, sentence_matrix):
 		sentence_length = len(sentence_matrix)-1
 
-		print sentence_matrix[sentence_length][1]
-
 		if len(sentence_matrix[sentence_length][1])==0:
 			print ">>PARSE: No legal parse tree for this sentence."
 			return None
@@ -110,9 +109,6 @@ class SyntacticParser(object):
 				maximum = option.probability
 				index = sentence_matrix[sentence_length][1].index(option)
 		tree.build_tree(sentence_matrix[sentence_length][1][index])
-
-		print ">>PARSE: Printing the syntactic tree..."
-		tree.print_tree()
 
 		return tree
 
@@ -137,6 +133,7 @@ class ParseOption(object):
 class Tree(object):
 	def __init__(self, sentence_matrix):
 		self.matrix = sentence_matrix
+		self.size = 0
 
 	# Builds a syntactic tree based on the ParseOption object for a legal S in the sentence_matrix.
 	def build_tree(self, parse_root):
@@ -152,19 +149,14 @@ class Tree(object):
 				left_child = self.matrix[parse_option.left_coord[0]][parse_option.left_coord[1]][parse_option.left_coord[2]]
 				right_child = self.matrix[parse_option.right_coord[0]][parse_option.right_coord[1]][parse_option.right_coord[2]]
 				return Node(value, self._create_node(left_child), self._create_node(right_child))
+				self.size = self.size +1
 			else:
 				return Node(value, None, None)
+				self.size = self.size +1
 
 	def print_tree(self):
-		thislevel = [self.root]
-		while thislevel:
-			nextlevel = list()
-			for n in thislevel:
-				print n.value,
-				if n.left_child: nextlevel.append(n.left_child)
-				if n.right_child: nextlevel.append(n.right_child)
-			print
-			thislevel = nextlevel
+		print self.root.print_self(0)
+
 
 class Node(object):
 	def __init__(self, value, left_child, right_child):
@@ -173,3 +165,18 @@ class Node(object):
 		self.right_child = right_child
 
 
+	def print_self(self, depth):
+		ret = ""
+
+		# Print right branch
+		if self.right_child != None:
+			ret += self.right_child.print_self(depth + 1)
+
+		# Print own value
+		ret += "\n" + ("    "*depth) + str(self.value)
+
+		# Print left branch
+		if self.left_child != None:
+			ret += self.left_child.print_self(depth + 1)
+
+		return ret

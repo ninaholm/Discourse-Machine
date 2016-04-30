@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import time
 import pickle
 import sys
-from Grammar import *
+from Grammar import Grammar, GrammarRule
 
 
 class TreebankParser(object):
@@ -229,7 +229,7 @@ def map_DDT_tags_to_CST_terminals():
 		data = csv.reader(file)
 
 		for row in data:
-			gr = GrammarRule(row[1], [row[0]], 1)
+			gr = GrammarRule(row[1], [row[0]])
 			grammar.rules[gr] = 1
 
 	return grammar
