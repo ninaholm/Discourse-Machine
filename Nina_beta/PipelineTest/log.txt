@@ -1,0 +1,37 @@
+>>PARSE: Starting the syntactic parsing...
+>>LOG: Time spent POS-tagging: 0:00:00.000085
+>>PARSE: Now parsing the sentence 'Danmark/EGEN er/V_PRES blandt/PRÆP de/PRON_DEMO 10/NUM rigeste/ADJ lande/N_INDEF_PLU i/PRÆP verden/N_INDEF_SING'
+>>LOG: Time spent mapping CST to DDT: 0:00:00.000057
+>>LOG: Time spent running CKY: 0:00:15.175710
+>>GRAMMARLOG: Amount of time spent on grammar lookups: 0:00:14.595412
+>>PARSE: Building the syntactic tree.
+>>LOG: Time spent building the tree: 0:00:00.004809
+
+                            NC --- verden
+                        SP
+                            SP --- i
+                    @X20740
+                        NC --- lande
+                @X20739
+                    AN --- rigeste
+            PD
+                    AC --- 10
+                PD
+                    PD --- de
+        SP
+            SP --- blandt
+    @X10260
+        VA --- er
+@X10259
+    NP --- Danmark
+
+
+Number of sentences is: 2192
+Number of sentences is: 2192
+>>PARSE: Starting the syntactic parsing...
+>>LOG: Time spent POS-tagging: 0:00:00.000299
+>>PARSE: Now parsing the sentence 'N Statsminister/N_INDEF_SING Lars/EGEN Løkke/NNP Rasmussen/EGEN (/TEGN V/N_INDEF_SING )/TEGN vil/V_PRES lave/V_INF en/PRON_UBST kontrakt/N_INDEF_SING med/PRÆP vælgerne/N_DEF_PLU om/PRÆP at/UNIK gøre/V_INF Danmark/EGEN til/PRÆP et/PRON_UBST af/PRÆP de/PRON_DEMO 10/NUM rigeste/ADJ lande/N_INDEF_PLU i/PRÆP verden/N_INDEF_SING i/PRÆP 2020.-/XX Dette/NNP er/V_PRES ikke/ADV et/PRON_UBST opgør/N_INDEF_SING med/PRÆP kontraktpolitikken/N_DEF_SING ./TEGN '
+Number of sentences is: 2192
+>>PARSE: Starting the syntactic parsing...
+>>LOG: Time spent POS-tagging: 0:00:00.000308
+>>PARSE: Now parsing the sentence 'N Statsminister/N_INDEF_SING Lars/EGEN Løkke/NNP Rasmussen/EGEN (/TEGN V/N_INDEF_SING )/TEGN vil/V_PRES lave/V_INF en/PRON_UBST kontrakt/N_INDEF_SING med/PRÆP vælgerne/N_DEF_PLU om/PRÆP at/UNIK gøre/V_INF Danmark/EGEN til/PRÆP et/PRON_UBST af/PRÆP de/PRON_DEMO 10/NUM rigeste/ADJ lande/N_INDEF_PLU i/PRÆP verden/N_INDEF_SING i/PRÆP 2020.-/XX Dette/NNP er/V_PRES ikke/ADV et/PRON_UBST opgør/N_INDEF_SING med/PRÆP kontraktpolitikken/N_DEF_SING ./TEGN '
