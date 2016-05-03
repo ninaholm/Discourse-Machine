@@ -152,7 +152,7 @@ class Corpus:
 
 	def getSearchTerms(self):
 		searchterms = []
-		searchtermsfile = open(os.getcwd() + "/TFIDF_searcher/searchterms.txt", "r")
+		searchtermsfile = open(os.getcwd() + "/data/searchterms.txt", "r")
 		for term in searchtermsfile:
 			searchterms.append(str(term).strip())
 		print "SEARCHTERMS: %s" %searchterms

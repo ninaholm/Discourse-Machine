@@ -14,7 +14,7 @@ class TreebankParser(object):
 
 	def extract_terminals(self, treebank_filename):
 		with open("ddt-1.0.xml", "r") as file:
-			treebank = BeautifulSoup(file.read(), "xml")
+			treebank = BeautifulSoup(file.read())
 
 		terminals = {}
 		for sentence in treebank.findAll('s'):
@@ -36,7 +36,7 @@ class TreebankParser(object):
 		# Reading and xml-parsing the DDT file
 		print ">>TREEBANK: Reading and xml-parsing the DDT file."
 		with open(treebank_filename, "r") as file:
-			treebank = BeautifulSoup(file.read(), "xml")
+			treebank = BeautifulSoup(file.read())
 		print ">>LOG: Time spent is %s seconds" % self.log.time_since_last_check()
 
 		grammar = Grammar()
@@ -108,7 +108,7 @@ class TreebankParser(object):
 		# Reading and xml-parsing the DDT file
 		print ">>TREEBANK: Reading and xml-parsing the DDT file."
 		with open(treebank_filename, "r") as file:
-			treebank = BeautifulSoup(file.read(), "xml")
+			treebank = BeautifulSoup(file.read())
 		print ">>LOG: Time spent is %s seconds" % self.log.time_since_last_check()
 
 		grammar = Grammar()

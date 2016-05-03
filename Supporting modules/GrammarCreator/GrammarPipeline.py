@@ -22,14 +22,18 @@ print ">>GRAMMARCREATOR: Appending the two grammars."
 for gr in terminal_grammar.rules:
 	counted_grammar.rules[gr] = 1
 
-counted_grammar.print_counted_grammar()
+# counted_grammar.print_counted_grammar()
 if test: raw_input("continue?")
 
 
 print ">>GRAMMARCREATOR: Converting grammar to CNF and normalizing probabilities."
-final_grammar = convert_to_probabilistic_chomsky(counted_grammar)
+cnfgrammar = convert_to_probabilistic_chomsky(counted_grammar)
 
-final_grammar.print_grammar()
+print ">>GRAMMARCREATOR: Compressing grammar."
+final_grammar = compress(cnfgrammar)
+
+
+# final_grammar.print_grammar()
 
 if test: sys.exit()
 
