@@ -65,6 +65,8 @@ class SyntacticParser(object):
 
 		if self.test: self._print_matrix(sentence_matrix)
 
+		print len(self.grammar.rules)
+
 		self.cky_logger.start_timer()
 		# GO GO CKY ALGORITHM DO YO' THANG
 		for substring_length in range(2, sentence_length+1):
@@ -196,6 +198,7 @@ class Node(object):
 		self.left_child = left_child
 		self.right_child = right_child
 		self.leaf = False
+		self.head = ""
 
 
 	def print_self(self, depth,):

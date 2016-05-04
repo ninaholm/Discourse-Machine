@@ -107,6 +107,8 @@ class TreebankParser(object):
 
 		# Reading and xml-parsing the DDT file
 		print ">>TREEBANK: Reading and xml-parsing the DDT file."
+		test = False
+		if test: treebank_filename = "test_sentence"
 		with open(treebank_filename, "r") as file:
 			treebank = BeautifulSoup(file.read())
 		print ">>LOG: Time spent is %s seconds" % self.log.time_since_last_check()
@@ -136,11 +138,14 @@ class TreebankParser(object):
 
 			for nt in nonterminals:
 				if len(nonterminals[nt].edges) > 1:
-					cat = nonterminals[nt].category
+					cat = nonterminals[nt].category + "P"
 					r = []
 					for e in nonterminals[nt].edges:
 						if e[1] != "--":
-							r.append(nonterminals[e[0]].category)
+							if len(nonterminals[e[0]].edges) > 1:
+								r.append(nonterminals[e[0]].category + "P")
+							else:
+								r.append(nonterminals[e[0]].category)
 						else:
 							r.append(terminals[e[0]].category)
 					gr = GrammarRule(cat, r, 0)
