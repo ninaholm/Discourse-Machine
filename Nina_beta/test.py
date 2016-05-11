@@ -1,3 +1,33 @@
+import polyglot
+from polyglot.text import Text, Word
+import sys
+import time
+
+# Set default coding to uft-8
+reload(sys)
+sys.setdefaultencoding('utf-8')
+
+
+sentence = "Jeg gik en trist tur i dag."
+
+print "LENGTH:", len(sentence.split(" "))
+t = Text(sentence)
+starttime = time.time()
+
+for w in t.words:
+	print w, w.polarity
+
+
+
+print ">>TIME:", (time.time() - starttime)
+
+
+
+
+
+
+
+
 
 
 def save_random_article():
@@ -12,11 +42,6 @@ def save_random_article():
 
 	with open("rand_article", "w") as file:
 		pickle.dump(data[random_article], file)
-
-
-# Set default coding to uft-8
-reload(sys)
-sys.setdefaultencoding('utf-8')
 
 
 def load_data():
