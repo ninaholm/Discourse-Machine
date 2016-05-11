@@ -1,0 +1,6 @@
+graph test_tree {
+n2 -- { n0 n1 };
+n0 [name0="root", shape=box];
+n1 [name1="xp", shape=box, style=filled];
+n2 [name2="ac", shape=box, label="hi\nfish"];
+}
