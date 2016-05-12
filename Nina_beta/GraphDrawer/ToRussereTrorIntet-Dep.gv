@@ -1,0 +1,22 @@
+digraph test_tree {
+graph [ordering="out"];
+node [shape=none];
+edge [constraint=false, fontsize=9];
+
+n10 [label="AC\nTo"];
+n11 [label="NC\nrussere"];
+n12 [label="VA\ntror"];
+n13 [label="AN\nintet"];
+n14 [label="XP\n."];
+
+{rank=same; 
+
+n12 -> n10 [label="\nsubj"]
+n12 -> n13 [label="mod"]
+n12 -> n14 [label="\npnct"]
+n10 -> n11 [label="mod"]
+
+rankdir=LR; }
+
+
+}
