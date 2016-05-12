@@ -5,6 +5,7 @@ from Grammar import *
 def convert_to_probabilistic_chomsky(rawgrammar):
 
 	sumOcc = sum(rawgrammar.rules.values())
+	print "SUMOCC:", sumOcc
 	grammar = Grammar()
 
 	for x in rawgrammar.rules:
