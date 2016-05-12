@@ -1,12 +1,11 @@
 # from Sentiment_classifier.sentiment_classifier import run_sentiment_classifier
 from log.logger import makeLog, createLog, logChoice
 from Corpus.corpus import *
+from POSCorpus.POSCorpus import *
 import time
 import os
 import sys
-from guppy import hpy
 
-hp = hpy()
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
@@ -18,27 +17,39 @@ if logChoice == True:
 	createLog(0)
 
 # inputfiles = [["indland.in"], ["udland.in"], ["debat.in"],["kultur.in"]]
-inputfiles = [["test_indland.in"], ["test_udland.in"]]
-
-hp.setrelheap()
+# inputfiles = [["test_indland.in"], ["test_udland.in"]]
+inputfiles = [["debat.in"]]
 
 # Loops through the chosen corpora and returns sentimentscore for every searchterm in them.
 for inputfile in inputfiles:
-	c = Corpus(inputfile)
-	c.index()
+	subSetList = []
 
-	# Loops through all searchterms and calculates their sentimentscore for the current corpus.
-	for term in c.searchterms:
-		subCorpusArticleList = c.search(term)
-		print
+	while True:
+		c = Corpus(inputfile)
+		c.index()
 
-		if len(subCorpusArticleList) == 0:
-			continue
 
-	print hp.heap().byrcs
-	print hp.heap().byrcs[0].referrers.byrcs
-	print hp.heap().byrcs[1].referents
-	print "-" * 50
+		# Loops through all searchterms and calculates their sentimentscore for the current corpus.
+		for term in c.searchterms:
+			subset = c.search(term)
+			print
+
+			if len(subset) == 0:
+				continue
+			else:
+				subSetList.append((term, subset))
+		break
+
+	posc = POSCorpus(inputfile, subSetList)
+	posc.load()
+
+
+	for term_subset in subSetList:
+		posc.score_sentiment(term_subset)
+
+
+
+
 
 totalTime = round((time.time() - starttime), 3)
 print "Total time elapsed: %s seconds" % totalTime

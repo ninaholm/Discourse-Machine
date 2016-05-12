@@ -56,7 +56,7 @@ class Corpus:
 				if len(line) < 1:
 					continue
 
-				for word in line:
+				for word in line.split(" "):
 					if len(word) < 1:
 						continue
 					if word in self.sentimentdict:
@@ -122,16 +122,17 @@ class Corpus:
 
 		# Sort results on their TFIDF rating, in decreasing order.
 		results = sorted(results, key=lambda result: result[1], reverse=True)
-		print ">>SEARCHARTICLES: '%s' \t %s articles." % (term, len(results))
+		print ">>SEARCHARTICLES: '%s' \t %s articles found (%s returned)." % (term, len(results), (len(results) / 2))
 
 		# Deletes the bottom 50% of our search results
 		results = results[0:len(results)/2]
 		self.sentimentscore = 0
 
 		# Removes TFIDF values from the remaining articles and adds up the sentimentscore
-		for x in results:
+		for i in range(len(results)):
+			x = results[i]
 			self.sentimentscore += self.articleIndex[x[0]][1]
-			x = x[0]
+			results[i] = x[0]
 
 		totalTime = round((time.time() - starttime), 3)
 
@@ -155,7 +156,7 @@ class Corpus:
 		searchtermsfile = open(os.getcwd() + "/data/searchterms.txt", "r")
 		for term in searchtermsfile:
 			searchterms.append(str(term).strip())
-		print "SEARCHTERMS: %s" %searchterms
+		print ">>SEARCHTERMS: %s" %searchterms
 		return searchterms
 
 
