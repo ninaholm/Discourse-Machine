@@ -42,7 +42,8 @@ class SyntacticParser(object):
 		if self.test: print ">>PARSE: Running with test ON."
 
 		# Set variables
-		pos_sentence = self.postag_sentence(sentence)
+		# pos_sentence = self.postag_sentence(sentence)
+		pos_sentence = sentence
 
 		# TESTING: REMOVE SYMBOLS AND SEE IF THAT HELPS
 		# new = []

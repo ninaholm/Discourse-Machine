@@ -1,0 +1,13 @@
+graph EntityAspectsGraph {
+Entity -- { n1 n2 n3 };
+Entity -- EntityExpression1;
+
+Entity [style=filled, label="Entity\n'Venstre'", fontname="arial"];
+EntityExpression1 [shape=box, style=filled, label="Entity Expression\n'V'", fontname="arial"];
+n1 [label="Aspect\n'Lars Løkke'", shape=box, fontname="arial"];
+n2 [label="Aspect\n'Inger Støjberg'", shape=box, fontname="arial"];
+n3 [label="Aspect\n'liberalisme'", shape=box, fontname="arial"];
+
+{rank=same; Entity EntityExpression1}
+
+}
