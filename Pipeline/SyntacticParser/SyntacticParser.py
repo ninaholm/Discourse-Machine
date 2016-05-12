@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import pickle
 from Grammar import *
 import sys
