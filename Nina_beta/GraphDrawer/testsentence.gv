@@ -1,0 +1,17 @@
+graph test_tree {
+n0 -- { n1 n2 };
+n2 -- { n3 n4 };
+n1 -- n5;
+n3 -- n6;
+n4 -- n7;
+n0 [label="S", shape=none];
+n1 [label="NP", shape=none];
+n2 [label="VP", shape=none];
+n3 [label="VC", shape=none];
+n4 [label="ADJ", shape=none];
+
+n5 [label="Venstre-politikere", shape=none];
+n6 [label="er", shape=none];
+n7 [label="inkompetente", shape=none];
+
+}

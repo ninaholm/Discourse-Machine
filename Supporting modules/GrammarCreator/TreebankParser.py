@@ -98,7 +98,6 @@ class TreebankParser(object):
 			for row in data:
 				gr = GrammarRule(row[1], [row[0]], 0)
 				grammar.count_rule(gr)
-
 		return grammar
 
 
