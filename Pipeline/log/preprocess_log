@@ -74,3 +74,11 @@ POS-tagging: 		61.0935919285 seconds
 Lemmatising: 		0 seconds
 Elapsed for corpus: 	113.103790998
  - - - - - - - - - - - - - 
+CORPUS: 		udland.in
+Number of articles: 	5998
+Unpickling data: 	0.600479125977
+Tokenizing: 		59.8065397739 seconds
+POS-tagging: 		3814.10980248 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	3879.78595519
+ - - - - - - - - - - - - - 

@@ -44,7 +44,6 @@ class SyntacticParser(object):
 		if self.test: print ">>PARSE: Running with test ON."
 
 		# Set variables
-		# pos_sentence = self.postag_sentence(sentence)
 		pos_sentence = sentence
 
 		# TESTING: REMOVE SYMBOLS AND SEE IF THAT HELPS
@@ -123,7 +122,6 @@ class SyntacticParser(object):
 
 	# Returns a dictionary containing the grammar used by the CKY parser
 	def _import_grammar(self):
-#		sys.modules['Grammar'] = Grammar
 		with open("SyntacticParser/grammar.in", "r") as gfile:
 			g = pickle.load(gfile)
 		return g

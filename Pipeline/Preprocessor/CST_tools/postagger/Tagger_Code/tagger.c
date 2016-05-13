@@ -12,8 +12,8 @@ PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.   */
 #include <string.h>
 #include <unistd.h>
 #include "useful.h"
-#define START_PROG "./Lemmatiser/CST_tools/postagger/Bin_and_Data/start-state-tagger"
-#define END_PROG "./Lemmatiser/CST_tools/postagger/Bin_and_Data/final-state-tagger"
+#define START_PROG "./Preprocessor/CST_tools/postagger/Bin_and_Data/start-state-tagger"
+#define END_PROG "./Preprocessor/CST_tools/postagger/Bin_and_Data/final-state-tagger"
 
 
 main(argc, argv)
