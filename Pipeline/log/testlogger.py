@@ -18,7 +18,7 @@ def makeLog(totalTime):
 	timecontent = [[]]
 	lenlimit = len(logarray[0])
 
-	log = open(os.getcwd() + "/log/log.txt", 'a')
+	log = open(os.getcwd() + "/log/logtest.txt", 'a')
 
 	for x in logarray:
 		if len(x) == lenlimit:
@@ -107,8 +107,9 @@ def makeLog(totalTime):
 			avg = int(avg / count)
 			scores.append(avg)
 	sentimentheader.append("Average")
+	sentimentheader.append("") # Helps fill out the sentimenttable nicely
 	sentimentcontent = sorted(sentimentcontent, key=lambda result: sentimentcontent[1], reverse=True)
-
+	print "sentimentcontent: ", sentimentcontent
 	sentimenttable = table(sentimentheader, sentimentcontent)
 
 	log.write("+" * 90 + "\n\n")
@@ -159,7 +160,7 @@ def createLog(self):
 	picklefile.close()
 
 def fillUnfound(sentimentdict, corporaCount):
-	searchterms = open(os.getcwd() + "/data/searchterms.txt")
+	searchterms = open(os.getcwd() + "/TFIDF_searcher/searchterms.txt")
 	terms = []
 	for term in searchterms:
 		terms.append(term.strip())
@@ -172,7 +173,7 @@ def fillUnfound(sentimentdict, corporaCount):
 	return sentimentdict
 
 def padSentimentTable(sentimentdict, corporaCount):
-	searchterms = open(os.getcwd() + "/TFIDF_searcher/searchterms.txt")
+	searchterms = open(os.getcwd() + "/data/searchterms.txt")
 	terms = []
 	for term in searchterms:
 		term = term.strip()

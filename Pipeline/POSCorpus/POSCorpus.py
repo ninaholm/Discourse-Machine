@@ -19,6 +19,7 @@ from SyntacticParser.SyntacticParser import *
 import os
 import pickle
 import csv
+import re
 
 
 class POSCorpus():
@@ -62,7 +63,7 @@ class POSCorpus():
 			tmp = self.get_sentences(article, term)
 			for x in tmp:
 				sentences.append(x)
-			break
+
 
 		print ">>SENTIMENTSCORE: Found %s sentences."%len(sentences)
 
@@ -88,7 +89,11 @@ class POSCorpus():
 			if len(repr(entry)) < 7:
 				continue
 			# Split into sentences
-			entry = entry.split("./TEGN")
+			# entry = entry.split("./TEGN")
+
+			# print "pre: ",len(entry)
+			entry = re.split('\./TEGN|\?/TEGN', entry)
+			# print "post: ", len(entry)
 
 			for sentences in entry:
 				sentimenthit = False

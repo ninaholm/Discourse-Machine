@@ -129,7 +129,7 @@ class SyntacticParser(object):
 		return g
 
 	def build_sentence_tree(self, sentence_matrix):
-		if len(sentence_matrix[len(sentence_matrix)-1][1]) < 0:
+		if len(sentence_matrix[len(sentence_matrix)-1][1]) == 0:
 			return None
 		st = SentenceTree()
 		st.build_tree(sentence_matrix)

@@ -1,5 +1,5 @@
 # from Sentiment_classifier.sentiment_classifier import run_sentiment_classifier
-from log.logger import makeLog, createLog, logChoice
+from log.testlogger import makeLog, createLog, logChoice
 from Corpus.corpus import *
 from POSCorpus.POSCorpus import *
 import time
