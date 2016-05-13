@@ -1,0 +1,21 @@
+graph test_tree {
+
+n0 [label="X1", shape=none];
+n1 [label="ACP", shape=none];
+n2 [label="VAP", shape=none];
+n3 [label="X2", shape=none];
+
+n1 -- { n10 n11 };
+n2 -- { n12 n13 };
+n3 -- { n2 n14 };
+n0 -- { n1 n3 };
+
+n10 [label="AC\n\nTo", shape=none];
+n11 [label="NC\n\nrussere", shape=none];
+n12 [label="VA\n\ntror", shape=none];
+n13 [label="AN\n\nintet", shape=none];
+n14 [label="XP\n\n.", shape=none];
+
+{rank=same; n10 n11 n12 n13 n14 }
+
+}
