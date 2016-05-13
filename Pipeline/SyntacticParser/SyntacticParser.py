@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import pickle
 from Grammar import *
 import sys
@@ -14,7 +16,7 @@ class SyntacticParser(object):
 		self.cky_logger = Logger()
 		self.tree_logger = Logger()
 		self.test = False
-		self.print_all = False
+		self.print_all = True
 
 	# run() method
 	def parse_sentence(self, sentence):
@@ -42,7 +44,8 @@ class SyntacticParser(object):
 		if self.test: print ">>PARSE: Running with test ON."
 
 		# Set variables
-		pos_sentence = self.postag_sentence(sentence)
+		# pos_sentence = self.postag_sentence(sentence)
+		pos_sentence = sentence
 
 		# TESTING: REMOVE SYMBOLS AND SEE IF THAT HELPS
 		# new = []
@@ -126,6 +129,8 @@ class SyntacticParser(object):
 		return g
 
 	def build_sentence_tree(self, sentence_matrix):
+		if len(sentence_matrix[len(sentence_matrix)-1][1]) < 0:
+			return None
 		st = SentenceTree()
 		st.build_tree(sentence_matrix)
 		return st
@@ -232,6 +237,7 @@ class SentenceTree(object):
 				total_score += score
 
 		print "Total score:", total_score
+		return total_score
 
 
 	# Checks whether a word is within a specified threshold distance of a negation word
