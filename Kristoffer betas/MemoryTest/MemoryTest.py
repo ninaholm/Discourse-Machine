@@ -15,6 +15,6 @@ for x in range(1000):
 
 print "test2" * 1000
 
-h = hp.heap()
+h = hp.heap().by
 
 print h.bytype

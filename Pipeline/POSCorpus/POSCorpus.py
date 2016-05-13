@@ -69,11 +69,14 @@ class POSCorpus():
 		parser = SyntacticParser()
 
 		for sentence in sentences:
+			# s = "To/NUM russere/N_INDEF_PLU tror/V_PRES ikke/ADV intet/ADJ ./TEGN"
 			t = parser.parse_sentence(sentence)
+			print sentimentscore
 
 			if t is not None:
 				print t.tree
 				sentimentscore += t.get_sentiment_score(self.sentimentdict, term)
+			print sentimentscore
 
 		self.scores.append((term,sentimentscore))
 

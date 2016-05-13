@@ -1,5 +1,3 @@
-# from Sentiment_classifier.sentiment_classifier import run_sentiment_classifier
-from log.logger import makeLog, createLog, logChoice
 from Corpus.corpus import *
 import time
 import os
@@ -42,8 +40,13 @@ def main(self):
 		testdata[0] = (totalTime + testdata[0]) / 2
 	print testdata[0]
 
+def testLog(testdata):
+	
+
 for x in range(10):
 	main(0)
+
+
 
 
 

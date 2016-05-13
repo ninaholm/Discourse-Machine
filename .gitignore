@@ -1,3 +1,8 @@
 *.pyc
 *~
 *test_main.py
+Pipeline/log/log.txt
+Pipeline/data/*.in
+Pipeline/log/tmplogarray.in
+Pipeline/log/tmplogdict.in
+Pipeline/data/postagger_output/*.in
