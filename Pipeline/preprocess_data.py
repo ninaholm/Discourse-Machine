@@ -1,6 +1,5 @@
 #from XML_parser.XMLparser import parse
-from Lemmatiser.Preprocessor import Preprocessor, Lemmatiser
-from log.logger import log, createLog, logChoice
+from Preprocessor.Preprocessor import Preprocessor
 import time
 
 data_path = "data/original_data/information"
@@ -8,11 +7,12 @@ data_path = "data/original_data/information"
 
 pre = Preprocessor()
 
-pre.lemmatise_directory(data_path)
+pre.postag_directory(data_path)
 print
 
-#postag_directory(data_path)
-#print
+# pre.lemmatise_directory(data_path)
+# print
+
 
 
 

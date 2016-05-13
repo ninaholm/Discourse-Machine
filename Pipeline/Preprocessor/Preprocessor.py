@@ -4,6 +4,7 @@ import glob
 import string
 import time
 import pickle
+import re
 
 
 
@@ -11,36 +12,41 @@ class Preprocessor():
 
 	def __init__(self):
 		self.tools_path = ""
-		self.input_file = "Lemmatiser/temp"
+		self.input_file = "Preprocessor/temp"
 		self.tokenized_input_file = self.input_file + ".segments"
 		self.split_word = "OUOUOUOFFLFL".lower() # used to write several strings to one file
 		self.log = _Logger()
 		self.output_path = ""
+		self.test = True
 
 
 	def lemmatise_directory(self, dir_path):
-		lem = Lemmatiser(); lem.run(dir_path)
+		lem = Lemmatiser(); lem.set_tools(); lem.run(dir_path)
 
 	def postag_directory(self, dir_path):
-		ptag = POStagger(); ptag.run()
+		ptag = POStagger(); ptag.set_tools(); ptag.run(dir_path)
 
 
 	def _tokenize(self):
-		rtf_call = "Lemmatiser/CST_tools/rtfreader -T -E UTF8 -i " + self.input_file
+		rtf_call = "Preprocessor/CST_tools/rtfreader -T -E UTF8 -i " + self.input_file
 		subprocess.call(rtf_call, shell=True)
 
 
 	def _write_to_file(self, input_content_list):
 		with open(self.input_file, "w") as fi:
 			for item in input_content_list:
+				item = re.sub(r"\.([\S])", r". \1", item) # Clean up wonky formatting
+				item = item.replace("\t", "\n")
 				fi.write(item)
-				fi.write("\n" + self.split_word + "\n")
+				fi.write("\n\n" + self.split_word + "\n\n")
 
 	def _split_up_output(self, first_item, input_content_string):
 		output_list = []
 		output_list.append(first_item)
 		for thing in input_content_string.split(self.split_word)[1:]:
-			output_list.append(thing[2:])
+			output_list.append(thing[2:-1])
+		# print " ".join([x[0] for x in [y.split("/") for y in output_list[4].split(" ")]])
+
 		return output_list
 
 
@@ -81,8 +87,9 @@ class Preprocessor():
 
 
 class POStagger(Preprocessor):
-	def __init__(self):
-		self.tools_path = "Lemmatiser/CST_tools/postagger/Bin_and_Data/"
+	def set_tools(self):
+		self.tools_path = "Preprocessor/CST_tools/postagger/Bin_and_Data/"
+		self.output_path = "data/postagger_output/"
 
 	def _postagged_splitword(self):
 		return string.replace("\n" + self.split_word + "/NNP", self.split_word)
@@ -94,28 +101,27 @@ class POStagger(Preprocessor):
 		pos_dict = subprocess.check_output(pos_call, shell=True)
 		return pos_dict
 
-	def run(self):
+	def run(self, dir_path):
 		print ">>PREPROCESS: Starting POS-tagging..."
 		self.log.start()
 		self._parse_directory(self._postag, dir_path)
 		self.log.save_elapsed_time()
-		print ">>PREPROCESS: Preprocessing completed in", str(log.elapsed_time), "seconds"
+		print ">>PREPROCESS: Preprocessing completed in", str(self.log.elapsed_time), "seconds"
 
 
 
 
 class Lemmatiser(Preprocessor):
-	def __init(self):
-		self.tools_path = "Lemmatiser/CST_tools/"
+	def set_tools(self):
+		self.tools_path = "Preprocessor/CST_tools/"
 		self.output_path = "data/lemmatiser_output/"
-
 
 	def run(self, dir_path):
 		print ">>PREPROCESS: Starting lemmatising..."
 		self.log.start()
 		self._parse_directory(self._lemmatise, dir_path)
 		self.log.save_elapsed_time()
-		print ">>PREPROCESS: Preprocessing completed in", str(log.elapsed_time), "seconds"
+		print ">>PREPROCESS: Preprocessing completed in", str(self.log.elapsed_time), "seconds"
 
 
 	def lemmatise_input_term(self, input_term):
@@ -124,7 +130,7 @@ class Lemmatiser(Preprocessor):
 			file.write(input_term)
 	
 		# Call the lemmatiser program
-		lem_call = "./Lemmatiser/CST_tools/cstlemma -L -eU -l -p- -f Lemmatiser/CST_tools/flexrules -i " + self.input_file
+		lem_call = "./Preprocessor/CST_tools/cstlemma -L -eU -l -p- -f Preprocessor/CST_tools/flexrules -i " + self.input_file
 		lem = subprocess.check_output(lem_call, shell=True, stderr=subprocess.STDOUT)
 
 		# Extract the lemmatised term
@@ -135,7 +141,7 @@ class Lemmatiser(Preprocessor):
 
 
 	def _lemmatise(self):
-		lem_call = "Lemmatiser/CST_tools/cstlemma -L -eU -l -p- -f Lemmatiser/CST_tools/flexrules -i " + self.tokenized_input_file
+		lem_call = "Preprocessor/CST_tools/cstlemma -L -eU -l -p- -f Preprocessor/CST_tools/flexrules -i " + self.tokenized_input_file
 		lem_dict = subprocess.check_output(lem_call, shell=True, stderr= subprocess.STDOUT).split("\n")
 
 		#Clean the meta from the output
@@ -153,10 +159,11 @@ class Lemmatiser(Preprocessor):
 
 
 
+
 class _Logger():
 
 	def __init__(self):
-		starttime = None
+		self.starttime = None
 
 	def start(self):
 		self.starttime = time.time()
@@ -179,7 +186,7 @@ class _Logger():
 			file.write("\n - - - - - - - - - - - - - \n")
 		
 	def save_elapsed_time(self):
-		self.elapsed_time = time.time() - log.starttime
+		self.elapsed_time = time.time() - self.starttime
 		with open("log/preprocess_log", "a") as file:
 			file.write("Total elapsed time: \t" +  str(time.time() - self.starttime))
 			file.write("\n\n ################################################### \n\n")
