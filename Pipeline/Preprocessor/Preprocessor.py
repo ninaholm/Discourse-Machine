@@ -40,7 +40,7 @@ class Preprocessor():
 		with open(self.input_file, "w") as fi:
 			fi.write(self.start_word + "\n")
 			for item in input_content_list:
-				item = re.sub(r"\.([\S])", r". \1", item) # Clean up wonky formatting
+				item = re.sub(r"\.([\S])", r". \1", item) # Insert space after period
 				item = item.replace("\t", "\n")
 				fi.write(item)
 				fi.write("\n\n" + self.split_word + "\n\n")

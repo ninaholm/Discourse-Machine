@@ -140,7 +140,6 @@ class SentenceTree(object):
 				maximum = option.probability
 				index = sentence_matrix[sentence_length][1].index(option)
 
-		print " ".join(self.sentence)
 		# Build the tree
 		self._nid = sentence_length+2
 		root = sentence_matrix[sentence_length][1][index]
