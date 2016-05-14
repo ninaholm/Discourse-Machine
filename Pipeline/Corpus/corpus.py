@@ -90,10 +90,7 @@ class Corpus:
 
 	def search(self, searchTerm):
 		starttime = time.time()
-		print ">>SEARCHARTICLES: Search for top TF-IDF values has started."
-
 		totaldoccount = len(self.articleIndex)
-
 		results = []
 
 		term = str(searchTerm).strip()
@@ -120,7 +117,7 @@ class Corpus:
 
 		# Sort results on their TFIDF rating, in decreasing order.
 		results = sorted(results, key=lambda result: result[1], reverse=True)
-		print ">>SEARCHARTICLES: '%s' \t %s articles found (%s returned)." % (term, len(results), (len(results) / 2))
+		print ">>SEARCHARTICLES: '%s' has %s articles (%s returned)." % (term, len(results), (len(results) / 2))
 
 		# Deletes the bottom 50% of our search results
 		results = results[0:len(results)/2]
@@ -134,7 +131,7 @@ class Corpus:
 
 		totalTime = round((time.time() - starttime), 3)
 
-		print ">>SEARCHARTICLES: Search has completed in %s seconds." % totalTime
+#		print ">>SEARCHARTICLES: Search has completed in %s seconds." % totalTime
 		searchLog(term, len(results), totalTime)
 		sentimentLog(term, self.sentimentscore)
 		return results
@@ -154,7 +151,7 @@ class Corpus:
 		searchtermsfile = open(os.getcwd() + "/data/searchterms.txt", "r")
 		for term in searchtermsfile:
 			searchterms.append(str(term).strip())
-		print ">>SEARCHTERMS: %s" %searchterms
+		print ">>SEARCHTERMS: %s." %(" | ".join(searchterms))
 		return searchterms
 
 

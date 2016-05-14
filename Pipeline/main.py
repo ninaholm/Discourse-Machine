@@ -26,22 +26,23 @@ for inputfile in inputfiles:
 
 	while True:
 		c = Corpus(inputfile)
+		print
 		c.index()
-
 
 		# Loops through all searchterms and calculates their sentimentscore for the current corpus.
 		for term in c.searchterms:
 			subset = c.search(term)
-			print
 
 			if len(subset) == 0:
 				continue
 			else:
 				subSetList.append((term, subset))
 		break
+	print
 
 	posc = POSCorpus(inputfile, subSetList)
 	posc.load()
+	print
 
 	for term_subset in subSetList:
 		posc.score_sentiment(term_subset)

@@ -124,7 +124,7 @@ class MonsterCorpus(Preprocessor):
 		lem = Lemmatiser(); lem.set_tools()
 		ptag = POStagger(); ptag.set_tools()
 
-		all_files = glob.glob(dir_path + "/indl*.in")
+		all_files = glob.glob(dir_path + "/kul*.in")
 
 		# Statistics
 		print ">>PREPROCESS: Processing", len(all_files), "corpora."

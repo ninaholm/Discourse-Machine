@@ -31,6 +31,7 @@ class POSCorpus():
 		self.sentimentdict = self.getSentimentDict()
 
 	def load(self):
+		print ">>INDEX: Building corpus for syntactic analysis."
 		inputpath = os.getcwd() + "/data/monster_output/"
 
 		joinedSubset = {}
@@ -85,47 +86,40 @@ class POSCorpus():
 		sentenceList = []
 
 		for entry in article[1:]:
-			# print entry, len(repr(entry))
+
+			# why?
 			if len(repr(entry)) < 7:
 				continue
-			# Split into sentences
-			# entry = entry.split("./TEGN")
 
-			# print "pre: ",len(entry)
-			entry = re.split('\./TEGN|\?/TEGN', entry)
-			# print "post: ", len(entry)
+			sentences = re.split('\./TEGN|\?/TEGN', entry)
 
-			for sentences in entry:
+			for sentence in sentences:
 				sentimenthit = False
 				termhit = False
 
-				sentence = []
-				words = sentences.split(" ")
+				output_sentence = []
+				words = sentence.split(" ")
 
 				for word in words:
-					# print "Pre: ",word
-					word = word[:word.find("/")]
-					# print word.postag()
-					# print "Post: ", word
-					if word[:1] == "\n":
-						word = word[1:]
-					if word == "N":
-						continue
-					if len(word) < 1: 
-						continue
-					if word[:word.rfind("/")] in self.sentimentdict:
-						# print ">> SENTIMENTHIT", word[:word.rfind("/")], " = ", self.sentimentdict[word[:word.rfind("/")]]
+					lemma = word[:word.find("/")]
+
+					if lemma[:1] == "\n": lemma = lemma[1:]
+					if lemma == "N": continue
+					if len(lemma) < 1: continue
+					if lemma in self.sentimentdict:
+						# print ">> SENTIMENTHIT:", lemma
 						sentimenthit = True
-					if word[:word.rfind("/")] == term:
+					if lemma == term:
 						# print ">> TERMHIT", term
 						termhit = True
-					sentence.append(word.split("/"))
-					# print word[:word.rfind("/")]
-					# print "word: %s" %repr(word)
+					output_sentence.append(word)
+					# print lemma[:lemma.rfind("/")]
+					# print "lemma: %s" %repr(lemma)
 				# print "--" * 20
 				if sentimenthit and termhit:
-					sentenceList.append(sentence)
-
+					# print " ".join([x[:x.find("/")] for x in output_sentence])
+					sentenceList.append(output_sentence)
+				
 		return sentenceList
 
 	def print_sentence(self, sentence):
