@@ -16,7 +16,7 @@ class SyntacticParser(object):
 		self.cky_logger = Logger()
 		self.tree_logger = Logger()
 		self.test = False
-		self.print_all = True
+		self.print_all = False
 
 	# run() method
 	def parse_sentence(self, sentence):
@@ -24,10 +24,11 @@ class SyntacticParser(object):
 		if m is not None:
 			return self.build_sentence_tree(m)
 		else:
+			print ">>PARSER: No tree for this sentence"
 			return None
 
 	# Takes CST-tagged input string and returns a list of word:tag tuples
-	def postag_sentence(self, sentence):
+	def _postag_sentence(self, sentence):
 		split = sentence.split(" ")
 		output = []
 		for s in split:
@@ -37,45 +38,30 @@ class SyntacticParser(object):
 		return output
 
 
+
+
 	# Takes a sentence string, runs CKY and returns the sentence matrix of said sentence.
 	def cky_parse(self, sentence):
-		
-		if self.print_all: print ">>PARSE: Starting the syntactic parsing..."
 		if self.test: print ">>PARSE: Running with test ON."
 
-		# Set variables
-		pos_sentence = sentence
+		# sentence = self._postag_sentence(sentence)
 
-		# TESTING: REMOVE SYMBOLS AND SEE IF THAT HELPS
-		# new = []
-		# for row in pos_sentence:
-		# 	if row[1] != "TEGN":
-		# 		new.append(row)
-		# pos_sentence = new
-
-		n = len(pos_sentence)+1
+		n = len(sentence)+1
 		sentence_matrix = [[[] for x in range(n)] for y in range(n)] # Create CKY matrix
-		sentence_length = len(pos_sentence)
-		if self.print_all: print ">>LOG: Time spent POS-tagging:", self.log.time_since_last_check()
+		sentence_length = len(sentence)
 
 		# Fill out the NTs resolving to terminals
-		if self.print_all: print ">>PARSE: Now parsing the sentence \'%s\'" % (" ".join([x[0] for x in pos_sentence]))
-		if self.print_all: print "---", sentence, "---"
 		for i in range(1, sentence_length+1):
-			if pos_sentence[i-1][1] not in self.grammar.rules: # IGNORE NON-EXISTiNG TAGS
-				print ">>PARSE: Encountered illegal tag: %s. Disregarding sentence." % pos_sentence[i-1][1]
+			if sentence[i-1][1] not in self.grammar.rules: # IGNORE NON-EXISTiNG TAGS
+				print ">>PARSE: Encountered illegal tag: %s. Disregarding sentence." % sentence[i-1][1]
 				print sentence
 				return None
-			sentence_matrix[0][i].append(pos_sentence[i-1][0]) # Enter word into sentence matrix
-			for r in self.grammar.rules[pos_sentence[i-1][1]]:
+			sentence_matrix[0][i].append(sentence[i-1][0]) # Enter word into sentence matrix
+			for r in self.grammar.rules[sentence[i-1][1]]:
 				po = ParseOption(r.left_side, 1, None, None)
 				po.own_coord = [1, i]		
 				sentence_matrix[1][i].append(po)
-		if self.print_all: print ">>LOG: Time spent mapping CST to DDT:", self.log.time_since_last_check()
 
-		if self.test: self._print_matrix(sentence_matrix)
-
-		self.cky_logger.start_timer()
 
 		# GO GO CKY ALGORITHM DO YO' THANG
 		for substring_length in range(2, sentence_length+1):
@@ -88,26 +74,16 @@ class SyntacticParser(object):
 						for c_option in c:
 							grammar_rule = (str(b_option.constituent) + str(c_option.constituent))
 							if grammar_rule in self.grammar.rules:
-								if self.test: print "grammar rule exists: " + grammar_rule
 								for nonterminal in self.grammar.rules[grammar_rule]:
 									prob = b_option.probability * c_option.probability * nonterminal.prob # Consider taking the log instead of multiplying (ONLY THIS YIELDS NEGATIVE VALUES)
 									b_option_coord = [split_point, substring_start, b.index(b_option)]
 									c_option_coord = [substring_length - split_point, substring_start + split_point, c.index(c_option)]
 									po = ParseOption(nonterminal.left_side, prob, b_option_coord, c_option_coord)
 									options.append(po)
-									if self.test: self._print_matrix(sentence_matrix)
 
 				options.sort(key=lambda x: x.probability, reverse=True)
 				for o in options[:200]:
 					sentence_matrix[substring_length][substring_start].append(o)
-
-		if self.print_all: print ">>LOG: Time spent running CKY:", self.log.time_since_last_check()
-		self.cky_logger.stop_timer()
-
-		if self.test:
-			print ">>PARSE: The finished CKY parse table:"
-			self._print_matrix(sentence_matrix)
-			print
 
 		return sentence_matrix
 

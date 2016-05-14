@@ -59,10 +59,12 @@ class POSCorpus():
 		sentences = []
 		sentimentscore = 0
 		
+		# Get senteces
 		for articleid in subset:
 			article = self.articleDict[articleid]
 			tmp = self.get_sentences(article, term)
 			for x in tmp:
+				# print " ".join([y[:y.find("/")] for y in x])
 				sentences.append(x)
 
 
@@ -73,12 +75,11 @@ class POSCorpus():
 		for sentence in sentences:
 			# s = "To/NUM russere/N_INDEF_PLU tror/V_PRES ikke/ADV intet/ADJ ./TEGN"
 			t = parser.parse_sentence(sentence)
-			print sentimentscore
 
 			if t is not None:
 				print t.tree
 				sentimentscore += t.get_sentiment_score(self.sentimentdict, term)
-			print sentimentscore
+			print "SENTIMENTSCORE: Current score is:", sentimentscore
 
 		self.scores.append((term,sentimentscore))
 
@@ -90,8 +91,9 @@ class POSCorpus():
 			# why?
 			if len(repr(entry)) < 7:
 				continue
-
-			sentences = re.split('\./TEGN|\?/TEGN', entry)
+			
+			entry = entry.replace("\n", "")
+			sentences = re.split('(\./\./TEGN|\?/\?/TEGN)', entry)
 
 			for sentence in sentences:
 				sentimenthit = False
@@ -112,7 +114,10 @@ class POSCorpus():
 					if lemma == term:
 						# print ">> TERMHIT", term
 						termhit = True
-					output_sentence.append(word)
+
+					postaggedlemma = (re.sub('/[^>]+/', '/', word)).split("/")
+
+					output_sentence.append(postaggedlemma)
 					# print lemma[:lemma.rfind("/")]
 					# print "lemma: %s" %repr(lemma)
 				# print "--" * 20

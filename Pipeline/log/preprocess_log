@@ -114,3 +114,11 @@ POS-tagging: 		5614.38905907 seconds
 Lemmatising: 		0 seconds
 Elapsed for corpus: 	5714.09624004
  - - - - - - - - - - - - - 
+CORPUS: 		kultur.in
+Number of articles: 	6385
+Unpickling data: 	0.659989118576
+Tokenizing: 		112.367568731 seconds
+POS-tagging: 		4244.09117627 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	4454.66378999
+ - - - - - - - - - - - - - 
