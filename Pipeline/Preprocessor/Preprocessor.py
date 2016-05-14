@@ -15,6 +15,7 @@ class Preprocessor():
 		self.input_file = "Preprocessor/temp"
 		self.tokenized_input_file = self.input_file + ".segments"
 		self.split_word = "OUOUOUOFFLFL".lower() # used to write several strings to one file
+		self.start_word = "THISBESTARTOFARTICLE".lower()
 		self.log = _Logger()
 		self.output_path = ""
 		self.test = True
@@ -26,6 +27,9 @@ class Preprocessor():
 	def postag_directory(self, dir_path):
 		ptag = POStagger(); ptag.set_tools(); ptag.run(dir_path)
 
+	def create_monster_corpus(self, dir_path):
+		mc = MonsterCorpus(); mc.set_tools(); mc.run(dir_path)
+
 
 	def _tokenize(self):
 		rtf_call = "Preprocessor/CST_tools/rtfreader -T -E UTF8 -i " + self.input_file
@@ -34,6 +38,7 @@ class Preprocessor():
 
 	def _write_to_file(self, input_content_list):
 		with open(self.input_file, "w") as fi:
+			fi.write(self.start_word + "\n")
 			for item in input_content_list:
 				item = re.sub(r"\.([\S])", r". \1", item) # Clean up wonky formatting
 				item = item.replace("\t", "\n")
@@ -44,8 +49,7 @@ class Preprocessor():
 		output_list = []
 		output_list.append(first_item)
 		for thing in input_content_string.split(self.split_word)[1:]:
-			output_list.append(thing[2:-1])
-		# print " ".join([x[0] for x in [y.split("/") for y in output_list[4].split(" ")]])
+			output_list.append(thing)
 
 		return output_list
 
@@ -75,7 +79,7 @@ class Preprocessor():
 				self._tokenize()
 				self.log.time_counter[0].append(time.time() - t) # Add timestamp to log
 				t = time.time() # Grab timestamp
-				temp = function_to_call()
+				temp = function_to_call(self.tokenized_input_file)
 				self.log.time_counter[1].append(time.time() - t) # Add timestamp to log
 				articles[article] = self._split_up_output(date, temp)
 
@@ -94,8 +98,8 @@ class POStagger(Preprocessor):
 	def _postagged_splitword(self):
 		return string.replace("\n" + self.split_word + "/NNP", self.split_word)
 
-	def _postag(self):
-		pos_call = "./TOOLS_PATH/tagger TOOLS_PATH/FINAL.LEXICON " + self.tokenized_input_file + " TOOLS_PATH/BIGBIGRAMLIST TOOLS_PATH/LEXRULEOUTFILE TOOLS_PATH/CONTEXT-RULEFILE -S"
+	def _postag(self, input_file):
+		pos_call = "./TOOLS_PATH/tagger TOOLS_PATH/FINAL.LEXICON " + input_file + " TOOLS_PATH/BIGBIGRAMLIST TOOLS_PATH/LEXRULEOUTFILE TOOLS_PATH/CONTEXT-RULEFILE -S"
 		pos_call = pos_call.replace("TOOLS_PATH/", self.tools_path) # Insert correct tools_path
 
 		pos_dict = subprocess.check_output(pos_call, shell=True)
@@ -107,6 +111,80 @@ class POStagger(Preprocessor):
 		self._parse_directory(self._postag, dir_path)
 		self.log.save_elapsed_time()
 		print ">>PREPROCESS: Preprocessing completed in", str(self.log.elapsed_time), "seconds"
+
+
+
+class MonsterCorpus(Preprocessor):
+	def set_tools(self):
+		self.tools_path = "Preprocessor/CST_tools/"
+		self.output_path = "data/monster_output/"
+
+
+	def run(self, dir_path):
+		lem = Lemmatiser(); lem.set_tools()
+		ptag = POStagger(); ptag.set_tools()
+
+		all_files = glob.glob(dir_path + "/indl*.in")
+
+		# Statistics
+		print ">>PREPROCESS: Processing", len(all_files), "corpora."
+
+		# load corpora
+		for input_file in all_files:
+			input_filename = input_file.split("/")[-1]
+
+			self.log.new_corpus()
+			print ">>PREPROCESS: Unpickling file", input_filename
+			with open(input_file, "r") as file:
+				articles = pickle.load(file)
+			self.log.unpickling_time = time.time() - self.log.corpus_starttime
+
+			print ">>PREPROCESS: Corpus contains", len(articles), "articles"
+
+			delete_these = [] # articles to delete if they were not processed correctly
+			for article in articles:
+				date = articles[article][0]
+				self._write_to_file(articles[article])
+				t = time.time() # Grab timestamp
+				self._tokenize()
+				self.log.time_counter[0].append(time.time() - t) # Add timestamp to log
+				t = time.time() # Grab timestamp
+
+				lemma_article = self._split_up_output(date, lem._lemmatise(self.tokenized_input_file))
+				ptag_article = self._split_up_output(date, ptag._postag(self.tokenized_input_file))
+
+				# Check if articles were processed correctly. Skip if not.
+				if len(ptag_article) < 4 or len(lemma_article) < 4:
+					print ">>PREPROCESS: Error. Article not preprocessed."
+					delete_these.append(article)
+					continue
+
+				monster_article = []
+				monster_article.append(date)
+				for i in range(1,len(articles[article])):
+					l = lemma_article[i].split(" ")
+					p = ptag_article[i].split(" ")
+					row = ""
+					for j in range(1, len(p)-1):
+						row = row + " " + l[j] + "/" + p[j]
+					
+					monster_article.append(row)
+
+				articles[article] = monster_article
+
+				self.log.time_counter[1].append(time.time() - t) # Add timestamp to log
+
+			# Remove all articles that were processed incorrectly
+			for item in delete_these:
+				del articles[item]
+
+			with open(self.output_path + input_filename, "w") as file:
+				pickle.dump(articles, file)
+
+			self.log.save_stats(input_filename, len(articles)) # save statistics to log
+
+
+
 
 
 
@@ -140,20 +218,22 @@ class Lemmatiser(Preprocessor):
 		return lem[1]
 
 
-	def _lemmatise(self):
-		lem_call = "Preprocessor/CST_tools/cstlemma -L -eU -l -p- -f Preprocessor/CST_tools/flexrules -i " + self.tokenized_input_file
-		lem_dict = subprocess.check_output(lem_call, shell=True, stderr= subprocess.STDOUT).split("\n")
+	def _lemmatise(self, input_file):
+		lem_call = "Preprocessor/CST_tools/cstlemma -L -eU -l -f Preprocessor/CST_tools/flexrules -i " + input_file
+		lem_dict = subprocess.check_output(lem_call, shell=True, stderr= subprocess.STDOUT)
+
+		cleaned_lemmas = lem_dict.split(self.start_word)[-1]
 
 		#Clean the meta from the output
 		output = []
-		for l in lem_dict[33:]:
+		for l in cleaned_lemmas.split("\n"):
 			words = l.split("\t")
 			if len(words) > 1:
-				if words[1] is "." or (words[1] not in string.punctuation and not words[1].isdigit()):
-					output.append(words[1])
+				output.append(words[1])
 
 		output = " ".join(output)
 		return output
+
 
 
 
@@ -190,4 +270,5 @@ class _Logger():
 		with open("log/preprocess_log", "a") as file:
 			file.write("Total elapsed time: \t" +  str(time.time() - self.starttime))
 			file.write("\n\n ################################################### \n\n")
+
 

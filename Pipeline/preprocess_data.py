@@ -7,7 +7,7 @@ data_path = "data/original_data/information"
 
 pre = Preprocessor()
 
-pre.postag_directory(data_path)
+pre.create_monster_corpus(data_path)
 print
 
 # pre.lemmatise_directory(data_path)

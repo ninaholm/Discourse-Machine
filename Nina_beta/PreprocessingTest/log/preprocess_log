@@ -1,0 +1,220 @@
+CORPUS: 		udland.in
+Number of articles: 	5998
+Unpickling data: 	0.568920135498
+Tokenizing: 		38.7698457241 seconds
+POS-tagging: 		0 seconds
+Lemmatising: 		59.5991868973 seconds
+Elapsed for corpus: 	102.299002171
+ - - - - - - - - - - - - - 
+CORPUS: 		indland.in
+Number of articles: 	8612
+Unpickling data: 	0.809912919998
+Tokenizing: 		70.2015776634 seconds
+POS-tagging: 		0 seconds
+Lemmatising: 		100.316030025 seconds
+Elapsed for corpus: 	175.930217981
+ - - - - - - - - - - - - - 
+CORPUS: 		debat.in
+Number of articles: 	8591
+Unpickling data: 	1.70916414261
+Tokenizing: 		75.7925355434 seconds
+POS-tagging: 		0 seconds
+Lemmatising: 		105.804427624 seconds
+Elapsed for corpus: 	187.34487009
+ - - - - - - - - - - - - - 
+CORPUS: 		telegram.in
+Number of articles: 	38268
+Unpickling data: 	2.31280899048
+Tokenizing: 		337.45983386 seconds
+POS-tagging: 		0 seconds
+Lemmatising: 		386.32256794 seconds
+Elapsed for corpus: 	752.093513012
+ - - - - - - - - - - - - - 
+CORPUS: 		kultur.in
+Number of articles: 	6387
+Unpickling data: 	1.64938282967
+Tokenizing: 		65.53424263 seconds
+POS-tagging: 		0 seconds
+Lemmatising: 		88.2953424454 seconds
+Elapsed for corpus: 	159.913034916
+ - - - - - - - - - - - - - 
+Total elapsed time: 	1377.58613992
+
+ ################################################### 
+
+CORPUS: 		udland.in
+Number of articles: 	5998
+Unpickling data: 	0.660144090652
+Tokenizing: 		54.0200707912 seconds
+POS-tagging: 		3882.45961356 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	3941.32573009
+ - - - - - - - - - - - - - 
+CORPUS: 		indland.in
+Number of articles: 	8612
+Unpickling data: 	2.39629507065
+Tokenizing: 		112.981277943 seconds
+POS-tagging: 		5509.83523893 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	5630.91206002
+ - - - - - - - - - - - - - 
+CORPUS: 		debat.in
+Number of articles: 	8591
+Unpickling data: 	0.69789481163
+Tokenizing: 		123.57684803 seconds
+POS-tagging: 		5441.25911021 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	5570.19841981
+ - - - - - - - - - - - - - 
+CORPUS: 		udland.in
+Number of articles: 	5998
+Unpickling data: 	0.361917972565
+Tokenizing: 		45.1243083477 seconds
+POS-tagging: 		61.0935919285 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	113.103790998
+ - - - - - - - - - - - - - 
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.0144059658051
+Tokenizing: 		0.404525995255 seconds
+POS-tagging: 		0.762926340103 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	1.2073700428
+ - - - - - - - - - - - - - 
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.0130181312561
+Tokenizing: 		0.408485651016 seconds
+POS-tagging: 		0.735338449478 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	1.18257212639
+ - - - - - - - - - - - - - 
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.0137209892273
+Tokenizing: 		0.424958467484 seconds
+POS-tagging: 		0.737307071686 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	1.26833796501
+ - - - - - - - - - - - - - 
+Total elapsed time: 	1.26891207695
+
+ ################################################### 
+
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.00716114044189
+Tokenizing: 		0.57749581337 seconds
+POS-tagging: 		0.739978313446 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	1.35082101822
+ - - - - - - - - - - - - - 
+Total elapsed time: 	1.35115695
+
+ ################################################### 
+
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.0114488601685
+Tokenizing: 		0.694471120834 seconds
+POS-tagging: 		63.8301877975 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	64.6393148899
+ - - - - - - - - - - - - - 
+Total elapsed time: 	64.6398761272
+
+ ################################################### 
+
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.0123438835144
+Tokenizing: 		0.663163423538 seconds
+POS-tagging: 		66.0342524052 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	66.7986309528
+ - - - - - - - - - - - - - 
+Total elapsed time: 	66.799270153
+
+ ################################################### 
+
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.0114009380341
+Tokenizing: 		0 seconds
+POS-tagging: 		0.835541248322 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	0.931536912918
+ - - - - - - - - - - - - - 
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.0110921859741
+Tokenizing: 		0 seconds
+POS-tagging: 		0.8299908638 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	1.09104609489
+ - - - - - - - - - - - - - 
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.0122039318085
+Tokenizing: 		0 seconds
+POS-tagging: 		0.796492099762 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	0.858706951141
+ - - - - - - - - - - - - - 
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.0119240283966
+Tokenizing: 		0 seconds
+POS-tagging: 		0.845330238342 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	1.14595913887
+ - - - - - - - - - - - - - 
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.0115430355072
+Tokenizing: 		0 seconds
+POS-tagging: 		0.880176782608 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	1.36215209961
+ - - - - - - - - - - - - - 
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.011246919632
+Tokenizing: 		0 seconds
+POS-tagging: 		0.91118979454 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	1.11965799332
+ - - - - - - - - - - - - - 
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.0112428665161
+Tokenizing: 		0 seconds
+POS-tagging: 		0.890300750732 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	1.09237980843
+ - - - - - - - - - - - - - 
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.0121278762817
+Tokenizing: 		0 seconds
+POS-tagging: 		0.867537975311 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	1.04435396194
+ - - - - - - - - - - - - - 
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.00633907318115
+Tokenizing: 		0.513301134109 seconds
+POS-tagging: 		73.6096520424 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	74.2097871304
+ - - - - - - - - - - - - - 
+CORPUS: 		original_test_indland.in
+Number of articles: 	100
+Unpickling data: 	0.00661587715149
+Tokenizing: 		0.474210739136 seconds
+POS-tagging: 		74.0598278046 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	74.5940868855
+ - - - - - - - - - - - - - 

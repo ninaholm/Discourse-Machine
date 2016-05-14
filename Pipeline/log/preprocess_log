@@ -82,3 +82,19 @@ POS-tagging: 		3814.10980248 seconds
 Lemmatising: 		0 seconds
 Elapsed for corpus: 	3879.78595519
  - - - - - - - - - - - - - 
+CORPUS: 		indland.in
+Number of articles: 	8612
+Unpickling data: 	0.767390966415
+Tokenizing: 		109.414357424 seconds
+POS-tagging: 		5528.90083981 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	5646.50007415
+ - - - - - - - - - - - - - 
+CORPUS: 		udland.in
+Number of articles: 	5998
+Unpickling data: 	0.374850988388
+Tokenizing: 		74.6644666195 seconds
+POS-tagging: 		3778.89515257 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	3859.29425502
+ - - - - - - - - - - - - - 
