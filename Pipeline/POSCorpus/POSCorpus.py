@@ -45,12 +45,12 @@ class POSCorpus():
 			path = os.path.join(inputpath, inputfilename)
 			pickledData = open(path, "r")
 			tmp = pickle.load(pickledData)
-			for x in tmp:
+			for articleid in tmp:
 				# print "0: ", tmp[x][0]
 				# print "lol: ", tmp[x][4]
 				# self.articleDict[x] = tmp[x]
-				if x in joinedSubset:
-					self.articleDict[x] = tmp[x]
+				if articleid in joinedSubset:
+					self.articleDict[articleid] = tmp[articleid]
 			pickledData.close()
 
 	def score_sentiment(self, term_subset):
@@ -63,9 +63,9 @@ class POSCorpus():
 		for articleid in subset:
 			article = self.articleDict[articleid]
 			tmp = self.get_sentences(article, term)
-			for x in tmp:
+			for sentence in tmp:
 				# print " ".join([y[:y.find("/")] for y in x])
-				sentences.append(x)
+				sentences.append(sentence)
 
 
 		print ">>SENTIMENTSCORE: Found %s sentences."%len(sentences)
@@ -73,13 +73,13 @@ class POSCorpus():
 		parser = SyntacticParser()
 
 		for sentence in sentences:
-			# s = "To/NUM russere/N_INDEF_PLU tror/V_PRES ikke/ADV intet/ADJ ./TEGN"
+			# test_sentence = [x.split("/") for x in "To/NUM russere/N_INDEF_PLU tror/V_PRES ikke/ADV intet/ADJ ./TEGN".split(" ")]
 			t = parser.parse_sentence(sentence)
 
 			if t is not None:
 				print t.tree
 				sentimentscore += t.get_sentiment_score(self.sentimentdict, term)
-			print "SENTIMENTSCORE: Current score is:", sentimentscore
+			print ">>SENTIMENTSCORE: Current score is:", sentimentscore
 
 		self.scores.append((term,sentimentscore))
 

@@ -24,7 +24,6 @@ class SyntacticParser(object):
 		if m is not None:
 			return self.build_sentence_tree(m)
 		else:
-			print ">>PARSER: No tree for this sentence"
 			return None
 
 	# Takes CST-tagged input string and returns a list of word:tag tuples
@@ -104,6 +103,7 @@ class SyntacticParser(object):
 
 	def build_sentence_tree(self, sentence_matrix):
 		if len(sentence_matrix[len(sentence_matrix)-1][1]) == 0:
+			print ">>PARSER: No tree for this sentence."
 			return None
 		st = SentenceTree()
 		st.build_tree(sentence_matrix)
@@ -141,8 +141,9 @@ class SentenceTree(object):
 				maximum = option.probability
 				index = sentence_matrix[sentence_length][1].index(option)
 
+		print " ".join(self.sentence)
 		# Build the tree
-		self._nid = sentence_length+1
+		self._nid = sentence_length+2
 		root = sentence_matrix[sentence_length][1][index]
 		self.tree.create_node(root.constituent, self._nid)
 		self._create_children(root, self._nid) # Call recursive function
@@ -171,8 +172,9 @@ class SentenceTree(object):
 				cid = self._nnid()
 				self.tree.create_node(left_child.constituent, cid, parent=pid)
 				if left_child.left_coord is None: #If left_child is a leaf node, append a word node
+					nid = parse_option.left_coord[1]-1
 					word = self.matrix[parse_option.left_coord[0]-1][parse_option.left_coord[1]][0]
-					self.tree.create_node(word, self.sentence.index(word), parent=cid)
+					self.tree.create_node(word, nid, parent=cid)
 				else:
 					self._create_children(left_child, cid) # Create children of left_child
 
@@ -180,23 +182,23 @@ class SentenceTree(object):
 				cid = self._nnid()
 				self.tree.create_node(right_child.constituent, cid, parent=pid)
 				if right_child.right_coord is None: #If left_child is a leaf node, append a word node
+					nid = parse_option.right_coord[1]-1
 					word = self.matrix[parse_option.right_coord[0]-1][parse_option.right_coord[1]][0]
-					self.tree.create_node(word, self.sentence.index(word), parent=cid)
+					self.tree.create_node(word, nid, parent=cid)
 				else:
 					self._create_children(right_child, cid) # Create children of right_child
 
 
 
 	# Returns the sentence's sentiment score
-	def get_sentiment_score(self, sentimentDict, entity):
+	def get_sentiment_score(self, sentimentDict, term):
 		total_score = 0
 
 		# placeholder dictionaries -TESTING PURPOSES
 		negationList = ["ikke"]
-		sentimentDict = {"intet":-1, "To":1}
 
-		# Check the entity against every sentiment word
-		n1 = self.sentence.index(entity)
+		# Check the term against every sentiment word
+		n1 = self.sentence.index(term)
 		for key in sentimentDict:
 			n2 = self._in_sentence(key)
 			if n2 is not False:
@@ -207,7 +209,7 @@ class SentenceTree(object):
 				if self._is_negated(key, negationList):
 					score = score * -1
 
-				print "Entity: %s | SentWord: %s | Distance: %s | Score: %s" % (entity, key, d,score)
+				print "Term: %s | SentWord: %s | Distance: %s | Score: %s" % (term, key, d,score)
 				total_score += score
 
 		print "Total score:", total_score

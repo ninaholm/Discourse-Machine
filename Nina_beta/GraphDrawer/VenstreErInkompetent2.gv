@@ -1,0 +1,32 @@
+graph test_tree {
+node [shape=none];
+
+S -- { NP VP }
+NP -- { N }
+VP -- { VERB S2 }
+S2 -- { NP2 VP2 }
+NP2 -- { N2 }
+VP2 -- { VERB2 ADJ }
+
+S2 [label="S"]
+VERB2 [label="VERB"]
+N2 [label="N"]
+NP2 [label="NP"]
+VP2 [label="VP"]
+
+N -- n10
+VERB -- n11
+N2 -- n12
+VERB2 -- n13
+ADJ -- n14
+
+n10 [label="Venstre"];
+n11 [label="siger"];
+n12 [label="Socialdemokraterne"];
+n13 [label="er"];
+n14 [label="inkompetente"];
+
+
+{rank=same; n10 n11 n12 n13 n14 }
+
+}
