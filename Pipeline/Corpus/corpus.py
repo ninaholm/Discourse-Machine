@@ -27,7 +27,7 @@ class Corpus:
 		print ">>INDEX: Word indexing started."
 		index = {}
 		articlecounts = {}
-		inputpath = os.getcwd() + "/data/lemmatiser_output"
+		inputpath = os.getcwd() + "/data/monster_output"
 
 		doccount = 0
 		totalwordcount = 0
@@ -57,6 +57,7 @@ class Corpus:
 					continue
 
 				for word in line.split(" "):
+					word = word[:word.find("/")]
 					if len(word) < 1:
 						continue
 					if word in self.sentimentdict:
@@ -90,9 +91,6 @@ class Corpus:
 	def search(self, searchTerm):
 		starttime = time.time()
 		print ">>SEARCHARTICLES: Search for top TF-IDF values has started."
-
-		
-		resultspath = os.getcwd() + "/TFIDF_searcher/articleresults.txt"
 
 		totaldoccount = len(self.articleIndex)
 

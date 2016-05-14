@@ -1,5 +1,5 @@
 # from Sentiment_classifier.sentiment_classifier import run_sentiment_classifier
-from log.testlogger import makeLog, createLog, logChoice
+from log.logger import makeLog, createLog, logChoice
 from Corpus.corpus import *
 from POSCorpus.POSCorpus import *
 import time
@@ -18,7 +18,7 @@ if logChoice == True:
 
 # inputfiles = [["indland.in"], ["udland.in"], ["debat.in"],["kultur.in"]]
 # inputfiles = [["test_indland.in"], ["test_udland.in"]]
-inputfiles = [["debat.in"]]
+inputfiles = [["udland.in"]]
 
 # Loops through the chosen corpora and returns sentimentscore for every searchterm in them.
 for inputfile in inputfiles:
@@ -42,7 +42,6 @@ for inputfile in inputfiles:
 
 	posc = POSCorpus(inputfile, subSetList)
 	posc.load()
-
 
 	for term_subset in subSetList:
 		posc.score_sentiment(term_subset)

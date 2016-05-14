@@ -13,8 +13,8 @@ sys.setdefaultencoding('utf-8')
 # [avg runtime, avg index, avg search]
 testdata = [0]
 
-lem = Lemmatiser()
-print lem.lemmatise_input_term("enhedslisten")
+# lem = Lemmatiser()
+# print lem.lemmatise_input_term("enhedslisten")
 
 inputfiles = [["indland.in", "udland.in", "debat.in", "kultur.in"]]
 

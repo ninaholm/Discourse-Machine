@@ -1,12 +1,15 @@
-import re
+import time
 
-s = 'Venstre.Deres Ninja?Hurh'
-# s = re.split('\./TEGN|\?/TEGN|[a-z]\?[A-Z]|[a-z]\.[A-Z]',  s)
-s = re.split('[a-z](\?)\w', s)
+def testing(self):
+	try:
+		x = int(raw_input("Please enter a number: "))
+	except ValueError:
+		print "lol"
+		time.sleep(10)
+		print "rofl"
 
-print s
 
-s = '(twoplusthree)plusfour'
-l = re.split(r"(plus|\(|\))", s)
-a = [x for x in l if x != '']
-print a
+	print "continued"
+
+for x in range(10):
+	testing(0)

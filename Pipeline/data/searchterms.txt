@@ -9,7 +9,7 @@ skippe
 aaen
 
 DF
-SF 
+SF   
 folkeparti
 kjærsgaard
 thulesen

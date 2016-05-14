@@ -31,7 +31,7 @@ class POSCorpus():
 		self.sentimentdict = self.getSentimentDict()
 
 	def load(self):
-		inputpath = os.getcwd() + "/data/postagger_output/"
+		inputpath = os.getcwd() + "/data/monster_output/"
 
 		joinedSubset = {}
 		for subset_term in self.subsetList:
@@ -103,6 +103,10 @@ class POSCorpus():
 				words = sentences.split(" ")
 
 				for word in words:
+					# print "Pre: ",word
+					word = word[:word.find("/")]
+					# print word.postag()
+					# print "Post: ", word
 					if word[:1] == "\n":
 						word = word[1:]
 					if word == "N":
@@ -140,3 +144,7 @@ class POSCorpus():
 				for row in csv_dict:
 					dictionary[row[0].decode('utf-8')] = row[1]
 		return dictionary
+
+
+
+

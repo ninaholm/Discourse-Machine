@@ -974,3 +974,60 @@ OVERALL SENTIMENT TABLE
 | schmidt         | 69                                         | 69        |
 | SF              | -                                          | -         |
 
+
+####################################################################################################
+
+Time:		 14:46:56 13-05-2016 
+Corpora:	 1 
+Dict. size:	 281 
+Time elapsed:	 23.939 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_udland.in_debat.in_kultur.in_ 
+Articles:		 29564
+Unique words:		 405182
+Avg. word/article:	 813
+Pickle time:		 2.236 s
+Index time:		 21.617 s
+Total time:		 23.853 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          866 | 0.003 s  |    1821 |
+| folkeparti  |         1221 | 0.004 s  |    2368 |
+| kjærsgaard  |          235 | 0.001 s  |     518 |
+| schmidt     |           19 | 0.0 s    |      69 |
+| skaarup     |          118 | 0.001 s  |     169 |
+| skippe      |            9 | 0.0 s    |      27 |
+| skipper     |            5 | 0.001 s  |      15 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_udland.in_debat.in_kultur.in_ |   Average |
+|--------------------------------------------+-----------|
+|                                     23.853 |    23.853 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM            | indland.in_udland.in_debat.in_kultur.in_   | Average   |
+|-----------------+--------------------------------------------+-----------|
+|                 | -                                          | -         |
+| folkeparti      | 2368                                       | 2368      |
+| aaen            | -                                          | -         |
+| skippe          | 27                                         | 27        |
+| DF              | -                                          | -         |
+| enhedslisten    | -                                          | -         |
+| kjærsgaard      | 518                                        | 518       |
+| O               | -                                          | -         |
+| thulese         | -                                          | -         |
+| thulesen        | -                                          | -         |
+| enhedsliste     | 1821                                       | 1821      |
+| skipper         | 15                                         | 15        |
+| schmidt-nielsen | -                                          | -         |
+| Ø               | -                                          | -         |
+| skaarup         | 169                                        | 169       |
+| schmidt         | 69                                         | 69        |
+| SF              | -                                          | -         |
+
