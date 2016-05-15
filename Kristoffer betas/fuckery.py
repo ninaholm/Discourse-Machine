@@ -1,15 +1,35 @@
-import time
+import csv
 
-def testing(self):
-	try:
-		x = int(raw_input("Please enter a number: "))
-	except ValueError:
-		print "lol"
-		time.sleep(10)
-		print "rofl"
+fil = open("all_information_adjectives.csv", 'r')
+count = 0
+tagcount = 0
+annontated = []
+positive = []
+negative = []
+
+for line in fil:
+	if ',+1' in line or ',1' in line:
+		positive.append(line)
+	if ',-1' in line:
+		negative.append(line)
+		
+
+	tagcount += 1
+fil.close()
+
+positive.sort()
+negative.sort()
+annontated += positive
+annontated += negative
+
+finished = open("information_manual_sent.csv", "w")
+
+for x in annontated:
+	word = x[:x.find(",")]
+	score = x[x.find(",")+1:x.rfind("1")+1].translate(None, "+")
+	finished.write("%s,%s\n"%(word, score))
 
 
-	print "continued"
-
-for x in range(10):
-	testing(0)
+print "total: ", len(annontated)
+print "negative: ", len(negative)
+print "positive: ", len(positive)

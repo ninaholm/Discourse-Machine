@@ -77,9 +77,13 @@ class POSCorpus():
 			t = parser.parse_sentence(sentence)
 
 			if t is not None:
-				print t.tree
-				sentimentscore += t.get_sentiment_score(self.sentimentdict, term)
-			print ">>SENTIMENTSCORE: Current score is:", sentimentscore
+				# print t.tree
+				score = t.get_sentiment_score(self.sentimentdict, term)
+				if score != 0:
+					sentimentscore += score
+					print ">>SENTIMENTSCORE: ", self.print_sentence(sentence)
+					print ">>SENTIMENTSCORE: Current score is:", sentimentscore
+
 
 		self.scores.append((term,sentimentscore))
 
@@ -130,8 +134,12 @@ class POSCorpus():
 	def print_sentence(self, sentence):
 		sentencestring = ""
 		for x in sentence:
-			sentencestring += x[0] + " "
-		print sentencestring
+			y = x[0]
+			if "|" in y:
+				sentencestring += y[:y.find("|")] + " "
+			else:
+				sentencestring += y + " "
+		return sentencestring
 
 
 	def getSentimentDict(self):
