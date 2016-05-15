@@ -139,6 +139,36 @@ Average time per sentence: 20.1601723656
 
 **************************************************
 
+Note: Regular run, 200 most probable options, after fixing the sentence extraction.
+
+>>MAIN: Syntactically parsing a test corpus
+>>MAIN: Number of articles in corpus is 100
+>>MAIN: Now grabbing sentences from articles.
+>>MAIN: Grabbed 6635 sentences.
+>>MAIN: Time spent is 0:00:00.387737
+
+>>MAIN: Now parsed 200 sentences in 0:02:06.481478 time
+>>MAIN: Now parsed 400 sentences in 0:05:59.658824 time
+>>MAIN: Now parsed 600 sentences in 0:06:24.739851 time
+>>MAIN: Now parsed 800 sentences in 0:06:47.783211 time
+>>MAIN: Now parsed 1000 sentences in 0:07:33.704645 time
+>>MAIN: Now parsed 1200 sentences in 0:08:36.049386 time
+>>PARSE: Encountered illegal tag: a>.. Disregarding sentence.
+[['a>.', 'a>.', 'NN']]
+>>MAIN: Now parsed 1400 sentences in 0:10:07.562388 time
+>>MAIN: Now parsed 1600 sentences in 0:12:32.525717 time
+>>MAIN: Now parsed 1800 sentences in 0:14:15.551950 time
+>>MAIN: Now parsed 2000 sentences in 0:15:59.454957 time
+>>MAIN: Now parsed 2200 sentences in 0:17:03.613250 time
+
+>>MAIN: 2200 total number of sentences.
+>>MAIN: 31 empty sentences.
+>>MAIN: 736, or 33%, unparsable sentences.
+>>MAIN: Total time spent is 0:17:03.613310.
+Average time per sentence: 0.47192868142
+
+
+
 
 
 

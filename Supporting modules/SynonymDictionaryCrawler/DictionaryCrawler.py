@@ -89,25 +89,27 @@ def save_synonyms(words):
 print ">>DICTIONARY_CRAWLER: Starting the crawl"
 
 
-all_synonyms = []
+def get_synonyms_of_dictionary():
+	all_synonyms = []
+	terms = []
+	import csv
+	with open("../Pipeline/data/sentiment_dictionaries/venstre_sentiment_dictionary.csv", "r") as file:
+		content = csv.reader(file, delimiter=",")
+		for row in content:
+			if int(row[1]) is not 0:
+				terms.append(row[0])
 
-terms = []
+	for term in terms:
+		run(term)
+		for word in words_to_grab:
+			all_synonyms.append(word)
+		words_to_grab = []
 
-import csv
-with open("sentiment_dictionaries/venstre_sentiment_dictionary.csv", "r") as file:
-	content = csv.reader(file, delimiter=",")
-	for row in content:
-		if int(row[1]) is not 0:
-			terms.append(row[0])
+	save_synonyms(all_synonyms + words_searched)
 
-for term in terms:
-	run(term)
-	for word in words_to_grab:
-		all_synonyms.append(word)
-	words_to_grab = []
-
-save_synonyms(all_synonyms + words_searched)
-
+def get_synonyms():
+	terms = ["god", ]
+	terms = ["dårlig", "svindel", "beklage"]
 
 
 
