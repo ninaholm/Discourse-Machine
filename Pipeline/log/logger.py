@@ -34,7 +34,7 @@ def makeLog(totalTime):
 		corporaCount += 1
 		corpusmetadata = ""
 		articleNum = 0
-		corpusheader = ["TERM", "# ARTICLES", "SEARCH", "SCORE"]
+		corpusheader = ["TERM", "# ARTICLES", "SEARCH", "RAW SCORE", "WEIGHTED"]
 		corpuscontent = []
 		for data in corpus: 
 			if len(data) == lenlimit:
@@ -46,10 +46,11 @@ def makeLog(totalTime):
 				continue
 			term = data[0]
 			score = data[3]
+			data.append(round((data[3] / float(data[1])),3))
 
 			# data[1] = str(data[1])
  			data[2] = str(data[2]) + " s"
-			corpuscontent.append(data[0:4])
+			corpuscontent.append(data[0:5])
 
 			if term in sentimentdict:
 				sentimentdict[term].append(score)
@@ -138,17 +139,15 @@ def table(header, content):
 def getMainMeta(corpora, totalTime):
 	corpusNum = len(corpora)
 
-	divider = "#" * 100
-
 	# Should be recoded to not be hardcoded to the global dict!!!
 	dictsize = 0
-	dictionary = open(os.getcwd() + "/Corpus/sentiment_dictionaries/universal_dictionary.csv", 'r')
+	dictionary = open(os.getcwd() + "/data/sentiment_dictionaries/universal_dictionary.csv", 'r')
 	for lol in dictionary:
 		dictsize += 1
 
 	timedate = strftime("%H:%M:%S %d-%m-%Y")
 
-	mainMeta = "\n%s\n\nTime:\t\t %s \nCorpora:\t %s \nDict. size:\t %s \nTime elapsed:\t %s s\n\n" %(divider, timedate, corpusNum, dictsize, totalTime)
+	mainMeta = "\n\nTime:\t\t %s \nCorpora:\t %s \nDict. size:\t %s \nTime elapsed:\t %s s\n\n" %(timedate, corpusNum, dictsize, totalTime)
 	return mainMeta
 
 def createLog(self):
@@ -172,7 +171,7 @@ def fillUnfound(sentimentdict, corporaCount):
 	return sentimentdict
 
 def padSentimentTable(sentimentdict, corporaCount):
-	searchterms = open(os.getcwd() + "/TFIDF_searcher/searchterms.txt")
+	searchterms = open(os.getcwd() + "/data/searchterms.txt")
 	terms = []
 	for term in searchterms:
 		term = term.strip()
@@ -199,9 +198,20 @@ def logChoice(self):
 		elif userinput != "":
 			# sys.stdout.flush() # important
 			print "\r>> Logging has been enabled.\n"
+			logMessage(0)
 			return True
 		else:
 			print "Wrong input. Try again."
+
+def logMessage(self):
+	print "Enter logmessage: "
+	userinput = raw_input()
+	log = open(os.getcwd() + "/log/log.txt", 'a')
+	log.write("\n")
+	log.write("#" * 50)
+	log.write("\n\nLogmessage: " + userinput)
+	log.close()
+
 
 def indexLog(inputfile, articleNum, uWordsNum, avgWord, pickleTime, indexTime, totalTime):
 	path = os.getcwd() + "/log/tmplogarray.in"

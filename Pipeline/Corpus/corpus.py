@@ -137,7 +137,7 @@ class Corpus:
 		return results
 
 	def getSentimentDict(self):
-		dict_path = "Corpus/sentiment_dictionaries/universal_dictionary.csv"
+		dict_path = "data/sentiment_dictionaries/information_manual_sent.csv"
 		with open(dict_path, "r") as csvfile:
 			dictionary = {}
 			with open(dict_path, "r") as csvfile:

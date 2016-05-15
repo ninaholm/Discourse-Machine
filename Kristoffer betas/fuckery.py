@@ -1,6 +1,6 @@
 import csv
 
-fil = open("all_information_adjectives.csv", 'r')
+fil = open("universal_dictionary.csv", 'r')
 count = 0
 tagcount = 0
 annontated = []
@@ -22,12 +22,12 @@ negative.sort()
 annontated += positive
 annontated += negative
 
-finished = open("information_manual_sent.csv", "w")
+# finished = open("information_manual_sent.csv", "w")
 
-for x in annontated:
-	word = x[:x.find(",")]
-	score = x[x.find(",")+1:x.rfind("1")+1].translate(None, "+")
-	finished.write("%s,%s\n"%(word, score))
+# for x in annontated:
+# 	word = x[:x.find(",")]
+# 	score = x[x.find(",")+1:x.rfind("1")+1].translate(None, "+")
+# 	finished.write("%s,%s\n"%(word, score))
 
 
 print "total: ", len(annontated)

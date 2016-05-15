@@ -70,19 +70,19 @@ class POSCorpus():
 
 		print ">>SENTIMENTSCORE: Found %s sentences."%len(sentences)
 
-		parser = SyntacticParser()
+		# parser = SyntacticParser()
 
-		for sentence in sentences:
-			# test_sentence = [x.split("/") for x in "To/NUM russere/N_INDEF_PLU tror/V_PRES ikke/ADV intet/ADJ ./TEGN".split(" ")]
-			t = parser.parse_sentence(sentence)
+		# for sentence in sentences:
+		# 	# test_sentence = [x.split("/") for x in "To/NUM russere/N_INDEF_PLU tror/V_PRES ikke/ADV intet/ADJ ./TEGN".split(" ")]
+		# 	t = parser.parse_sentence(sentence)
 
-			if t is not None:
-				# print t.tree
-				score = t.get_sentiment_score(self.sentimentdict, term)
-				if score != 0:
-					sentimentscore += score
-					print ">>SENTIMENTSCORE: ", self.print_sentence(sentence)
-					print ">>SENTIMENTSCORE: Current score is:", sentimentscore
+		# 	if t is not None:
+		# 		# print t.tree
+		# 		score = t.get_sentiment_score(self.sentimentdict, term)
+		# 		if score != 0:
+		# 			sentimentscore += score
+		# 			print ">>SENTIMENTSCORE: ", self.print_sentence(sentence)
+		# 			print ">>SENTIMENTSCORE: Current score is:", sentimentscore
 
 
 		self.scores.append((term,sentimentscore))
@@ -143,7 +143,7 @@ class POSCorpus():
 
 
 	def getSentimentDict(self):
-		dict_path = "Corpus/sentiment_dictionaries/universal_dictionary.csv"
+		dict_path = "data/sentiment_dictionaries/information_manual_sent.csv"
 		with open(dict_path, "r") as csvfile:
 			dictionary = {}
 			with open(dict_path, "r") as csvfile:
