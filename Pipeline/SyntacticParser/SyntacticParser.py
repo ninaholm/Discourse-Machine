@@ -193,7 +193,7 @@ class SentenceTree(object):
 		total_score = 0
 
 		# placeholder dictionaries -TESTING PURPOSES
-		negationList = ["ikke"]
+		negationList = ["ikke", "liden"]
 
 		# Check the term against every sentiment word
 		n1 = self.sentence.index(term)
