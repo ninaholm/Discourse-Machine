@@ -3883,3 +3883,64 @@ OVERALL SENTIMENT TABLE
 | løkke   |    -0.0769231 |   -0.0714286 | -0.0741758 |
 | venstre |     0.25      |    0.142857  |  0.196429  |
 
+
+##################################################
+
+Logmessage: Testing new grammar, normalized against the sum of each specific left_side, instead of the overall total sum of all rules.
+
+Time:		 14:01:11 16-05-2016 
+Corpora:	 2 
+Dict. size:	 2112 
+Time elapsed:	 95.165 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.379 s
+Index time:					 7.411 s
+Search (subset) time: 		 0.009 s
+Search (sentence) time: 	 4.197 s
+Parse time: 				 4.71 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.1
+
+| TERM    |   # ARTICLES | SUBSET/SENTENCE/PARSE   | ARTICLE SCORE   | SENTENCES     |   PARSESCORE |
+|---------+--------------+-------------------------+-----------------+---------------+--------------|
+| venstre |          911 | 0.007 / 3.074 / 2.287 s | 4.191 (3818)    | 0.11% (1/905) |    0.291667  |
+| løkke   |          342 | 0.002 / 1.123 / 2.423 s | 3.336 (1141)    | 0.21% (1/487) |   -0.0909091 |
+
+---------------------------------------------------------------------------
+Corpus:						 udland.in_ 
+Articles:					 5998
+Unique words:				 134481
+Avg. word/article:			 914
+Pickle time:				 0.977 s
+Index time:					 5.652 s
+Search (subset) time: 		 0.0 s
+Search (sentence) time: 	 0.449 s
+Parse time: 				 66.426 s
+Avg. sentence success: 		 2.74%
+Avg. parse score: 			 0.007
+
+| TERM    |   # ARTICLES | SUBSET/SENTENCE/PARSE   | ARTICLE SCORE   | SENTENCES    |   PARSESCORE |
+|---------+--------------+-------------------------+-----------------+--------------+--------------|
+| venstre |           97 | 0.0 / 0.354 / 1.352 s   | 3.68 (357)      | 2.17% (1/46) |    0.111111  |
+| løkke   |           39 | 0.0 / 0.095 / 65.074 s  | 3.256 (127)     | 3.7% (1/27)  |   -0.0974026 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   udland.in_ |   Average |
+|---------------+--------------+-----------|
+|          8.79 |         6.63 |      7.71 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM    |   indland.in_ |   udland.in_ |    Average |
+|---------+---------------+--------------+------------|
+| løkke   |    -0.0909091 |   -0.0974026 | -0.0941558 |
+| venstre |     0.291667  |    0.111111  |  0.201389  |
+
