@@ -207,10 +207,9 @@ class SentenceTree(object):
 				if self._is_negated(key, negationList):
 					score = score * -1
 
-				print "Term: %s | SentWord: %s | Distance: %s | Score: %s" % (term, key, d,score)
+				print ">>SENTIMENTSCORE: Term: %s | SentWord: %s | Distance: %s | Score: %s" % (term, key, d,score)
 				total_score += score
 
-		print "Total score:", total_score
 		return total_score
 
 
