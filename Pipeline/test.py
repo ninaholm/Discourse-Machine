@@ -28,16 +28,32 @@ def main(self):
 	starttime = time.time()
 	# Loops through the chosen corpora and returns sentimentscore for every searchterm in them.
 	for inputfile in inputfiles:
-		c = Corpus(inputfile)
-		c.index()
+		subSetList = []
 
-		# Loops through all searchterms and calculates their sentimentscore for the current corpus.
-		for term in c.searchterms:
-			subCorpusArticleList = c.search(term)
-			print
+		while True:
+			c = Corpus(inputfile)
+			# print
+			c.index()
 
-			if len(subCorpusArticleList) == 0:
-				continue
+			# # Loops through all searchterms and calculates their sentimentscore for the current corpus.
+			# for term in c.searchterms:
+			# 	subset = c.search(term)
+
+			# 	if len(subset) == 0:
+			# 		continue
+			# 	else:
+			# 		subSetList.append((term, subset))
+			break
+		print
+
+		# posc = POSCorpus(inputfile, subSetList)
+		# posc.load()
+		# print
+
+		# for term_subset in subSetList:
+		# 	posc.score_sentiment(term_subset)
+
+		print "#" * 50
 
 	totalTime = round((time.time() - starttime), 3)
 	print "Total time elapsed: %s seconds" % totalTime
@@ -47,14 +63,14 @@ def main(self):
 	else:
 		testdata[0] = (totalTime + testdata[0]) / 2
 	print testdata[0]
-	makeLog(totalTime)
+	# makeLog(totalTime)
 
 def testLog(testdata):
 	print "testlol"
 
-for x in range(10):
+for x in range(5):
 	main(0)
-	break
+	
 
 
 
