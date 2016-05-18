@@ -15,22 +15,15 @@
 # 		Reads through all articles in the subsetlist and returns every sentence with the term in it.
 
 # 		returns [sentences]
-<<<<<<< HEAD
 #from SyntacticParser.SyntacticParser import *
-=======
-from SyntacticParser.SyntacticParser import *
->>>>>>> f5158ee454ea3ca513b5dea1ece47671325a7b59
 from log.logger import sentimentSentenceLog
 import os
 import pickle
 import csv
 import re
 import time
-<<<<<<< HEAD
 import pyximport; pyximport.install()
 from SyntacticParser.SyntacticParserOptimised import SyntacticParser
-=======
->>>>>>> f5158ee454ea3ca513b5dea1ece47671325a7b59
 
 
 class POSCorpus():
@@ -100,21 +93,13 @@ class POSCorpus():
 						sentimentscore = score
 					else:
 						sentimentscore = (sentimentscore + score) / 2
-<<<<<<< HEAD
 					# print ">>SENTIMENTSCORE: ", self.print_sentence(sentence)
 					# print ">>SENTIMENTSCORE: Current score is:", sentimentscore
 					# print
 		print ">>SENTIMENTSCORE: Final score is", sentimentscore
 		print
-					
-=======
-					print ">>SENTIMENTSCORE: ", self.print_sentence(sentence)
-					print ">>SENTIMENTSCORE: Current score is:", sentimentscore
-					print
-					break
->>>>>>> f5158ee454ea3ca513b5dea1ece47671325a7b59
-					
 
+					
 		sentencesCount = "%s%% (%s/%s)" %(round((parsedSentencesCount/float(len(sentences)))*100, 2), parsedSentencesCount, len(sentences))
 
 		parseTime = round((time.time() - subsetTime), 3)
