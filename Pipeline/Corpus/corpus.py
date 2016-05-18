@@ -9,6 +9,8 @@ import math
 import csv
 from log.logger import indexLog, searchLog, sentimentArticleLog
 
+import random #for testing purposes
+
 # Takes an array of inputfilenames, which is indexed into a dictionary with words as keys and [(articleid, count)] as values. 
 # A dictionary of articles are also returned, with articleids as keys and totalwordcount as values.
 # logdict[inputfile(s) + "-index"]: [Which file(s) has been indexed, # articles, # unique words, # average words/article, time to unpickle, time to index and time in total].
@@ -47,6 +49,8 @@ class Corpus:
 		print ">>INDEX: Indexing %s articles." % len(inputdata)
 		for doc in inputdata:
 			doccount += 1
+			# if doccount > 3695:
+			# 	break
 			wordcount = 0
 			sentimentcount = 0
 			articleid = doc
@@ -85,6 +89,9 @@ class Corpus:
 		totalTime = round((time.time() - starttime), 3)
 
 		print ">>INDEX: Word indexing completed in %s seconds. \n" % totalTime
+		print "pickletime: ", pickleTime
+		print "indextime: ", indexTime
+		print "doccount: ", doccount
 		indexLog(self.inputfiles, len(inputdata), len(index), (totalwordcount / doccount), pickleTime, indexTime, totalTime)
 
 

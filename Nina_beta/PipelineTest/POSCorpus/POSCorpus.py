@@ -15,15 +15,11 @@
 # 		Reads through all articles in the subsetlist and returns every sentence with the term in it.
 
 # 		returns [sentences]
-#from SyntacticParser.SyntacticParser import *
-from log.logger import sentimentSentenceLog
+from SyntacticParser.SyntacticParser import *
 import os
 import pickle
 import csv
 import re
-import time
-import pyximport; pyximport.install()
-from SyntacticParser.SyntacticParserOptimised import SyntacticParser
 
 
 class POSCorpus():
@@ -58,7 +54,6 @@ class POSCorpus():
 			pickledData.close()
 
 	def score_sentiment(self, term_subset):
-		starttime = time.time()
 		term, subset = term_subset
 		print ">>SENTIMENTSCORE: Scoring sentiment for '%s'." % term
 		sentences = []
@@ -71,41 +66,26 @@ class POSCorpus():
 			for sentence in tmp:
 				# print " ".join([y[:y.find("/")] for y in x])
 				sentences.append(sentence)
-		subsetTime = time.time()
+
 
 		print ">>SENTIMENTSCORE: Found %s sentences."%len(sentences)
 
-
 		parser = SyntacticParser()
-		parsedSentencesCount = 0
 
 		for sentence in sentences:
 			# test_sentence = [x.split("/") for x in "To/NUM russere/N_INDEF_PLU tror/V_PRES ikke/ADV intet/ADJ ./TEGN".split(" ")]
 			t = parser.parse_sentence(sentence)
-			# print "sentence: ", self.print_sentence(sentence), "\n\n"
 
 			if t is not None:
 				# print t.tree
 				score = t.get_sentiment_score(self.sentimentdict, term)
 				if score != 0:
-					parsedSentencesCount += 1
-					if sentimentscore == 0:
-						sentimentscore = score
-					else:
-						sentimentscore = (sentimentscore + score) / 2
-					# print ">>SENTIMENTSCORE: ", self.print_sentence(sentence)
-					# print ">>SENTIMENTSCORE: Current score is:", sentimentscore
-					# print
-		print ">>SENTIMENTSCORE: Final score is", sentimentscore
-		print
+					sentimentscore += score
+					print ">>SENTIMENTSCORE: ", self.print_sentence(sentence)
+					print ">>SENTIMENTSCORE: Current score is:", sentimentscore
 
-					
-		sentencesCount = "%s%% (%s/%s)" %(round((parsedSentencesCount/float(len(sentences)))*100, 2), parsedSentencesCount, len(sentences))
 
-		parseTime = round((time.time() - subsetTime), 3)
-		subsetTime = round((subsetTime - starttime), 3)
-		sentimentSentenceLog(term, sentencesCount, sentimentscore, self.inputfiles, subsetTime, parseTime)
-		# self.scores.append((term,sentimentscore))
+		self.scores.append((term,sentimentscore))
 
 	def get_sentences(self, article, term):
 		sentenceList = []
@@ -163,7 +143,7 @@ class POSCorpus():
 
 
 	def getSentimentDict(self):
-		dict_path = "data/sentiment_dictionaries/information_manual_sent.csv"
+		dict_path = "Corpus/sentiment_dictionaries/universal_dictionary.csv"
 		with open(dict_path, "r") as csvfile:
 			dictionary = {}
 			with open(dict_path, "r") as csvfile:

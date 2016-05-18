@@ -18,7 +18,6 @@ class SyntacticParser(object):
 		self.cky_logger3 = Logger()
 		self.cky_logger4 = Logger()
 		self.cky_logger5 = Logger()
-		self.cky_logger6 = Logger()
 		self.test = False
 		self.print_all = False
 
@@ -41,13 +40,9 @@ class SyntacticParser(object):
 		return output
 
 
-
-
 	# Takes a sentence string, runs CKY and returns the sentence matrix of said sentence.
 	def cky_parse(self, sentence):
-		if self.test: print ">>PARSE: Running with test ON."
-
-		# sentence = self._postag_sentence(sentence)
+		cdef int n, sentence_length, i
 
 		n = len(sentence)+1
 		sentence_matrix = [[[] for x in range(n)] for y in range(n)] # Create CKY matrix
@@ -67,26 +62,29 @@ class SyntacticParser(object):
 
 
 		# GO GO CKY ALGORITHM DO YO' THANG
+		cdef int substring_length, substring_start, split_point
+		cdef float prob
+		cdef str grammar_rule
 		grammar_rules = self.grammar.rules
-		for substring_length in xrange(2, sentence_length+1):
-			for substring_start in xrange(1, (sentence_length - substring_length)+2):
+		for substring_length in range(2, sentence_length+1):
+			for substring_start in range(1, (sentence_length - substring_length)+2):
 				options = []
-				for split_point in xrange(1, substring_length):
+				for split_point in range(1, substring_length):
 					b = sentence_matrix[split_point][substring_start]
 					c = sentence_matrix[substring_length - split_point][substring_start + split_point]
-					for i in xrange(len(b)):
+					for i in range(len(b)):
 						self.cky_logger1.start_timer()
 						b_option_coord = [split_point, substring_start, i]
 						self.cky_logger1.stop_timer()
-						for j in xrange(len(c)):
+						for j in range(len(c)):
 							self.cky_logger1.start_timer()
 							c_option_coord = [substring_length - split_point, substring_start + split_point, j]
 							self.cky_logger1.stop_timer()
 							self.cky_logger2.start_timer()
 							grammar_rule = "".join([str(b[i].constituent), str(c[j].constituent)])
 							self.cky_logger2.stop_timer()
-							if grammar_rule in self.grammar.rules:
-								for nonterminal in self.grammar.rules[grammar_rule]:
+							if grammar_rule in grammar_rules:
+								for nonterminal in grammar_rules[grammar_rule]:
 									self.cky_logger3.start_timer()
 									prob = b[i].probability * c[j].probability * nonterminal.prob # Consider taking the log instead of multiplying (ONLY THIS YIELDS NEGATIVE VALUES)
 									self.cky_logger3.stop_timer()
@@ -95,9 +93,11 @@ class SyntacticParser(object):
 									self.cky_logger4.stop_timer()
 									options.append(po)
 
+				self.cky_logger5.start_timer()
 				options.sort(key=lambda x: x.probability, reverse=True)
 				for o in options[:200]:
 					sentence_matrix[substring_length][substring_start].append(o)
+				self.cky_logger5.stop_timer()
 
 		return sentence_matrix
 
@@ -285,7 +285,7 @@ class SentenceTree(object):
 
 # Object for storing all relevant information about a potential constituent within the sentence_matrix
 class ParseOption(object):
-	def __init__(self, const, prob, left, right):
+	def __init__(self, str const, float prob, left, right):
 		self.constituent = const # non-terminal to which left+right might resolve
 		self.probability = prob # probability of left+right resolving to this constituent
 		self.left_coord = left # coordinates of the first right-side nonterminal

@@ -1,0 +1,1033 @@
+ 
+####################################################################################################
+
+Time:		 11:24:59 13-05-2016 
+Corpora:	 1 
+Dict. size:	 344 
+Time elapsed:	 5.142 s
+
+---------------------------------------------------------------------------
+Corpus:			 debat.in_ 
+Articles:		 8591
+Unique words:		 152781
+Avg. word/article:	 743
+Pickle time:		 0.58 s
+Index time:		 4.545 s
+Total time:		 5.126 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          204 | 0.001 s  |     271 |
+| schmidt     |            6 | 0.0 s    |       5 |
+| skipper     |            1 | 0.0 s    |      -5 |
+| skipper     |            1 | 0.0 s    |      -5 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   debat.in_ |   Average |
+|-------------+-----------|
+|       5.126 |     5.126 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|              | TERM   | debat.in_   |
+|--------------+--------+-------------|
+|              | -      | -           |
+| aaen         | -      | -           |
+| enhedslisten | -      | -           |
+| enhedsliste  | 271    | 271         |
+| Ø            | -      | -           |
+| skipper      | -5     | -5          |
+| schmidt      | 5      | 5           |
+
+
+####################################################################################################
+
+Time:		 11:26:03 13-05-2016 
+Corpora:	 1 
+Dict. size:	 344 
+Time elapsed:	 4.51 s
+
+---------------------------------------------------------------------------
+Corpus:			 debat.in_ 
+Articles:		 8591
+Unique words:		 152781
+Avg. word/article:	 743
+Pickle time:		 0.64 s
+Index time:		 3.857 s
+Total time:		 4.497 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          204 | 0.001 s  |     271 |
+| skipper     |            1 | 0.0 s    |      -5 |
+| skipper     |            1 | 0.0 s    |      -5 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   debat.in_ |   Average |
+|-------------+-----------|
+|       4.497 |     4.497 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|                 | TERM   | debat.in_   |
+|-----------------+--------+-------------|
+|                 | -      | -           |
+| aaen            | -      | -           |
+| enhedslisten    | -      | -           |
+| enhedsliste     | 271    | 271         |
+| Ø               | -      | -           |
+| skipper         | -5     | -5          |
+| schmidt-nielsen | -      | -           |
+
+
+####################################################################################################
+
+Time:		 11:27:55 13-05-2016 
+Corpora:	 1 
+Dict. size:	 344 
+Time elapsed:	 4.351 s
+
+---------------------------------------------------------------------------
+Corpus:			 debat.in_ 
+Articles:		 8591
+Unique words:		 152781
+Avg. word/article:	 743
+Pickle time:		 0.544 s
+Index time:		 3.793 s
+Total time:		 4.337 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          204 | 0.001 s  |     271 |
+| schmidt     |            6 | 0.0 s    |       5 |
+| skippe      |            1 | 0.0 s    |       0 |
+| skipper     |            1 | 0.0 s    |      -5 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   debat.in_ |   Average |
+|-------------+-----------|
+|       4.337 |     4.337 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|                 | TERM   | debat.in_   |
+|-----------------+--------+-------------|
+|                 | -      | -           |
+| aaen            | -      | -           |
+| skippe          | 0      | 0           |
+| enhedslisten    | -      | -           |
+| enhedsliste     | 271    | 271         |
+| skipper         | -5     | -5          |
+| schmidt-nielsen | -      | -           |
+| Ø               | -      | -           |
+| schmidt         | 5      | 5           |
+
+
+####################################################################################################
+
+Time:		 11:29:08 13-05-2016 
+Corpora:	 4 
+Dict. size:	 344 
+Time elapsed:	 16.337 s
+
+---------------------------------------------------------------------------
+Corpus:			 debat.in_ 
+Articles:		 8591
+Unique words:		 152781
+Avg. word/article:	 743
+Pickle time:		 0.522 s
+Index time:		 3.896 s
+Total time:		 4.418 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          204 | 0.001 s  |     271 |
+| schmidt     |            6 | 0.0 s    |       5 |
+| skippe      |            1 | 0.0 s    |       0 |
+| skipper     |            1 | 0.0 s    |      -5 |
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8612
+Unique words:		 132507
+Avg. word/article:	 758
+Pickle time:		 0.576 s
+Index time:		 3.678 s
+Total time:		 4.254 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          600 | 0.002 s  |     812 |
+| schmidt     |            7 | 0.0 s    |      11 |
+| skippe      |            3 | 0.0 s    |       5 |
+| skipper     |            1 | 0.0 s    |      -1 |
+
+---------------------------------------------------------------------------
+Corpus:			 udland.in_ 
+Articles:		 5998
+Unique words:		 134072
+Avg. word/article:	 815
+Pickle time:		 0.414 s
+Index time:		 2.769 s
+Total time:		 3.184 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |           33 | 0.0 s    |      50 |
+| schmidt     |            2 | 0.0 s    |      16 |
+| skippe      |            1 | 0.0 s    |       3 |
+
+---------------------------------------------------------------------------
+Corpus:			 kultur.in_ 
+Articles:		 6387
+Unique words:		 185476
+Avg. word/article:	 977
+Pickle time:		 0.482 s
+Index time:		 3.538 s
+Total time:		 4.021 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |           30 | 0.0 s    |      13 |
+| schmidt     |            3 | 0.0 s    |       7 |
+| skippe      |            3 | 0.0 s    |      12 |
+| skipper     |            2 | 0.0 s    |       3 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   debat.in_ |   indland.in_ |   udland.in_ |   kultur.in_ |   Average |
+|-------------+---------------+--------------+--------------+-----------|
+|       4.418 |         4.254 |        3.184 |        4.021 |   3.96925 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|                 | TERM   | debat.in_   | indland.in_   | udland.in_   | kultur.in_   |
+|-----------------+--------+-------------+---------------+--------------+--------------|
+|                 | -      | -           | -             | -            | -            |
+| aaen            | -      | -           | -             | -            | -            |
+| skippe          | 0      | 5           | 3             | 12           | 5            |
+| enhedslisten    | -      | -           | -             | -            | -            |
+| enhedsliste     | 271    | 812         | 50            | 13           | 286          |
+| skipper         | -5     | -1          | -             | 3            | -1           |
+| schmidt-nielsen | -      | -           | -             | -            | -            |
+| Ø               | -      | -           | -             | -            | -            |
+| schmidt         | 5      | 11          | 16            | 7            | 9            |
+
+
+####################################################################################################
+
+Time:		 11:31:53 13-05-2016 
+Corpora:	 4 
+Dict. size:	 344 
+Time elapsed:	 16.512 s
+
+---------------------------------------------------------------------------
+Corpus:			 debat.in_ 
+Articles:		 8591
+Unique words:		 152781
+Avg. word/article:	 743
+Pickle time:		 0.585 s
+Index time:		 4.018 s
+Total time:		 4.603 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          204 | 0.001 s  |     271 |
+| schmidt     |            6 | 0.0 s    |       5 |
+| skippe      |            1 | 0.0 s    |       0 |
+| skipper     |            1 | 0.0 s    |      -5 |
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8612
+Unique words:		 132507
+Avg. word/article:	 758
+Pickle time:		 0.597 s
+Index time:		 3.631 s
+Total time:		 4.228 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          600 | 0.002 s  |     812 |
+| schmidt     |            7 | 0.0 s    |      11 |
+| skippe      |            3 | 0.0 s    |       5 |
+| skipper     |            1 | 0.0 s    |      -1 |
+
+---------------------------------------------------------------------------
+Corpus:			 udland.in_ 
+Articles:		 5998
+Unique words:		 134072
+Avg. word/article:	 815
+Pickle time:		 0.415 s
+Index time:		 2.764 s
+Total time:		 3.18 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |           33 | 0.0 s    |      50 |
+| schmidt     |            2 | 0.0 s    |      16 |
+| skippe      |            1 | 0.0 s    |       3 |
+
+---------------------------------------------------------------------------
+Corpus:			 kultur.in_ 
+Articles:		 6387
+Unique words:		 185476
+Avg. word/article:	 977
+Pickle time:		 0.488 s
+Index time:		 3.548 s
+Total time:		 4.036 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |           30 | 0.0 s    |      13 |
+| schmidt     |            3 | 0.0 s    |       7 |
+| skippe      |            3 | 0.0 s    |      12 |
+| skipper     |            2 | 0.0 s    |       3 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   debat.in_ |   indland.in_ |   udland.in_ |   kultur.in_ |   Average |
+|-------------+---------------+--------------+--------------+-----------|
+|       4.603 |         4.228 |         3.18 |        4.036 |   4.01175 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|                 | TERM   | debat.in_   | indland.in_   | udland.in_   | kultur.in_   |
+|-----------------+--------+-------------+---------------+--------------+--------------|
+|                 | -      | -           | -             | -            | -            |
+| aaen            | -      | -           | -             | -            | -            |
+| skippe          | 0      | 5           | 3             | 12           | 5            |
+| enhedslisten    | -      | -           | -             | -            | -            |
+| enhedsliste     | 271    | 812         | 50            | 13           | 286          |
+| skipper         | -5     | -1          | -             | 3            | -1           |
+| schmidt-nielsen | -      | -           | -             | -            | -            |
+| Ø               | -      | -           | -             | -            | -            |
+| schmidt         | 5      | 11          | 16            | 7            | 9            |
+
+
+####################################################################################################
+
+Time:		 11:32:51 13-05-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 8.645 s
+
+---------------------------------------------------------------------------
+Corpus:			 debat.in_ 
+Articles:		 8591
+Unique words:		 152781
+Avg. word/article:	 743
+Pickle time:		 0.515 s
+Index time:		 3.709 s
+Total time:		 4.224 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          204 | 0.001 s  |     271 |
+| schmidt     |            6 | 0.0 s    |       5 |
+| skippe      |            1 | 0.0 s    |       0 |
+| skipper     |            1 | 0.0 s    |      -5 |
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8612
+Unique words:		 132507
+Avg. word/article:	 758
+Pickle time:		 0.571 s
+Index time:		 3.677 s
+Total time:		 4.249 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          600 | 0.004 s  |     812 |
+| schmidt     |            7 | 0.0 s    |      11 |
+| skippe      |            3 | 0.0 s    |       5 |
+| skipper     |            1 | 0.0 s    |      -1 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   debat.in_ |   indland.in_ |   Average |
+|-------------+---------------+-----------|
+|       4.224 |         4.249 |    4.2365 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|                 |     | debat.in_   | indland.in_   |
+|-----------------+-----+-------------+---------------|
+|                 | -   | -           | -             |
+| aaen            | -   | -           | -             |
+| skippe          | 0   | 5           | 2             |
+| enhedslisten    | -   | -           | -             |
+| enhedsliste     | 271 | 812         | 541           |
+| skipper         | -5  | -1          | -3            |
+| schmidt-nielsen | -   | -           | -             |
+| Ø               | -   | -           | -             |
+| schmidt         | 5   | 11          | 8             |
+
+
+####################################################################################################
+
+Time:		 11:33:57 13-05-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 8.832 s
+
+---------------------------------------------------------------------------
+Corpus:			 debat.in_ 
+Articles:		 8591
+Unique words:		 152781
+Avg. word/article:	 743
+Pickle time:		 0.609 s
+Index time:		 3.86 s
+Total time:		 4.469 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          204 | 0.001 s  |     271 |
+| schmidt     |            6 | 0.0 s    |       5 |
+| skippe      |            1 | 0.0 s    |       0 |
+| skipper     |            1 | 0.0 s    |      -5 |
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8612
+Unique words:		 132507
+Avg. word/article:	 758
+Pickle time:		 0.572 s
+Index time:		 3.625 s
+Total time:		 4.198 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          600 | 0.003 s  |     812 |
+| schmidt     |            7 | 0.0 s    |      11 |
+| skippe      |            3 | 0.0 s    |       5 |
+| skipper     |            1 | 0.0 s    |      -1 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   debat.in_ |   indland.in_ |   Average |
+|-------------+---------------+-----------|
+|       4.469 |         4.198 |    4.3335 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|                 |     | debat.in_   | indland.in_   |
+|-----------------+-----+-------------+---------------|
+|                 | -   | -           | -             |
+| aaen            | -   | -           | -             |
+| skippe          | 0   | 5           | 2             |
+| enhedslisten    | -   | -           | -             |
+| enhedsliste     | 271 | 812         | 541           |
+| skipper         | -5  | -1          | -3            |
+| schmidt-nielsen | -   | -           | -             |
+| Ø               | -   | -           | -             |
+| schmidt         | 5   | 11          | 8             |
+
+
+####################################################################################################
+
+Time:		 11:35:37 13-05-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 9.123 s
+
+---------------------------------------------------------------------------
+Corpus:			 debat.in_ 
+Articles:		 8591
+Unique words:		 152781
+Avg. word/article:	 743
+Pickle time:		 0.559 s
+Index time:		 3.993 s
+Total time:		 4.552 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          204 | 0.001 s  |     271 |
+| schmidt     |            6 | 0.0 s    |       5 |
+| skippe      |            1 | 0.0 s    |       0 |
+| skipper     |            1 | 0.0 s    |      -5 |
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8612
+Unique words:		 132507
+Avg. word/article:	 758
+Pickle time:		 0.578 s
+Index time:		 3.812 s
+Total time:		 4.391 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          600 | 0.004 s  |     812 |
+| schmidt     |            7 | 0.0 s    |      11 |
+| skippe      |            3 | 0.0 s    |       5 |
+| skipper     |            1 | 0.0 s    |      -1 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   debat.in_ |   indland.in_ |   Average |
+|-------------+---------------+-----------|
+|       4.552 |         4.391 |    4.4715 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| debat.in_       | indland.in_   | Average   | Average2   |
+|-----------------+---------------+-----------+------------|
+|                 | -             | -         | -          |
+| aaen            | -             | -         | -          |
+| skippe          | 0             | 5         | 2          |
+| enhedslisten    | -             | -         | -          |
+| enhedsliste     | 271           | 812       | 541        |
+| skipper         | -5            | -1        | -3         |
+| schmidt-nielsen | -             | -         | -          |
+| Ø               | -             | -         | -          |
+| schmidt         | 5             | 11        | 8          |
+
+
+####################################################################################################
+
+Time:		 11:36:44 13-05-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 9.264 s
+
+---------------------------------------------------------------------------
+Corpus:			 debat.in_ 
+Articles:		 8591
+Unique words:		 152781
+Avg. word/article:	 743
+Pickle time:		 0.586 s
+Index time:		 3.832 s
+Total time:		 4.418 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          204 | 0.001 s  |     271 |
+| schmidt     |            6 | 0.0 s    |       5 |
+| skippe      |            1 | 0.0 s    |       0 |
+| skipper     |            1 | 0.0 s    |      -5 |
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8612
+Unique words:		 132507
+Avg. word/article:	 758
+Pickle time:		 0.576 s
+Index time:		 4.105 s
+Total time:		 4.681 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          600 | 0.002 s  |     812 |
+| schmidt     |            7 | 0.0 s    |      11 |
+| skippe      |            3 | 0.0 s    |       5 |
+| skipper     |            1 | 0.0 s    |      -1 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   debat.in_ |   indland.in_ |   Average |
+|-------------+---------------+-----------|
+|       4.418 |         4.681 |    4.5495 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM            | debat.in_   | indland.in_   | Average   |
+|-----------------+-------------+---------------+-----------|
+|                 | -           | -             | -         |
+| aaen            | -           | -             | -         |
+| skippe          | 0           | 5             | 2         |
+| enhedslisten    | -           | -             | -         |
+| enhedsliste     | 271         | 812           | 541       |
+| skipper         | -5          | -1            | -3        |
+| schmidt-nielsen | -           | -             | -         |
+| Ø               | -           | -             | -         |
+| schmidt         | 5           | 11            | 8         |
+
+
+####################################################################################################
+
+Time:		 11:38:04 13-05-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 8.787 s
+
+---------------------------------------------------------------------------
+Corpus:			 debat.in_ 
+Articles:		 8591
+Unique words:		 152781
+Avg. word/article:	 743
+Pickle time:		 0.523 s
+Index time:		 3.85 s
+Total time:		 4.373 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          204 | 0.001 s  |     271 |
+| schmidt     |            6 | 0.0 s    |       5 |
+| skippe      |            1 | 0.0 s    |       0 |
+| skipper     |            1 | 0.0 s    |      -5 |
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8612
+Unique words:		 132507
+Avg. word/article:	 758
+Pickle time:		 0.567 s
+Index time:		 3.671 s
+Total time:		 4.238 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          600 | 0.003 s  |     812 |
+| schmidt     |            7 | 0.0 s    |      11 |
+| skippe      |            3 | 0.0 s    |       5 |
+| skipper     |            1 | 0.0 s    |      -1 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   debat.in_ |   indland.in_ |   Average |
+|-------------+---------------+-----------|
+|       4.373 |         4.238 |    4.3055 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM            | debat.in_   | indland.in_   | Average   |
+|-----------------+-------------+---------------+-----------|
+|                 | -           | -             | -         |
+| aaen            | -           | -             | -         |
+| skippe          | 0           | 5             | 2         |
+| enhedslisten    | -           | -             | -         |
+| enhedsliste     | 271         | 812           | 541       |
+| skipper         | -5          | -1            | -3        |
+| schmidt-nielsen | -           | -             | -         |
+| Ø               | -           | -             | -         |
+| schmidt         | 5           | 11            | 8         |
+
+
+####################################################################################################
+
+Time:		 11:41:33 13-05-2016 
+Corpora:	 2 
+Dict. size:	 344 
+Time elapsed:	 8.819 s
+
+---------------------------------------------------------------------------
+Corpus:			 debat.in_ 
+Articles:		 8591
+Unique words:		 152781
+Avg. word/article:	 743
+Pickle time:		 0.522 s
+Index time:		 3.883 s
+Total time:		 4.406 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          204 | 0.001 s  |     271 |
+| schmidt     |            6 | 0.0 s    |       5 |
+| skippe      |            1 | 0.0 s    |       0 |
+| skipper     |            1 | 0.0 s    |      -5 |
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8612
+Unique words:		 132507
+Avg. word/article:	 758
+Pickle time:		 0.566 s
+Index time:		 3.675 s
+Total time:		 4.242 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          600 | 0.002 s  |     812 |
+| schmidt     |            7 | 0.0 s    |      11 |
+| skippe      |            3 | 0.0 s    |       5 |
+| skipper     |            1 | 0.0 s    |      -1 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   debat.in_ |   indland.in_ |   Average |
+|-------------+---------------+-----------|
+|       4.406 |         4.242 |     4.324 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM            | debat.in_   | indland.in_   | Average   |
+|-----------------+-------------+---------------+-----------|
+|                 | -           | -             | -         |
+| aaen            | -           | -             | -         |
+| skippe          | 0           | 5             | 2         |
+| enhedslisten    | -           | -             | -         |
+| enhedsliste     | 271         | 812           | 541       |
+| skipper         | -5          | -1            | -3        |
+| schmidt-nielsen | -           | -             | -         |
+| Ø               | -           | -             | -         |
+| schmidt         | 5           | 11            | 8         |
+
+
+####################################################################################################
+
+Time:		 11:50:50 13-05-2016 
+Corpora:	 4 
+Dict. size:	 344 
+Time elapsed:	 17.423 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8612
+Unique words:		 132507
+Avg. word/article:	 758
+Pickle time:		 0.655 s
+Index time:		 3.959 s
+Total time:		 4.615 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          600 | 0.002 s  |     812 |
+| folkeparti  |          712 | 0.002 s  |     866 |
+| folkeparti  |          712 | 0.002 s  |     866 |
+| kjærsgaard  |          107 | 0.0 s    |     159 |
+| schmidt     |            7 | 0.0 s    |      11 |
+| skaarup     |           90 | 0.0 s    |      88 |
+| skippe      |            3 | 0.0 s    |       5 |
+| skipper     |            1 | 0.0 s    |      -1 |
+
+---------------------------------------------------------------------------
+Corpus:			 udland.in_ 
+Articles:		 5998
+Unique words:		 134072
+Avg. word/article:	 815
+Pickle time:		 0.441 s
+Index time:		 2.92 s
+Total time:		 3.361 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |           33 | 0.0 s    |      50 |
+| folkeparti  |           66 | 0.0 s    |     109 |
+| folkeparti  |           66 | 0.0 s    |     109 |
+| kjærsgaard  |            7 | 0.0 s    |       9 |
+| schmidt     |            2 | 0.0 s    |      16 |
+| skaarup     |            3 | 0.0 s    |       0 |
+| skippe      |            1 | 0.0 s    |       3 |
+
+---------------------------------------------------------------------------
+Corpus:			 debat.in_ 
+Articles:		 8591
+Unique words:		 152781
+Avg. word/article:	 743
+Pickle time:		 0.565 s
+Index time:		 3.858 s
+Total time:		 4.423 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          204 | 0.001 s  |     271 |
+| folkeparti  |          346 | 0.002 s  |     476 |
+| folkeparti  |          346 | 0.002 s  |     476 |
+| kjærsgaard  |           87 | 0.0 s    |      98 |
+| schmidt     |            6 | 0.0 s    |       5 |
+| skaarup     |           19 | 0.0 s    |      10 |
+| skippe      |            1 | 0.0 s    |       0 |
+| skipper     |            1 | 0.0 s    |      -5 |
+
+---------------------------------------------------------------------------
+Corpus:			 kultur.in_ 
+Articles:		 6387
+Unique words:		 185476
+Avg. word/article:	 977
+Pickle time:		 0.486 s
+Index time:		 4.02 s
+Total time:		 4.506 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |           30 | 0.0 s    |      13 |
+| folkeparti  |           99 | 0.0 s    |     119 |
+| folkeparti  |           99 | 0.0 s    |     119 |
+| kjærsgaard  |           34 | 0.0 s    |      22 |
+| schmidt     |            3 | 0.0 s    |       7 |
+| skaarup     |            5 | 0.0 s    |       1 |
+| skippe      |            3 | 0.0 s    |      12 |
+| skipper     |            2 | 0.0 s    |       3 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   udland.in_ |   debat.in_ |   kultur.in_ |   Average |
+|---------------+--------------+-------------+--------------+-----------|
+|         4.615 |        3.361 |       4.423 |        4.506 |   4.22625 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM            | indland.in_   | udland.in_   | debat.in_   | kultur.in_   | Average   |
+|-----------------+---------------+--------------+-------------+--------------+-----------|
+|                 | -             | -            | -           | -            | -         |
+| folkeparti      | 866           | 866          | -           | -            | 109       |
+| aaen            | -             | -            | -           | -            | -         |
+| skippe          | 5             | 3            | 0           | 12           | 5         |
+| DF              | -             | -            | -           | -            | -         |
+| enhedslisten    | -             | -            | -           | -            | -         |
+| kjærsgaard      | 159           | 9            | 98          | 22           | 72        |
+| O               | -             | -            | -           | -            | -         |
+| thulesen        | -             | -            | -           | -            | -         |
+| enhedsliste     | 812           | 50           | 271         | 13           | 286       |
+| skipper         | -1            | -            | -5          | 3            | -1        |
+| schmidt-nielsen | -             | -            | -           | -            | -         |
+| Ø               | -             | -            | -           | -            | -         |
+| skaarup         | 88            | 0            | 10          | 1            | 24        |
+| schmidt         | 11            | 16           | 5           | 7            | 9         |
+
+
+####################################################################################################
+
+Time:		 11:51:50 13-05-2016 
+Corpora:	 1 
+Dict. size:	 344 
+Time elapsed:	 17.38 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_udland.in_debat.in_kultur.in_ 
+Articles:		 29564
+Unique words:		 405182
+Avg. word/article:	 813
+Pickle time:		 2.014 s
+Index time:		 15.268 s
+Total time:		 17.282 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          866 | 0.007 s  |    1133 |
+| folkeparti  |         1221 | 0.005 s  |    1572 |
+| folkeparti  |         1221 | 0.004 s  |    1572 |
+| kjærsgaard  |          235 | 0.001 s  |     321 |
+| schmidt     |           19 | 0.0 s    |      53 |
+| skaarup     |          118 | 0.0 s    |     108 |
+| skippe      |            9 | 0.0 s    |      19 |
+| skipper     |            5 | 0.0 s    |       0 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_udland.in_debat.in_kultur.in_ |   Average |
+|--------------------------------------------+-----------|
+|                                     17.282 |    17.282 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM            | indland.in_udland.in_debat.in_kultur.in_   | Average   |
+|-----------------+--------------------------------------------+-----------|
+|                 | -                                          | -         |
+| folkeparti      | 1572                                       | 1572      |
+| aaen            | -                                          | -         |
+| skippe          | 19                                         | 19        |
+| DF              | -                                          | -         |
+| enhedslisten    | -                                          | -         |
+| kjærsgaard      | 321                                        | 321       |
+| O               | -                                          | -         |
+| thulesen        | -                                          | -         |
+| enhedsliste     | 1133                                       | 1133      |
+| skipper         | 0                                          | 0         |
+| schmidt-nielsen | -                                          | -         |
+| Ø               | -                                          | -         |
+| skaarup         | 108                                        | 108       |
+| schmidt         | 53                                         | 53        |
+
+
+####################################################################################################
+
+Time:		 11:53:48 13-05-2016 
+Corpora:	 1 
+Dict. size:	 344 
+Time elapsed:	 19.996 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_udland.in_debat.in_kultur.in_ 
+Articles:		 29564
+Unique words:		 405182
+Avg. word/article:	 813
+Pickle time:		 2.385 s
+Index time:		 17.481 s
+Total time:		 19.866 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          866 | 0.005 s  |    1133 |
+| folkeparti  |         1221 | 0.005 s  |    1572 |
+| kjærsgaard  |          235 | 0.001 s  |     321 |
+| schmidt     |           19 | 0.0 s    |      53 |
+| skaarup     |          118 | 0.001 s  |     108 |
+| skippe      |            9 | 0.0 s    |      19 |
+| skipper     |            5 | 0.001 s  |       0 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_udland.in_debat.in_kultur.in_ |   Average |
+|--------------------------------------------+-----------|
+|                                     19.866 |    19.866 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM            | indland.in_udland.in_debat.in_kultur.in_   | Average   |
+|-----------------+--------------------------------------------+-----------|
+|                 | -                                          | -         |
+| folkeparti      | 1572                                       | 1572      |
+| aaen            | -                                          | -         |
+| skippe          | 19                                         | 19        |
+| DF              | -                                          | -         |
+| enhedslisten    | -                                          | -         |
+| kjærsgaard      | 321                                        | 321       |
+| O               | -                                          | -         |
+| thulese         | -                                          | -         |
+| thulesen        | -                                          | -         |
+| enhedsliste     | 1133                                       | 1133      |
+| skipper         | 0                                          | 0         |
+| schmidt-nielsen | -                                          | -         |
+| Ø               | -                                          | -         |
+| skaarup         | 108                                        | 108       |
+| schmidt         | 53                                         | 53        |
+| SF              | -                                          | -         |
+
+
+####################################################################################################
+
+Time:		 12:04:42 13-05-2016 
+Corpora:	 1 
+Dict. size:	 281 
+Time elapsed:	 19.542 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_udland.in_debat.in_kultur.in_ 
+Articles:		 29564
+Unique words:		 405182
+Avg. word/article:	 813
+Pickle time:		 2.152 s
+Index time:		 17.306 s
+Total time:		 19.458 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          866 | 0.003 s  |    1821 |
+| folkeparti  |         1221 | 0.004 s  |    2368 |
+| kjærsgaard  |          235 | 0.001 s  |     518 |
+| schmidt     |           19 | 0.0 s    |      69 |
+| skaarup     |          118 | 0.0 s    |     169 |
+| skippe      |            9 | 0.0 s    |      27 |
+| skipper     |            5 | 0.001 s  |      15 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_udland.in_debat.in_kultur.in_ |   Average |
+|--------------------------------------------+-----------|
+|                                     19.458 |    19.458 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM            | indland.in_udland.in_debat.in_kultur.in_   | Average   |
+|-----------------+--------------------------------------------+-----------|
+|                 | -                                          | -         |
+| folkeparti      | 2368                                       | 2368      |
+| aaen            | -                                          | -         |
+| skippe          | 27                                         | 27        |
+| DF              | -                                          | -         |
+| enhedslisten    | -                                          | -         |
+| kjærsgaard      | 518                                        | 518       |
+| O               | -                                          | -         |
+| thulese         | -                                          | -         |
+| thulesen        | -                                          | -         |
+| enhedsliste     | 1821                                       | 1821      |
+| skipper         | 15                                         | 15        |
+| schmidt-nielsen | -                                          | -         |
+| Ø               | -                                          | -         |
+| skaarup         | 169                                        | 169       |
+| schmidt         | 69                                         | 69        |
+| SF              | -                                          | -         |
+
+
+####################################################################################################
+
+Time:		 14:46:56 13-05-2016 
+Corpora:	 1 
+Dict. size:	 281 
+Time elapsed:	 23.939 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_udland.in_debat.in_kultur.in_ 
+Articles:		 29564
+Unique words:		 405182
+Avg. word/article:	 813
+Pickle time:		 2.236 s
+Index time:		 21.617 s
+Total time:		 23.853 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          866 | 0.003 s  |    1821 |
+| folkeparti  |         1221 | 0.004 s  |    2368 |
+| kjærsgaard  |          235 | 0.001 s  |     518 |
+| schmidt     |           19 | 0.0 s    |      69 |
+| skaarup     |          118 | 0.001 s  |     169 |
+| skippe      |            9 | 0.0 s    |      27 |
+| skipper     |            5 | 0.001 s  |      15 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_udland.in_debat.in_kultur.in_ |   Average |
+|--------------------------------------------+-----------|
+|                                     23.853 |    23.853 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM            | indland.in_udland.in_debat.in_kultur.in_   | Average   |
+|-----------------+--------------------------------------------+-----------|
+|                 | -                                          | -         |
+| folkeparti      | 2368                                       | 2368      |
+| aaen            | -                                          | -         |
+| skippe          | 27                                         | 27        |
+| DF              | -                                          | -         |
+| enhedslisten    | -                                          | -         |
+| kjærsgaard      | 518                                        | 518       |
+| O               | -                                          | -         |
+| thulese         | -                                          | -         |
+| thulesen        | -                                          | -         |
+| enhedsliste     | 1821                                       | 1821      |
+| skipper         | 15                                         | 15        |
+| schmidt-nielsen | -                                          | -         |
+| Ø               | -                                          | -         |
+| skaarup         | 169                                        | 169       |
+| schmidt         | 69                                         | 69        |
+| SF              | -                                          | -         |
+

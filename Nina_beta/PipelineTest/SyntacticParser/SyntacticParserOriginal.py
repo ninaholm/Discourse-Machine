@@ -13,12 +13,8 @@ class SyntacticParser(object):
 	def __init__(self):
 		self.grammar = self._import_grammar()
 		self.log = Logger()
-		self.cky_logger1 = Logger()
-		self.cky_logger2 = Logger()
-		self.cky_logger3 = Logger()
-		self.cky_logger4 = Logger()
-		self.cky_logger5 = Logger()
-		self.cky_logger6 = Logger()
+		self.cky_logger = Logger()
+		self.tree_logger = Logger()
 		self.test = False
 		self.print_all = False
 
@@ -67,32 +63,21 @@ class SyntacticParser(object):
 
 
 		# GO GO CKY ALGORITHM DO YO' THANG
-		grammar_rules = self.grammar.rules
-		for substring_length in xrange(2, sentence_length+1):
-			for substring_start in xrange(1, (sentence_length - substring_length)+2):
+		for substring_length in range(2, sentence_length+1):
+			for substring_start in range(1, (sentence_length - substring_length)+2):
 				options = []
-				for split_point in xrange(1, substring_length):
+				for split_point in range(1, substring_length):
 					b = sentence_matrix[split_point][substring_start]
 					c = sentence_matrix[substring_length - split_point][substring_start + split_point]
-					for i in xrange(len(b)):
-						self.cky_logger1.start_timer()
-						b_option_coord = [split_point, substring_start, i]
-						self.cky_logger1.stop_timer()
-						for j in xrange(len(c)):
-							self.cky_logger1.start_timer()
-							c_option_coord = [substring_length - split_point, substring_start + split_point, j]
-							self.cky_logger1.stop_timer()
-							self.cky_logger2.start_timer()
-							grammar_rule = "".join([str(b[i].constituent), str(c[j].constituent)])
-							self.cky_logger2.stop_timer()
+					for b_option in b:
+						b_option_coord = [split_point, substring_start, b.index(b_option)]
+						for c_option in c:
+							c_option_coord = [substring_length - split_point, substring_start + split_point, c.index(c_option)]
+							grammar_rule = "".join([str(b_option.constituent), str(c_option.constituent)])
 							if grammar_rule in self.grammar.rules:
 								for nonterminal in self.grammar.rules[grammar_rule]:
-									self.cky_logger3.start_timer()
-									prob = b[i].probability * c[j].probability * nonterminal.prob # Consider taking the log instead of multiplying (ONLY THIS YIELDS NEGATIVE VALUES)
-									self.cky_logger3.stop_timer()
-									self.cky_logger4.start_timer()
+									prob = b_option.probability * c_option.probability * nonterminal.prob # Consider taking the log instead of multiplying (ONLY THIS YIELDS NEGATIVE VALUES)
 									po = ParseOption(nonterminal.left_side, prob, b_option_coord, c_option_coord)
-									self.cky_logger4.stop_timer()
 									options.append(po)
 
 				options.sort(key=lambda x: x.probability, reverse=True)
@@ -155,8 +140,6 @@ class SentenceTree(object):
 				maximum = option.probability
 				index = sentence_matrix[sentence_length][1].index(option)
 
-		if index is None:
-			return None
 		# Build the tree
 		self._nid = sentence_length+2
 		root = sentence_matrix[sentence_length][1][index]

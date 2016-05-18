@@ -142,7 +142,7 @@ def getMainMeta(corpora, totalTime):
 
 	# Should be recoded to not be hardcoded to the global dict!!!
 	dictsize = 0
-	dictionary = open(os.getcwd() + "/Sentiment_classifier/sentiment_dictionaries/universal_dictionary.csv", 'r')
+	dictionary = open(os.getcwd() + "/Corpus/sentiment_dictionaries/universal_dictionary.csv", 'r')
 	for lol in dictionary:
 		dictsize += 1
 
@@ -159,7 +159,7 @@ def createLog(self):
 	picklefile.close()
 
 def fillUnfound(sentimentdict, corporaCount):
-	searchterms = open(os.getcwd() + "/TFIDF_searcher/searchterms.txt")
+	searchterms = open(os.getcwd() + "/data/searchterms.txt")
 	terms = []
 	for term in searchterms:
 		terms.append(term.strip())
