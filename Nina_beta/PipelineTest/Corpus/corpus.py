@@ -27,7 +27,7 @@ class Corpus:
 		print ">>INDEX: Word indexing started."
 		index = {}
 		articlecounts = {}
-		inputpath = os.getcwd() + "/data/lemmatiser_output"
+		inputpath = os.getcwd() + "/data/monster_output"
 
 		doccount = 0
 		totalwordcount = 0
@@ -56,7 +56,8 @@ class Corpus:
 				if len(line) < 1:
 					continue
 
-				for word in line:
+				for word in line.split(" "):
+					word = word[:word.find("/")]
 					if len(word) < 1:
 						continue
 					if word in self.sentimentdict:
@@ -89,13 +90,7 @@ class Corpus:
 
 	def search(self, searchTerm):
 		starttime = time.time()
-		print ">>SEARCHARTICLES: Search for top TF-IDF values has started."
-
-		
-		resultspath = os.getcwd() + "/TFIDF_searcher/articleresults.txt"
-
 		totaldoccount = len(self.articleIndex)
-
 		results = []
 
 		term = str(searchTerm).strip()
@@ -122,20 +117,21 @@ class Corpus:
 
 		# Sort results on their TFIDF rating, in decreasing order.
 		results = sorted(results, key=lambda result: result[1], reverse=True)
-		print ">>SEARCHARTICLES: '%s' \t %s articles." % (term, len(results))
+		print ">>SEARCHARTICLES: '%s' has %s articles (%s returned)." % (term, len(results), (len(results) / 2))
 
 		# Deletes the bottom 50% of our search results
 		results = results[0:len(results)/2]
 		self.sentimentscore = 0
 
 		# Removes TFIDF values from the remaining articles and adds up the sentimentscore
-		for x in results:
+		for i in range(len(results)):
+			x = results[i]
 			self.sentimentscore += self.articleIndex[x[0]][1]
-			x = x[0]
+			results[i] = x[0]
 
 		totalTime = round((time.time() - starttime), 3)
 
-		print ">>SEARCHARTICLES: Search has completed in %s seconds." % totalTime
+#		print ">>SEARCHARTICLES: Search has completed in %s seconds." % totalTime
 		searchLog(term, len(results), totalTime)
 		sentimentLog(term, self.sentimentscore)
 		return results
@@ -152,10 +148,10 @@ class Corpus:
 
 	def getSearchTerms(self):
 		searchterms = []
-		searchtermsfile = open(os.getcwd() + "/TFIDF_searcher/searchterms.txt", "r")
+		searchtermsfile = open(os.getcwd() + "/data/searchterms.txt", "r")
 		for term in searchtermsfile:
 			searchterms.append(str(term).strip())
-		print "SEARCHTERMS: %s" %searchterms
+		print ">>SEARCHTERMS: %s." %(" | ".join(searchterms))
 		return searchterms
 
 

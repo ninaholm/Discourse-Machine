@@ -16,11 +16,12 @@ def makeLog(totalTime):
 	sentimentdict = {}
 	timeheader = []
 	timecontent = [[]]
+	lenlimit = len(logarray[0])
 
-	log = open(os.getcwd() + "/log/log.txt", 'a')
+	log = open(os.getcwd() + "/log/logtest.txt", 'a')
 
 	for x in logarray:
-		if x[0].endswith(".in_"):
+		if len(x) == lenlimit:
 			corpora.append([x])
 			continue
 		corpora[len(corpora)-1].append(x)
@@ -33,24 +34,22 @@ def makeLog(totalTime):
 		corporaCount += 1
 		corpusmetadata = ""
 		articleNum = 0
-		corpusheader = ["TERM", "# ARTICLES", "SUBSET/SENTENCE/PARSE", "ARTICLE SCORE", "SENTENCES", "PARSESCORE"]
+		corpusheader = ["TERM", "# ARTICLES", "SEARCH", "SCORE"]
 		corpuscontent = []
 		for data in corpus: 
-			if data[0].endswith(".in_"):
-				corpusmetadata = "Corpus:\t\t\t\t\t\t %s \nArticles:\t\t\t\t\t %s\nUnique words:\t\t\t\t %s\nAvg. word/article:\t\t\t %s\nPickle time:\t\t\t\t %s s\nIndex time:\t\t\t\t\t %s s\n" %(data[0], data[1], data[2], data[3], data[4], data[5])
+			if len(data) == lenlimit:
+				corpusmetadata = "Corpus:\t\t\t %s \nArticles:\t\t %s\nUnique words:\t\t %s\nAvg. word/article:\t %s\nPickle time:\t\t %s s\nIndex time:\t\t %s s\nTotal time:\t\t %s s\n\n" %(data[0], data[1], data[2], data[3], data[4], data[5], data[6])
 				articleNum = data[1]
 				sentimentheader.append(data[0])
 				timeheader.append(data[0])
 				timecontent[0].append(data[6])
 				continue
 			term = data[0]
-			data[3] = "%s (%s)" %(round((data[3] / float(data[1])),3),data[3])
-
-			score = data[5]
+			score = data[3]
 
 			# data[1] = str(data[1])
- 			data[2] = str(data[2])
-			corpuscontent.append(data[0:8])
+ 			data[2] = str(data[2]) + " s"
+			corpuscontent.append(data[0:4])
 
 			if term in sentimentdict:
 				sentimentdict[term].append(score)
@@ -58,33 +57,7 @@ def makeLog(totalTime):
 				sentimentdict[term] = [score]
 
 		sentimentdict = padSentimentTable(sentimentdict, corporaCount)
-		# corpuscontent.sort(key=itemgetter(0))
-		totalSentenceCount = 0
-		totalParsedCount = 0
-		itCount = 0
-		parseAvg = 0
-		subsetTime = 0
-		sentenceTime = 0
-		parseTime = 0
-
-		for x in corpuscontent:
-			itCount += 1
-			parseAvg += x[5]
-			subsetTime += float(x[2])
-			sentenceTime += x[6]
-			parseTime += x[7]
-			x[2] = "%s / %s / %s s" %(x[2],x[6],x[7])
-			del x[7], x[6]
-			num = x[4]
-			totalParsedCount += int(num[num.find("(")+1:num.rfind("/")])
-			totalSentenceCount += int(num[num.find("/")+1:num.rfind(")")])
-			
-		
-		sentenceAvg = round((totalParsedCount/float(totalSentenceCount))*100,2)
-		parseAvg = round(parseAvg/float(itCount),3)
-		corpusmetadata += "Search (subset) time: \t\t %s s\nSearch (sentence) time: \t %s s\nParse time: \t\t\t\t %s s\nAvg. sentence success: \t\t %s%%\nAvg. parse score: \t\t\t %s\n\n" %(subsetTime, sentenceTime, parseTime, sentenceAvg, parseAvg)
-
-
+		corpuscontent.sort(key=itemgetter(0))
 		timetable = table(corpusheader, corpuscontent)
 		log.write("-" * 75 + "\n")
 		log.write(corpusmetadata)
@@ -119,7 +92,7 @@ def makeLog(totalTime):
 		avg = 0
 		count = 0
 		for x in scores: 
-			if type(x) != float:
+			if type(x) != int:
 				continue
 			if x == 0:
 				empty = False
@@ -131,11 +104,12 @@ def makeLog(totalTime):
 		if avg == 0:
 			scores.append("0")
 		else:
-			avg = float(avg / count)
+			avg = int(avg / count)
 			scores.append(avg)
 	sentimentheader.append("Average")
+	sentimentheader.append("") # Helps fill out the sentimenttable nicely
 	sentimentcontent = sorted(sentimentcontent, key=lambda result: sentimentcontent[1], reverse=True)
-
+	print "sentimentcontent: ", sentimentcontent
 	sentimenttable = table(sentimentheader, sentimentcontent)
 
 	log.write("+" * 90 + "\n\n")
@@ -165,15 +139,17 @@ def table(header, content):
 def getMainMeta(corpora, totalTime):
 	corpusNum = len(corpora)
 
+	divider = "#" * 100
+
 	# Should be recoded to not be hardcoded to the global dict!!!
 	dictsize = 0
-	dictionary = open(os.getcwd() + "/data/sentiment_dictionaries/information_manual_sent.csv", 'r')
+	dictionary = open(os.getcwd() + "/Corpus/sentiment_dictionaries/universal_dictionary.csv", 'r')
 	for lol in dictionary:
 		dictsize += 1
 
 	timedate = strftime("%H:%M:%S %d-%m-%Y")
 
-	mainMeta = "\n\nTime:\t\t %s \nCorpora:\t %s \nDict. size:\t %s \nTime elapsed:\t %s s\n\n" %(timedate, corpusNum, dictsize, totalTime)
+	mainMeta = "\n%s\n\nTime:\t\t %s \nCorpora:\t %s \nDict. size:\t %s \nTime elapsed:\t %s s\n\n" %(divider, timedate, corpusNum, dictsize, totalTime)
 	return mainMeta
 
 def createLog(self):
@@ -184,7 +160,7 @@ def createLog(self):
 	picklefile.close()
 
 def fillUnfound(sentimentdict, corporaCount):
-	searchterms = open(os.getcwd() + "/data/searchterms.txt")
+	searchterms = open(os.getcwd() + "/TFIDF_searcher/searchterms.txt")
 	terms = []
 	for term in searchterms:
 		terms.append(term.strip())
@@ -224,20 +200,9 @@ def logChoice(self):
 		elif userinput != "":
 			# sys.stdout.flush() # important
 			print "\r>> Logging has been enabled.\n"
-			logMessage(0)
 			return True
 		else:
 			print "Wrong input. Try again."
-
-def logMessage(self):
-	print "Enter logmessage: "
-	userinput = raw_input()
-	log = open(os.getcwd() + "/log/log.txt", 'a')
-	log.write("\n")
-	log.write("#" * 50)
-	log.write("\n\nLogmessage: " + userinput)
-	log.close()
-
 
 def indexLog(inputfile, articleNum, uWordsNum, avgWord, pickleTime, indexTime, totalTime):
 	path = os.getcwd() + "/log/tmplogarray.in"
@@ -268,7 +233,7 @@ def searchLog(term, articleNum, totalTime):
 	pickle.dump(logarray, picklefile)
 	picklefile.close()
 
-def sentimentArticleLog(term, sentiment):
+def sentimentLog(term, sentiment):
 	path = os.getcwd() + "/log/tmplogarray.in"
 	picklefile = open(path, 'rb')
 	logarray = pickle.load(picklefile)
@@ -280,35 +245,3 @@ def sentimentArticleLog(term, sentiment):
 	picklefile = open(path, 'wb')
 	pickle.dump(logarray, picklefile)
 	picklefile.close()
-
-def sentimentSentenceLog(term, sentences, sentimentscore, inputfile, sentenceTime, parseTime):
-	path = os.getcwd() + "/log/tmplogarray.in"
-	picklefile = open(path, 'rb')
-	logarray = pickle.load(picklefile)
-	picklefile.close()
-
-	inputfilestring = ""
-	for x in inputfile:
-		inputfilestring += x + "_"
-
-	foundCorpus = False
-
-	for x in range(len(logarray)):
-		
-		if logarray[x][0] == inputfilestring:
-			# print "if %s == %s" %(logarray[x][0],inputfilestring)
-			foundCorpus = True
-			continue
-		if foundCorpus:
-			# print "term if %s == %s" %(logarray[x][0],term)
-			if logarray[x][0] == term:
-				logarray[x].append(sentences)
-				logarray[x].append(sentimentscore)
-				logarray[x].append(sentenceTime)
-				logarray[x].append(parseTime)
-				break
-
-	picklefile = open(path, 'wb')
-	pickle.dump(logarray, picklefile)
-	picklefile.close()
-

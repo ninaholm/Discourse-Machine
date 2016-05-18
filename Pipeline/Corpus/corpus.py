@@ -7,7 +7,7 @@ import pickle
 import time
 import math
 import csv
-from log.logger import indexLog, searchLog, sentimentLog
+from log.logger import indexLog, searchLog, sentimentArticleLog
 
 # Takes an array of inputfilenames, which is indexed into a dictionary with words as keys and [(articleid, count)] as values. 
 # A dictionary of articles are also returned, with articleids as keys and totalwordcount as values.
@@ -133,11 +133,11 @@ class Corpus:
 
 #		print ">>SEARCHARTICLES: Search has completed in %s seconds." % totalTime
 		searchLog(term, len(results), totalTime)
-		sentimentLog(term, self.sentimentscore)
+		sentimentArticleLog(term, self.sentimentscore)
 		return results
 
 	def getSentimentDict(self):
-		dict_path = "Corpus/sentiment_dictionaries/universal_dictionary.csv"
+		dict_path = "data/sentiment_dictionaries/information_manual_sent.csv"
 		with open(dict_path, "r") as csvfile:
 			dictionary = {}
 			with open(dict_path, "r") as csvfile:

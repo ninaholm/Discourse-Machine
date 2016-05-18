@@ -7,3 +7,4 @@ Pipeline/log/*.in
 Pipeline/data/postagger_output/*.in
 Pipeline/data/monster_output/*.in
 Pipeline/test*
+Nina_beta/PipelineTest/data/*

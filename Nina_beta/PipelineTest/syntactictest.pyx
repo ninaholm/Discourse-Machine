@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import pickle
 from Grammar import *
 import sys
@@ -11,8 +13,11 @@ class SyntacticParser(object):
 	def __init__(self):
 		self.grammar = self._import_grammar()
 		self.log = Logger()
-		self.cky_logger = Logger()
-		self.tree_logger = Logger()
+		self.cky_logger1 = Logger()
+		self.cky_logger2 = Logger()
+		self.cky_logger3 = Logger()
+		self.cky_logger4 = Logger()
+		self.cky_logger5 = Logger()
 		self.test = False
 		self.print_all = False
 
@@ -25,7 +30,7 @@ class SyntacticParser(object):
 			return None
 
 	# Takes CST-tagged input string and returns a list of word:tag tuples
-	def postag_sentence(self, sentence):
+	def _postag_sentence(self, sentence):
 		split = sentence.split(" ")
 		output = []
 		for s in split:
@@ -37,75 +42,62 @@ class SyntacticParser(object):
 
 	# Takes a sentence string, runs CKY and returns the sentence matrix of said sentence.
 	def cky_parse(self, sentence):
-		
-		if self.print_all: print ">>PARSE: Starting the syntactic parsing..."
-		if self.test: print ">>PARSE: Running with test ON."
+		cdef int n, sentence_length, i
 
-		# Set variables
-		pos_sentence = self.postag_sentence(sentence)
-
-		# TESTING: REMOVE SYMBOLS AND SEE IF THAT HELPS
-		# new = []
-		# for row in pos_sentence:
-		# 	if row[1] != "TEGN":
-		# 		new.append(row)
-		# pos_sentence = new
-
-		n = len(pos_sentence)+1
+		n = len(sentence)+1
 		sentence_matrix = [[[] for x in range(n)] for y in range(n)] # Create CKY matrix
-		sentence_length = len(pos_sentence)
-		if self.print_all: print ">>LOG: Time spent POS-tagging:", self.log.time_since_last_check()
+		sentence_length = len(sentence)
 
 		# Fill out the NTs resolving to terminals
-		if self.print_all: print ">>PARSE: Now parsing the sentence \'%s\'" % (" ".join([x[0] for x in pos_sentence]))
-		if self.print_all: print "---", sentence, "---"
 		for i in range(1, sentence_length+1):
-			if pos_sentence[i-1][1] not in self.grammar.rules: # IGNORE NON-EXISTiNG TAGS
-				print ">>PARSE: Encountered illegal tag: %s. Disregarding sentence." % pos_sentence[i-1][1]
+			if sentence[i-1][1] not in self.grammar.rules: # IGNORE NON-EXISTiNG TAGS
+				print ">>PARSE: Encountered illegal tag: %s. Disregarding sentence." % sentence[i-1][1]
 				print sentence
 				return None
-			sentence_matrix[0][i].append(pos_sentence[i-1][0]) # Enter word into sentence matrix
-			for r in self.grammar.rules[pos_sentence[i-1][1]]:
+			sentence_matrix[0][i].append(sentence[i-1][0]) # Enter word into sentence matrix
+			for r in self.grammar.rules[sentence[i-1][1]]:
 				po = ParseOption(r.left_side, 1, None, None)
 				po.own_coord = [1, i]		
 				sentence_matrix[1][i].append(po)
-		if self.print_all: print ">>LOG: Time spent mapping CST to DDT:", self.log.time_since_last_check()
 
-		if self.test: self._print_matrix(sentence_matrix)
-
-		self.cky_logger.start_timer()
 
 		# GO GO CKY ALGORITHM DO YO' THANG
+		cdef int substring_length, substring_start, split_point
+		cdef float prob
+		cdef str grammar_rule
+		grammar_rules = self.grammar.rules
 		for substring_length in range(2, sentence_length+1):
 			for substring_start in range(1, (sentence_length - substring_length)+2):
 				options = []
 				for split_point in range(1, substring_length):
 					b = sentence_matrix[split_point][substring_start]
 					c = sentence_matrix[substring_length - split_point][substring_start + split_point]
-					for b_option in b:
-						for c_option in c:
-							grammar_rule = (str(b_option.constituent) + str(c_option.constituent))
-							if grammar_rule in self.grammar.rules:
-								if self.test: print "grammar rule exists: " + grammar_rule
-								for nonterminal in self.grammar.rules[grammar_rule]:
-									prob = b_option.probability * c_option.probability * nonterminal.prob # Consider taking the log instead of multiplying (ONLY THIS YIELDS NEGATIVE VALUES)
-									b_option_coord = [split_point, substring_start, b.index(b_option)]
-									c_option_coord = [substring_length - split_point, substring_start + split_point, c.index(c_option)]
+					for i in range(len(b)):
+						self.cky_logger1.start_timer()
+						b_option_coord = [split_point, substring_start, i]
+						self.cky_logger1.stop_timer()
+						for j in range(len(c)):
+							self.cky_logger1.start_timer()
+							c_option_coord = [substring_length - split_point, substring_start + split_point, j]
+							self.cky_logger1.stop_timer()
+							self.cky_logger2.start_timer()
+							grammar_rule = "".join([str(b[i].constituent), str(c[j].constituent)])
+							self.cky_logger2.stop_timer()
+							if grammar_rule in grammar_rules:
+								for nonterminal in grammar_rules[grammar_rule]:
+									self.cky_logger3.start_timer()
+									prob = b[i].probability * c[j].probability * nonterminal.prob # Consider taking the log instead of multiplying (ONLY THIS YIELDS NEGATIVE VALUES)
+									self.cky_logger3.stop_timer()
+									self.cky_logger4.start_timer()
 									po = ParseOption(nonterminal.left_side, prob, b_option_coord, c_option_coord)
+									self.cky_logger4.stop_timer()
 									options.append(po)
-									if self.test: self._print_matrix(sentence_matrix)
 
+				self.cky_logger5.start_timer()
 				options.sort(key=lambda x: x.probability, reverse=True)
 				for o in options[:200]:
 					sentence_matrix[substring_length][substring_start].append(o)
-
-		if self.print_all: print ">>LOG: Time spent running CKY:", self.log.time_since_last_check()
-		self.cky_logger.stop_timer()
-
-		if self.test:
-			print ">>PARSE: The finished CKY parse table:"
-			self._print_matrix(sentence_matrix)
-			print
+				self.cky_logger5.stop_timer()
 
 		return sentence_matrix
 
@@ -120,12 +112,13 @@ class SyntacticParser(object):
 
 	# Returns a dictionary containing the grammar used by the CKY parser
 	def _import_grammar(self):
-#		sys.modules['Grammar'] = Grammar
 		with open("SyntacticParser/grammar.in", "r") as gfile:
 			g = pickle.load(gfile)
 		return g
 
 	def build_sentence_tree(self, sentence_matrix):
+		if len(sentence_matrix[len(sentence_matrix)-1][1]) == 0:
+			return None
 		st = SentenceTree()
 		st.build_tree(sentence_matrix)
 		return st
@@ -162,8 +155,10 @@ class SentenceTree(object):
 				maximum = option.probability
 				index = sentence_matrix[sentence_length][1].index(option)
 
+		if index is None:
+			return None
 		# Build the tree
-		self._nid = sentence_length+1
+		self._nid = sentence_length+2
 		root = sentence_matrix[sentence_length][1][index]
 		self.tree.create_node(root.constituent, self._nid)
 		self._create_children(root, self._nid) # Call recursive function
@@ -192,8 +187,9 @@ class SentenceTree(object):
 				cid = self._nnid()
 				self.tree.create_node(left_child.constituent, cid, parent=pid)
 				if left_child.left_coord is None: #If left_child is a leaf node, append a word node
+					nid = parse_option.left_coord[1]-1
 					word = self.matrix[parse_option.left_coord[0]-1][parse_option.left_coord[1]][0]
-					self.tree.create_node(word, self.sentence.index(word), parent=cid)
+					self.tree.create_node(word, nid, parent=cid)
 				else:
 					self._create_children(left_child, cid) # Create children of left_child
 
@@ -201,23 +197,23 @@ class SentenceTree(object):
 				cid = self._nnid()
 				self.tree.create_node(right_child.constituent, cid, parent=pid)
 				if right_child.right_coord is None: #If left_child is a leaf node, append a word node
+					nid = parse_option.right_coord[1]-1
 					word = self.matrix[parse_option.right_coord[0]-1][parse_option.right_coord[1]][0]
-					self.tree.create_node(word, self.sentence.index(word), parent=cid)
+					self.tree.create_node(word, nid, parent=cid)
 				else:
 					self._create_children(right_child, cid) # Create children of right_child
 
 
 
 	# Returns the sentence's sentiment score
-	def get_sentiment_score(self, sentimentDict, entity):
+	def get_sentiment_score(self, sentimentDict, term):
 		total_score = 0
 
 		# placeholder dictionaries -TESTING PURPOSES
-		negationList = ["ikke"]
-		sentimentDict = {"intet":-1, "To":1}
+		negationList = ["ikke", "liden"]
 
-		# Check the entity against every sentiment word
-		n1 = self.sentence.index(entity)
+		# Check the term against every sentiment word
+		n1 = self.sentence.index(term)
 		for key in sentimentDict:
 			n2 = self._in_sentence(key)
 			if n2 is not False:
@@ -228,10 +224,10 @@ class SentenceTree(object):
 				if self._is_negated(key, negationList):
 					score = score * -1
 
-				print "Entity: %s | SentWord: %s | Distance: %s | Score: %s" % (entity, key, d,score)
+				print ">>SENTIMENTSCORE: Term: %s | SentWord: %s | Distance: %s | Score: %s" % (term, key, d,score)
 				total_score += score
 
-		print "Total score:", total_score
+		return total_score
 
 
 	# Checks whether a word is within a specified threshold distance of a negation word
@@ -289,7 +285,7 @@ class SentenceTree(object):
 
 # Object for storing all relevant information about a potential constituent within the sentence_matrix
 class ParseOption(object):
-	def __init__(self, const, prob, left, right):
+	def __init__(self, str const, float prob, left, right):
 		self.constituent = const # non-terminal to which left+right might resolve
 		self.probability = prob # probability of left+right resolving to this constituent
 		self.left_coord = left # coordinates of the first right-side nonterminal

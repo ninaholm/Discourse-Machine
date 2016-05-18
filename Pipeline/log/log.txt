@@ -1462,3 +1462,2485 @@ OVERALL SENTIMENT TABLE
 | ligeud  | -                  | -                 | -         |
 | venstre | 29                 | 10                | 19        |
 
+
+####################################################################################################
+
+Time:		 14:16:41 15-05-2016 
+Corpora:	 1 
+Dict. size:	 281 
+Time elapsed:	 12.523 s
+
+
+####################################################################################################
+
+Time:		 14:17:15 15-05-2016 
+Corpora:	 1 
+Dict. size:	 281 
+Time elapsed:	 12.583 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.223 s
+Index time:		 6.342 s
+Total time:		 7.564 s
+
+| TERM        |   # ARTICLES | SEARCH   |   SCORE |
+|-------------+--------------+----------+---------|
+| enhedsliste |          603 | 0.002 s  |    1307 |
+| folkeparti  |          713 | 0.003 s  |    1366 |
+| kjærsgaard  |          107 | 0.001 s  |     228 |
+| schmidt     |            7 | 0.0 s    |      15 |
+| skaarup     |           90 | 0.0 s    |     138 |
+| skippe      |            3 | 0.0 s    |       7 |
+| skipper     |            1 | 0.0 s    |       0 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.564 |     7.564 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|                 | TERM   | indland.in_   |
+|-----------------+--------+---------------|
+|                 | -      | -             |
+| folkeparti      | 1366   | 1366          |
+| aaen            | -      | -             |
+| skippe          | 7      | 7             |
+| DF              | -      | -             |
+| enhedslisten    | -      | -             |
+| kjærsgaard      | 228    | 228           |
+| O               | -      | -             |
+| thulese         | -      | -             |
+| thulesen        | -      | -             |
+| enhedsliste     | 1307   | 1307          |
+| skipper         | 0      | 0             |
+| schmidt-nielsen | -      | -             |
+| Ø               | -      | -             |
+| skaarup         | 138    | 138           |
+| schmidt         | 15     | 15            |
+| SF              | -      | -             |
+
+
+####################################################################################################
+
+Time:		 14:38:48 15-05-2016 
+Corpora:	 1 
+Dict. size:	 281 
+Time elapsed:	 60.755 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_udland.in_debat.in_kultur.in_ 
+Articles:		 29561
+Unique words:		 439581
+Avg. word/article:	 916
+Pickle time:		 4.972 s
+Index time:		 25.509 s
+Total time:		 30.48 s
+
+| TERM          |   # ARTICLES | SEARCH   |   SCORE |
+|---------------+--------------+----------+---------|
+| aa            |           94 | 0.0 s    |     361 |
+| blå           |          588 | 0.003 s  |    3089 |
+| df            |          562 | 0.003 s  |    1786 |
+| enhedsliste   |          878 | 0.004 s  |    3790 |
+| kjærsgaard    |          238 | 0.001 s  |     776 |
+| kommunisme    |          138 | 0.001 s  |     709 |
+| kommunistisk  |          238 | 0.001 s  |    1077 |
+| konservativ   |         1281 | 0.004 s  |    5572 |
+| liberal       |          806 | 0.005 s  |    3948 |
+| liberalistisk |           68 | 0.0 s    |     447 |
+| løkke         |          627 | 0.002 s  |    2348 |
+| marxisme      |           34 | 0.0 s    |     308 |
+| marxistisk    |           60 | 0.0 s    |     377 |
+| rød           |         1034 | 0.004 s  |    5155 |
+| sf            |         1187 | 0.004 s  |    5075 |
+| skaarup       |          120 | 0.0 s    |     383 |
+| skipper       |            4 | 0.0 s    |      20 |
+| thules        |          120 | 0.0 s    |     510 |
+| venstre       |         1681 | 0.006 s  |    6925 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_udland.in_debat.in_kultur.in_ |   Average |
+|--------------------------------------------+-----------|
+|                                      30.48 |     30.48 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM          | indland.in_udland.in_debat.in_kultur.in_   | Average   |
+|---------------+--------------------------------------------+-----------|
+| aa            | 361                                        | 361       |
+|               | -                                          | -         |
+| skaarup       | 383                                        | 383       |
+| liberal       | 3948                                       | 3948      |
+| kommunistisk  | 1077                                       | 1077      |
+| rød           | 5155                                       | 5155      |
+| df            | 1786                                       | 1786      |
+| kjærsgaard    | 776                                        | 776       |
+| liberalistisk | 447                                        | 447       |
+| løkke         | 2348                                       | 2348      |
+| konservativ   | 5572                                       | 5572      |
+| thules        | 510                                        | 510       |
+| enhedsliste   | 3790                                       | 3790      |
+| venstre       | 6925                                       | 6925      |
+| blå           | 3089                                       | 3089      |
+| kommunisme    | 709                                        | 709       |
+| marxisme      | 308                                        | 308       |
+| sf            | 5075                                       | 5075      |
+| marxistisk    | 377                                        | 377       |
+| skipper       | 20                                         | 20        |
+
+
+
+
+####################################################################################################
+
+Time:		 14:46:54 15-05-2016 
+Corpora:	 1 
+Dict. size:	 281 
+Time elapsed:	 22.859 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.305 s
+Index time:		 7.65 s
+Total time:		 8.955 s
+
+| TERM          |   # ARTICLES | SEARCH   |   RAW SCORE |   WEIGHTED |
+|---------------+--------------+----------+-------------+------------|
+| aa            |           68 | 0.0 s    |         226 |          3 |
+| blå           |          173 | 0.001 s  |         936 |          5 |
+| df            |          341 | 0.002 s  |        1058 |          3 |
+| enhedsliste   |          603 | 0.003 s  |        2682 |          4 |
+| kjærsgaard    |          107 | 0.001 s  |         340 |          3 |
+| kommunisme    |           13 | 0.0 s    |          45 |          3 |
+| kommunistisk  |           27 | 0.0 s    |          81 |          3 |
+| konservativ   |          467 | 0.003 s  |        1988 |          4 |
+| liberal       |          284 | 0.001 s  |        1383 |          4 |
+| liberalistisk |           16 | 0.0 s    |         109 |          6 |
+| løkke         |          342 | 0.003 s  |        1141 |          3 |
+| marxisme      |            4 | 0.0 s    |          26 |          6 |
+| marxistisk    |            8 | 0.0 s    |          12 |          1 |
+| rød           |          317 | 0.006 s  |        1596 |          5 |
+| sf            |          760 | 0.005 s  |        3262 |          4 |
+| skaarup       |           90 | 0.001 s  |         296 |          3 |
+| skipper       |            1 | 0.0 s    |           1 |          1 |
+| thules        |           72 | 0.0 s    |         351 |          4 |
+| venstre       |          911 | 0.01 s   |        3818 |          4 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         8.955 |     8.955 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM          | indland.in_   | Average   |
+|---------------+---------------+-----------|
+| aa            | 226           | 226       |
+|               | -             | -         |
+| skaarup       | 296           | 296       |
+| liberal       | 1383          | 1383      |
+| kommunistisk  | 81            | 81        |
+| rød           | 1596          | 1596      |
+| df            | 1058          | 1058      |
+| kjærsgaard    | 340           | 340       |
+| liberalistisk | 109           | 109       |
+| løkke         | 1141          | 1141      |
+| konservativ   | 1988          | 1988      |
+| thules        | 351           | 351       |
+| enhedsliste   | 2682          | 2682      |
+| venstre       | 3818          | 3818      |
+| blå           | 936           | 936       |
+| kommunisme    | 45            | 45        |
+| marxisme      | 26            | 26        |
+| sf            | 3262          | 3262      |
+| marxistisk    | 12            | 12        |
+| skipper       | 1             | 1         |
+
+
+####################################################################################################
+
+Time:		 14:49:39 15-05-2016 
+Corpora:	 1 
+Dict. size:	 281 
+Time elapsed:	 21.532 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.256 s
+Index time:		 6.583 s
+Total time:		 7.84 s
+
+| TERM          |   # ARTICLES | SEARCH   |   RAW SCORE |   WEIGHTED |
+|---------------+--------------+----------+-------------+------------|
+| aa            |           68 | 0.0 s    |         226 |      3.324 |
+| blå           |          173 | 0.001 s  |         936 |      5.41  |
+| df            |          341 | 0.001 s  |        1058 |      3.103 |
+| enhedsliste   |          603 | 0.002 s  |        2682 |      4.448 |
+| kjærsgaard    |          107 | 0.0 s    |         340 |      3.178 |
+| kommunisme    |           13 | 0.0 s    |          45 |      3.462 |
+| kommunistisk  |           27 | 0.0 s    |          81 |      3     |
+| konservativ   |          467 | 0.002 s  |        1988 |      4.257 |
+| liberal       |          284 | 0.001 s  |        1383 |      4.87  |
+| liberalistisk |           16 | 0.0 s    |         109 |      6.813 |
+| løkke         |          342 | 0.001 s  |        1141 |      3.336 |
+| marxisme      |            4 | 0.0 s    |          26 |      6.5   |
+| marxistisk    |            8 | 0.0 s    |          12 |      1.5   |
+| rød           |          317 | 0.002 s  |        1596 |      5.035 |
+| sf            |          760 | 0.002 s  |        3262 |      4.292 |
+| skaarup       |           90 | 0.0 s    |         296 |      3.289 |
+| skipper       |            1 | 0.0 s    |           1 |      1     |
+| thules        |           72 | 0.0 s    |         351 |      4.875 |
+| venstre       |          911 | 0.004 s  |        3818 |      4.191 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|          7.84 |      7.84 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM          | indland.in_   | Average   |
+|---------------+---------------+-----------|
+| aa            | 226           | 226       |
+|               | -             | -         |
+| skaarup       | 296           | 296       |
+| liberal       | 1383          | 1383      |
+| kommunistisk  | 81            | 81        |
+| rød           | 1596          | 1596      |
+| df            | 1058          | 1058      |
+| kjærsgaard    | 340           | 340       |
+| liberalistisk | 109           | 109       |
+| løkke         | 1141          | 1141      |
+| konservativ   | 1988          | 1988      |
+| thules        | 351           | 351       |
+| enhedsliste   | 2682          | 2682      |
+| venstre       | 3818          | 3818      |
+| blå           | 936           | 936       |
+| kommunisme    | 45            | 45        |
+| marxisme      | 26            | 26        |
+| sf            | 3262          | 3262      |
+| marxistisk    | 12            | 12        |
+| skipper       | 1             | 1         |
+
+Hej med ig. Vi tester lige.
+####################################################################################################
+
+Time:		 14:55:27 15-05-2016 
+Corpora:	 1 
+Dict. size:	 281 
+Time elapsed:	 21.082 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.283 s
+Index time:		 6.65 s
+Total time:		 7.933 s
+
+| TERM          |   # ARTICLES | SEARCH   |   RAW SCORE |   WEIGHTED |
+|---------------+--------------+----------+-------------+------------|
+| aa            |           68 | 0.0 s    |         226 |      3.324 |
+| blå           |          173 | 0.001 s  |         936 |      5.41  |
+| df            |          341 | 0.001 s  |        1058 |      3.103 |
+| enhedsliste   |          603 | 0.004 s  |        2682 |      4.448 |
+| kjærsgaard    |          107 | 0.001 s  |         340 |      3.178 |
+| kommunisme    |           13 | 0.0 s    |          45 |      3.462 |
+| kommunistisk  |           27 | 0.0 s    |          81 |      3     |
+| konservativ   |          467 | 0.002 s  |        1988 |      4.257 |
+| liberal       |          284 | 0.001 s  |        1383 |      4.87  |
+| liberalistisk |           16 | 0.0 s    |         109 |      6.813 |
+| løkke         |          342 | 0.001 s  |        1141 |      3.336 |
+| marxisme      |            4 | 0.0 s    |          26 |      6.5   |
+| marxistisk    |            8 | 0.0 s    |          12 |      1.5   |
+| rød           |          317 | 0.001 s  |        1596 |      5.035 |
+| sf            |          760 | 0.004 s  |        3262 |      4.292 |
+| skaarup       |           90 | 0.0 s    |         296 |      3.289 |
+| skipper       |            1 | 0.0 s    |           1 |      1     |
+| thules        |           72 | 0.0 s    |         351 |      4.875 |
+| venstre       |          911 | 0.007 s  |        3818 |      4.191 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.933 |     7.933 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM          | indland.in_   | Average   |
+|---------------+---------------+-----------|
+| aa            | 226           | 226       |
+|               | -             | -         |
+| skaarup       | 296           | 296       |
+| liberal       | 1383          | 1383      |
+| kommunistisk  | 81            | 81        |
+| rød           | 1596          | 1596      |
+| df            | 1058          | 1058      |
+| kjærsgaard    | 340           | 340       |
+| liberalistisk | 109           | 109       |
+| løkke         | 1141          | 1141      |
+| konservativ   | 1988          | 1988      |
+| thules        | 351           | 351       |
+| enhedsliste   | 2682          | 2682      |
+| venstre       | 3818          | 3818      |
+| blå           | 936           | 936       |
+| kommunisme    | 45            | 45        |
+| marxisme      | 26            | 26        |
+| sf            | 3262          | 3262      |
+| marxistisk    | 12            | 12        |
+| skipper       | 1             | 1         |
+
+
+##################################################
+
+Logmessage: VI TESTER LIGE DET HELEEE
+##################################################
+
+Logmessage: TEEEST 3
+
+Time:		 14:59:09 15-05-2016 
+Corpora:	 1 
+Dict. size:	 281 
+Time elapsed:	 22.845 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.287 s
+Index time:		 8.374 s
+Total time:		 9.66 s
+
+| TERM          |   # ARTICLES | SEARCH   |   RAW SCORE |   WEIGHTED |
+|---------------+--------------+----------+-------------+------------|
+| aa            |           68 | 0.0 s    |         226 |      3.324 |
+| blå           |          173 | 0.001 s  |         936 |      5.41  |
+| df            |          341 | 0.002 s  |        1058 |      3.103 |
+| enhedsliste   |          603 | 0.002 s  |        2682 |      4.448 |
+| kjærsgaard    |          107 | 0.001 s  |         340 |      3.178 |
+| kommunisme    |           13 | 0.0 s    |          45 |      3.462 |
+| kommunistisk  |           27 | 0.0 s    |          81 |      3     |
+| konservativ   |          467 | 0.002 s  |        1988 |      4.257 |
+| liberal       |          284 | 0.001 s  |        1383 |      4.87  |
+| liberalistisk |           16 | 0.0 s    |         109 |      6.813 |
+| løkke         |          342 | 0.001 s  |        1141 |      3.336 |
+| marxisme      |            4 | 0.0 s    |          26 |      6.5   |
+| marxistisk    |            8 | 0.0 s    |          12 |      1.5   |
+| rød           |          317 | 0.001 s  |        1596 |      5.035 |
+| sf            |          760 | 0.004 s  |        3262 |      4.292 |
+| skaarup       |           90 | 0.001 s  |         296 |      3.289 |
+| skipper       |            1 | 0.0 s    |           1 |      1     |
+| thules        |           72 | 0.001 s  |         351 |      4.875 |
+| venstre       |          911 | 0.003 s  |        3818 |      4.191 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|          9.66 |      9.66 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM          | indland.in_   | Average   |
+|---------------+---------------+-----------|
+| aa            | 226           | 226       |
+|               | -             | -         |
+| skaarup       | 296           | 296       |
+| liberal       | 1383          | 1383      |
+| kommunistisk  | 81            | 81        |
+| rød           | 1596          | 1596      |
+| df            | 1058          | 1058      |
+| kjærsgaard    | 340           | 340       |
+| liberalistisk | 109           | 109       |
+| løkke         | 1141          | 1141      |
+| konservativ   | 1988          | 1988      |
+| thules        | 351           | 351       |
+| enhedsliste   | 2682          | 2682      |
+| venstre       | 3818          | 3818      |
+| blå           | 936           | 936       |
+| kommunisme    | 45            | 45        |
+| marxisme      | 26            | 26        |
+| sf            | 3262          | 3262      |
+| marxistisk    | 12            | 12        |
+| skipper       | 1             | 1         |
+
+
+##################################################
+
+Logmessage: Tester corpus table
+##################################################
+
+Logmessage: Tester corpustable 2
+
+Time:		 15:34:58 15-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 21.223 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.252 s
+Index time:		 6.953 s
+Total time:		 8.206 s
+
+|               |   TERM | # ARTICLES   |   SEARCH | ARTICLE SCORE   | SENTENCES   | AVG. PARSESCORE   |
+|---------------+--------+--------------+----------+-----------------+-------------+-------------------|
+| aa            |     68 | 0.0 s        |      226 | 3.324 (226)     | SENTENCES   | PARSESCORE        |
+| blå           |    173 | 0.001 s      |      936 | 5.41 (936)      | SENTENCES   | PARSESCORE        |
+| df            |    341 | 0.002 s      |     1058 | 3.103 (1058)    | SENTENCES   | PARSESCORE        |
+| enhedsliste   |    603 | 0.002 s      |     2682 | 4.448 (2682)    | SENTENCES   | PARSESCORE        |
+| kjærsgaard    |    107 | 0.0 s        |      340 | 3.178 (340)     | SENTENCES   | PARSESCORE        |
+| kommunisme    |     13 | 0.0 s        |       45 | 3.462 (45)      | SENTENCES   | PARSESCORE        |
+| kommunistisk  |     27 | 0.0 s        |       81 | 3.0 (81)        | SENTENCES   | PARSESCORE        |
+| konservativ   |    467 | 0.002 s      |     1988 | 4.257 (1988)    | SENTENCES   | PARSESCORE        |
+| liberal       |    284 | 0.001 s      |     1383 | 4.87 (1383)     | SENTENCES   | PARSESCORE        |
+| liberalistisk |     16 | 0.0 s        |      109 | 6.813 (109)     | SENTENCES   | PARSESCORE        |
+| løkke         |    342 | 0.001 s      |     1141 | 3.336 (1141)    | SENTENCES   | PARSESCORE        |
+| marxisme      |      4 | 0.0 s        |       26 | 6.5 (26)        | SENTENCES   | PARSESCORE        |
+| marxistisk    |      8 | 0.0 s        |       12 | 1.5 (12)        | SENTENCES   | PARSESCORE        |
+| rød           |    317 | 0.001 s      |     1596 | 5.035 (1596)    | SENTENCES   | PARSESCORE        |
+| sf            |    760 | 0.003 s      |     3262 | 4.292 (3262)    | SENTENCES   | PARSESCORE        |
+| skaarup       |     90 | 0.001 s      |      296 | 3.289 (296)     | SENTENCES   | PARSESCORE        |
+| skipper       |      1 | 0.0 s        |        1 | 1.0 (1)         | SENTENCES   | PARSESCORE        |
+| thules        |     72 | 0.0 s        |      351 | 4.875 (351)     | SENTENCES   | PARSESCORE        |
+| venstre       |    911 | 0.003 s      |     3818 | 4.191 (3818)    | SENTENCES   | PARSESCORE        |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         8.206 |     8.206 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM          | indland.in_   | Average   |
+|---------------+---------------+-----------|
+| aa            | 226           | 226       |
+|               | -             | -         |
+| skaarup       | 296           | 296       |
+| liberal       | 1383          | 1383      |
+| kommunistisk  | 81            | 81        |
+| rød           | 1596          | 1596      |
+| df            | 1058          | 1058      |
+| kjærsgaard    | 340           | 340       |
+| liberalistisk | 109           | 109       |
+| løkke         | 1141          | 1141      |
+| konservativ   | 1988          | 1988      |
+| thules        | 351           | 351       |
+| enhedsliste   | 2682          | 2682      |
+| venstre       | 3818          | 3818      |
+| blå           | 936           | 936       |
+| kommunisme    | 45            | 45        |
+| marxisme      | 26            | 26        |
+| sf            | 3262          | 3262      |
+| marxistisk    | 12            | 12        |
+| skipper       | 1             | 1         |
+
+
+##################################################
+
+Logmessage: Tester corpustable 3
+
+Time:		 15:38:18 15-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 21.072 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.443 s
+Index time:		 6.647 s
+Total time:		 8.09 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES   | AVG. PARSESCORE   |
+|---------------+--------------+----------+-----------------+-------------+-------------------|
+| aa            |           68 | 0.0 s    | 3.324 (226)     | SENTENCES   | PARSESCORE        |
+| blå           |          173 | 0.001 s  | 5.41 (936)      | SENTENCES   | PARSESCORE        |
+| df            |          341 | 0.001 s  | 3.103 (1058)    | SENTENCES   | PARSESCORE        |
+| enhedsliste   |          603 | 0.004 s  | 4.448 (2682)    | SENTENCES   | PARSESCORE        |
+| kjærsgaard    |          107 | 0.0 s    | 3.178 (340)     | SENTENCES   | PARSESCORE        |
+| kommunisme    |           13 | 0.0 s    | 3.462 (45)      | SENTENCES   | PARSESCORE        |
+| kommunistisk  |           27 | 0.0 s    | 3.0 (81)        | SENTENCES   | PARSESCORE        |
+| konservativ   |          467 | 0.001 s  | 4.257 (1988)    | SENTENCES   | PARSESCORE        |
+| liberal       |          284 | 0.001 s  | 4.87 (1383)     | SENTENCES   | PARSESCORE        |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | SENTENCES   | PARSESCORE        |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | SENTENCES   | PARSESCORE        |
+| marxisme      |            4 | 0.0 s    | 6.5 (26)        | SENTENCES   | PARSESCORE        |
+| marxistisk    |            8 | 0.0 s    | 1.5 (12)        | SENTENCES   | PARSESCORE        |
+| rød           |          317 | 0.001 s  | 5.035 (1596)    | SENTENCES   | PARSESCORE        |
+| sf            |          760 | 0.003 s  | 4.292 (3262)    | SENTENCES   | PARSESCORE        |
+| skaarup       |           90 | 0.0 s    | 3.289 (296)     | SENTENCES   | PARSESCORE        |
+| skipper       |            1 | 0.0 s    | 1.0 (1)         | SENTENCES   | PARSESCORE        |
+| thules        |           72 | 0.0 s    | 4.875 (351)     | SENTENCES   | PARSESCORE        |
+| venstre       |          911 | 0.004 s  | 4.191 (3818)    | SENTENCES   | PARSESCORE        |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|          8.09 |      8.09 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| aa            | 3.324 (226)  | -             |         0 |
+|               | -            | -             |         0 |
+| skaarup       | 3.289 (296)  | -             |         0 |
+| liberal       | 4.87 (1383)  | -             |         0 |
+| kommunistisk  | 3.0 (81)     | -             |         0 |
+| rød           | 5.035 (1596) | -             |         0 |
+| df            | 3.103 (1058) | -             |         0 |
+| kjærsgaard    | 3.178 (340)  | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+| løkke         | 3.336 (1141) | -             |         0 |
+| konservativ   | 4.257 (1988) | -             |         0 |
+| thules        | 4.875 (351)  | -             |         0 |
+| enhedsliste   | 4.448 (2682) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| blå           | 5.41 (936)   | -             |         0 |
+| kommunisme    | 3.462 (45)   | -             |         0 |
+| marxisme      | 6.5 (26)     | -             |         0 |
+| sf            | 4.292 (3262) | -             |         0 |
+| marxistisk    | 1.5 (12)     | -             |         0 |
+| skipper       | 1.0 (1)      | -             |         0 |
+
+
+##################################################
+
+Logmessage: fdsf
+
+Time:		 15:40:34 15-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 21.172 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.318 s
+Index time:		 6.846 s
+Total time:		 8.164 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES   | AVG. PARSESCORE   |
+|---------------+--------------+----------+-----------------+-------------+-------------------|
+| aa            |           68 | 0.0 s    | 3.324 (226)     | SENTENCES   | PARSESCORE        |
+| blå           |          173 | 0.001 s  | 5.41 (936)      | SENTENCES   | PARSESCORE        |
+| df            |          341 | 0.001 s  | 3.103 (1058)    | SENTENCES   | PARSESCORE        |
+| enhedsliste   |          603 | 0.002 s  | 4.448 (2682)    | SENTENCES   | PARSESCORE        |
+| kjærsgaard    |          107 | 0.001 s  | 3.178 (340)     | SENTENCES   | PARSESCORE        |
+| kommunisme    |           13 | 0.0 s    | 3.462 (45)      | SENTENCES   | PARSESCORE        |
+| kommunistisk  |           27 | 0.0 s    | 3.0 (81)        | SENTENCES   | PARSESCORE        |
+| konservativ   |          467 | 0.003 s  | 4.257 (1988)    | SENTENCES   | PARSESCORE        |
+| liberal       |          284 | 0.001 s  | 4.87 (1383)     | SENTENCES   | PARSESCORE        |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | SENTENCES   | PARSESCORE        |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | SENTENCES   | PARSESCORE        |
+| marxisme      |            4 | 0.0 s    | 6.5 (26)        | SENTENCES   | PARSESCORE        |
+| marxistisk    |            8 | 0.0 s    | 1.5 (12)        | SENTENCES   | PARSESCORE        |
+| rød           |          317 | 0.001 s  | 5.035 (1596)    | SENTENCES   | PARSESCORE        |
+| sf            |          760 | 0.003 s  | 4.292 (3262)    | SENTENCES   | PARSESCORE        |
+| skaarup       |           90 | 0.0 s    | 3.289 (296)     | SENTENCES   | PARSESCORE        |
+| skipper       |            1 | 0.0 s    | 1.0 (1)         | SENTENCES   | PARSESCORE        |
+| thules        |           72 | 0.0 s    | 4.875 (351)     | SENTENCES   | PARSESCORE        |
+| venstre       |          911 | 0.003 s  | 4.191 (3818)    | SENTENCES   | PARSESCORE        |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         8.164 |     8.164 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| aa            | 3.324 (226)  | -             |         0 |
+|               | -            | -             |         0 |
+| skaarup       | 3.289 (296)  | -             |         0 |
+| liberal       | 4.87 (1383)  | -             |         0 |
+| kommunistisk  | 3.0 (81)     | -             |         0 |
+| rød           | 5.035 (1596) | -             |         0 |
+| df            | 3.103 (1058) | -             |         0 |
+| kjærsgaard    | 3.178 (340)  | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+| løkke         | 3.336 (1141) | -             |         0 |
+| konservativ   | 4.257 (1988) | -             |         0 |
+| thules        | 4.875 (351)  | -             |         0 |
+| enhedsliste   | 4.448 (2682) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| blå           | 5.41 (936)   | -             |         0 |
+| kommunisme    | 3.462 (45)   | -             |         0 |
+| marxisme      | 6.5 (26)     | -             |         0 |
+| sf            | 4.292 (3262) | -             |         0 |
+| marxistisk    | 1.5 (12)     | -             |         0 |
+| skipper       | 1.0 (1)      | -             |         0 |
+
+
+##################################################
+
+Logmessage: Tester sentimentSentenceLog
+
+Time:		 15:52:44 15-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 21.088 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.239 s
+Index time:		 6.593 s
+Total time:		 7.832 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES   |
+|---------------+--------------+----------+-----------------+-------------|
+| aa            |           68 | 0.0 s    | 3.324 (226)     | PARSESCORE  |
+| blå           |          173 | 0.001 s  | 5.41 (936)      | PARSESCORE  |
+| df            |          341 | 0.001 s  | 3.103 (1058)    | PARSESCORE  |
+| enhedsliste   |          603 | 0.003 s  | 4.448 (2682)    | PARSESCORE  |
+| kjærsgaard    |          107 | 0.0 s    | 3.178 (340)     | PARSESCORE  |
+| kommunisme    |           13 | 0.0 s    | 3.462 (45)      | PARSESCORE  |
+| kommunistisk  |           27 | 0.0 s    | 3.0 (81)        | PARSESCORE  |
+| konservativ   |          467 | 0.001 s  | 4.257 (1988)    | PARSESCORE  |
+| liberal       |          284 | 0.001 s  | 4.87 (1383)     | PARSESCORE  |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | PARSESCORE  |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | PARSESCORE  |
+| marxisme      |            4 | 0.0 s    | 6.5 (26)        | PARSESCORE  |
+| marxistisk    |            8 | 0.0 s    | 1.5 (12)        | PARSESCORE  |
+| rød           |          317 | 0.001 s  | 5.035 (1596)    | PARSESCORE  |
+| sf            |          760 | 0.002 s  | 4.292 (3262)    | PARSESCORE  |
+| skaarup       |           90 | 0.0 s    | 3.289 (296)     | PARSESCORE  |
+| skipper       |            1 | 0.0 s    | 1.0 (1)         | PARSESCORE  |
+| thules        |           72 | 0.0 s    | 4.875 (351)     | PARSESCORE  |
+| venstre       |          911 | 0.003 s  | 4.191 (3818)    | PARSESCORE  |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.832 |     7.832 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| aa            | 3.324 (226)  | -             |         0 |
+|               | -            | -             |         0 |
+| skaarup       | 3.289 (296)  | -             |         0 |
+| liberal       | 4.87 (1383)  | -             |         0 |
+| kommunistisk  | 3.0 (81)     | -             |         0 |
+| rød           | 5.035 (1596) | -             |         0 |
+| df            | 3.103 (1058) | -             |         0 |
+| kjærsgaard    | 3.178 (340)  | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+| løkke         | 3.336 (1141) | -             |         0 |
+| konservativ   | 4.257 (1988) | -             |         0 |
+| thules        | 4.875 (351)  | -             |         0 |
+| enhedsliste   | 4.448 (2682) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| blå           | 5.41 (936)   | -             |         0 |
+| kommunisme    | 3.462 (45)   | -             |         0 |
+| marxisme      | 6.5 (26)     | -             |         0 |
+| sf            | 4.292 (3262) | -             |         0 |
+| marxistisk    | 1.5 (12)     | -             |         0 |
+| skipper       | 1.0 (1)      | -             |         0 |
+
+
+##################################################
+
+Logmessage: Tester igen
+
+Time:		 15:54:30 15-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 20.688 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.251 s
+Index time:		 6.491 s
+Total time:		 7.741 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES   |
+|---------------+--------------+----------+-----------------+-------------|
+| aa            |           68 | 0.0 s    | 3.324 (226)     | PARSESCORE  |
+| blå           |          173 | 0.001 s  | 5.41 (936)      | PARSESCORE  |
+| df            |          341 | 0.001 s  | 3.103 (1058)    | PARSESCORE  |
+| enhedsliste   |          603 | 0.002 s  | 4.448 (2682)    | PARSESCORE  |
+| kjærsgaard    |          107 | 0.0 s    | 3.178 (340)     | PARSESCORE  |
+| kommunisme    |           13 | 0.0 s    | 3.462 (45)      | PARSESCORE  |
+| kommunistisk  |           27 | 0.0 s    | 3.0 (81)        | PARSESCORE  |
+| konservativ   |          467 | 0.001 s  | 4.257 (1988)    | PARSESCORE  |
+| liberal       |          284 | 0.002 s  | 4.87 (1383)     | PARSESCORE  |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | PARSESCORE  |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | PARSESCORE  |
+| marxisme      |            4 | 0.0 s    | 6.5 (26)        | PARSESCORE  |
+| marxistisk    |            8 | 0.0 s    | 1.5 (12)        | PARSESCORE  |
+| rød           |          317 | 0.001 s  | 5.035 (1596)    | PARSESCORE  |
+| sf            |          760 | 0.003 s  | 4.292 (3262)    | PARSESCORE  |
+| skaarup       |           90 | 0.0 s    | 3.289 (296)     | PARSESCORE  |
+| skipper       |            1 | 0.0 s    | 1.0 (1)         | PARSESCORE  |
+| thules        |           72 | 0.0 s    | 4.875 (351)     | PARSESCORE  |
+| venstre       |          911 | 0.003 s  | 4.191 (3818)    | PARSESCORE  |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.741 |     7.741 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| aa            | 3.324 (226)  | -             |         0 |
+|               | -            | -             |         0 |
+| skaarup       | 3.289 (296)  | -             |         0 |
+| liberal       | 4.87 (1383)  | -             |         0 |
+| kommunistisk  | 3.0 (81)     | -             |         0 |
+| rød           | 5.035 (1596) | -             |         0 |
+| df            | 3.103 (1058) | -             |         0 |
+| kjærsgaard    | 3.178 (340)  | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+| løkke         | 3.336 (1141) | -             |         0 |
+| konservativ   | 4.257 (1988) | -             |         0 |
+| thules        | 4.875 (351)  | -             |         0 |
+| enhedsliste   | 4.448 (2682) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| blå           | 5.41 (936)   | -             |         0 |
+| kommunisme    | 3.462 (45)   | -             |         0 |
+| marxisme      | 6.5 (26)     | -             |         0 |
+| sf            | 4.292 (3262) | -             |         0 |
+| marxistisk    | 1.5 (12)     | -             |         0 |
+| skipper       | 1.0 (1)      | -             |         0 |
+
+
+##################################################
+
+Logmessage: f
+##################################################
+
+Logmessage: 
+##################################################
+
+Logmessage: 
+
+Time:		 15:57:39 15-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 20.785 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.248 s
+Index time:		 6.57 s
+Total time:		 7.819 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES   |
+|---------------+--------------+----------+-----------------+-------------|
+| aa            |           68 | 0.0 s    | 3.324 (226)     | PARSESCORE  |
+| blå           |          173 | 0.001 s  | 5.41 (936)      | PARSESCORE  |
+| df            |          341 | 0.001 s  | 3.103 (1058)    | PARSESCORE  |
+| enhedsliste   |          603 | 0.002 s  | 4.448 (2682)    | PARSESCORE  |
+| kjærsgaard    |          107 | 0.0 s    | 3.178 (340)     | PARSESCORE  |
+| kommunisme    |           13 | 0.0 s    | 3.462 (45)      | PARSESCORE  |
+| kommunistisk  |           27 | 0.0 s    | 3.0 (81)        | PARSESCORE  |
+| konservativ   |          467 | 0.001 s  | 4.257 (1988)    | PARSESCORE  |
+| liberal       |          284 | 0.001 s  | 4.87 (1383)     | PARSESCORE  |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | PARSESCORE  |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | PARSESCORE  |
+| marxisme      |            4 | 0.0 s    | 6.5 (26)        | PARSESCORE  |
+| marxistisk    |            8 | 0.0 s    | 1.5 (12)        | PARSESCORE  |
+| rød           |          317 | 0.001 s  | 5.035 (1596)    | PARSESCORE  |
+| sf            |          760 | 0.002 s  | 4.292 (3262)    | PARSESCORE  |
+| skaarup       |           90 | 0.0 s    | 3.289 (296)     | PARSESCORE  |
+| skipper       |            1 | 0.0 s    | 1.0 (1)         | PARSESCORE  |
+| thules        |           72 | 0.0 s    | 4.875 (351)     | PARSESCORE  |
+| venstre       |          911 | 0.003 s  | 4.191 (3818)    | PARSESCORE  |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.819 |     7.819 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| aa            | 3.324 (226)  | -             |         0 |
+|               | -            | -             |         0 |
+| skaarup       | 3.289 (296)  | -             |         0 |
+| liberal       | 4.87 (1383)  | -             |         0 |
+| kommunistisk  | 3.0 (81)     | -             |         0 |
+| rød           | 5.035 (1596) | -             |         0 |
+| df            | 3.103 (1058) | -             |         0 |
+| kjærsgaard    | 3.178 (340)  | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+| løkke         | 3.336 (1141) | -             |         0 |
+| konservativ   | 4.257 (1988) | -             |         0 |
+| thules        | 4.875 (351)  | -             |         0 |
+| enhedsliste   | 4.448 (2682) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| blå           | 5.41 (936)   | -             |         0 |
+| kommunisme    | 3.462 (45)   | -             |         0 |
+| marxisme      | 6.5 (26)     | -             |         0 |
+| sf            | 4.292 (3262) | -             |         0 |
+| marxistisk    | 1.5 (12)     | -             |         0 |
+| skipper       | 1.0 (1)      | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 15:59:40 15-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 20.888 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.25 s
+Index time:		 6.688 s
+Total time:		 7.938 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES   |
+|---------------+--------------+----------+-----------------+-------------|
+| aa            |           68 | 0.0 s    | 3.324 (226)     | PARSESCORE  |
+| blå           |          173 | 0.001 s  | 5.41 (936)      | PARSESCORE  |
+| df            |          341 | 0.001 s  | 3.103 (1058)    | PARSESCORE  |
+| enhedsliste   |          603 | 0.002 s  | 4.448 (2682)    | PARSESCORE  |
+| kjærsgaard    |          107 | 0.0 s    | 3.178 (340)     | PARSESCORE  |
+| kommunisme    |           13 | 0.0 s    | 3.462 (45)      | PARSESCORE  |
+| kommunistisk  |           27 | 0.0 s    | 3.0 (81)        | PARSESCORE  |
+| konservativ   |          467 | 0.001 s  | 4.257 (1988)    | PARSESCORE  |
+| liberal       |          284 | 0.001 s  | 4.87 (1383)     | PARSESCORE  |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | PARSESCORE  |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | PARSESCORE  |
+| marxisme      |            4 | 0.0 s    | 6.5 (26)        | PARSESCORE  |
+| marxistisk    |            8 | 0.0 s    | 1.5 (12)        | PARSESCORE  |
+| rød           |          317 | 0.001 s  | 5.035 (1596)    | PARSESCORE  |
+| sf            |          760 | 0.003 s  | 4.292 (3262)    | PARSESCORE  |
+| skaarup       |           90 | 0.0 s    | 3.289 (296)     | PARSESCORE  |
+| skipper       |            1 | 0.0 s    | 1.0 (1)         | PARSESCORE  |
+| thules        |           72 | 0.0 s    | 4.875 (351)     | PARSESCORE  |
+| venstre       |          911 | 0.003 s  | 4.191 (3818)    | PARSESCORE  |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.938 |     7.938 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| aa            | 3.324 (226)  | -             |         0 |
+|               | -            | -             |         0 |
+| skaarup       | 3.289 (296)  | -             |         0 |
+| liberal       | 4.87 (1383)  | -             |         0 |
+| kommunistisk  | 3.0 (81)     | -             |         0 |
+| rød           | 5.035 (1596) | -             |         0 |
+| df            | 3.103 (1058) | -             |         0 |
+| kjærsgaard    | 3.178 (340)  | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+| løkke         | 3.336 (1141) | -             |         0 |
+| konservativ   | 4.257 (1988) | -             |         0 |
+| thules        | 4.875 (351)  | -             |         0 |
+| enhedsliste   | 4.448 (2682) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| blå           | 5.41 (936)   | -             |         0 |
+| kommunisme    | 3.462 (45)   | -             |         0 |
+| marxisme      | 6.5 (26)     | -             |         0 |
+| sf            | 4.292 (3262) | -             |         0 |
+| marxistisk    | 1.5 (12)     | -             |         0 |
+| skipper       | 1.0 (1)      | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 16:00:50 15-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 20.947 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.262 s
+Index time:		 6.692 s
+Total time:		 7.954 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES   |
+|---------------+--------------+----------+-----------------+-------------|
+| aa            |           68 | 0.0 s    | 3.324 (226)     | PARSESCORE  |
+| blå           |          173 | 0.001 s  | 5.41 (936)      | PARSESCORE  |
+| df            |          341 | 0.001 s  | 3.103 (1058)    | PARSESCORE  |
+| enhedsliste   |          603 | 0.003 s  | 4.448 (2682)    | PARSESCORE  |
+| kjærsgaard    |          107 | 0.001 s  | 3.178 (340)     | PARSESCORE  |
+| kommunisme    |           13 | 0.0 s    | 3.462 (45)      | PARSESCORE  |
+| kommunistisk  |           27 | 0.0 s    | 3.0 (81)        | PARSESCORE  |
+| konservativ   |          467 | 0.001 s  | 4.257 (1988)    | PARSESCORE  |
+| liberal       |          284 | 0.001 s  | 4.87 (1383)     | PARSESCORE  |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | PARSESCORE  |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | PARSESCORE  |
+| marxisme      |            4 | 0.0 s    | 6.5 (26)        | PARSESCORE  |
+| marxistisk    |            8 | 0.0 s    | 1.5 (12)        | PARSESCORE  |
+| rød           |          317 | 0.001 s  | 5.035 (1596)    | PARSESCORE  |
+| sf            |          760 | 0.003 s  | 4.292 (3262)    | PARSESCORE  |
+| skaarup       |           90 | 0.0 s    | 3.289 (296)     | PARSESCORE  |
+| skipper       |            1 | 0.0 s    | 1.0 (1)         | PARSESCORE  |
+| thules        |           72 | 0.0 s    | 4.875 (351)     | PARSESCORE  |
+| venstre       |          911 | 0.003 s  | 4.191 (3818)    | PARSESCORE  |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.954 |     7.954 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| aa            | 3.324 (226)  | -             |         0 |
+|               | -            | -             |         0 |
+| skaarup       | 3.289 (296)  | -             |         0 |
+| liberal       | 4.87 (1383)  | -             |         0 |
+| kommunistisk  | 3.0 (81)     | -             |         0 |
+| rød           | 5.035 (1596) | -             |         0 |
+| df            | 3.103 (1058) | -             |         0 |
+| kjærsgaard    | 3.178 (340)  | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+| løkke         | 3.336 (1141) | -             |         0 |
+| konservativ   | 4.257 (1988) | -             |         0 |
+| thules        | 4.875 (351)  | -             |         0 |
+| enhedsliste   | 4.448 (2682) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| blå           | 5.41 (936)   | -             |         0 |
+| kommunisme    | 3.462 (45)   | -             |         0 |
+| marxisme      | 6.5 (26)     | -             |         0 |
+| sf            | 4.292 (3262) | -             |         0 |
+| marxistisk    | 1.5 (12)     | -             |         0 |
+| skipper       | 1.0 (1)      | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+##################################################
+
+Logmessage: 
+
+Time:		 16:04:37 15-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 24.172 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.268 s
+Index time:		 7.243 s
+Total time:		 8.511 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES   |
+|---------------+--------------+----------+-----------------+-------------|
+| aa            |           68 | 0.0 s    | 3.324 (226)     | PARSESCORE  |
+| blå           |          173 | 0.001 s  | 5.41 (936)      | PARSESCORE  |
+| df            |          341 | 0.002 s  | 3.103 (1058)    | PARSESCORE  |
+| enhedsliste   |          603 | 0.002 s  | 4.448 (2682)    | PARSESCORE  |
+| kjærsgaard    |          107 | 0.0 s    | 3.178 (340)     | PARSESCORE  |
+| kommunisme    |           13 | 0.0 s    | 3.462 (45)      | PARSESCORE  |
+| kommunistisk  |           27 | 0.0 s    | 3.0 (81)        | PARSESCORE  |
+| konservativ   |          467 | 0.002 s  | 4.257 (1988)    | PARSESCORE  |
+| liberal       |          284 | 0.001 s  | 4.87 (1383)     | PARSESCORE  |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | PARSESCORE  |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | PARSESCORE  |
+| marxisme      |            4 | 0.0 s    | 6.5 (26)        | PARSESCORE  |
+| marxistisk    |            8 | 0.0 s    | 1.5 (12)        | PARSESCORE  |
+| rød           |          317 | 0.001 s  | 5.035 (1596)    | PARSESCORE  |
+| sf            |          760 | 0.002 s  | 4.292 (3262)    | PARSESCORE  |
+| skaarup       |           90 | 0.001 s  | 3.289 (296)     | PARSESCORE  |
+| skipper       |            1 | 0.0 s    | 1.0 (1)         | PARSESCORE  |
+| thules        |           72 | 0.0 s    | 4.875 (351)     | PARSESCORE  |
+| venstre       |          911 | 0.003 s  | 4.191 (3818)    | PARSESCORE  |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         8.511 |     8.511 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| aa            | 3.324 (226)  | -             |         0 |
+|               | -            | -             |         0 |
+| skaarup       | 3.289 (296)  | -             |         0 |
+| liberal       | 4.87 (1383)  | -             |         0 |
+| kommunistisk  | 3.0 (81)     | -             |         0 |
+| rød           | 5.035 (1596) | -             |         0 |
+| df            | 3.103 (1058) | -             |         0 |
+| kjærsgaard    | 3.178 (340)  | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+| løkke         | 3.336 (1141) | -             |         0 |
+| konservativ   | 4.257 (1988) | -             |         0 |
+| thules        | 4.875 (351)  | -             |         0 |
+| enhedsliste   | 4.448 (2682) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| blå           | 5.41 (936)   | -             |         0 |
+| kommunisme    | 3.462 (45)   | -             |         0 |
+| marxisme      | 6.5 (26)     | -             |         0 |
+| sf            | 4.292 (3262) | -             |         0 |
+| marxistisk    | 1.5 (12)     | -             |         0 |
+| skipper       | 1.0 (1)      | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 16:06:16 15-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 21.19 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.245 s
+Index time:		 6.61 s
+Total time:		 7.855 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES   |
+|---------------+--------------+----------+-----------------+-------------|
+| aa            |           68 | 0.0 s    | 3.324 (226)     | PARSESCORE  |
+| blå           |          173 | 0.001 s  | 5.41 (936)      | PARSESCORE  |
+| df            |          341 | 0.001 s  | 3.103 (1058)    | PARSESCORE  |
+| enhedsliste   |          603 | 0.002 s  | 4.448 (2682)    | PARSESCORE  |
+| kjærsgaard    |          107 | 0.0 s    | 3.178 (340)     | PARSESCORE  |
+| kommunisme    |           13 | 0.0 s    | 3.462 (45)      | PARSESCORE  |
+| kommunistisk  |           27 | 0.0 s    | 3.0 (81)        | PARSESCORE  |
+| konservativ   |          467 | 0.002 s  | 4.257 (1988)    | PARSESCORE  |
+| liberal       |          284 | 0.001 s  | 4.87 (1383)     | PARSESCORE  |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | PARSESCORE  |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | PARSESCORE  |
+| marxisme      |            4 | 0.0 s    | 6.5 (26)        | PARSESCORE  |
+| marxistisk    |            8 | 0.0 s    | 1.5 (12)        | PARSESCORE  |
+| rød           |          317 | 0.001 s  | 5.035 (1596)    | PARSESCORE  |
+| sf            |          760 | 0.004 s  | 4.292 (3262)    | PARSESCORE  |
+| skaarup       |           90 | 0.0 s    | 3.289 (296)     | PARSESCORE  |
+| skipper       |            1 | 0.0 s    | 1.0 (1)         | PARSESCORE  |
+| thules        |           72 | 0.0 s    | 4.875 (351)     | PARSESCORE  |
+| venstre       |          911 | 0.003 s  | 4.191 (3818)    | PARSESCORE  |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.855 |     7.855 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| aa            | 3.324 (226)  | -             |         0 |
+|               | -            | -             |         0 |
+| skaarup       | 3.289 (296)  | -             |         0 |
+| liberal       | 4.87 (1383)  | -             |         0 |
+| kommunistisk  | 3.0 (81)     | -             |         0 |
+| rød           | 5.035 (1596) | -             |         0 |
+| df            | 3.103 (1058) | -             |         0 |
+| kjærsgaard    | 3.178 (340)  | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+| løkke         | 3.336 (1141) | -             |         0 |
+| konservativ   | 4.257 (1988) | -             |         0 |
+| thules        | 4.875 (351)  | -             |         0 |
+| enhedsliste   | 4.448 (2682) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| blå           | 5.41 (936)   | -             |         0 |
+| kommunisme    | 3.462 (45)   | -             |         0 |
+| marxisme      | 6.5 (26)     | -             |         0 |
+| sf            | 4.292 (3262) | -             |         0 |
+| marxistisk    | 1.5 (12)     | -             |         0 |
+| skipper       | 1.0 (1)      | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 16:07:43 15-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 21.45 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.256 s
+Index time:		 6.748 s
+Total time:		 8.005 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES   | AVG. PARSESCORE   |
+|---------------+--------------+----------+-----------------+-------------+-------------------|
+| aa            |           68 | 0.0 s    | 3.324 (226)     | sentiment   | PARSESCORE        |
+| blå           |          173 | 0.001 s  | 5.41 (936)      | sentiment   | PARSESCORE        |
+| df            |          341 | 0.001 s  | 3.103 (1058)    | sentiment   | PARSESCORE        |
+| enhedsliste   |          603 | 0.002 s  | 4.448 (2682)    | sentiment   | PARSESCORE        |
+| kjærsgaard    |          107 | 0.0 s    | 3.178 (340)     | sentiment   | PARSESCORE        |
+| kommunisme    |           13 | 0.0 s    | 3.462 (45)      | sentiment   | PARSESCORE        |
+| kommunistisk  |           27 | 0.0 s    | 3.0 (81)        | sentiment   | PARSESCORE        |
+| konservativ   |          467 | 0.001 s  | 4.257 (1988)    | sentiment   | PARSESCORE        |
+| liberal       |          284 | 0.002 s  | 4.87 (1383)     | sentiment   | PARSESCORE        |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | sentiment   | PARSESCORE        |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | sentiment   | PARSESCORE        |
+| marxisme      |            4 | 0.0 s    | 6.5 (26)        | sentiment   | PARSESCORE        |
+| marxistisk    |            8 | 0.0 s    | 1.5 (12)        | sentiment   | PARSESCORE        |
+| rød           |          317 | 0.001 s  | 5.035 (1596)    | sentiment   | PARSESCORE        |
+| sf            |          760 | 0.002 s  | 4.292 (3262)    | sentiment   | PARSESCORE        |
+| skaarup       |           90 | 0.001 s  | 3.289 (296)     | sentiment   | PARSESCORE        |
+| skipper       |            1 | 0.0 s    | 1.0 (1)         | sentiment   | PARSESCORE        |
+| thules        |           72 | 0.0 s    | 4.875 (351)     | sentiment   | PARSESCORE        |
+| venstre       |          911 | 0.003 s  | 4.191 (3818)    | sentiment   | PARSESCORE        |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         8.005 |     8.005 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| aa            | 3.324 (226)  | -             |         0 |
+|               | -            | -             |         0 |
+| skaarup       | 3.289 (296)  | -             |         0 |
+| liberal       | 4.87 (1383)  | -             |         0 |
+| kommunistisk  | 3.0 (81)     | -             |         0 |
+| rød           | 5.035 (1596) | -             |         0 |
+| df            | 3.103 (1058) | -             |         0 |
+| kjærsgaard    | 3.178 (340)  | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+| løkke         | 3.336 (1141) | -             |         0 |
+| konservativ   | 4.257 (1988) | -             |         0 |
+| thules        | 4.875 (351)  | -             |         0 |
+| enhedsliste   | 4.448 (2682) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| blå           | 5.41 (936)   | -             |         0 |
+| kommunisme    | 3.462 (45)   | -             |         0 |
+| marxisme      | 6.5 (26)     | -             |         0 |
+| sf            | 4.292 (3262) | -             |         0 |
+| marxistisk    | 1.5 (12)     | -             |         0 |
+| skipper       | 1.0 (1)      | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+##################################################
+
+Logmessage: 
+
+Time:		 16:20:51 15-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 377.747 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.259 s
+Index time:		 6.524 s
+Total time:		 7.784 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES   |   AVG. PARSESCORE |
+|---------------+--------------+----------+-----------------+-------------+-------------------|
+| aa            |           68 | 0.0 s    | 3.324 (226)     | 1 (52)      |        -0.0769231 |
+| blå           |          173 | 0.001 s  | 5.41 (936)      | 1 (103)     |         0.0833333 |
+| df            |          341 | 0.001 s  | 3.103 (1058)    | 1 (289)     |         0.111111  |
+| enhedsliste   |          603 | 0.002 s  | 4.448 (2682)    | 1 (619)     |        -0.1       |
+| kjærsgaard    |          107 | 0.0 s    | 3.178 (340)     | 1 (143)     |         0.2       |
+| kommunisme    |           13 | 0.0 s    | 3.462 (45)      | 0 (8)       |         0         |
+| kommunistisk  |           27 | 0.0 s    | 3.0 (81)        | 1 (12)      |         0.0769231 |
+| konservativ   |          467 | 0.002 s  | 4.257 (1988)    | 1 (405)     |        -0.25      |
+| liberal       |          284 | 0.002 s  | 4.87 (1383)     | 1 (243)     |        -0.0769231 |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | 1 (8)       |         0.0769231 |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | 1 (487)     |        -0.0769231 |
+| marxisme      |            4 | 0.0 s    | 6.5 (26)        | 1 (5)       |         0.125     |
+| marxistisk    |            8 | 0.0 s    | 1.5 (12)        | 0 (3)       |         0         |
+| rød           |          317 | 0.001 s  | 5.035 (1596)    | 1 (223)     |        -0.142857  |
+| sf            |          760 | 0.002 s  | 4.292 (3262)    | 1 (1000)    |        -0.2       |
+| skaarup       |           90 | 0.0 s    | 3.289 (296)     | 1 (82)      |        -0.0666667 |
+| skipper       |            1 | 0.0 s    | 1.0 (1)         | 0 (1)       |         0         |
+| thules        |           72 | 0.0 s    | 4.875 (351)     | 1 (80)      |        -0.25      |
+| venstre       |          911 | 0.003 s  | 4.191 (3818)    | 1 (905)     |         0.25      |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.784 |     7.784 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| aa            | 3.324 (226)  | -             |         0 |
+|               | -            | -             |         0 |
+| skaarup       | 3.289 (296)  | -             |         0 |
+| liberal       | 4.87 (1383)  | -             |         0 |
+| kommunistisk  | 3.0 (81)     | -             |         0 |
+| rød           | 5.035 (1596) | -             |         0 |
+| df            | 3.103 (1058) | -             |         0 |
+| kjærsgaard    | 3.178 (340)  | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+| løkke         | 3.336 (1141) | -             |         0 |
+| konservativ   | 4.257 (1988) | -             |         0 |
+| thules        | 4.875 (351)  | -             |         0 |
+| enhedsliste   | 4.448 (2682) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| blå           | 5.41 (936)   | -             |         0 |
+| kommunisme    | 3.462 (45)   | -             |         0 |
+| marxisme      | 6.5 (26)     | -             |         0 |
+| sf            | 4.292 (3262) | -             |         0 |
+| marxistisk    | 1.5 (12)     | -             |         0 |
+| skipper       | 1.0 (1)      | -             |         0 |
+
+
+##################################################
+
+Logmessage: First complete run through.
+
+Time:		 04:36:47 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 11875.896 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.402 s
+Index time:		 6.537 s
+Total time:		 7.939 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES   |   AVG. PARSESCORE |
+|---------------+--------------+----------+-----------------+-------------+-------------------|
+| aa            |           68 | 0.0 s    | 3.324 (226)     | 8 (52)      |        0.0177083  |
+| blå           |          173 | 0.001 s  | 5.41 (936)      | 25 (103)    |        0.125026   |
+| df            |          341 | 0.001 s  | 3.103 (1058)    | 65 (289)    |       -0.00613656 |
+| enhedsliste   |          603 | 0.002 s  | 4.448 (2682)    | 126 (619)   |       -0.0432042  |
+| kjærsgaard    |          107 | 0.0 s    | 3.178 (340)     | 27 (143)    |        0.087782   |
+| kommunisme    |           13 | 0.0 s    | 3.462 (45)      | 0 (8)       |        0          |
+| kommunistisk  |           27 | 0.0 s    | 3.0 (81)        | 1 (12)      |        0.0769231  |
+| konservativ   |          467 | 0.001 s  | 4.257 (1988)    | 93 (405)    |        0.160264   |
+| liberal       |          284 | 0.001 s  | 4.87 (1383)     | 39 (243)    |        0.0796171  |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | 1 (8)       |        0.0769231  |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | 102 (487)   |        0.0386795  |
+| marxisme      |            4 | 0.0 s    | 6.5 (26)        | 1 (5)       |        0.125      |
+| marxistisk    |            8 | 0.0 s    | 1.5 (12)        | 0 (3)       |        0          |
+| rød           |          317 | 0.001 s  | 5.035 (1596)    | 42 (223)    |        0.145912   |
+| sf            |          760 | 0.004 s  | 4.292 (3262)    | 168 (1000)  |       -0.181523   |
+| skaarup       |           90 | 0.0 s    | 3.289 (296)     | 14 (82)     |        0.148815   |
+| skipper       |            1 | 0.0 s    | 1.0 (1)         | 0 (1)       |        0          |
+| thules        |           72 | 0.0 s    | 4.875 (351)     | 13 (80)     |       -0.11961    |
+| venstre       |          911 | 0.005 s  | 4.191 (3818)    | 194 (905)   |        0.00275765 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.939 |     7.939 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| aa            | 3.324 (226)  | -             |         0 |
+|               | -            | -             |         0 |
+| skaarup       | 3.289 (296)  | -             |         0 |
+| liberal       | 4.87 (1383)  | -             |         0 |
+| kommunistisk  | 3.0 (81)     | -             |         0 |
+| rød           | 5.035 (1596) | -             |         0 |
+| df            | 3.103 (1058) | -             |         0 |
+| kjærsgaard    | 3.178 (340)  | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+| løkke         | 3.336 (1141) | -             |         0 |
+| konservativ   | 4.257 (1988) | -             |         0 |
+| thules        | 4.875 (351)  | -             |         0 |
+| enhedsliste   | 4.448 (2682) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| blå           | 5.41 (936)   | -             |         0 |
+| kommunisme    | 3.462 (45)   | -             |         0 |
+| marxisme      | 6.5 (26)     | -             |         0 |
+| sf            | 4.292 (3262) | -             |         0 |
+| marxistisk    | 1.5 (12)     | -             |         0 |
+| skipper       | 1.0 (1)      | -             |         0 |
+
+
+##################################################
+
+Logmessage: testing averager for parsed sentences count
+##################################################
+
+Logmessage: tester avg parsed sentence count
+
+Time:		 09:51:23 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 105.574 s
+
+
+##################################################
+
+Logmessage: tester avg sentence parsed
+
+Time:		 09:53:07 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 30.923 s
+
+
+##################################################
+
+Logmessage: tester avg parsed setnences
+
+Time:		 09:55:02 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 30.202 s
+
+
+##################################################
+
+Logmessage: tester avg parsed sentences
+
+Time:		 09:56:06 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 29.795 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.304 s
+Index time:		 6.542 s
+Total time:		 7.846 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES   |   AVG. PARSESCORE |
+|---------------+--------------+----------+-----------------+-------------+-------------------|
+| venstre       |          911 | 0.003 s  | 4.191 (3818)    | 1 (905)     |         0.25      |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | 1 (487)     |        -0.0769231 |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | 1 (8)       |         0.0769231 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.846 |     7.846 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| løkke         | 3.336 (1141) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+
+
+##################################################
+
+Logmessage: testing avg parsed sentence count
+
+Time:		 10:02:39 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 39.527 s
+
+
+##################################################
+
+Logmessage: testing avg parsed sentences
+
+Time:		 10:04:22 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 29.852 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.343 s
+Index time:		 6.575 s
+Total time:		 7.918 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES       |   AVG. PARSESCORE |
+|---------------+--------------+----------+-----------------+-----------------+-------------------|
+| venstre       |          911 | 0.003 s  | 4.191 (3818)    | 1 (905 - 0.11%) |         0.25      |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | 1 (487 - 0.21%) |        -0.0769231 |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | 1 (8 - 12.5%)   |         0.0769231 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.918 |     7.918 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| løkke         | 3.336 (1141) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+
+
+##################################################
+
+Logmessage: testing avg parsed sentence
+
+Time:		 10:08:39 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 35.744 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.278 s
+Index time:		 8.369 s
+Total time:		 9.648 s
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES     |   AVG. PARSESCORE |
+|---------------+--------------+----------+-----------------+---------------+-------------------|
+| venstre       |          911 | 0.003 s  | 4.191 (3818)    | 0.11% (1/905) |         0.25      |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | 0.21% (1/487) |        -0.0769231 |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | 12.5% (1/8)   |         0.0769231 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         9.648 |     9.648 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| løkke         | 3.336 (1141) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+
+
+##################################################
+
+Logmessage: testing parsed sentence avg
+
+Time:		 10:21:24 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 33.448 s
+
+---------------------------------------------------------------------------
+Corpus:			 indland.in_ 
+Articles:		 8611
+Unique words:		 144460
+Avg. word/article:	 853
+Pickle time:		 1.636 s
+Index time:		 7.955 s
+Total time:		 9.591 s
+Avg. sentence success: 		 0.21
+Avg. parse score: 		 0.083
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES     |   AVG. PARSESCORE |
+|---------------+--------------+----------+-----------------+---------------+-------------------|
+| venstre       |          911 | 0.003 s  | 4.191 (3818)    | 0.11% (1/905) |         0.25      |
+| løkke         |          342 | 0.001 s  | 3.336 (1141)    | 0.21% (1/487) |        -0.0769231 |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | 12.5% (1/8)   |         0.0769231 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         9.591 |     9.591 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| løkke         | 3.336 (1141) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+
+
+##################################################
+
+Logmessage: testing avg parsed sentences
+
+Time:		 10:26:49 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 33.885 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.417 s
+Index time:					 7.987 s
+Total time:					 9.404 s
+Avg. sentence success: 			 0.21%
+Avg. parse score: 		 0.083
+
+| TERM          |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES     |   AVG. PARSESCORE |
+|---------------+--------------+----------+-----------------+---------------+-------------------|
+| venstre       |          911 | 0.004 s  | 4.191 (3818)    | 0.11% (1/905) |         0.25      |
+| løkke         |          342 | 0.002 s  | 3.336 (1141)    | 0.21% (1/487) |        -0.0769231 |
+| liberalistisk |           16 | 0.0 s    | 6.813 (109)     | 12.5% (1/8)   |         0.0769231 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         9.404 |     9.404 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| løkke         | 3.336 (1141) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+
+
+##################################################
+
+Logmessage: testing avg parsed senteces logging
+##################################################
+
+Logmessage: testing logging
+
+Time:		 10:38:30 16-05-2016 
+Corpora:	 4 
+Dict. size:	 2112 
+Time elapsed:	 34.322 s
+
+
+##################################################
+
+Logmessage: f
+
+Time:		 10:42:08 16-05-2016 
+Corpora:	 4 
+Dict. size:	 2112 
+Time elapsed:	 30.025 s
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 10:54:06 16-05-2016 
+Corpora:	 4 
+Dict. size:	 2112 
+Time elapsed:	 30.059 s
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 10:58:53 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 30.177 s
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:02:02 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 30.099 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.271 s
+Index time:					 6.716 s
+Search time: 					 1
+Parse time: 					 20.732
+Avg. sentence success: 		 0.21%
+Avg. parse score: 			 0.083
+
+|               |   TERM | # ARTICLES   | SEARCH       | ARTICLE SCORE   |   SENTENCES |   AVG. PARSESCORE |
+|---------------+--------+--------------+--------------+-----------------+-------------+-------------------|
+| venstre       |    911 | 0.003 s      | 4.191 (3818) | 0.11% (1/905)   |   0.25      |             4.2   |
+| løkke         |    342 | 0.002 s      | 3.336 (1141) | 0.21% (1/487)   |  -0.0769231 |             2.844 |
+| liberalistisk |     16 | 0.0 s        | 6.813 (109)  | 12.5% (1/8)     |   0.0769231 |            13.688 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.987 |     7.987 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|               | TERM         | indland.in_   |   Average |
+|---------------+--------------+---------------+-----------|
+| løkke         | 3.336 (1141) | -             |         0 |
+| venstre       | 4.191 (3818) | -             |         0 |
+| liberalistisk | 6.813 (109)  | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:08:50 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 31.305 s
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:09:38 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 16.379 s
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:10:36 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 18.447 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.25 s
+Index time:					 7.843 s
+Search time: 					 0.004
+Parse time: 				 7.955 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.087
+
+|         |   TERM | # ARTICLES   | SEARCH       | ARTICLE SCORE   |   SENTENCES |   AVG. PARSESCORE |
+|---------+--------+--------------+--------------+-----------------+-------------+-------------------|
+| venstre |    911 | 0.003 s      | 4.191 (3818) | 0.11% (1/905)   |   0.25      |             4.322 |
+| løkke   |    342 | 0.001 s      | 3.336 (1141) | 0.21% (1/487)   |  -0.0769231 |             3.633 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         9.093 |     9.093 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|         | TERM         | indland.in_   |   Average |
+|---------+--------------+---------------+-----------|
+| løkke   | 3.336 (1141) | -             |         0 |
+| venstre | 4.191 (3818) | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:13:51 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 16.522 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.27 s
+Index time:					 6.604 s
+Search time: 				 0.007 s
+Parse time: 				 7.282 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.087
+
+|         |   TERM | # ARTICLES   | SEARCH       | ARTICLE SCORE   |   SENTENCES |   AVG. PARSESCORE |
+|---------+--------+--------------+--------------+-----------------+-------------+-------------------|
+| venstre |    911 | 0.005 s      | 4.191 (3818) | 0.11% (1/905)   |   0.25      |             4.337 |
+| løkke   |    342 | 0.002 s      | 3.336 (1141) | 0.21% (1/487)   |  -0.0769231 |             2.945 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.874 |     7.874 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|         | TERM         | indland.in_   |   Average |
+|---------+--------------+---------------+-----------|
+| løkke   | 3.336 (1141) | -             |         0 |
+| venstre | 4.191 (3818) | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:15:25 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 16.312 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.28 s
+Index time:					 6.594 s
+Search time: 				 0.007 s
+Parse time: 				 7.071 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.087
+
+|         |   TERM | # ARTICLES   | SEARCH       | ARTICLE SCORE   |   SENTENCES |   AVG. PARSESCORE |
+|---------+--------+--------------+--------------+-----------------+-------------+-------------------|
+| venstre |    911 | 0.005 s      | 4.191 (3818) | 0.11% (1/905)   |   0.25      |             4.184 |
+| løkke   |    342 | 0.002 s      | 3.336 (1141) | 0.21% (1/487)   |  -0.0769231 |             2.887 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.874 |     7.874 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|         | TERM         | indland.in_   |   Average |
+|---------+--------------+---------------+-----------|
+| løkke   | 3.336 (1141) | -             |         0 |
+| venstre | 4.191 (3818) | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:16:59 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 16.816 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.287 s
+Index time:					 7.221 s
+Search time: 				 0.005 s
+Parse time: 				 6.963 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.087
+
+|         |   TERM | # ARTICLES   | SEARCH       | ARTICLE SCORE   |   SENTENCES |   PARSESCORE |
+|---------+--------+--------------+--------------+-----------------+-------------+--------------|
+| venstre |    911 | 0.004 s      | 4.191 (3818) | 0.11% (1/905)   |   0.25      |        4.12  |
+| løkke   |    342 | 0.001 s      | 3.336 (1141) | 0.21% (1/487)   |  -0.0769231 |        2.843 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         8.509 |     8.509 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|         | TERM         | indland.in_   |   Average |
+|---------+--------------+---------------+-----------|
+| løkke   | 3.336 (1141) | -             |         0 |
+| venstre | 4.191 (3818) | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:20:57 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 16.815 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.266 s
+Index time:					 6.955 s
+Search time: 				 0.004 s
+Parse time: 				 7.234 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.087
+
+| TERM    |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES     |   PARSESCORE |
+|---------+--------------+----------+-----------------+---------------+--------------|
+| venstre |          911 | 0.003 s  | 4.191 (3818)    | 0.11% (1/905) |    0.25      |
+| løkke   |          342 | 0.001 s  | 3.336 (1141)    | 0.21% (1/487) |   -0.0769231 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         8.221 |     8.221 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|         | TERM         | indland.in_   |   Average |
+|---------+--------------+---------------+-----------|
+| løkke   | 3.336 (1141) | -             |         0 |
+| venstre | 4.191 (3818) | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:29:56 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 16.167 s
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:30:47 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 16.185 s
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:31:41 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 16.185 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.263 s
+Index time:					 6.59 s
+Search (subset) time: 		 0.009 s
+Search (sentence) time: 		 3.085 s
+Parse time: 				 3.879 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.087
+
+| TERM    |   # ARTICLES | SEARCH   | ARTICLE SCORE   | SENTENCES     |   PARSESCORE |
+|---------+--------------+----------+-----------------+---------------+--------------|
+| venstre |          911 | 0.008 s  | 4.191 (3818)    | 0.11% (1/905) |    0.25      |
+| løkke   |          342 | 0.001 s  | 3.336 (1141)    | 0.21% (1/487) |   -0.0769231 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.853 |     7.853 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|         | TERM         | indland.in_   |   Average |
+|---------+--------------+---------------+-----------|
+| løkke   | 3.336 (1141) | -             |         0 |
+| venstre | 4.191 (3818) | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:35:04 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 19.964 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.326 s
+Index time:					 8.946 s
+Search (subset) time: 		 0.0 s
+Search (sentence) time: 	 3.642 s
+Parse time: 				 4.62 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.087
+
+| TERM    |   # ARTICLES | SUBSET/SENTENCE/PARSE   | ARTICLE SCORE   | SENTENCES     |   PARSESCORE |
+|---------+--------------+-------------------------+-----------------+---------------+--------------|
+| venstre |          911 | 0.003/2.808/2.025 s     | 4.191 (3818)    | 0.11% (1/905) |    0.25      |
+| løkke   |          342 | 0.001/0.834/2.595 s     | 3.336 (1141)    | 0.21% (1/487) |   -0.0769231 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|        10.273 |    10.273 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|         | TERM         | indland.in_   |   Average |
+|---------+--------------+---------------+-----------|
+| løkke   | 3.336 (1141) | -             |         0 |
+| venstre | 4.191 (3818) | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:38:12 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 16.207 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.252 s
+Index time:					 6.63 s
+Search (subset) time: 		 0.008 s
+Search (sentence) time: 	 3.088 s
+Parse time: 				 3.889 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.087
+
+| TERM    |   # ARTICLES | SUBSET/SENTENCE/PARSE   | ARTICLE SCORE   | SENTENCES     |   PARSESCORE |
+|---------+--------------+-------------------------+-----------------+---------------+--------------|
+| venstre |          911 | 0.007/2.275/1.868 s     | 4.191 (3818)    | 0.11% (1/905) |    0.25      |
+| løkke   |          342 | 0.001/0.813/2.021 s     | 3.336 (1141)    | 0.21% (1/487) |   -0.0769231 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.881 |     7.881 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|         | TERM         | indland.in_   |   Average |
+|---------+--------------+---------------+-----------|
+| løkke   | 3.336 (1141) | -             |         0 |
+| venstre | 4.191 (3818) | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:39:17 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 18.572 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.25 s
+Index time:					 7.711 s
+Search (subset) time: 		 0.004 s
+Search (sentence) time: 	 3.451 s
+Parse time: 				 4.692 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.087
+
+| TERM    |   # ARTICLES | SUBSET/SENTENCE/PARSE   | ARTICLE SCORE   | SENTENCES     |   PARSESCORE |
+|---------+--------------+-------------------------+-----------------+---------------+--------------|
+| venstre |          911 | 0.003 / 2.485 / 2.487 s | 4.191 (3818)    | 0.11% (1/905) |    0.25      |
+| løkke   |          342 | 0.001 / 0.966 / 2.205 s | 3.336 (1141)    | 0.21% (1/487) |   -0.0769231 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         8.961 |     8.961 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|         | TERM         | indland.in_   |   Average |
+|---------+--------------+---------------+-----------|
+| løkke   | 3.336 (1141) | -             |         0 |
+| venstre | 4.191 (3818) | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:46:37 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 19.113 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.256 s
+Index time:					 7.55 s
+Search (subset) time: 		 0.006 s
+Search (sentence) time: 	 3.58 s
+Parse time: 				 4.993 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.087
+
+| TERM    |   # ARTICLES | SUBSET/SENTENCE/PARSE   | ARTICLE SCORE   | SENTENCES     |   PARSESCORE |
+|---------+--------------+-------------------------+-----------------+---------------+--------------|
+| venstre |          911 | 0.004 / 2.573 / 2.485 s | 4.191 (3818)    | 0.11% (1/905) |    0.25      |
+| løkke   |          342 | 0.002 / 1.007 / 2.508 s | 3.336 (1141)    | 0.21% (1/487) |   -0.0769231 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         8.806 |     8.806 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|         |       TERM | indland.in_   |   Average |
+|---------+------------+---------------+-----------|
+| løkke   | -0.0769231 | -             |         0 |
+| venstre |  0.25      | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:47:35 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 16.135 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.239 s
+Index time:					 6.567 s
+Search (subset) time: 		 0.004 s
+Search (sentence) time: 	 3.109 s
+Parse time: 				 3.882 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.087
+
+| TERM    |   # ARTICLES | SUBSET/SENTENCE/PARSE   | ARTICLE SCORE   | SENTENCES     |   PARSESCORE |
+|---------+--------------+-------------------------+-----------------+---------------+--------------|
+| venstre |          911 | 0.003 / 2.297 / 1.851 s | 4.191 (3818)    | 0.11% (1/905) |    0.25      |
+| løkke   |          342 | 0.001 / 0.812 / 2.031 s | 3.336 (1141)    | 0.21% (1/487) |   -0.0769231 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.806 |     7.806 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+|         |       TERM | indland.in_   |   Average |
+|---------+------------+---------------+-----------|
+| løkke   | -0.0769231 | -             |         0 |
+| venstre |  0.25      | -             |         0 |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:49:52 16-05-2016 
+Corpora:	 1 
+Dict. size:	 2112 
+Time elapsed:	 16.179 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.246 s
+Index time:					 6.608 s
+Search (subset) time: 		 0.004 s
+Search (sentence) time: 	 3.096 s
+Parse time: 				 3.896 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.087
+
+| TERM    |   # ARTICLES | SUBSET/SENTENCE/PARSE   | ARTICLE SCORE   | SENTENCES     |   PARSESCORE |
+|---------+--------------+-------------------------+-----------------+---------------+--------------|
+| venstre |          911 | 0.003 / 2.289 / 1.865 s | 4.191 (3818)    | 0.11% (1/905) |    0.25      |
+| løkke   |          342 | 0.001 / 0.807 / 2.031 s | 3.336 (1141)    | 0.21% (1/487) |   -0.0769231 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   Average |
+|---------------+-----------|
+|         7.854 |     7.854 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM    |   indland.in_ |    Average |
+|---------+---------------+------------|
+| løkke   |    -0.0769231 | -0.0769231 |
+| venstre |     0.25      |  0.25      |
+
+
+##################################################
+
+Logmessage: 
+
+Time:		 11:51:28 16-05-2016 
+Corpora:	 2 
+Dict. size:	 2112 
+Time elapsed:	 73.41 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.262 s
+Index time:					 6.585 s
+Search (subset) time: 		 0.004 s
+Search (sentence) time: 	 3.384 s
+Parse time: 				 3.996 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.087
+
+| TERM    |   # ARTICLES | SUBSET/SENTENCE/PARSE   | ARTICLE SCORE   | SENTENCES     |   PARSESCORE |
+|---------+--------------+-------------------------+-----------------+---------------+--------------|
+| venstre |          911 | 0.003 / 2.492 / 1.912 s | 4.191 (3818)    | 0.11% (1/905) |    0.25      |
+| løkke   |          342 | 0.001 / 0.892 / 2.084 s | 3.336 (1141)    | 0.21% (1/487) |   -0.0769231 |
+
+---------------------------------------------------------------------------
+Corpus:						 udland.in_ 
+Articles:					 5998
+Unique words:				 134481
+Avg. word/article:			 914
+Pickle time:				 0.942 s
+Index time:					 4.961 s
+Search (subset) time: 		 0.0 s
+Search (sentence) time: 	 0.387 s
+Parse time: 				 49.325 s
+Avg. sentence success: 		 2.74%
+Avg. parse score: 			 0.036
+
+| TERM    |   # ARTICLES | SUBSET/SENTENCE/PARSE   | ARTICLE SCORE   | SENTENCES    |   PARSESCORE |
+|---------+--------------+-------------------------+-----------------+--------------+--------------|
+| venstre |           97 | 0.0 / 0.295 / 1.329 s   | 3.68 (357)      | 2.17% (1/46) |    0.142857  |
+| løkke   |           39 | 0.0 / 0.092 / 47.996 s  | 3.256 (127)     | 3.7% (1/27)  |   -0.0714286 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   udland.in_ |   Average |
+|---------------+--------------+-----------|
+|         7.848 |        5.903 |    6.8755 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM    |   indland.in_ |   udland.in_ |    Average |
+|---------+---------------+--------------+------------|
+| løkke   |    -0.0769231 |   -0.0714286 | -0.0741758 |
+| venstre |     0.25      |    0.142857  |  0.196429  |
+
+
+##################################################
+
+Logmessage: Test før commit til git
+
+Time:		 13:04:44 16-05-2016 
+Corpora:	 2 
+Dict. size:	 2112 
+Time elapsed:	 77.667 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.36 s
+Index time:					 6.69 s
+Search (subset) time: 		 0.004 s
+Search (sentence) time: 	 3.137 s
+Parse time: 				 3.979 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.087
+
+| TERM    |   # ARTICLES | SUBSET/SENTENCE/PARSE   | ARTICLE SCORE   | SENTENCES     |   PARSESCORE |
+|---------+--------------+-------------------------+-----------------+---------------+--------------|
+| venstre |          911 | 0.003 / 2.304 / 1.886 s | 4.191 (3818)    | 0.11% (1/905) |    0.25      |
+| løkke   |          342 | 0.001 / 0.833 / 2.093 s | 3.336 (1141)    | 0.21% (1/487) |   -0.0769231 |
+
+---------------------------------------------------------------------------
+Corpus:						 udland.in_ 
+Articles:					 5998
+Unique words:				 134481
+Avg. word/article:			 914
+Pickle time:				 0.944 s
+Index time:					 4.95 s
+Search (subset) time: 		 0.0 s
+Search (sentence) time: 	 0.355 s
+Parse time: 				 53.687 s
+Avg. sentence success: 		 2.74%
+Avg. parse score: 			 0.036
+
+| TERM    |   # ARTICLES | SUBSET/SENTENCE/PARSE   | ARTICLE SCORE   | SENTENCES    |   PARSESCORE |
+|---------+--------------+-------------------------+-----------------+--------------+--------------|
+| venstre |           97 | 0.0 / 0.27 / 1.302 s    | 3.68 (357)      | 2.17% (1/46) |    0.142857  |
+| løkke   |           39 | 0.0 / 0.085 / 52.385 s  | 3.256 (127)     | 3.7% (1/27)  |   -0.0714286 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   udland.in_ |   Average |
+|---------------+--------------+-----------|
+|          8.05 |        5.893 |    6.9715 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM    |   indland.in_ |   udland.in_ |    Average |
+|---------+---------------+--------------+------------|
+| løkke   |    -0.0769231 |   -0.0714286 | -0.0741758 |
+| venstre |     0.25      |    0.142857  |  0.196429  |
+
+
+##################################################
+
+Logmessage: Testing new grammar, normalized against the sum of each specific left_side, instead of the overall total sum of all rules.
+
+Time:		 14:01:11 16-05-2016 
+Corpora:	 2 
+Dict. size:	 2112 
+Time elapsed:	 95.165 s
+
+---------------------------------------------------------------------------
+Corpus:						 indland.in_ 
+Articles:					 8611
+Unique words:				 144460
+Avg. word/article:			 853
+Pickle time:				 1.379 s
+Index time:					 7.411 s
+Search (subset) time: 		 0.009 s
+Search (sentence) time: 	 4.197 s
+Parse time: 				 4.71 s
+Avg. sentence success: 		 0.14%
+Avg. parse score: 			 0.1
+
+| TERM    |   # ARTICLES | SUBSET/SENTENCE/PARSE   | ARTICLE SCORE   | SENTENCES     |   PARSESCORE |
+|---------+--------------+-------------------------+-----------------+---------------+--------------|
+| venstre |          911 | 0.007 / 3.074 / 2.287 s | 4.191 (3818)    | 0.11% (1/905) |    0.291667  |
+| løkke   |          342 | 0.002 / 1.123 / 2.423 s | 3.336 (1141)    | 0.21% (1/487) |   -0.0909091 |
+
+---------------------------------------------------------------------------
+Corpus:						 udland.in_ 
+Articles:					 5998
+Unique words:				 134481
+Avg. word/article:			 914
+Pickle time:				 0.977 s
+Index time:					 5.652 s
+Search (subset) time: 		 0.0 s
+Search (sentence) time: 	 0.449 s
+Parse time: 				 66.426 s
+Avg. sentence success: 		 2.74%
+Avg. parse score: 			 0.007
+
+| TERM    |   # ARTICLES | SUBSET/SENTENCE/PARSE   | ARTICLE SCORE   | SENTENCES    |   PARSESCORE |
+|---------+--------------+-------------------------+-----------------+--------------+--------------|
+| venstre |           97 | 0.0 / 0.354 / 1.352 s   | 3.68 (357)      | 2.17% (1/46) |    0.111111  |
+| løkke   |           39 | 0.0 / 0.095 / 65.074 s  | 3.256 (127)     | 3.7% (1/27)  |   -0.0974026 |
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OVERALL TIME TABLE 
+|   indland.in_ |   udland.in_ |   Average |
+|---------------+--------------+-----------|
+|          8.79 |         6.63 |      7.71 |
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OVERALL SENTIMENT TABLE 
+| TERM    |   indland.in_ |   udland.in_ |    Average |
+|---------+---------------+--------------+------------|
+| løkke   |    -0.0909091 |   -0.0974026 | -0.0941558 |
+| venstre |     0.291667  |    0.111111  |  0.201389  |
+

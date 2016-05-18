@@ -7,10 +7,16 @@ def convert_to_probabilistic_chomsky(rawgrammar):
 	sumOcc = sum(rawgrammar.rules.values())
 	print "SUMOCC:", sumOcc
 	grammar = Grammar()
+	leftsideOcc = {}
 
 	for x in rawgrammar.rules:
-
-		x.prob = float(rawgrammar.rules[x]) / sumOcc
+		if x.left_side in leftsideOcc:
+			leftsideOcc[x.left_side] += 1
+		else:
+			leftsideOcc[x.left_side] = 1
+	
+	for x in rawgrammar.rules:
+		x.prob = float(rawgrammar.rules[x]) / leftsideOcc[x.left_side]
 		# print "%s = %s / %s" %(x.prob, rawgrammar.rules[x], sumOcc)
 		if len(x.constituents) > 2:
 			subRules = x.makeSubRules(grammar.newRuleCount, rawgrammar.rules[x])

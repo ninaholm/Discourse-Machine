@@ -6,6 +6,7 @@ import time
 import os
 import sys
 
+
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
@@ -16,9 +17,9 @@ starttime = time.time()
 if logChoice == True:
 	createLog(0)
 
-# inputfiles = [["indland.in"], ["udland.in"], ["debat.in"],["kultur.in"]]
+# inputfiles = [["indland.in", "udland.in", "debat.in", "kultur.in"],["indland.in"],["udland.in"],["debat.in"],["kultur.in"]]
 # inputfiles = [["test_indland.in"], ["test_udland.in"]]
-inputfiles = [["udland.in"]]
+inputfiles = [["indland.in"], ["udland.in"]]
 
 # Loops through the chosen corpora and returns sentimentscore for every searchterm in them.
 for inputfile in inputfiles:
@@ -46,6 +47,8 @@ for inputfile in inputfiles:
 
 	for term_subset in subSetList:
 		posc.score_sentiment(term_subset)
+
+	print "#" * 50
 
 
 
