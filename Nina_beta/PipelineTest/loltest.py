@@ -8,8 +8,6 @@ from datetime import datetime
 import re
 from log.logger import makeLog, createLog, logChoice
 import pickle
-import pyximport; pyximport.install()
-from SyntacticParser.syntactictestnumpy import SyntacticParser
 
 
 
@@ -75,7 +73,7 @@ print
 illegal_parses = 0
 empty_sentences = 0
 tests = 10
-stop = 100
+
 
 starttime = datetime.now()
 
@@ -91,13 +89,21 @@ def run_test():
 
 
 
+stop = 100
+illegal_parses = 0
+empty_sentences = 0
+for s in sentences[:stop]:
+	if len(s) == 0: empty_sentences += 1
+	else:
+		t = parser.parse_sentence(s)
+		if t is None: illegal_parses += 1
+		#if t is not None: print t.tree
 
 
 # import timeit
 # t = timeit.Timer(stmt="run_test()", setup="from __main__ import run_test")
 # print (t.timeit(tests) / tests)
 
-run_test()
 
 
 

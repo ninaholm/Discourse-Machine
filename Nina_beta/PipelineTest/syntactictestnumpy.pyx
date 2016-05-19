@@ -26,20 +26,20 @@ class SyntacticParser(object):
 	# run() method
 	def parse_sentence(self, sentence):
 		m = self.cky_parse(sentence)
+		if m is None: return None
 		return self.build_sentence_tree(m)
 
 
 	# Takes a sentence string, runs CKY and returns the sentence matrix of said sentence.
 	def cky_parse(self, sentence):
 		if self.test: print ">>PARSE: Running with test ON."
-		cdef int i, j, sentence_length, k, max_parseoptions
+		cdef int i, j, sentence_length, k
 		self.cky_logger.start_timer()
 
 		n = len(sentence)+1
 		grammar_rules = self.grammar.rules
 		sentence_matrix = [[[] for x in range(n)] for y in range(n)] # Create CKY matrix
 		sentence_length = len(sentence)
-		max_parseoptions = 200
 
 		# Fill out the NTs resolving to terminals
 		for i in range(1, sentence_length+1):
@@ -61,36 +61,36 @@ class SyntacticParser(object):
 		
 		for substring_length in xrange(2, sentence_length+1):
 			for substring_start in xrange(1, (sentence_length - substring_length)+2):
-				#options = np.empty([0,4], dtype=object)
-				options = []
 				for split_point in xrange(1, substring_length):
 					b = sentence_matrix[split_point][substring_start]
 					c = sentence_matrix[substring_length - split_point][substring_start + split_point]
-					for b_option_index in range(len(b)):
-						if b[b_option_index] is None: break
-						for c_option_index in range(len(c)):
-							if c[c_option_index] is None: break
-							grammar_rule = "".join(map(str, [b[b_option_index][0], c[c_option_index][0]]))
 
-							if grammar_rule in grammar_rules:
-								k = len(grammar_rules[grammar_rule])						
-								b_option_coord = ":".join(map(str, [split_point, substring_start, b_option_index]))
-								c_option_coord = ":".join(map(str, [substring_length - split_point, substring_start + split_point, c_option_index]))
-								cb_prob = float(b[b_option_index][1]) * float(c[c_option_index][1])
+					b_list = [x[0] for x in b]
+					c_list = [x[0] for x in c]
 
-								rules = [x.left_side for x in grammar_rules[grammar_rule]]
-								probs = [(x.prob * cb_prob) for x in grammar_rules[grammar_rule]]
+					crossproduct = [(x, y) for x in b_list for y in c_list]
+					#print "Crossproduct:", len(crossproduct)
+					uniquecrossproduct = list(set(crossproduct))
+					#print "Unique Crossproduct:", len(uniquecrossproduct)
+					
+					for i in range(len(uniquecrossproduct)):
+						grammar_rule = "".join(uniquecrossproduct[i])
+						
+						if grammar_rule in grammar_rules:
+							k = len(grammar_rules[grammar_rule])
+							first, second = uniquecrossproduct[i]
+							b_option_index = b_list.index(first)
+							c_option_index = c_list.index(second)
 
-								for i in range(k):
-									options.append([rules[i], probs[i], b_option_coord, c_option_coord])
+							b_option_coord = ":".join(map(str, [split_point, substring_start, b_option_index]))
+							c_option_coord = ":".join(map(str, [substring_length - split_point, substring_start + split_point, c_option_index]))
+							cb_prob = float(b[b_option_index][1]) * float(c[c_option_index][1])
 
+							rules = [x.left_side for x in grammar_rules[grammar_rule]]
+							probs = [(x.prob * cb_prob) for x in grammar_rules[grammar_rule]]
 
-				options.sort(key=lambda x: x[1], reverse=True)
-				for i in range(max_parseoptions):
-					if i == len(options): break
-					sentence_matrix[substring_length][substring_start].append(options[i])
-
-				
+							for i in range(k):
+								sentence_matrix[substring_length][substring_start].append([rules[i], probs[i], b_option_coord, c_option_coord])
 
 		self.cky_logger.stop_timer()
 		return sentence_matrix
@@ -186,6 +186,7 @@ class SentenceTree(object):
 				if left_child[2] is None: #If left_child is a leaf node, append a word node
 					nid = left_coord[1]-1
 					word = self.matrix[left_coord[0]-1][left_coord[1]][0]
+					word = word.decode('utf-8')
 					self.tree.create_node(word, nid, parent=cid)
 				else:
 					self._create_children(left_child, cid) # Create children of left_child
@@ -196,6 +197,7 @@ class SentenceTree(object):
 				if right_coord is None: #If left_child is a leaf node, append a word node
 					nid = right_coord[1]-1
 					word = self.matrix[right_coord[0]-1][right_coord[1]][0]
+					word = word.decode('utf-8')
 					self.tree.create_node(word, nid, parent=cid)
 				else:
 					self._create_children(right_child, cid) # Create children of right_child
