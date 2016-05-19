@@ -11,6 +11,33 @@ import pickle
 
 
 
+def function(values):
+	pass
+
+
+test = [['NCP', 1.6890549574946627e-13, '1:2:0', '7:3:0'], ['VAP', 2.6890549574946627e-17, '1:2:0', '7:3:0'], ['VAP', 3.1606174132225905e-16, '1:2:0', '7:3:1'], ['VAP', 2.6748472859920607e-13, '1:2:0', '7:3:10'], ['VAP', 8.569254136414964e-14, '1:2:0', '7:3:7'], ['VAP', 4.1207132860318137e-13, '1:2:0', '7:3:13'], ['VAP', 6.426940602311224e-14, '1:2:0', '7:3:3'], ['VAP', 7.366842682581958e-18]]
+
+print max([x[1] for x in test])
+
+values = set(map(lambda x:x[0], test))
+newlist = [[y for y in test if y[0]==x] for x in values]
+
+new_dict = {}
+for i in range(len(newlist)):
+	print newlist[i][0]
+	new_dict[newlist[i][0][0]] = [x[1] for x in newlist[i]]
+
+print new_dict
+
+b_list = [x for x in test if x[1]==max([y[1] for y in newlist[x]])]
+
+print newlist
+
+
+sys.exit()
+
+
+
 print ">>MAIN: Compiling SyntacticParser"
 import pyximport; pyximport.install()
 #from helloworld import *

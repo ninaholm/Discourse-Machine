@@ -68,6 +68,15 @@ class SyntacticParser(object):
 					b_list = [x[0] for x in b]
 					c_list = [x[0] for x in c]
 
+					b_dict = {x[0]: x for x in b}.values()
+					b_dict = {x[0]: x[1] for x in b}.values()
+					print
+					print b
+					print
+					print b_dict
+					print
+
+
 					crossproduct = [(x, y) for x in b_list for y in c_list]
 					#print "Crossproduct:", len(crossproduct)
 					uniquecrossproduct = list(set(crossproduct))
