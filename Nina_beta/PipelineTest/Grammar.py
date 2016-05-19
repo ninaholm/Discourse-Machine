@@ -53,6 +53,9 @@ class GrammarRule(object):
 	def __eq__(self, other):
 		return (str(self.constituents), self.left_side) == (str(self.constituents), self.left_side)
 
+	def __str__(self):
+		return (self.left_side + " --> " + " ".join(self.constituents) + " : " + str(self.prob) + "\n")
+
 	def __name__(self):
 		return self.key
 

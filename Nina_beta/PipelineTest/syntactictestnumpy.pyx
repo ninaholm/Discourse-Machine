@@ -13,7 +13,7 @@ cimport numpy as np
 class SyntacticParser(object):
 
 	def __init__(self):
-		self.grammar = self._import_grammar()
+		self.grammar, self.reverse_grammar = self._import_grammar()
 		self.log = Logger()
 		self.cky_logger = Logger()
 		self.tree_logger = Logger()
@@ -38,7 +38,7 @@ class SyntacticParser(object):
 
 		n = len(sentence)+1
 		grammar_rules = self.grammar.rules
-		sentence_matrix = [[[] for x in range(n)] for y in range(n)] # Create CKY matrix
+		sentence_matrix = [[{} for x in range(n)] for y in range(n)] # Create CKY matrix
 		sentence_length = len(sentence)
 
 		# Fill out the NTs resolving to terminals
@@ -47,13 +47,12 @@ class SyntacticParser(object):
 				print ">>PARSE: Encountered illegal tag: %s. Disregarding sentence." % sentence[i-1][1]
 				print sentence
 				return None
-			sentence_matrix[0][i].append(sentence[i-1][0]) # Enter word into sentence matrix
+			sentence_matrix[0][i][0] = (sentence[i-1][0]) # Enter word into sentence matrix
 
 			for j in range(len(grammar_rules[sentence[i-1][1]])):
 				r = grammar_rules[sentence[i-1][1]][j]
 				# 0: leftside | 1: probability | 2: left coordinates | 3: right coordinates
-				sentence_matrix[1][i].append([r.left_side, 1, None, None])
-
+				sentence_matrix[1][i][r.left_side] = ([r.left_side, 1, None, None])
 
 
 		# GO GO CKY ALGORITHM DO YO' THANG
@@ -62,41 +61,36 @@ class SyntacticParser(object):
 		for substring_length in xrange(2, sentence_length+1):
 			for substring_start in xrange(1, (sentence_length - substring_length)+2):
 				for split_point in xrange(1, substring_length):
-					b = sentence_matrix[split_point][substring_start]
-					c = sentence_matrix[substring_length - split_point][substring_start + split_point]
+					b_dict = sentence_matrix[split_point][substring_start]
+					c_dict = sentence_matrix[substring_length - split_point][substring_start + split_point]
 
-					b_list = [x[0] for x in b]
-					c_list = [x[0] for x in c]
-
-					crossproduct = [(x, y) for x in b_list for y in c_list]
-					#print "Crossproduct:", len(crossproduct)
+					crossproduct = [(b, c) for b in b_dict.keys() for c in c_dict.keys()]
 					uniquecrossproduct = list(set(crossproduct))
-					#print "Unique Crossproduct:", len(uniquecrossproduct)
 					
 					for i in range(len(uniquecrossproduct)):
 						grammar_rule = "".join(uniquecrossproduct[i])
 						
 						if grammar_rule in grammar_rules:
 							k = len(grammar_rules[grammar_rule])
-							first, second = uniquecrossproduct[i]
-							b_option_index = b_list.index(first)
-							c_option_index = c_list.index(second)
+							b, c = uniquecrossproduct[i]
 
-							b_option_coord = ":".join(map(str, [split_point, substring_start, b_option_index]))
-							c_option_coord = ":".join(map(str, [substring_length - split_point, substring_start + split_point, c_option_index]))
-							cb_prob = float(b[b_option_index][1]) * float(c[c_option_index][1])
+							b_option_coord = ":".join(map(str, [split_point, substring_start, b]))
+							c_option_coord = ":".join(map(str, [substring_length - split_point, substring_start + split_point, c]))
+
+							cb_prob = float(b_dict[b][1]) * float(c_dict[c][1])
 
 							rules = [x.left_side for x in grammar_rules[grammar_rule]]
 							probs = [(x.prob * cb_prob) for x in grammar_rules[grammar_rule]]
 
-							for i in range(k):
-								sentence_matrix[substring_length][substring_start].append([rules[i], probs[i], b_option_coord, c_option_coord])
+							for j in range(k):
+								new_row = [rules[j], probs[j], b_option_coord, c_option_coord]
+								if rules[j] in sentence_matrix[substring_length][substring_start]:
+									if sentence_matrix[substring_length][substring_start][rules[j]][1] < probs[j]:
+										sentence_matrix[substring_length][substring_start][rules[j]] = new_row
+								else: sentence_matrix[substring_length][substring_start][rules[j]] = new_row
 
-				
 		self.cky_logger.stop_timer()
 		return sentence_matrix
-
-
 
 
 	def _print_matrix(self, sentence_matrix):
@@ -110,7 +104,19 @@ class SyntacticParser(object):
 	def _import_grammar(self):
 		with open("SyntacticParser/grammar.in", "r") as gfile:
 			g = pickle.load(gfile)
-		return g
+		
+		reverse_grammar = {}
+		for lookup in g.rules:
+			for gr in g.rules[lookup]:
+				if gr.left_side not in reverse_grammar:
+					reverse_grammar[gr.left_side] = [gr]
+				else:
+					reverse_grammar[gr.left_side].append(gr)
+
+		for nt in reverse_grammar:
+			reverse_grammar[nt].sort(key=lambda x: x.prob, reverse=True)
+
+		return (g, reverse_grammar)
 
 	# Builds sentence tree from sentence_matrix. Returns none if no probable parse
 	def build_sentence_tree(self, sentence_matrix):
@@ -145,16 +151,13 @@ class SentenceTree(object):
 		# Find the most probable sentence option
 		maximum = 0
 		index = None
-		for i in range(len(sentence_matrix[sentence_length][1])):
-			option = sentence_matrix[sentence_length][1][i]
-			if option is None: break
-			if option[1] > maximum:
-				maximum = option[1]
-				index = i
+
+		options = sentence_matrix[sentence_length][1]
+		max_option = [options[x] for x in options if options[x][1]==max([y[1] for y in options.values()])][0]
 
 		# Build the tree
 		self._nid = sentence_length+2
-		root = sentence_matrix[sentence_length][1][index]
+		root = max_option
 		self.tree.create_node(root[0], self._nid)
 		self._create_children(root, self._nid) # Call recursive function
 
@@ -175,8 +178,10 @@ class SentenceTree(object):
 		else:
 			# If parse_option has children, extract those
 			if parse_option[2] is not None:
-				left_coord = map(int, parse_option[2].split(":"))
-				right_coord = map(int, parse_option[3].split(":"))
+				left_coord = parse_option[2].split(":")
+				left_coord[:2] = map(int, [left_coord[0], left_coord[1]])
+				right_coord = parse_option[3].split(":")
+				right_coord[:2] = map(int, [right_coord[0], right_coord[1]])
 
 				left_child = self.matrix[left_coord[0]][left_coord[1]][left_coord[2]]
 				right_child = self.matrix[right_coord[0]][right_coord[1]][right_coord[2]]

@@ -50,6 +50,9 @@ class GrammarRule(object):
 	def __hash__(self):
 		return hash((str(self.constituents)))
 
+	def __repr__(self):
+		return (self.left_side + "-->" + " ".join(self.constituents))
+
 	def __eq__(self, other):
 		return (str(self.constituents), self.left_side) == (str(self.constituents), self.left_side)
 

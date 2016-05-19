@@ -11,31 +11,51 @@ import pickle
 
 
 
-def function(values):
-	pass
+
+# Returns a dictionary containing the grammar used by the CKY parser
+def _import_grammar():
+	with open("SyntacticParser/grammar.in", "r") as gfile:
+		g = pickle.load(gfile)
+	return g
 
 
-test = [['NCP', 1.6890549574946627e-13, '1:2:0', '7:3:0'], ['VAP', 2.6890549574946627e-17, '1:2:0', '7:3:0'], ['VAP', 3.1606174132225905e-16, '1:2:0', '7:3:1'], ['VAP', 2.6748472859920607e-13, '1:2:0', '7:3:10'], ['VAP', 8.569254136414964e-14, '1:2:0', '7:3:7'], ['VAP', 4.1207132860318137e-13, '1:2:0', '7:3:13'], ['VAP', 6.426940602311224e-14, '1:2:0', '7:3:3'], ['VAP', 7.366842682581958e-18]]
+grammar = _import_grammar()
+reverse_grammar = {}
+for lookup in grammar.rules:
+	for gr in grammar.rules[lookup]:
+		if gr.left_side not in reverse_grammar:
+			reverse_grammar[gr.left_side] = [gr]
+		else:
+			reverse_grammar[gr.left_side].append(gr)
 
-print max([x[1] for x in test])
-
-values = set(map(lambda x:x[0], test))
-newlist = [[y for y in test if y[0]==x] for x in values]
-
-new_dict = {}
-for i in range(len(newlist)):
-	new_dict[newlist[i][0][0]] = [x[1] for x in newlist[i]]
-
-print new_dict
-
-b_list = [x for x in test if x[1]==max()]
-
-b_list = [x for x in test if x[1]==max([y[1] for y in new_dict[x]])]
-
-print b_list
+for nt in reverse_grammar:
+	reverse_grammar[nt].sort(key=lambda x: x.prob, reverse=True)
 
 
-sys.exit()
+
+	# grammar.rules[gr] = sorted(grammar.rules[gr], key=)
+	# print grammar.rules[gr].print_rule
+#print reverse_grammar
+
+
+#sys.exit()
+
+
+# test = [['NCP', 1.6890549574946627e-13, '1:2:0', '7:3:0'], ['VAP', 2.6890549574946627e-17, '1:2:0', '7:3:0'], ['VAP', 3.1606174132225905e-16, '1:2:0', '7:3:1'], ['VAP', 2.6748472859920607e-13, '1:2:0', '7:3:10'], ['VAP', 8.569254136414964e-14, '1:2:0', '7:3:7'], ['VAP', 4.1207132860318137e-13, '1:2:0', '7:3:13'], ['VAP', 6.426940602311224e-14, '1:2:0', '7:3:3'], ['VAP', 7.366842682581958e-18]]
+# test = [['NC', 1, '1:2:0', '7:3:0'], ['@X89', 0.2, '1:2:0', '7:3:0']]
+
+# print max([x[1] for x in test])
+
+# values = set(map(lambda x:x[0], test))
+# newlist = [[y for y in test if y[0]==x] for x in values]
+
+# new_dict = {}
+# for i in range(len(newlist)):
+# 	new_dict[newlist[i][0][0]] = [x[1] for x in newlist[i]]
+
+# print new_dict
+
+# sys.exit()
 
 
 
@@ -101,7 +121,7 @@ print
 illegal_parses = 0
 empty_sentences = 0
 tests = 10
-
+stop = 100
 
 starttime = datetime.now()
 
@@ -117,7 +137,15 @@ def run_test():
 
 
 
-stop = 100
+
+import timeit
+t = timeit.Timer(stmt="run_test()", setup="from __main__ import run_test")
+print "Average time for %s sentences and %s tests: %s" % (stop, tests, (t.timeit(tests) / tests))
+print
+sys.exit()
+
+
+
 illegal_parses = 0
 empty_sentences = 0
 for s in sentences[:stop]:
@@ -126,13 +154,6 @@ for s in sentences[:stop]:
 		t = parser.parse_sentence(s)
 		if t is None: illegal_parses += 1
 		#if t is not None: print t.tree
-
-
-# import timeit
-# t = timeit.Timer(stmt="run_test()", setup="from __main__ import run_test")
-# print (t.timeit(tests) / tests)
-
-
 
 
 print
@@ -145,8 +166,8 @@ print "Average time per sentence:", (float(str(final_time.seconds) + str(final_t
 print ">>MAIN: Total time spent on:"
 print ".........running CKY:", parser.cky_logger.time_counter
 print ".........building the tree:", parser.tree_logger.time_counter
-print ".........OPTION 1: numpy prob calculator:", parser.cky_logger1.time_counter
-print ".........OPTION 2: list comprehension calculator:", parser.cky_logger2.time_counter
+# print ".........OPTION 1: numpy prob calculator:", parser.cky_logger1.time_counter
+# print ".........OPTION 2: list comprehension calculator:", parser.cky_logger2.time_counter
 print
 
 
