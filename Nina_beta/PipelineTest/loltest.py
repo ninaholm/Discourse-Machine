@@ -24,14 +24,13 @@ newlist = [[y for y in test if y[0]==x] for x in values]
 
 new_dict = {}
 for i in range(len(newlist)):
-	print newlist[i][0]
 	new_dict[newlist[i][0][0]] = [x[1] for x in newlist[i]]
 
 print new_dict
 
-b_list = [x for x in test if x[1]==max([y[1] for y in newlist[x]])]
+b_list = [x for x in test if x[1]==max([y[1] for y in new_dict[x]])]
 
-print newlist
+print b_list
 
 
 sys.exit()

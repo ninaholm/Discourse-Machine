@@ -218,7 +218,8 @@ class SentenceTree(object):
 			n2 = self._in_sentence(key)
 			if n2 is not False:
 				d = self._get_distance(n1, n2)
-				score = float(sentimentDict[key]) / float(d)
+				if d==0: score = float(sentimentDict[key])
+				else: score = float(sentimentDict[key]) / float(d)
 
 				# If SentWord is negated, flip the score derived from it
 				if self._is_negated(key, negationList):
