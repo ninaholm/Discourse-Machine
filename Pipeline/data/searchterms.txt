@@ -4,8 +4,6 @@ liberalistisk
 liberal
 konservativ
 blå
-
-
 sf
 skipper
 enhedsliste
@@ -15,8 +13,6 @@ marxistisk
 kommunisme
 kommunistisk
 rød
-
-
 kjærsgaard
 thules
 skaarup

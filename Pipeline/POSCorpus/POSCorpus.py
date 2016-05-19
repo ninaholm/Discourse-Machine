@@ -17,12 +17,14 @@
 # 		returns [sentences]
 #from SyntacticParser.SyntacticParser import *
 from log.logger import sentimentSentenceLog
+from multiprocessing import *
 import os
 import pickle
 import csv
 import re
 import time
-import pyximport; pyximport.install()
+import numpy
+import pyximport; pyximport.install(setup_args={"include_dirs":numpy.get_include()},reload_support=True)
 from SyntacticParser.SyntacticParserOptimised import SyntacticParser
 
 
@@ -62,6 +64,7 @@ class POSCorpus():
 		term, subset = term_subset
 		print ">>SENTIMENTSCORE: Scoring sentiment for '%s'." % term
 		sentences = []
+		sentimentarr = []
 		sentimentscore = 0
 		
 		# Get senteces
@@ -75,6 +78,12 @@ class POSCorpus():
 
 		print ">>SENTIMENTSCORE: Found %s sentences."%len(sentences)
 
+		# p = Pool(4)
+		# sentimentarr += (p.map(self.multiParse,sentences))
+		# for x in sentimentarr:
+		# 	if x != 0:
+		# 		sentimentscore += x
+		# 		parsedSentencesCount += 1
 
 		parser = SyntacticParser()
 		parsedSentencesCount = 0
@@ -82,7 +91,7 @@ class POSCorpus():
 		for sentence in sentences:
 			# test_sentence = [x.split("/") for x in "To/NUM russere/N_INDEF_PLU tror/V_PRES ikke/ADV intet/ADJ ./TEGN".split(" ")]
 			t = parser.parse_sentence(sentence)
-			# print "sentence: ", self.print_sentence(sentence), "\n\n"
+			print "sentence: ", self.print_sentence(sentence), "\n\n"
 
 			if t is not None:
 				# print t.tree
@@ -96,16 +105,32 @@ class POSCorpus():
 					# print ">>SENTIMENTSCORE: ", self.print_sentence(sentence)
 					# print ">>SENTIMENTSCORE: Current score is:", sentimentscore
 					# print
+
 		print ">>SENTIMENTSCORE: Final score is", sentimentscore
 		print
 
-					
 		sentencesCount = "%s%% (%s/%s)" %(round((parsedSentencesCount/float(len(sentences)))*100, 2), parsedSentencesCount, len(sentences))
 
 		parseTime = round((time.time() - subsetTime), 3)
 		subsetTime = round((subsetTime - starttime), 3)
 		sentimentSentenceLog(term, sentencesCount, sentimentscore, self.inputfiles, subsetTime, parseTime)
 		# self.scores.append((term,sentimentscore))
+
+	def multiParse(self, sentence):
+		sentimentscore = []
+		parser = SyntacticParser()
+		# test_sentence = [x.split("/") for x in "To/NUM russere/N_INDEF_PLU tror/V_PRES ikke/ADV intet/ADJ ./TEGN".split(" ")]
+		t = parser.parse_sentence(sentence)
+		print "sentence: ", self.print_sentence(sentence), "\n\n"
+
+		if t is not None:
+			# print t.tree
+			score = t.get_sentiment_score(self.sentimentdict, term)
+			return score
+		else:
+			return 0
+				
+
 
 	def get_sentences(self, article, term):
 		sentenceList = []
