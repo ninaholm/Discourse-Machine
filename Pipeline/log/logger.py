@@ -33,7 +33,7 @@ def makeLog(totalTime):
 		corporaCount += 1
 		corpusmetadata = ""
 		articleNum = 0
-		corpusheader = ["TERM", "# ARTICLES", "SUBSET/SENTENCE/PARSE", "ARTICLE SCORE", "SENTENCES", "PARSESCORE"]
+		corpusheader = ["TERM", "# ARTICLES", "SUBSET/SENTENCE/PARSE", "B.O.W. SCORE", "SENTENCES", "PARSESCORE"]
 		corpuscontent = []
 		for data in corpus: 
 			if data[0].endswith(".in_"):
@@ -134,7 +134,8 @@ def makeLog(totalTime):
 			avg = float(avg / count)
 			scores.append(avg)
 	sentimentheader.append("Average")
-	sentimentcontent = sorted(sentimentcontent, key=lambda result: sentimentcontent[1], reverse=True)
+	print sentimentcontent
+	sentimentcontent = sorted(sentimentcontent, key=lambda result: sentimentcontent[0][1], reverse=True)
 
 	sentimenttable = table(sentimentheader, sentimentcontent)
 
