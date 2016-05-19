@@ -68,15 +68,6 @@ class SyntacticParser(object):
 					b_list = [x[0] for x in b]
 					c_list = [x[0] for x in c]
 
-					b_dict = {x[0]: x for x in b}.values()
-					b_dict = {x[0]: x[1] for x in b}.values()
-					print
-					print b
-					print
-					print b_dict
-					print
-
-
 					crossproduct = [(x, y) for x in b_list for y in c_list]
 					#print "Crossproduct:", len(crossproduct)
 					uniquecrossproduct = list(set(crossproduct))
@@ -101,6 +92,7 @@ class SyntacticParser(object):
 							for i in range(k):
 								sentence_matrix[substring_length][substring_start].append([rules[i], probs[i], b_option_coord, c_option_coord])
 
+				
 		self.cky_logger.stop_timer()
 		return sentence_matrix
 
@@ -226,7 +218,8 @@ class SentenceTree(object):
 			n2 = self._in_sentence(key)
 			if n2 is not False:
 				d = self._get_distance(n1, n2)
-				score = float(sentimentDict[key]) / float(d)
+				if d==0: score = float(sentimentDict[key])
+				else: score = float(sentimentDict[key]) / float(d)
 
 				# If SentWord is negated, flip the score derived from it
 				if self._is_negated(key, negationList):

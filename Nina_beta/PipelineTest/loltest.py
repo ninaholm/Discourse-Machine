@@ -28,6 +28,8 @@ for i in range(len(newlist)):
 
 print new_dict
 
+b_list = [x for x in test if x[1]==max()]
+
 b_list = [x for x in test if x[1]==max([y[1] for y in new_dict[x]])]
 
 print b_list

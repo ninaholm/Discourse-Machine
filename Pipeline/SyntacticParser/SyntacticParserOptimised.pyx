@@ -187,7 +187,7 @@ class SentenceTree(object):
 				if left_child[2] is None: #If left_child is a leaf node, append a word node
 					nid = left_coord[1]-1
 					word = self.matrix[left_coord[0]-1][left_coord[1]][0]
-					word = word.decode('utf-8')
+					word = word.decode('utf-8', "ignore")
 					self.tree.create_node(word, nid, parent=cid)
 				else:
 					self._create_children(left_child, cid) # Create children of left_child
@@ -198,7 +198,7 @@ class SentenceTree(object):
 				if right_coord is None: #If left_child is a leaf node, append a word node
 					nid = right_coord[1]-1
 					word = self.matrix[right_coord[0]-1][right_coord[1]][0]
-					word = word.decode('utf-8')
+					word = word.decode('utf-8', "ignore")
 					self.tree.create_node(word, nid, parent=cid)
 				else:
 					self._create_children(right_child, cid) # Create children of right_child
