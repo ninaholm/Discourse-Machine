@@ -42,7 +42,8 @@ class SyntacticParser(object):
 	def cky_parse(self, sentence):
 		cdef int i, j, sentence_length, k
 		self.cky_logger.start_timer()
-		self.counter = 0
+		self.counter1 = 0
+		self.counter2 = 0
 
 		n = len(sentence)+1
 		grammar_rules = self.grammar.rules
@@ -74,24 +75,14 @@ class SyntacticParser(object):
 					c_dict = sentence_matrix[substring_length - split_point][substring_start + split_point]
 
 					if self.test: self.cky_logger1.start_timer()
-					uniquecrossproduct = set([(b, c, hash((b,c))) for b in b_dict.keys() for c in c_dict.keys()])
+					uniquecrossproduct = set([(b, c) for b in b_dict.keys() for c in c_dict.keys()])
 					if self.test: self.cky_logger1.stop_timer()
 
-					for item in uniquecrossproduct:
-						self.counter += 1
-						if self.test: self.cky_logger2.start_timer()
-						b, c, bc_key = item
-						if self.test: self.cky_logger2.stop_timer()
-
-						if self.test: self.cky_logger7.start_timer()
-						if self.test: self.cky_logger7.stop_timer()
-
-						# grammar_rule = "".join(item) # WHY ARE THESE TWO EQUALLY FAST???
-						# grammar_rule = hash(item)
-						
-
+					for bc_key in uniquecrossproduct:
+						self.counter1 += 1
 
 						if bc_key in grammar_rules:
+							self.counter2 += 1
 
 							if self.test: self.cky_logger3.start_timer()
 							k = len(grammar_rules[bc_key])
@@ -151,12 +142,11 @@ class SyntacticParser(object):
 			for rule in g.rules[bc_key]:
 				if len(rule.constituents) == 2:
 					tpl = (rule.constituents[0], rule.constituents[1])
-					h = hash(tpl)
 
-					if h in new_grammar.rules:
-						new_grammar.rules[h].append(rule)
+					if tpl in new_grammar.rules:
+						new_grammar.rules[tpl].append(rule)
 					else:
-						new_grammar.rules[h] = [rule]
+						new_grammar.rules[tpl] = [rule]
 				else:
 					c = rule.constituents[0]
 
@@ -241,7 +231,7 @@ class SentenceTree(object):
 				if left_child[2] is None: #If left_child is a leaf node, append a word node
 					nid = left_coord[1]-1
 					word = self.matrix[left_coord[0]-1][left_coord[1]][0]
-					word = word.decode('utf-8')
+					word = word.decode('utf-8', "ignore")
 					self.tree.create_node(word, nid, parent=cid)
 				else:
 					self._create_children(left_child, cid) # Create children of left_child
@@ -249,10 +239,10 @@ class SentenceTree(object):
 				# Create right child as node (plus extra word node if leaf)
 				cid = self._nnid()
 				self.tree.create_node(right_child[0], cid, parent=pid)
-				if right_coord is None: #If left_child is a leaf node, append a word node
+				if right_child[2] is None: #If right_child is a leaf node, append a word node
 					nid = right_coord[1]-1
 					word = self.matrix[right_coord[0]-1][right_coord[1]][0]
-					word = word.decode('utf-8')
+					word = word.decode('utf-8', "ignore")
 					self.tree.create_node(word, nid, parent=cid)
 				else:
 					self._create_children(right_child, cid) # Create children of right_child

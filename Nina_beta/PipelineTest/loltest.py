@@ -121,7 +121,7 @@ print
 illegal_parses = 0
 empty_sentences = 0
 tests = 10
-stop = 100
+
 
 starttime = datetime.now()
 
@@ -149,21 +149,52 @@ def run_test():
 statistics = []
 illegal_parses = 0
 empty_sentences = 0
-parser.test = True
+stop = 100
+parser.test = False
 for s in sentences[:stop]:
 	if len(s) == 0: empty_sentences += 1
 	else:
 		t = parser.parse_sentence(s)
 		if t is None: illegal_parses += 1
-		#if t is not None: print t.tree
-		statistics.append([len(s), parser.counter, (len(s)*len(s)*len(s)*14000)])
+		if t is not None: print t.tree
+		#statistics.append([len(s), parser.counter, (len(s)*len(s)*len(s)*14000)])
+		statistics.append(parser.counter2)
 
-print statistics
+sys.exit()
 
-with open('syntactictestlog.csv', 'wb') as myfile:
-    wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
-    for entry in statistics:
-	    wr.writerow(entry)
+
+import matplotlib.pyplot as plt
+# x = [x[0] for x in statistics]
+# y = [y[1] for y in statistics]
+
+
+tmp = {}
+for item in statistics:
+	item = (item - (item%1000))
+	if item in tmp: tmp[item] += 1
+	else: tmp[item] = 1
+
+lst = []
+for item in tmp:
+	lst.append([tmp[item], item])
+
+x = [x[0] for x in lst]
+y = [y[1] for y in lst]
+plt.bar(y, x, width=900, edgecolor="blue")
+plt.show()
+
+
+
+
+sys.exit()
+
+
+
+
+# with open('syntactictestlog.csv', 'wb') as myfile:
+#     wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
+#     for entry in statistics:
+# 	    wr.writerow(entry)
 
 print
 final_time = (datetime.now() - starttime)
