@@ -8,52 +8,52 @@ from datetime import datetime
 import re
 from log.logger import makeLog, createLog, logChoice
 import pickle
+import timeit
+import csv
 
 
 
 
-# Returns a dictionary containing the grammar used by the CKY parser
-def _import_grammar():
-	with open("SyntacticParser/grammar.in", "r") as gfile:
-		g = pickle.load(gfile)
-	return g
-
-
-grammar = _import_grammar()
-reverse_grammar = {}
-for lookup in grammar.rules:
-	for gr in grammar.rules[lookup]:
-		if gr.left_side not in reverse_grammar:
-			reverse_grammar[gr.left_side] = [gr]
-		else:
-			reverse_grammar[gr.left_side].append(gr)
-
-for nt in reverse_grammar:
-	reverse_grammar[nt].sort(key=lambda x: x.prob, reverse=True)
 
 
 
-	# grammar.rules[gr] = sorted(grammar.rules[gr], key=)
-	# print grammar.rules[gr].print_rule
-#print reverse_grammar
 
 
-#sys.exit()
+# t = timeit.Timer(stmt="''.join(('fish', 'cat'))", setup="")
+# print "Join:", t.timeit()
 
 
-# test = [['NCP', 1.6890549574946627e-13, '1:2:0', '7:3:0'], ['VAP', 2.6890549574946627e-17, '1:2:0', '7:3:0'], ['VAP', 3.1606174132225905e-16, '1:2:0', '7:3:1'], ['VAP', 2.6748472859920607e-13, '1:2:0', '7:3:10'], ['VAP', 8.569254136414964e-14, '1:2:0', '7:3:7'], ['VAP', 4.1207132860318137e-13, '1:2:0', '7:3:13'], ['VAP', 6.426940602311224e-14, '1:2:0', '7:3:3'], ['VAP', 7.366842682581958e-18]]
-# test = [['NC', 1, '1:2:0', '7:3:0'], ['@X89', 0.2, '1:2:0', '7:3:0']]
+# t = timeit.Timer(stmt="hash(('fish', 'cat'))", setup="")
+# print "Hash tuple:", t.timeit()
 
-# print max([x[1] for x in test])
+# t = timeit.Timer(stmt="hash(('fishcat'))", setup="")
+# print "Hash string:", t.timeit()
 
-# values = set(map(lambda x:x[0], test))
-# newlist = [[y for y in test if y[0]==x] for x in values]
+# tpl = ('fish', 'cat')
+# print hash(tpl)
 
-# new_dict = {}
-# for i in range(len(newlist)):
-# 	new_dict[newlist[i][0][0]] = [x[1] for x in newlist[i]]
+# sys.exit()
 
-# print new_dict
+
+# with open("SyntacticParser/grammar.in", "r") as gfile:
+# 	g = pickle.load(gfile)
+
+# new_grammar = Grammar()
+
+# for bc_key in g.rules:
+# 	for rule in g.rules[bc_key]:
+# 		if len(rule.constituents) == 2:
+# 			tpl = (rule.constituents[0], rule.constituents[1])
+			
+# 			h = hash(tpl)
+# 			if h in new_grammar.rules:
+# 				new_grammar.rules[h].append(rule)
+# 			else:
+# 				new_grammar.rules[h] = [rule]
+
+# new_grammar.print_grammar()
+
+
 
 # sys.exit()
 
@@ -126,7 +126,7 @@ stop = 100
 starttime = datetime.now()
 
 def run_test():
-	stop = 100
+	stop = 10
 	illegal_parses = 0
 	empty_sentences = 0
 	for s in sentences[:stop]:
@@ -134,27 +134,36 @@ def run_test():
 		else:
 			t = parser.parse_sentence(s)
 			if t is None: illegal_parses += 1
+			if t is not None: print t.tree
 
 
 
 
-import timeit
-t = timeit.Timer(stmt="run_test()", setup="from __main__ import run_test")
-print "Average time for %s sentences and %s tests: %s" % (stop, tests, (t.timeit(tests) / tests))
-print
-sys.exit()
+# import timeit
+# t = timeit.Timer(stmt="run_test()", setup="from __main__ import run_test")
+# print "Average time for %s sentences and %s tests: %s" % (stop, tests, (t.timeit(tests) / tests))
+# print
+# sys.exit()
 
 
-
+statistics = []
 illegal_parses = 0
 empty_sentences = 0
+parser.test = True
 for s in sentences[:stop]:
 	if len(s) == 0: empty_sentences += 1
 	else:
 		t = parser.parse_sentence(s)
 		if t is None: illegal_parses += 1
 		#if t is not None: print t.tree
+		statistics.append([len(s), parser.counter, (len(s)*len(s)*len(s)*14000)])
 
+print statistics
+
+with open('syntactictestlog.csv', 'wb') as myfile:
+    wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
+    for entry in statistics:
+	    wr.writerow(entry)
 
 print
 final_time = (datetime.now() - starttime)
@@ -164,10 +173,16 @@ print ">>MAIN: %s, or %s%%, unparsable sentences." % (illegal_parses, illegal_pa
 print ">>MAIN: Total time spent is %s." % final_time
 print "Average time per sentence:", (float(str(final_time.seconds) + str(final_time.microseconds)) / (1000000)) / (stop-empty_sentences) / tests
 print ">>MAIN: Total time spent on:"
-print ".........running CKY:", parser.cky_logger.time_counter
-print ".........building the tree:", parser.tree_logger.time_counter
-# print ".........OPTION 1: numpy prob calculator:", parser.cky_logger1.time_counter
-# print ".........OPTION 2: list comprehension calculator:", parser.cky_logger2.time_counter
+print ".........TOTAL: running CKY: \t\t\t", parser.cky_logger.time_counter
+print ".........TOTAL: building the tree: \t\t", parser.tree_logger.time_counter
+print ".........filling out first row: \t\t", parser.cky_logger9.time_counter
+print ".........getting cross products of b and c: \t", parser.cky_logger1.time_counter
+print ".........splitting triple: \t\t\t", parser.cky_logger2.time_counter
+print ".............empty timer: \t\t\t", parser.cky_logger7.time_counter
+print ".........getting basic variables: \t\t", parser.cky_logger3.time_counter
+print ".........joining coordinates: \t\t\t", parser.cky_logger4.time_counter
+print ".........building rules and prob arrays: \t", parser.cky_logger5.time_counter
+print ".........appending to bigmatrix: \t\t", parser.cky_logger6.time_counter
 print
 
 

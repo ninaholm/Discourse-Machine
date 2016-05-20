@@ -122,3 +122,11 @@ POS-tagging: 		4244.09117627 seconds
 Lemmatising: 		0 seconds
 Elapsed for corpus: 	4454.66378999
  - - - - - - - - - - - - - 
+CORPUS: 		telegram.in
+Number of articles: 	38268
+Unpickling data: 	1.63550686836
+Tokenizing: 		519.771672487 seconds
+POS-tagging: 		23359.8851223 seconds
+Lemmatising: 		0 seconds
+Elapsed for corpus: 	23905.6888268
+ - - - - - - - - - - - - - 

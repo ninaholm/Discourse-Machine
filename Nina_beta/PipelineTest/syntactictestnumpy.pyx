@@ -13,12 +13,20 @@ cimport numpy as np
 class SyntacticParser(object):
 
 	def __init__(self):
-		self.grammar, self.reverse_grammar = self._import_grammar()
+		self.grammar = self._import_grammar()
 		self.log = Logger()
 		self.cky_logger = Logger()
 		self.tree_logger = Logger()
 		self.cky_logger1 = Logger()
 		self.cky_logger2 = Logger()
+		self.cky_logger3 = Logger()
+		self.cky_logger4 = Logger()
+		self.cky_logger5 = Logger()
+		self.cky_logger6 = Logger()
+		self.cky_logger7 = Logger()
+		self.cky_logger8 = Logger()
+		self.cky_logger9 = Logger()
+		self.cky_logger10 = Logger()
 
 		self.test = False
 		self.print_all = False
@@ -32,15 +40,16 @@ class SyntacticParser(object):
 
 	# Takes a sentence string, runs CKY and returns the sentence matrix of said sentence.
 	def cky_parse(self, sentence):
-		if self.test: print ">>PARSE: Running with test ON."
 		cdef int i, j, sentence_length, k
 		self.cky_logger.start_timer()
+		self.counter = 0
 
 		n = len(sentence)+1
 		grammar_rules = self.grammar.rules
 		sentence_matrix = [[{} for x in range(n)] for y in range(n)] # Create CKY matrix
 		sentence_length = len(sentence)
 
+		if self.test: self.cky_logger9.start_timer()
 		# Fill out the NTs resolving to terminals
 		for i in range(1, sentence_length+1):
 			if sentence[i-1][1] not in grammar_rules: # IGNORE NON-EXISTiNG TAGS
@@ -53,7 +62,7 @@ class SyntacticParser(object):
 				r = grammar_rules[sentence[i-1][1]][j]
 				# 0: leftside | 1: probability | 2: left coordinates | 3: right coordinates
 				sentence_matrix[1][i][r.left_side] = ([r.left_side, 1, None, None])
-
+		if self.test: self.cky_logger9.stop_timer()
 
 		# GO GO CKY ALGORITHM DO YO' THANG
 		cdef int substring_length, substring_start, split_point
@@ -64,32 +73,52 @@ class SyntacticParser(object):
 					b_dict = sentence_matrix[split_point][substring_start]
 					c_dict = sentence_matrix[substring_length - split_point][substring_start + split_point]
 
-					crossproduct = [(b, c) for b in b_dict.keys() for c in c_dict.keys()]
-					uniquecrossproduct = list(set(crossproduct))
-					
-					for i in range(len(uniquecrossproduct)):
-						grammar_rule = "".join(uniquecrossproduct[i])
-						
-						if grammar_rule in grammar_rules:
-							k = len(grammar_rules[grammar_rule])
-							b, c = uniquecrossproduct[i]
+					if self.test: self.cky_logger1.start_timer()
+					uniquecrossproduct = set([(b, c, hash((b,c))) for b in b_dict.keys() for c in c_dict.keys()])
+					if self.test: self.cky_logger1.stop_timer()
 
+					for item in uniquecrossproduct:
+						self.counter += 1
+						if self.test: self.cky_logger2.start_timer()
+						b, c, bc_key = item
+						if self.test: self.cky_logger2.stop_timer()
+
+						if self.test: self.cky_logger7.start_timer()
+						if self.test: self.cky_logger7.stop_timer()
+
+						# grammar_rule = "".join(item) # WHY ARE THESE TWO EQUALLY FAST???
+						# grammar_rule = hash(item)
+						
+
+
+						if bc_key in grammar_rules:
+
+							if self.test: self.cky_logger3.start_timer()
+							k = len(grammar_rules[bc_key])
+							cb_prob = float(b_dict[b][1]) * float(c_dict[c][1])
+							if self.test: self.cky_logger3.stop_timer()
+
+							if self.test: self.cky_logger4.start_timer()
 							b_option_coord = ":".join(map(str, [split_point, substring_start, b]))
 							c_option_coord = ":".join(map(str, [substring_length - split_point, substring_start + split_point, c]))
+							if self.test: self.cky_logger4.stop_timer()
+							
+							if self.test: self.cky_logger5.start_timer()
+							rules = [x.left_side for x in grammar_rules[bc_key]]
+							probs = [(x.prob * cb_prob) for x in grammar_rules[bc_key]]
+							if self.test: self.cky_logger5.stop_timer()
 
-							cb_prob = float(b_dict[b][1]) * float(c_dict[c][1])
-
-							rules = [x.left_side for x in grammar_rules[grammar_rule]]
-							probs = [(x.prob * cb_prob) for x in grammar_rules[grammar_rule]]
-
+							if self.test: self.cky_logger6.start_timer()
 							for j in range(k):
 								new_row = [rules[j], probs[j], b_option_coord, c_option_coord]
 								if rules[j] in sentence_matrix[substring_length][substring_start]:
 									if sentence_matrix[substring_length][substring_start][rules[j]][1] < probs[j]:
 										sentence_matrix[substring_length][substring_start][rules[j]] = new_row
 								else: sentence_matrix[substring_length][substring_start][rules[j]] = new_row
+							if self.test: self.cky_logger6.stop_timer()
 
 		self.cky_logger.stop_timer()
+
 		return sentence_matrix
 
 
@@ -116,7 +145,27 @@ class SyntacticParser(object):
 		for nt in reverse_grammar:
 			reverse_grammar[nt].sort(key=lambda x: x.prob, reverse=True)
 
-		return (g, reverse_grammar)
+		new_grammar = Grammar()
+
+		for bc_key in g.rules:
+			for rule in g.rules[bc_key]:
+				if len(rule.constituents) == 2:
+					tpl = (rule.constituents[0], rule.constituents[1])
+					h = hash(tpl)
+
+					if h in new_grammar.rules:
+						new_grammar.rules[h].append(rule)
+					else:
+						new_grammar.rules[h] = [rule]
+				else:
+					c = rule.constituents[0]
+
+					if c in new_grammar.rules:
+						new_grammar.rules[c].append(rule)
+					else:
+						new_grammar.rules[c] = [rule]
+
+		return new_grammar
 
 	# Builds sentence tree from sentence_matrix. Returns none if no probable parse
 	def build_sentence_tree(self, sentence_matrix):
