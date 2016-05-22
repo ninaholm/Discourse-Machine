@@ -33,7 +33,7 @@ def makeLog(totalTime):
 		corporaCount += 1
 		corpusmetadata = ""
 		articleNum = 0
-		corpusheader = ["TERM", "# ARTICLES", "SUBSET/SENTENCE/PARSE", "B.O.W. SCORE", "SENTENCES", "PARSESCORE"]
+		corpusheader = ["TERM", "# ARTICLES", "SUBSET/SENTENCE/PARSE", "B.O.W. (article/sentence)", "SENTENCES", "PARSESCORE"]
 		corpuscontent = []
 		for data in corpus: 
 			if data[0].endswith(".in_"):
@@ -44,13 +44,14 @@ def makeLog(totalTime):
 				timecontent[0].append(data[6])
 				continue
 			term = data[0]
-			data[3] = "%s (%s)" %(round((data[3] / float(data[1])),3),data[3])
+
+			data[3] = "%s (%s) / %s" %(round((data[3] / float(data[1])),3),data[3], data[6])
 
 			score = data[5]
 
 			# data[1] = str(data[1])
  			data[2] = str(data[2])
-			corpuscontent.append(data[0:8])
+			corpuscontent.append(data[0:9])
 
 			if term in sentimentdict:
 				sentimentdict[term].append(score)
@@ -71,10 +72,10 @@ def makeLog(totalTime):
 			itCount += 1
 			parseAvg += x[5]
 			subsetTime += float(x[2])
-			sentenceTime += x[6]
-			parseTime += x[7]
-			x[2] = "%s / %s / %s s" %(x[2],x[6],x[7])
-			del x[7], x[6]
+			sentenceTime += x[7]
+			parseTime += x[8]
+			x[2] = "%s / %s / %s s" %(x[2],x[7],x[8])
+			del x[8], x[7], x[6]
 			num = x[4]
 			totalParsedCount += int(num[num.find("(")+1:num.rfind("/")])
 			totalSentenceCount += int(num[num.find("/")+1:num.rfind(")")])
@@ -282,7 +283,7 @@ def sentimentArticleLog(term, sentiment):
 	pickle.dump(logarray, picklefile)
 	picklefile.close()
 
-def sentimentSentenceLog(term, sentences, sentimentscore, inputfile, sentenceTime, parseTime):
+def sentimentSentenceLog(term, sentences, sentimentscore, bowscore, inputfile, sentenceTime, parseTime):
 	path = os.getcwd() + "/log/tmplogarray.in"
 	picklefile = open(path, 'rb')
 	logarray = pickle.load(picklefile)
@@ -305,6 +306,7 @@ def sentimentSentenceLog(term, sentences, sentimentscore, inputfile, sentenceTim
 			if logarray[x][0] == term:
 				logarray[x].append(sentences)
 				logarray[x].append(sentimentscore)
+				logarray[x].append(bowscore)
 				logarray[x].append(sentenceTime)
 				logarray[x].append(parseTime)
 				break

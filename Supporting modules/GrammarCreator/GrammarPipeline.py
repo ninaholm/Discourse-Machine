@@ -36,7 +36,7 @@ print ">>GRAMMARCREATOR: Compressing grammar."
 final_grammar = compress(cnfgrammar)
 
 
-final_grammar.print_grammar()
+# final_grammar.print_grammar()
 
 
 with open("grammar.out", 'w') as outputfile:

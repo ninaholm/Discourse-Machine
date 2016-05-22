@@ -29,12 +29,14 @@ def convert_to_probabilistic_chomsky(rawgrammar):
 			grammar.newRuleCount += len(subRules)
 			continue
 		# print x.left_side, " ---> \t", x.constituents, x.prob 
-		# print
+		# printd
 		grammar.newRuleCount += 1
 		if x.key() in grammar.rules:
 			grammar.rules[x.key()].append(x)
 		else:
 			grammar.rules[x.key()] = [x]
+		# if len(grammar.rules) > 100:
+		# 	break
 
 	return grammar
 
@@ -43,16 +45,18 @@ def compress(cnfgrammar):
 	endcount = 0 
 	delKeys = []
 	newRules = []
-	# print len(cnfgrammar.rules)
+	print len(cnfgrammar.rules)
 
 	for ids in cnfgrammar.rules:
 		delList = []
 		startcount += len(cnfgrammar.rules[ids])
+		# print cnfgrammar.rules[ids]
 		if len(cnfgrammar.rules[ids]) > 1:
 			noMainRule = True
 			mainrule = None
 			# print "ID: ", ids
 			for rule in cnfgrammar.rules[ids]:
+				print "RULE2:",rule.print_rule()
 				# print len(cnfgrammar.rules[ids])
 				if rule.prob == 1:
 					# print "RULE: ", rule.print_rule()
@@ -96,17 +100,26 @@ def compress(cnfgrammar):
 
 
 
-	# print "Keys up for deletion: ", len(delKeys)
+	print "Keys up for deletion: ", len(delKeys)
 	for x in range(len(delKeys)):
-		# print "Deleting", cnfgrammar.rules[delKeys[x]][0].print_rule()
-		# print "info: ", len(cnfgrammar.rules[delKeys[x]]), delKeys[x]
+		print "delkey:",delKeys[x]
+		print "newrule:",newRules[x][0].print_rule()
+		print "Deleting", cnfgrammar.rules[delKeys[x]][0].print_rule()
+		print "info: ", len(cnfgrammar.rules[delKeys[x]]), delKeys[x]
 		del cnfgrammar.rules[delKeys[x]]
 		if newRules[x][0].key() not in cnfgrammar.rules:
-			# print "Adding: ", newRules[x][0].print_rule()
+			print "Adding: ", newRules[x][0].print_rule()
 			cnfgrammar.rules[newRules[x][0].key()] = newRules[x] 
-		# else:
-		# 	print "Exists: ", cnfgrammar.rules[newRules[x][0].key()][0].print_rule()
-		# 	print "Denied: ", newRules[x][0].print_rule()
+		else:
+			print "Exists: ", cnfgrammar.rules[newRules[x][0].key()][0].print_rule()
+			print "Denied: ", newRules[x][0].print_rule()
+			for y in cnfgrammar.rules[newRules[x][0].key()]:
+				print "PRE:",y.print_rule()
+			print "TYPE:",type(cnfgrammar.rules[newRules[x][0].key()])
+			print "newRules type", type(newRules[x])
+			cnfgrammar.rules[newRules[x][0].key()] += (newRules[x])
+			for y in cnfgrammar.rules[newRules[x][0].key()]:
+				print "POST:",y.print_rule()
 
-		# print 
+		print 
 	return cnfgrammar

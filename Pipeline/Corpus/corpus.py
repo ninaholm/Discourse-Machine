@@ -20,6 +20,7 @@ class Corpus:
 		self.wordIndex = {}
 		self.articleIndex = {}
 		self.inputfiles = inputfiles
+		self.ngramterms = {}
 		self.searchterms = self.getSearchTerms()
 		self.sentimentdict = self.getSentimentDict()
 		self.sentimentscore = 0
@@ -59,13 +60,22 @@ class Corpus:
 				#print "line: %s" % line
 				if len(line) < 1:
 					continue
+				words = line.split(" ")
 
-				for word in line.split(" "):
+				for i in range(len(words)):
+					word = words[i]
 					word = word[:word.find("/")]
 					if len(word) < 1:
 						continue
 					if word in self.sentimentdict:
 						sentimentcount += int(self.sentimentdict[word])
+					if word in self.ngramterms:
+						comingwords = self.checkNgram(word, words, i)
+						if len(comingwords) > 0:
+							for x in comingwords:
+								word += "_" + x
+							# print word					
+						
 					wordcount += 1
 					if word in index:
 						if articleid in index[word]:
@@ -74,6 +84,22 @@ class Corpus:
 							index[word][articleid] = 1
 					else:
 						index[word] = {articleid:1}
+					# print "articleid: %s" % index[word]
+
+				# for word in line.split(" "):
+				# 	word = word[:word.find("/")]
+				# 	if len(word) < 1:
+				# 		continue
+				# 	if word in self.sentimentdict:
+				# 		sentimentcount += int(self.sentimentdict[word])
+				# 	wordcount += 1
+				# 	if word in index:
+				# 		if articleid in index[word]:
+				# 			index[word][articleid] += 1 
+				# 		else:
+				# 			index[word][articleid] = 1
+				# 	else:
+				# 		index[word] = {articleid:1}
 					# print "articleid: %s" % index[word]
 			totalwordcount += wordcount
 			articlecounts[articleid] = (wordcount, sentimentcount)
@@ -157,10 +183,36 @@ class Corpus:
 		searchterms = []
 		searchtermsfile = open(os.getcwd() + "/data/searchterms.txt", "r")
 		for term in searchtermsfile:
-			searchterms.append(str(term).strip())
+			if len(term.split(" ")) > 1:
+				startterm = term.split(" ")[0].strip()
+				self.ngramterms[startterm] = []
+				for x in term.split(" ")[1:]:
+					gram = x.strip()
+					self.ngramterms[term.split(" ")[0].strip()].append(gram)
+					startterm += "_" + gram
+				searchterms.append(startterm)
+			else:
+				searchterms.append(str(term).strip())
+				# print self.ngramterms[term.split(" ")[0].strip()]
 		print ">>SEARCHTERMS: %s." %(" | ".join(searchterms))
 		return searchterms
 
+	def checkNgram(self, word, words, i):
+		nextwords = self.ngramterms[word]
+		comingwords = words[i+1:i+1+len(nextwords)]
+
+		if len(comingwords) < len(nextwords):
+			return []
+
+		for i in range(len(comingwords)):
+			tmpword = comingwords[i]
+			tmpword = tmpword[:tmpword.find("/")]
+			comingwords[i] = tmpword
+
+		for x in range(len(nextwords)):
+			if nextwords[x] != comingwords[x]:
+				return [] 
+		return comingwords
 
 
 
