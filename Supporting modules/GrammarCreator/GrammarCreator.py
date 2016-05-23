@@ -10,13 +10,13 @@ def convert_to_probabilistic_chomsky(rawgrammar):
 	leftsideOcc = {}
 
 	for x in rawgrammar.rules:
-		if x.left_side in leftsideOcc:
-			leftsideOcc[x.left_side] += 1
+		if x.rule_head in leftsideOcc:
+			leftsideOcc[x.rule_head] += 1
 		else:
-			leftsideOcc[x.left_side] = 1
+			leftsideOcc[x.rule_head] = 1
 	
 	for x in rawgrammar.rules:
-		x.prob = float(rawgrammar.rules[x]) / leftsideOcc[x.left_side]
+		x.prob = float(rawgrammar.rules[x]) / leftsideOcc[x.rule_head]
 		# print "%s = %s / %s" %(x.prob, rawgrammar.rules[x], sumOcc)
 		if len(x.constituents) > 2:
 			subRules = x.makeSubRules(grammar.newRuleCount, rawgrammar.rules[x])
@@ -28,15 +28,14 @@ def convert_to_probabilistic_chomsky(rawgrammar):
 			# print 
 			grammar.newRuleCount += len(subRules)
 			continue
-		# print x.left_side, " ---> \t", x.constituents, x.prob 
+		# print x.rule_head, " ---> \t", x.constituents, x.prob 
 		# printd
 		grammar.newRuleCount += 1
 		if x.key() in grammar.rules:
 			grammar.rules[x.key()].append(x)
 		else:
 			grammar.rules[x.key()] = [x]
-		# if len(grammar.rules) > 100:
-		# 	break
+		# if len(gramcd .
 
 	return grammar
 
@@ -65,13 +64,13 @@ def compress(cnfgrammar):
 						noMainRule = False
 						continue
 					for key in cnfgrammar.rules:
-						if key.endswith(rule.left_side):
+						if key.endswith(rule.rule_head):
 							ruleChange = cnfgrammar.rules[key][0]
 							# print "PRE: ", ruleChange.print_rule()
-							ruleChange.constituents[1] = mainrule.left_side
+							ruleChange.constituents[1] = mainrule.rule_head
 							newRules.append([ruleChange])
 							delKeys.append(key)
-							delList.append(rule.left_side)
+							delList.append(rule.rule_head)
 							# print "POST: ", ruleChange.print_rule()
 							break
 					# cnfgrammar.rules[ids].remove(rule)
@@ -81,7 +80,7 @@ def compress(cnfgrammar):
 			newList = []
 			# print "PRESIZE: ", len(cnfgrammar.rules[ids])		
 			for x in cnfgrammar.rules[ids]:
-				if x.left_side not in delList:
+				if x.rule_head not in delList:
 					newList.append(x)
 					# if x.prob == 1:
 			# 			print "SURVIVOR: ", x.print_rule()
@@ -123,3 +122,5 @@ def compress(cnfgrammar):
 
 		print 
 	return cnfgrammar
+
+def convertToTuples(grammar):
