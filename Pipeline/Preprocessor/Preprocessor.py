@@ -14,8 +14,8 @@ class Preprocessor():
 		self.tools_path = ""
 		self.input_file = "Preprocessor/temp"
 		self.tokenized_input_file = self.input_file + ".segments"
-		self.split_word = "OUOUOUOFFLFL".lower() # used to write several strings to one file
-		self.start_word = "THISBESTARTOFARTICLE".lower()
+		self.split_word = "ouhgsggsdljkd" # used to write several strings to one file
+		self.start_word = "thisbestartofsartcele"
 		self.log = _Logger()
 		self.output_path = ""
 		self.test = True
@@ -124,7 +124,7 @@ class MonsterCorpus(Preprocessor):
 		lem = Lemmatiser(); lem.set_tools()
 		ptag = POStagger(); ptag.set_tools()
 
-		all_files = glob.glob(dir_path + "/tel*.in")
+		all_files = glob.glob(dir_path + "/*.in")
 
 		# Statistics
 		print ">>PREPROCESS: Processing", len(all_files), "corpora."

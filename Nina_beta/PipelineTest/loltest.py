@@ -10,52 +10,9 @@ from log.logger import makeLog, createLog, logChoice
 import pickle
 import timeit
 import csv
+import matplotlib.pyplot as plt
 
 
-
-
-
-
-
-
-
-# t = timeit.Timer(stmt="''.join(('fish', 'cat'))", setup="")
-# print "Join:", t.timeit()
-
-
-# t = timeit.Timer(stmt="hash(('fish', 'cat'))", setup="")
-# print "Hash tuple:", t.timeit()
-
-# t = timeit.Timer(stmt="hash(('fishcat'))", setup="")
-# print "Hash string:", t.timeit()
-
-# tpl = ('fish', 'cat')
-# print hash(tpl)
-
-# sys.exit()
-
-
-# with open("SyntacticParser/grammar.in", "r") as gfile:
-# 	g = pickle.load(gfile)
-
-# new_grammar = Grammar()
-
-# for bc_key in g.rules:
-# 	for rule in g.rules[bc_key]:
-# 		if len(rule.constituents) == 2:
-# 			tpl = (rule.constituents[0], rule.constituents[1])
-			
-# 			h = hash(tpl)
-# 			if h in new_grammar.rules:
-# 				new_grammar.rules[h].append(rule)
-# 			else:
-# 				new_grammar.rules[h] = [rule]
-
-# new_grammar.print_grammar()
-
-
-
-# sys.exit()
 
 
 
@@ -66,6 +23,26 @@ from syntactictestnumpy import SyntacticParser
 
 
 parser = SyntacticParser()
+
+# grammar_rules = parser.grammar.rules
+
+# nonterminals = {}
+# left_sides = {}
+# for gr in grammar_rules:
+# 	for rule in grammar_rules[gr]:
+# 		left_sides[rule.left_side] = 0
+# 		nonterminals[rule.constituents[0]] = 0
+# 		if len(rule.constituents) > 1:
+# 			nonterminals[rule.constituents[1]] = 0
+
+# print "Length of grammar:", len(grammar_rules)
+# print "Number of left_side nonterminals:", len(left_sides)
+# print "Number of right_side nonterminals:", len(nonterminals)
+
+# sys.exit()
+
+
+
 
 
 def get_all_sentences(article):
@@ -85,6 +62,7 @@ def get_all_sentences(article):
 
 				if lemma[:1] == "\n": lemma = lemma[1:]
 				if lemma == "N": continue
+				if lemma == ".": continue
 				if len(lemma) < 1: continue
 
 				postaggedlemma = (re.sub('/[^>]+/', '/', word)).split("/")
@@ -113,17 +91,11 @@ for article in data:
 	for s in tmp:
 		sentences.append(s)
 
-
 print ">>MAIN: Grabbed %s sentences." % (len(sentences))
 print ">>MAIN: Time spent is", (datetime.now() - starttime)
 print
 
-illegal_parses = 0
-empty_sentences = 0
-tests = 10
 
-
-starttime = datetime.now()
 
 def run_test():
 	stop = 10
@@ -146,10 +118,21 @@ def run_test():
 # sys.exit()
 
 
+# Getting sentences of a specific length
+# tmp = []
+# for s in sentences:
+# 	if len(s) < 30:
+# 		tmp.append(s)
+# sentences = tmp
+
+starttime = datetime.now()
+
+# Running the actual parse
 statistics = []
 illegal_parses = 0
 empty_sentences = 0
-stop = 100
+stop = len(sentences)
+stop = 10
 parser.test = False
 for s in sentences[:stop]:
 	if len(s) == 0: empty_sentences += 1
@@ -157,32 +140,67 @@ for s in sentences[:stop]:
 		t = parser.parse_sentence(s)
 		if t is None: illegal_parses += 1
 		if t is not None: print t.tree
-		#statistics.append([len(s), parser.counter, (len(s)*len(s)*len(s)*14000)])
-		statistics.append(parser.counter2)
-
-sys.exit()
+		# statistics.append([len(s), parser.counter1])
+		#statistics.append([len(s), parser.time_counter1.microseconds, parser.time_counter2.microseconds])
 
 
+print
+final_time = (datetime.now() - starttime)
+print ">>MAIN: %s total number of sentences." % stop
+print ">>MAIN: %s empty sentences." % (empty_sentences) 
+print ">>MAIN: %s, or %s%%, unparsable sentences." % (illegal_parses, illegal_parses*100/(stop-empty_sentences))
+print ">>MAIN: Total time spent is %s." % final_time
+print "Average time per sentence:", (float(str(final_time.seconds) + str(final_time.microseconds)) / (1000000)) / (stop-empty_sentences)
+print ">>MAIN: Total time spent on:"
+print ".........TOTAL: running CKY: \t\t", parser.cky_logger.time_counter
+print ".........TOTAL: building the tree: \t", parser.tree_logger.time_counter
+print ".........Grammar loop: \t\t\t", parser.cky_logger1.time_counter
+print ".........Cross product: \t\t", parser.cky_logger2.time_counter
+print
+
+
+
+
+
+# # Graph: runs through innermost loop
+# x = [x[0] for x in statistics] # sentence length
+# y = [y[1] for y in statistics] # Empirical counter
+# z = [(z[0]**3)*len(parser.grammar.rules) for z in statistics] # Running time of grammar loop solution
+# w = [(w[0]**3)*11065**2 for w in statistics] # Worst case for our solution
+
+# handle_1 = plt.scatter(x, y, color="blue", label='Cross product', s=2)
+# handle_2, = plt.plot(x, z, "r--", color="red", label='Grammar Loop')
+# handle_2.set_antialiased(True)
+# #plt.legend(handles=[handle_1, handle_2])
+# plt.title('No. of runs through innermost loop')
+# plt.ylabel('No. of runs through innermost loop')
+# plt.xlabel('Length of sentence')
+
+# plt.axis([-10.0,100.0, -10.0,4000000.0])
+# # ax = p.gca()
+# # ax.set_autoscale_on(False)
+
+# plt.show()
+
+
+# sys.exit()
+
+
+
+
+# Graph: Plot the actual runtime based on the timecounters
 import matplotlib.pyplot as plt
-# x = [x[0] for x in statistics]
-# y = [y[1] for y in statistics]
+x = [x[0] for x in statistics]
+y = [y[1] for y in statistics]
+z = [z[2] for z in statistics]
 
-
-tmp = {}
-for item in statistics:
-	item = (item - (item%1000))
-	if item in tmp: tmp[item] += 1
-	else: tmp[item] = 1
-
-lst = []
-for item in tmp:
-	lst.append([tmp[item], item])
-
-x = [x[0] for x in lst]
-y = [y[1] for y in lst]
-plt.bar(y, x, width=900, edgecolor="blue")
+handle_1 = plt.scatter(x, y, color="blue", label='Cross product', s=2)
+handle_2 = plt.scatter(x, z, color="red", label='Grammar Loop', s=2)
+plt.legend(handles=[handle_1, handle_2])
+plt.title('Actual runtime comparison')
+plt.ylabel('Runtime in microseconds')
+plt.xlabel('Length of sentence')
 plt.show()
-
 
 
 
@@ -195,26 +213,6 @@ sys.exit()
 #     wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
 #     for entry in statistics:
 # 	    wr.writerow(entry)
-
-print
-final_time = (datetime.now() - starttime)
-print ">>MAIN: %s total number of sentences." % stop
-print ">>MAIN: %s empty sentences." % (empty_sentences) 
-print ">>MAIN: %s, or %s%%, unparsable sentences." % (illegal_parses, illegal_parses*100/stop)
-print ">>MAIN: Total time spent is %s." % final_time
-print "Average time per sentence:", (float(str(final_time.seconds) + str(final_time.microseconds)) / (1000000)) / (stop-empty_sentences) / tests
-print ">>MAIN: Total time spent on:"
-print ".........TOTAL: running CKY: \t\t\t", parser.cky_logger.time_counter
-print ".........TOTAL: building the tree: \t\t", parser.tree_logger.time_counter
-print ".........filling out first row: \t\t", parser.cky_logger9.time_counter
-print ".........getting cross products of b and c: \t", parser.cky_logger1.time_counter
-print ".........splitting triple: \t\t\t", parser.cky_logger2.time_counter
-print ".............empty timer: \t\t\t", parser.cky_logger7.time_counter
-print ".........getting basic variables: \t\t", parser.cky_logger3.time_counter
-print ".........joining coordinates: \t\t\t", parser.cky_logger4.time_counter
-print ".........building rules and prob arrays: \t", parser.cky_logger5.time_counter
-print ".........appending to bigmatrix: \t\t", parser.cky_logger6.time_counter
-print
 
 
 

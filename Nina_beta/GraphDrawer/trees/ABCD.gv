@@ -1,0 +1,10 @@
+graph test_tree {
+node [shape=none];
+
+X -- { ABC D }
+ABC -- { AB C }
+AB -- { A B }
+
+{rank=same; A B C D }
+
+}

@@ -1,0 +1,175 @@
+>>PARSE: Starting the syntactic parsing...
+>>LOG: Time spent POS-tagging: 0:00:00.000085
+>>PARSE: Now parsing the sentence 'Danmark/EGEN er/V_PRES blandt/PRÆP de/PRON_DEMO 10/NUM rigeste/ADJ lande/N_INDEF_PLU i/PRÆP verden/N_INDEF_SING'
+>>LOG: Time spent mapping CST to DDT: 0:00:00.000057
+>>LOG: Time spent running CKY: 0:00:15.175710
+>>GRAMMARLOG: Amount of time spent on grammar lookups: 0:00:14.595412
+>>PARSE: Building the syntactic tree.
+>>LOG: Time spent building the tree: 0:00:00.004809
+
+                            NC --- verden
+                        SP
+                            SP --- i
+                    @X20740
+                        NC --- lande
+                @X20739
+                    AN --- rigeste
+            PD
+                    AC --- 10
+                PD
+                    PD --- de
+        SP
+            SP --- blandt
+    @X10260
+        VA --- er
+@X10259
+    NP --- Danmark
+
+
+**************************************************
+
+Note: Regular run, with full grammar and 200 most probable options.
+
+>>MAIN: Syntactically parsing a test corpus
+>>MAIN: Number of sentences is: 2192
+
+>>MAIN: Now parsed 100 sentences in 0:04:41.938164 time
+>>MAIN: Now parsed 200 sentences in 0:08:55.784010 time
+>>MAIN: Now parsed 300 sentences in 0:11:23.077946 time
+>>MAIN: Now parsed 400 sentences in 0:12:27.072303 time
+>>MAIN: Now parsed 500 sentences in 0:20:23.904618 time
+>>MAIN: Now parsed 600 sentences in 0:22:42.396800 time
+>>MAIN: Now parsed 700 sentences in 0:25:02.944006 time
+>>MAIN: Now parsed 800 sentences in 0:35:16.961065 time
+>>MAIN: Now parsed 900 sentences in 0:52:30.452344 time
+>>MAIN: Now parsed 1000 sentences in 0:56:22.697475 time
+>>MAIN: Now parsed 1100 sentences in 1:02:36.845430 time
+>>MAIN: Now parsed 1200 sentences in 1:06:13.116882 time
+>>MAIN: Now parsed 1300 sentences in 1:20:28.965865 time
+>>MAIN: Now parsed 1400 sentences in 1:32:07.510628 time
+>>MAIN: Now parsed 1500 sentences in 1:39:44.753445 time
+>>MAIN: Now parsed 1600 sentences in 1:42:22.405253 time
+>>MAIN: Now parsed 1700 sentences in 1:52:31.366680 time
+>>MAIN: Now parsed 1800 sentences in 1:59:50.985331 time
+>>MAIN: Now parsed 1900 sentences in 2:15:52.376815 time
+>>MAIN: Now parsed 2000 sentences in 2:25:24.514687 time
+>>MAIN: Now parsed 2100 sentences in 2:26:17.598744 time
+
+>>MAIN: 2192 total number of sentences.
+>>MAIN: 67 empty sentences.
+>>MAIN: 1535, or 70%, unparsable sentences.
+>>MAIN: Total time spent is 2:26:32.552599.
+>>TOTAL TIME SPENT ON:
+......Running CKY: 2:26:12.898317
+......Building trees: 0:00:00.064701
+Average time per sentence: 4.13767181129
+
+
+**************************************************
+
+Note: Ignoring symbols in the SyntacticParser (though not grammar). Saving the 250 most probable options.
+
+>>MAIN: Now parsed 100 sentences in 0:08:44.215910 time
+
+>>MAIN: 100 total number of sentences.
+>>MAIN: 6 empty sentences.
+>>MAIN: 71, or 71%, unparsable sentences.
+>>MAIN: Total time spent is 0:08:44.215965.
+>>TOTAL TIME SPENT ON:
+......Running CKY: 0:08:43.316137
+......Building trees: 0:00:00.003192
+Average time per sentence: 5.57676558511
+
+
+**************************************************
+
+Note: Ignoring symbols in the SyntacticParser (though not grammar). Saving the 500 most probable options.
+
+>>MAIN: Now parsed 100 sentences in 0:26:25.253496 time
+
+>>MAIN: 100 total number of sentences.
+>>MAIN: 6 empty sentences.
+>>MAIN: 71, or 71%, unparsable sentences.
+>>MAIN: Total time spent is 0:26:25.253557.
+>>TOTAL TIME SPENT ON:
+......Running CKY: 0:26:23.723357
+......Building trees: 0:00:00.004427
+Average time per sentence: 16.8643995426
+
+
+
+**************************************************
+
+Note: Regular run. Saving the 500 most probable options.
+
+>>MAIN: Syntactically parsing a test corpus
+>>MAIN: Number of sentences is: 2192
+
+>>MAIN: Now parsed 100 sentences in 0:25:12.352202 time
+>>MAIN: Now parsed 200 sentences in 0:45:21.277484 time
+>>MAIN: Now parsed 300 sentences in 0:55:20.636159 time
+>>MAIN: Now parsed 400 sentences in 0:59:20.742658 time
+>>MAIN: Now parsed 500 sentences in 1:37:51.627342 time
+>>MAIN: Now parsed 600 sentences in 1:46:34.890531 time
+>>MAIN: Now parsed 700 sentences in 1:56:06.090100 time
+>>MAIN: Now parsed 800 sentences in 2:45:50.484804 time
+>>MAIN: Now parsed 900 sentences in 4:21:46.920720 time
+>>MAIN: Now parsed 1000 sentences in 4:39:18.118151 time
+>>MAIN: Now parsed 1100 sentences in 5:10:35.049069 time
+>>MAIN: Now parsed 1200 sentences in 5:26:15.588071 time
+>>MAIN: Now parsed 1300 sentences in 6:43:47.055859 time
+>>MAIN: Now parsed 1400 sentences in 7:36:31.565542 time
+>>MAIN: Now parsed 1500 sentences in 8:07:55.103322 time
+>>MAIN: Now parsed 1600 sentences in 8:17:42.667851 time
+>>MAIN: Now parsed 1700 sentences in 9:09:07.466365 time
+>>MAIN: Now parsed 1800 sentences in 9:45:50.352000 time
+>>MAIN: Now parsed 1900 sentences in 11:08:17.459422 time
+>>MAIN: Now parsed 2000 sentences in 11:50:43.354419 time
+>>MAIN: Now parsed 2100 sentences in 11:53:16.785268 time
+
+>>MAIN: 2192 total number of sentences.
+>>MAIN: 67 empty sentences.
+>>MAIN: 1531, or 69%, unparsable sentences.
+>>MAIN: Total time spent is 11:54:00.366277.
+>>TOTAL TIME SPENT ON:
+......Running CKY: 11:53:22.973115
+......Building trees: 0:00:00.085361
+Average time per sentence: 20.1601723656
+
+
+**************************************************
+
+Note: Regular run, 200 most probable options, after fixing the sentence extraction.
+
+>>MAIN: Syntactically parsing a test corpus
+>>MAIN: Number of articles in corpus is 100
+>>MAIN: Now grabbing sentences from articles.
+>>MAIN: Grabbed 6635 sentences.
+>>MAIN: Time spent is 0:00:00.387737
+
+>>MAIN: Now parsed 200 sentences in 0:02:06.481478 time
+>>MAIN: Now parsed 400 sentences in 0:05:59.658824 time
+>>MAIN: Now parsed 600 sentences in 0:06:24.739851 time
+>>MAIN: Now parsed 800 sentences in 0:06:47.783211 time
+>>MAIN: Now parsed 1000 sentences in 0:07:33.704645 time
+>>MAIN: Now parsed 1200 sentences in 0:08:36.049386 time
+>>PARSE: Encountered illegal tag: a>.. Disregarding sentence.
+[['a>.', 'a>.', 'NN']]
+>>MAIN: Now parsed 1400 sentences in 0:10:07.562388 time
+>>MAIN: Now parsed 1600 sentences in 0:12:32.525717 time
+>>MAIN: Now parsed 1800 sentences in 0:14:15.551950 time
+>>MAIN: Now parsed 2000 sentences in 0:15:59.454957 time
+>>MAIN: Now parsed 2200 sentences in 0:17:03.613250 time
+
+>>MAIN: 2200 total number of sentences.
+>>MAIN: 31 empty sentences.
+>>MAIN: 736, or 33%, unparsable sentences.
+>>MAIN: Total time spent is 0:17:03.613310.
+Average time per sentence: 0.47192868142
+
+
+
+
+
+
+

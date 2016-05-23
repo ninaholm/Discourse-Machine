@@ -21,15 +21,13 @@ class Corpus:
 		self.articleIndex = {}
 		self.inputfiles = inputfiles
 		self.ngramterms = {}
-		self.searchterms = self.getSearchTerms()
-		self.sentimentdict = self.getSentimentDict()
+		self.searchterms = self._getSearchTerms()
+		self.sentimentdict = self._getSentimentDict()
 		self.sentimentscore = 0
 
-	def index(self):
+	def build_indices(self):
 		starttime = time.time()
 		print ">>INDEX: Word indexing started."
-		index = {}
-		articlecounts = {}
 		inputpath = os.getcwd() + "/data/monster_output"
 
 		doccount = 0
@@ -40,51 +38,43 @@ class Corpus:
 		for inputfilename in self.inputfiles:
 			print ">>INDEX: Unpickling: \t '%s'." %inputfilename
 			path = os.path.join(inputpath, inputfilename)
-			pickledData = open(path, "r")
-			tmp = pickle.load(pickledData)
-			inputdata.update(tmp)
-			pickledData.close()
+			with open(path, "r") as pickledData:
+				tmp = pickle.load(pickledData)
+				inputdata.update(tmp)
 		pickleTime = round((time.time() - pickleTime), 3)
 
 		indexTime = time.time()
 		print ">>INDEX: Indexing %s articles." % len(inputdata)
-		for doc in inputdata:
+		for articleid in inputdata:
 			doccount += 1
 			# if doccount > 3695:
 			# 	break
 			wordcount = 0
 			sentimentcount = 0
-			articleid = doc
 
-			for line in inputdata[doc]:
-				#print "line: %s" % line
-				if len(line) < 1:
-					continue
+			for line in inputdata[articleid]:
+				if len(line) < 1: continue
 				words = line.split(" ")
 
 				for i in range(len(words)):
 					word = words[i]
 					word = word[:word.find("/")]
-					if len(word) < 1:
-						continue
-					if word in self.sentimentdict:
-						sentimentcount += int(self.sentimentdict[word])
+					if len(word) < 1: continue
+					if word in self.sentimentdict: sentimentcount += int(self.sentimentdict[word])
 					if word in self.ngramterms:
-						comingwords = self.checkNgram(word, words, i)
+						comingwords = self._checkNgram(word, words, i)
 						if len(comingwords) > 0:
 							for x in comingwords:
 								word += "_" + x
-							# print word					
 						
 					wordcount += 1
-					if word in index:
-						if articleid in index[word]:
-							index[word][articleid] += 1 
+					if word in self.wordIndex:
+						if articleid in self.wordIndex[word]:
+							self.wordIndex[word][articleid] += 1 
 						else:
-							index[word][articleid] = 1
+							self.wordIndex[word][articleid] = 1
 					else:
-						index[word] = {articleid:1}
-					# print "articleid: %s" % index[word]
+						self.wordIndex[word] = {articleid:1}
 
 				# for word in line.split(" "):
 				# 	word = word[:word.find("/")]
@@ -101,16 +91,15 @@ class Corpus:
 				# 	else:
 				# 		index[word] = {articleid:1}
 					# print "articleid: %s" % index[word]
+
 			totalwordcount += wordcount
-			articlecounts[articleid] = (wordcount, sentimentcount)
+			self.articleIndex[articleid] = (wordcount, sentimentcount)
+
 		indexTime = round((time.time() - indexTime), 3)
 
 		print ">>INDEX: %s words in total." % totalwordcount
-		print ">>INDEX: %s unique words indexed." % len(index)
+		print ">>INDEX: %s unique words indexed." % len(self.wordIndex)
 		print ">>INDEX: Document average length is %s." % (totalwordcount / doccount)
-
-		self.wordIndex = index
-		self.articleIndex = articlecounts
 
 		totalTime = round((time.time() - starttime), 3)
 
@@ -118,13 +107,14 @@ class Corpus:
 		print "pickletime: ", pickleTime
 		print "indextime: ", indexTime
 		print "doccount: ", doccount
-		indexLog(self.inputfiles, len(inputdata), len(index), (totalwordcount / doccount), pickleTime, indexTime, totalTime)
+		indexLog(self.inputfiles, len(inputdata), len(self.wordIndex), (totalwordcount / doccount), pickleTime, indexTime, totalTime)
 
 
+	# Returns the subset of articles wherein a search term and an opinion word are found.
 	def search(self, searchTerm):
 		starttime = time.time()
 		totaldoccount = len(self.articleIndex)
-		results = []
+		subset = []
 
 		term = str(searchTerm).strip()
 		# term = lemmatise_input_term(term)
@@ -138,38 +128,37 @@ class Corpus:
 				articlewordcount = self.articleIndex[article][0]
 				TF = wordcount / float(articlewordcount)
 				TFIDF = TF * IDF
-				results.append((article, TFIDF))
+				subset.append((article, TFIDF))
 				# print "TFIDF: %s * %s = %s" % (TF, IDF, TFIDF)
 		else:
 			print ">>SEARCHARTICLES: '%s' has 0 articles. Search terminated." %term
-			return results
-		if len(results) < 2:
-			print ">>SEARCHARTICLES: '%s' has %s article(s). Search terminated." %(term,len(results))
-			results = []
-			return results
+			return subset
+		if len(subset) < 2:
+			print ">>SEARCHARTICLES: '%s' has %s article(s). Search terminated." %(term,len(subset))
+			return []
 
-		# Sort results on their TFIDF rating, in decreasing order.
-		results = sorted(results, key=lambda result: result[1], reverse=True)
-		print ">>SEARCHARTICLES: '%s' has %s articles (%s returned)." % (term, len(results), (len(results) / 2))
+		# Sort subset on their TFIDF rating, in decreasing order.
+		subset = sorted(subset, key=lambda result: result[1], reverse=True)
+		print ">>SEARCHARTICLES: '%s' has %s articles (%s returned)." % (term, len(subset), (len(subset) / 2))
 
-		# Deletes the bottom 50% of our search results
-		results = results[0:len(results)/2]
+		# Deletes the bottom 50% of our search subset
+		subset = subset[0:len(subset)/2]
 		self.sentimentscore = 0
 
 		# Removes TFIDF values from the remaining articles and adds up the sentimentscore
-		for i in range(len(results)):
-			x = results[i]
+		for i in range(len(subset)):
+			x = subset[i]
 			self.sentimentscore += self.articleIndex[x[0]][1]
-			results[i] = x[0]
+			subset[i] = x[0]
 
 		totalTime = round((time.time() - starttime), 3)
 
 #		print ">>SEARCHARTICLES: Search has completed in %s seconds." % totalTime
-		searchLog(term, len(results), totalTime)
+		searchLog(term, len(subset), totalTime)
 		sentimentArticleLog(term, self.sentimentscore)
-		return results
+		return subset
 
-	def getSentimentDict(self):
+	def _getSentimentDict(self):
 		dict_path = "data/sentiment_dictionaries/information_manual_sent.csv"
 		with open(dict_path, "r") as csvfile:
 			dictionary = {}
@@ -179,7 +168,7 @@ class Corpus:
 					dictionary[row[0].decode('utf-8')] = row[1]
 		return dictionary
 
-	def getSearchTerms(self):
+	def _getSearchTerms(self):
 		searchterms = []
 		searchtermsfile = open(os.getcwd() + "/data/searchterms.txt", "r")
 		for term in searchtermsfile:
@@ -193,16 +182,15 @@ class Corpus:
 				searchterms.append(startterm)
 			else:
 				searchterms.append(str(term).strip())
-				# print self.ngramterms[term.split(" ")[0].strip()]
+
 		print ">>SEARCHTERMS: %s." %(" | ".join(searchterms))
 		return searchterms
 
-	def checkNgram(self, word, words, i):
+	def _checkNgram(self, word, words, i):
 		nextwords = self.ngramterms[word]
 		comingwords = words[i+1:i+1+len(nextwords)]
 
-		if len(comingwords) < len(nextwords):
-			return []
+		if len(comingwords) < len(nextwords): return []
 
 		for i in range(len(comingwords)):
 			tmpword = comingwords[i]
@@ -210,10 +198,7 @@ class Corpus:
 			comingwords[i] = tmpword
 
 		for x in range(len(nextwords)):
-			if nextwords[x] != comingwords[x]:
-				return [] 
+			if nextwords[x] != comingwords[x]: return [] 
 		return comingwords
-
-
 
 

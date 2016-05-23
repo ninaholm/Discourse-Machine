@@ -1,0 +1,51 @@
+digraph test_tree {
+
+{node [shape=box, style="rounded, filled"];
+sp1 [label="Crawler", group="sp"];
+sp2 [label="Preprocessor", group="sp"];
+sp3 [label="Grammar Creator", group="sp"];
+}
+
+{node [shape=box, style="rounded"]
+d1 [label="Original data", group="d"];
+d2 [label="Processed data", group="d"];
+d3 [label="Grammar", group="d"];
+d4 [label="DDT Treebank", group="d"];
+}
+
+{node [shape=box, style="rounded, filled"];
+pi1 [label="Corpus", group="pi"];
+pi2 [label="POS Corpus", group="pi"];
+pi3 [label="Syntactic Parser", group="pi"];
+}
+
+{node [shape=rarrow]
+r1 [label="Bag-of-words score", group="r"];
+r2 [label="Syntactically weighted score", group="r"];
+}
+
+sp1 -> d1 [label="output"];
+sp2 -> d2 [label="output"];
+sp3 -> d3 [label="output"];
+d1 -> sp2 [label="input"];
+d2 -> pi1 [label="input"];
+pi1 -> pi2 [label=""];
+d4 -> sp3 [label="input"];
+d3 -> pi3 [label="input"];
+pi2 -> pi3 [label="sentence"];
+pi3 -> pi2 [label="tree"];
+pi1 -> r1 [label="output"];
+pi2 -> r2 [label="ouput"];
+
+
+{edge[style=invis];
+sp1 -> sp2 -> sp3;
+pi1 -> pi2 -> pi3;
+d1 -> d2 -> d3 -> d4;
+r1 -> r2;}
+
+{rank = same; sp1 d1 pi1 r1}
+{rank = same; sp2 d2 pi2 r2}
+{rank = same; sp3 d3 pi3}
+
+}
