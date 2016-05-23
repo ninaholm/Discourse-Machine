@@ -33,7 +33,10 @@ print ">>GRAMMARCREATOR: Converting grammar to CNF and normalizing probabilities
 cnfgrammar = convert_to_probabilistic_chomsky(counted_grammar)
 
 print ">>GRAMMARCREATOR: Compressing grammar."
-final_grammar = compress(cnfgrammar)
+compressed_grammar = compress(cnfgrammar)
+
+print ">>GRAMMARCREATOR: Converting to tuples."
+final_grammar = convertToTuples(compressed_grammar)
 
 
 # final_grammar.print_grammar()

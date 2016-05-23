@@ -38,7 +38,7 @@ class SyntacticParser(object):
 			for j in range(len(grammar_rules[sentence[i-1][1]])):
 				r = grammar_rules[sentence[i-1][1]][j]
 				# 0: leftside | 1: probability | 2: left coordinates | 3: right coordinates
-				sentence_matrix[1][i][r.left_side] = ([r.left_side, 1, None, None])
+				sentence_matrix[1][i][r.rule_head] = ([r.rule_head, 1, None, None])
 
 		# Run the CKY algorithm
 		cdef int substring_length, substring_start, split_point
@@ -59,7 +59,7 @@ class SyntacticParser(object):
 							b_option_coord = [split_point, substring_start, bc[0]]
 							c_option_coord = [substring_length - split_point, substring_start + split_point, bc[1]]
 							
-							rules = [x.left_side for x in grammar_rules[bc]]
+							rules = [x.rule_head for x in grammar_rules[bc]]
 							probs = [(x.prob * bc_prob) for x in grammar_rules[bc]]
 
 							for j in range(k):
@@ -80,19 +80,20 @@ class SyntacticParser(object):
 			g = pickle.load(gfile)
 		
 		# Transform grammar to tuple based grammar
-		new_grammar = Grammar()
-		for bc_key in g.rules:
-			for rule in g.rules[bc_key]:
-				if len(rule.constituents) == 2:
-					tpl = (rule.constituents[0], rule.constituents[1])
-					if tpl in new_grammar.rules: new_grammar.rules[tpl].append(rule)
-					else: new_grammar.rules[tpl] = [rule]
-				else:
-					c = rule.constituents[0]
-					if c in new_grammar.rules: new_grammar.rules[c].append(rule)
-					else: new_grammar.rules[c] = [rule]
+		# new_grammar = Grammar()
+		# for bc_key in g.rules:
+		# 	for rule in g.rules[bc_key]:
+		# 		if len(rule.constituents) == 2:
+		# 			tpl = (rule.constituents[0], rule.constituents[1])
+		# 			if tpl in new_grammar.rules: new_grammar.rules[tpl].append(rule)
+		# 			else: new_grammar.rules[tpl] = [rule]
+		# 		else:
+		# 			c = rule.constituents[0]
+		# 			if c in new_grammar.rules: new_grammar.rules[c].append(rule)
+		# 			else: new_grammar.rules[c] = [rule]
 
-		return new_grammar
+		# return new_grammar
+		return g
 
 	# Builds sentence tree from sentence_matrix
 	def build_sentence_tree(self, sentence_matrix):

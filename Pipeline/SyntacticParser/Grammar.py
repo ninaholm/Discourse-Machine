@@ -1,5 +1,6 @@
 class GrammarRule(object):
 	def __init__(self, rule_head, constituents, prob):
+		print rule_head,constituents,prob
 		self.constituents = constituents
 		self.rule_head = rule_head
 		self.prob = prob

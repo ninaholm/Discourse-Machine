@@ -55,7 +55,7 @@ def compress(cnfgrammar):
 			mainrule = None
 			# print "ID: ", ids
 			for rule in cnfgrammar.rules[ids]:
-				print "RULE2:",rule.print_rule()
+				# print "RULE2:",rule.print_rule()
 				# print len(cnfgrammar.rules[ids])
 				if rule.prob == 1:
 					# print "RULE: ", rule.print_rule()
@@ -101,26 +101,40 @@ def compress(cnfgrammar):
 
 	print "Keys up for deletion: ", len(delKeys)
 	for x in range(len(delKeys)):
-		print "delkey:",delKeys[x]
-		print "newrule:",newRules[x][0].print_rule()
-		print "Deleting", cnfgrammar.rules[delKeys[x]][0].print_rule()
-		print "info: ", len(cnfgrammar.rules[delKeys[x]]), delKeys[x]
+		# print "delkey:",delKeys[x]
+		# print "newrule:",newRules[x][0].print_rule()
+		# print "Deleting", cnfgrammar.rules[delKeys[x]][0].print_rule()
+		# print "info: ", len(cnfgrammar.rules[delKeys[x]]), delKeys[x]
 		del cnfgrammar.rules[delKeys[x]]
 		if newRules[x][0].key() not in cnfgrammar.rules:
-			print "Adding: ", newRules[x][0].print_rule()
+			# print "Adding: ", newRules[x][0].print_rule()
 			cnfgrammar.rules[newRules[x][0].key()] = newRules[x] 
 		else:
-			print "Exists: ", cnfgrammar.rules[newRules[x][0].key()][0].print_rule()
-			print "Denied: ", newRules[x][0].print_rule()
-			for y in cnfgrammar.rules[newRules[x][0].key()]:
-				print "PRE:",y.print_rule()
-			print "TYPE:",type(cnfgrammar.rules[newRules[x][0].key()])
-			print "newRules type", type(newRules[x])
+			# print "Exists: ", cnfgrammar.rules[newRules[x][0].key()][0].print_rule()
+			# print "Denied: ", newRules[x][0].print_rule()
+			# for y in cnfgrammar.rules[newRules[x][0].key()]:
+			# 	print "PRE:",y.print_rule()
+			# print "TYPE:",type(cnfgrammar.rules[newRules[x][0].key()])
+			# print "newRules type", type(newRules[x])
 			cnfgrammar.rules[newRules[x][0].key()] += (newRules[x])
-			for y in cnfgrammar.rules[newRules[x][0].key()]:
-				print "POST:",y.print_rule()
+			# for y in cnfgrammar.rules[newRules[x][0].key()]:
+			# 	print "POST:",y.print_rule()
 
-		print 
+		# print 
 	return cnfgrammar
 
 def convertToTuples(grammar):
+	# Transform grammar to tuple based grammar
+	new_grammar = Grammar()
+	for bc_key in grammar.rules:
+		for rule in grammar.rules[bc_key]:
+			if len(rule.constituents) == 2:
+				tpl = (rule.constituents[0], rule.constituents[1])
+				if tpl in new_grammar.rules: new_grammar.rules[tpl].append(rule)
+				else: new_grammar.rules[tpl] = [rule]
+			else:
+				c = rule.constituents[0]
+				if c in new_grammar.rules: new_grammar.rules[c].append(rule)
+				else: new_grammar.rules[c] = [rule]
+
+	return new_grammar
