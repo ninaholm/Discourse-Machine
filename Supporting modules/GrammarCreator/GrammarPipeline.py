@@ -43,6 +43,6 @@ final_grammar = convertToTuples(compressed_grammar)
 
 
 with open("grammar.out", 'w') as outputfile:
-	pickle.dump(final_grammar, outputfile)
+	pickle.dump(final_grammar.rules, outputfile)
 
 
