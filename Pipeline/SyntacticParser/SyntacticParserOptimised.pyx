@@ -2,8 +2,7 @@
 
 import pickle
 from Grammar import *
-from SyntacticParser.SentenceTree import SentenceTree
-
+from SentenceTree import *
 
 class SyntacticParser(object):
 

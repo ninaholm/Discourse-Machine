@@ -7,7 +7,7 @@ import time
 import math
 import csv
 import re
-from log.logger import indexLog, searchLog, sentimentArticleLog
+from log.logger import indexLog, searchLog, sentimentArticleLog, sentimentSentenceLog
 
 import random #for testing purposes
 
@@ -19,6 +19,7 @@ class Corpus:
 	def __init__(self, inputfiles):
 		self.wordIndex = {}	# {word: [(articleid, number of occurrences in article)]}
 		self.articleIndex = {} # {articleid: (totalwordcount, sentimentscore)}
+		self.inputfiles = inputfiles
 		self.articleDict = self._import_data(inputfiles) # {articleid: [date, header, subheader, picture text, article body]}
 		self.ngramterms = {}
 		self.searchterms = self._getSearchTerms() # list of strings
@@ -61,6 +62,8 @@ class Corpus:
 				for i in range(len(sentence)):
 					word = sentence[i]
 					word = word[:word.find("/")]
+					if "|" in word:
+						word = word[:word.find("|")]
 					if len(word) < 1: continue
 					if word in self.sentimentDict: sentimentcount += int(self.sentimentDict[word])
 					if word in self.ngramterms:
@@ -81,8 +84,15 @@ class Corpus:
 			totalwordcount += wordcount # logging purposes
 			self.articleIndex[articleid] = (wordcount, sentimentcount)
 
-
 		# Function done. Now printing and logging!
+		wcount = 0
+		for x in self.wordIndex:
+			if len(self.wordIndex[x]) > 50:
+				print x
+				if wcount > 30:
+					break
+				else:
+					wcount += 1
 
 		indexTime = round((time.time() - indexTime), 3) # logging purposes
 
@@ -96,7 +106,7 @@ class Corpus:
 		# print "pickletime: ", pickleTime
 		print "indextime: ", indexTime
 		print "doccount: ", doccount
-		# indexLog(self.inputfiles, len(inputdata), len(self.wordIndex), (totalwordcount / doccount), pickleTime, indexTime, totalTime)
+		indexLog(self.inputfiles, len(self.articleDict), len(self.wordIndex), (totalwordcount / doccount), 0, indexTime, totalTime)
 
 
 	# Clears the two indexes
@@ -169,15 +179,15 @@ class Corpus:
 		with open(os.getcwd() + "/data/searchterms.txt", "r") as searchtermsfile:
 			for term in searchtermsfile:
 				if len(term.split(" ")) > 1:
-					startterm = term.split(" ")[0].strip()
+					startterm = term.split(" ")[0].strip().lower()
 					finalterm = startterm
 					self.ngramterms[startterm] = []
 					for gram in [x.strip() for x in term.split(" ")][1:]:
 						self.ngramterms[startterm].append(gram)
-						finalterm += "_" + gram
+						finalterm += "_" + gram.lower()
 					searchterms.append(finalterm)
 				else:
-					searchterms.append(str(term).strip())
+					searchterms.append(str(term).strip().lower())
 
 		print ">>SEARCHTERMS: %s." %(" | ".join(searchterms))
 		return searchterms
@@ -316,7 +326,12 @@ class Corpus:
 		for articleid in articleSubset:
 			article = self.articleDict[articleid]
 			for s in self.get_sentences(article, term):
+				for sentence in s:
+					for word in sentence:
+						if word[0] in self.sentimentDict:
+							bowscore += int(self.sentimentDict[word[0]])
 				sentences.append(s)
+
 
 		subsetTime = time.time()
 		print ">>SENTIMENTSCORE: Found %s sentences."%len(sentences)
@@ -344,8 +359,8 @@ class Corpus:
 		print ">>SENTIMENTSCORE: Final score is", sentimentscore
 		print
 
-		return (bowscore, sentimentscore)
-
 		parseTime = round((time.time() - subsetTime), 3)  # logging purposes
 		subsetTime = round((subsetTime - starttime), 3) # logging purposes
 		sentimentSentenceLog(term, sentencesCount, sentimentscore, bowscore, self.inputfiles, subsetTime, parseTime) # logging purposes
+
+		return (bowscore, sentimentscore)

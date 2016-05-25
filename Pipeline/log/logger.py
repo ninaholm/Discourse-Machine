@@ -18,6 +18,7 @@ def makeLog(totalTime):
 	timecontent = [[]]
 
 	log = open(os.getcwd() + "/log/log.txt", 'a')
+	print logarray
 
 	for x in logarray:
 		if x[0].endswith(".in_"):
