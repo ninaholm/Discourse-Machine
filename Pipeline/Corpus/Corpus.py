@@ -22,8 +22,8 @@ class Corpus:
 		self.inputfiles = inputfiles
 		self.articleDict = self._import_data(inputfiles) # {articleid: [date, header, subheader, picture text, article body]}
 		self.ngramterms = {}
-		self.searchterms = self._getSearchTerms() # list of strings
-		self.sentimentDict = self._getSentimentDict() # {sentimentWord: score}
+		self.searchterms = [] # list of strings
+		self.sentimentDict = {} # {sentimentWord: score}
 		self.sentimentScore = 0
 
 
@@ -162,36 +162,6 @@ class Corpus:
 		searchLog(term, len(subset), totalTime) # logging purposes
 		sentimentArticleLog(term, self.sentimentscore) # logging purposes
 		return subset
-
-
-	def _getSentimentDict(self):
-		dict_path = "data/sentiment_dictionaries/information_manual_sent.csv"
-		dictionary = {}
-		with open(dict_path, "r") as csvfile:
-			csv_dict = csv.reader(csvfile)
-			for row in csv_dict:
-				dictionary[row[0].decode('utf-8')] = row[1]
-		return dictionary
-
-
-	def _getSearchTerms(self):
-		searchterms = []
-		with open(os.getcwd() + "/data/searchterms.txt", "r") as searchtermsfile:
-			for term in searchtermsfile:
-				if len(term.split(" ")) > 1:
-					startterm = term.split(" ")[0].strip().lower()
-					finalterm = startterm
-					self.ngramterms[startterm] = []
-					for gram in [x.strip() for x in term.split(" ")][1:]:
-						self.ngramterms[startterm].append(gram)
-						finalterm += "_" + gram.lower()
-					searchterms.append(finalterm)
-				else:
-					searchterms.append(str(term).strip().lower())
-
-		print ">>SEARCHTERMS: %s." %(" | ".join(searchterms))
-		return searchterms
-
 
 
 	def _checkNgram(self, word, restOfNgram, words, i, tagNeeded):
