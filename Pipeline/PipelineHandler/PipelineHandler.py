@@ -8,7 +8,7 @@ import glob
 import pickle
 import time
 import csv
-from guppy import hpy
+
 
 
 class PipelineHandler():
