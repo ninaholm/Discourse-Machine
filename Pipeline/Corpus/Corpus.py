@@ -230,8 +230,11 @@ class Corpus:
 						else:
 							termhit = True
 
+
+
 					postaggedlemma = (re.sub('/[^>]+/', '/', word)).split("/")
 					output_sentence.append(postaggedlemma)
+				output_sentence.append([".", "TEGN"])
 
 				if sentimenthit and termhit: sentenceList.append(output_sentence)
 				

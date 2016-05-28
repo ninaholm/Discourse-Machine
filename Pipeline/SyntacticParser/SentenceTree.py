@@ -22,8 +22,12 @@ class SentenceTree(object):
 
 		# Finds the most probable sentence option
 		options = sentence_matrix[sentence_length][1]
-		maximum_prob = max([y[1] for y in options.values()])
-		max_option = [options[x] for x in options if options[x][1]==maximum_prob][0]
+		# # Removes subrules from consideration - TESTING PURPOSES
+		# probs = [y[1] for y in options.values() if "@X" not in y[0]]
+		# if len(probs) == 0: return None
+		# maximum_prob = max(probs)
+		# max_option = [options[x] for x in options if options[x][1]==maximum_prob][0]
+		max_option = [options[x] for x in options if options[x][1]==max([y[1] for y in options.values()])][0]
 
 		# Builds the tree
 		self._nid = sentence_length+1
@@ -89,6 +93,7 @@ class SentenceTree(object):
 			n2 = self._in_sentence(word)
 			if n2 is not False:
 				d = self._get_distance(n1, n2)
+				if d == 0: score = float(sentimentDict[word])
 				score = float(sentimentDict[word]) / float(d)
 
 				# If SentWord is negated, flip the score derived from it

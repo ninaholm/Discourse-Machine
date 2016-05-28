@@ -169,6 +169,32 @@ Average time per sentence: 0.47192868142
 
 
 
+**************************************************
+
+Note: Testing the uncompressed grammar.
+
+>>MAIN: 6635 total number of sentences.
+>>MAIN: 3217 empty sentences.
+>>MAIN: 2170, or 63%, unparsable sentences.
+>>MAIN: Total time spent is 0:55:06.038483.
+
+Note: ...against the compressed grammar.
+
+>>MAIN: 6635 total number of sentences.
+>>MAIN: 3217 empty sentences.
+>>MAIN: 2170, or 63%, unparsable sentences.
+>>MAIN: Total time spent is 0:02:29.659959.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
