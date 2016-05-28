@@ -11,12 +11,13 @@ class SyntacticParser(object):
 		self.grammar = self._import_grammar()
 		self.cky_logger1 = Logger()
 		self.cky_logger2 = Logger()
+		self.test = False
 
 	# run() method
 	def parse_sentence(self, sentence):
 		m = self._cky_parse(sentence)
 		if m is None: return None
-		return m
+		# return m
 		return self.build_sentence_tree(m)
 
 

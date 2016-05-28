@@ -18,7 +18,6 @@ def makeLog(totalTime):
 	timecontent = [[]]
 
 	log = open(os.getcwd() + "/log/log.txt", 'a')
-	print logarray
 
 	for x in logarray:
 		if x[0].endswith(".in_"):
@@ -63,14 +62,12 @@ def makeLog(totalTime):
 		# corpuscontent.sort(key=itemgetter(0))
 		totalSentenceCount = 0
 		totalParsedCount = 0
-		itCount = 0
 		parseAvg = 0
 		subsetTime = 0
 		sentenceTime = 0
 		parseTime = 0
 
 		for x in corpuscontent:
-			itCount += 1
 			parseAvg += x[5]
 			subsetTime += float(x[2])
 			sentenceTime += x[7]
@@ -83,7 +80,7 @@ def makeLog(totalTime):
 			
 		
 		sentenceAvg = round((totalParsedCount/float(totalSentenceCount))*100,2)
-		parseAvg = round(parseAvg/float(itCount),3)
+		parseAvg = round(parseAvg/float(len(corpuscontent)+3),3)
 		corpusmetadata += "Search (subset) time: \t\t %s s\nSearch (sentence) time: \t %s s\nParse time: \t\t\t\t %s s\nAvg. sentence success: \t\t %s%%\nAvg. parse score: \t\t\t %s\n\n" %(subsetTime, sentenceTime, parseTime, sentenceAvg, parseAvg)
 
 
@@ -136,7 +133,7 @@ def makeLog(totalTime):
 			avg = float(avg / count)
 			scores.append(avg)
 	sentimentheader.append("Average")
-	print sentimentcontent
+
 	sentimentcontent = sorted(sentimentcontent, key=lambda result: sentimentcontent[0][1], reverse=True)
 
 	sentimenttable = table(sentimentheader, sentimentcontent)

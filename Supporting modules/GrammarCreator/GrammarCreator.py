@@ -3,9 +3,6 @@ from Grammar import *
 # Takes a raw grammar (based on the DDT extraction) and makes it binary (CNF) and normalizes it's counts into our probabilities.
 
 def convert_to_probabilistic_chomsky(rawgrammar):
-
-	sumOcc = sum(rawgrammar.rules.values())
-	print "SUMOCC:", sumOcc
 	grammar = Grammar()
 	leftsideOcc = {}
 
@@ -28,7 +25,7 @@ def convert_to_probabilistic_chomsky(rawgrammar):
 			# print 
 			grammar.newRuleCount += len(subRules)
 			continue
-		# print x.rule_head, " ---> \t", x.constituents, x.prob 
+		print x.rule_head, " ---> \t", x.constituents, x.prob 
 		# printd
 		grammar.newRuleCount += 1
 		if x.key() in grammar.rules:

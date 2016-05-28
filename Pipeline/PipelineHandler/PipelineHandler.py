@@ -8,6 +8,8 @@ import glob
 import pickle
 import time
 import csv
+from guppy import hpy
+
 
 class PipelineHandler():
 	def __init__(self, corpora):
@@ -19,14 +21,12 @@ class PipelineHandler():
 
 
 	def run(self):
-
 		for corpus in self.corpora:
 			subsetList = []
 			c = Corpus(corpus)
 			c.ngramterms = self.ngramterms
 			c.sentimentDict = self.sentimentDict
 			c.index()
-
 			for term in self.searchterms:
 				subset = c.search(term)
 				if len(subset) == 0: continue

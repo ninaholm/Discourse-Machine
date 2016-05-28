@@ -16,11 +16,12 @@ if logChoice == True:
 	createLog(0)
 
 # corpora = [["indland.in", "udland.in", "debat.in", "kultur.in"], ["telegram.in"]]
-corpora = [["indland.in", "udland.in", "debat.in", "kultur.in"]]
+# corpora = [["indland.in", "udland.in", "debat.in", "kultur.in"]]
 # corpora = [["test_indland.in"], ["test_udland.in"]]
 # corpora = [["indland.in"],["udland.in"],["debat.in"],["kultur.in"]]
 # corpora = [["debat.in"]]
-# corpora = [["indland.in"]]
+corpora = [["indland.in"]]
+# corpora = [["telegram.in"]]
 
 
 posc = PipelineHandler(corpora)

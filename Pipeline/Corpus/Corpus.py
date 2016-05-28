@@ -7,6 +7,7 @@ import time
 import math
 import csv
 import re
+from SyntacticParser.SentenceTree import *
 from log.logger import indexLog, searchLog, sentimentArticleLog, sentimentSentenceLog
 
 import random #for testing purposes
@@ -85,15 +86,6 @@ class Corpus:
 			self.articleIndex[articleid] = (wordcount, sentimentcount)
 
 		# Function done. Now printing and logging!
-		wcount = 0
-		for x in self.wordIndex:
-			if len(self.wordIndex[x]) > 50:
-				print x
-				if wcount > 30:
-					break
-				else:
-					wcount += 1
-
 		indexTime = round((time.time() - indexTime), 3) # logging purposes
 
 		print ">>INDEX: %s words in total." % totalwordcount
@@ -216,7 +208,7 @@ class Corpus:
 					lemma = word[:word.find("/")]
 					if lemma[:1] == "\n": lemma = lemma[1:]
 					if lemma == "N" or len(lemma) < 1: continue
-					if lemma in self.sentimentDict: sentimenthit = True
+					# if lemma in self.sentimentDict: sentimenthit = True
 					if lemma == term:
 						if len(ngram) > 0:
 							comingwords, tag = self._checkNgram(lemma, ngram, sentence, i, True)
@@ -229,6 +221,7 @@ class Corpus:
 							# print ">> TERMHIT", term
 						else:
 							termhit = True
+					sentimenthit = True
 
 
 
@@ -308,17 +301,27 @@ class Corpus:
 
 		subsetTime = time.time()
 		print ">>SENTIMENTSCORE: Found %s sentences."%len(sentences)
-
+		scount = 0
+		rawsentences = []
 		# Parse all sentences
 		for sentence in sentences:
 			t = parser.parse_sentence(sentence)
 
 			if t is not None:
+				if scount > 500:
+					break
+				scount += 1
+				print "scount:",self.print_sentence(sentence)
 				score = t.get_sentiment_score(self.sentimentDict, term)
+				rawsentences.append((sentence,score))
 				if score != 0:
 					parsedSentencesCount += 1  # logging purposes
 					if sentimentscore == 0: sentimentscore = score
 					else: sentimentscore = (sentimentscore + score) / 2
+
+		with open(os.getcwd() + "/manualsentences.in", "wb") as pickleSentences:
+				pickle.dump(pickleSentences, rawsentences)
+		
 
 		# Set BOW score
 		if len(sentences) == 0:
