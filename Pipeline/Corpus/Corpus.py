@@ -208,7 +208,7 @@ class Corpus:
 					lemma = word[:word.find("/")]
 					if lemma[:1] == "\n": lemma = lemma[1:]
 					if lemma == "N" or len(lemma) < 1: continue
-					# if lemma in self.sentimentDict: sentimenthit = True
+					if lemma in self.sentimentDict: sentimenthit = True
 					if lemma == term:
 						if len(ngram) > 0:
 							comingwords, tag = self._checkNgram(lemma, ngram, sentence, i, True)
@@ -221,8 +221,6 @@ class Corpus:
 							# print ">> TERMHIT", term
 						else:
 							termhit = True
-					sentimenthit = True
-
 
 
 					postaggedlemma = (re.sub('/[^>]+/', '/', word)).split("/")
@@ -291,12 +289,11 @@ class Corpus:
 		# Extract sentences from list of articles
 		for articleid in articleSubset:
 			article = self.articleDict[articleid]
-			for s in self.get_sentences(article, term):
-				for sentence in s:
-					for word in sentence:
-						if word[0] in self.sentimentDict:
-							bowscore += int(self.sentimentDict[word[0]])
-				sentences.append(s)
+			for sentence in self.get_sentences(article, term):
+				for word in sentence:
+					if word[0] in self.sentimentDict:
+						bowscore += int(self.sentimentDict[word[0]])
+				sentences.append(sentence)
 
 
 		subsetTime = time.time()
@@ -319,8 +316,8 @@ class Corpus:
 					if sentimentscore == 0: sentimentscore = score
 					else: sentimentscore = (sentimentscore + score) / 2
 
-		with open(os.getcwd() + "/manualsentences.in", "wb") as pickleSentences:
-				pickle.dump(pickleSentences, rawsentences)
+		# with open(os.getcwd() + "/manualsentences.in", "wb") as pickleSentences:
+		# 		pickle.dump(pickleSentences, rawsentences)
 		
 
 		# Set BOW score

@@ -1,0 +1,78 @@
+digraph test_tree {
+rankdir=TB;
+
+subgraph cluster_0 {
+style=filled;
+color=lightgrey;
+label = "Preparation modules";
+node [shape=box, style="rounded, filled",color=white];
+edge [style=invis]
+"Web crawler" -> "Data preprocessor" -> "CST tools" -> "Grammar Creator" -> b -> e1
+b [style=invis]
+e1 [style=invis]
+}
+
+subgraph cluster_1 {
+style=filled;
+color=lightgrey;
+label = "Data";
+node [shape=box, style="rounded, filled",color=white];
+edge [style=invis]
+c -> "Newspaper data" -> "Sentiment dictionary"-> "Grammar" -> "Danish Dependency \nTreebank"  -> e2
+c [style=invis]
+e2 [style=invis]
+}
+
+subgraph cluster_2 {
+style=filled;
+color=lightgrey;
+label = "Pipeline tasks";
+node [shape=box, style="rounded, filled",color=white];
+edge [style=invis]
+"Indexing data" -> "Searchterm-based \narticle retrieval" -> "Bag-of-words \nsentiment analysis" -> "Syntactic parsing" -> "Parsing-based \nsentiment analysis" -> e3
+e3 [style=invis]
+}
+
+
+subgraph cluster_3 {
+style=filled;
+color=lightgrey;
+label = "Output";
+node [shape=box, style="rounded, filled",color=white];
+edge [style=invis]
+d -> e -> "Bag-of-words \nsentiment score" -> f -> "Syntactically \nweighted score" -> e4
+d [style=invis]
+e [style=invis]
+f [style=invis]
+e4 [style=invis]
+}
+
+{
+rankdir=LR;
+rank=same;
+edge [style=invis]
+e1 -> e2 -> e3 -> e4
+}
+
+{
+edge [constraint=false]
+"Web crawler" -> "Data preprocessor"
+"CST tools" -> "Data preprocessor"
+"Sentiment dictionary" -> "Bag-of-words \nsentiment analysis"
+"Sentiment dictionary" -> "Parsing-based \nsentiment analysis"
+"Data preprocessor" -> "Newspaper data" 
+"Newspaper data" -> "Sentiment dictionary"
+"Newspaper data" -> "Indexing data"
+"Indexing data" -> "Searchterm-based \narticle retrieval"
+"Searchterm-based \narticle retrieval" -> "Bag-of-words \nsentiment analysis"
+"Bag-of-words \nsentiment analysis" -> "Bag-of-words \nsentiment score"
+"Searchterm-based \narticle retrieval" -> "Syntactic parsing"
+"Syntactic parsing" -> "Parsing-based \nsentiment analysis"
+"Parsing-based \nsentiment analysis" -> "Syntactically \nweighted score"
+"Danish Dependency \nTreebank" -> "Grammar Creator"
+"Grammar Creator" -> "Grammar"
+"Grammar" -> "Syntactic parsing"
+}
+
+
+}
