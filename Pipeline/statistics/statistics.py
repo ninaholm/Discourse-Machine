@@ -273,9 +273,6 @@ def information_dates():
 	y = [tmp[z] for z in x]
 
 
-
-
-
 	plt.bar(x,y, color="blue", linewidth=0)
 	plt.ylabel('No. of articles')
 	plt.xlabel('Year')
@@ -310,19 +307,32 @@ def parser_accuracy_analysis():
 			par_words.append(word[0].decode('utf-8', errors='ignore'))
 			par_tags.append(word[1].decode('utf-8', errors='ignore'))
 
-	un_NNP_tags = len([x for x in un_tags if x=="NNP"])
-	par_NNP_tags = len([x for x in par_tags if x=="NNP"])
-
-	print "Percentage of 'NNP' tag in unparsed sentences:", (un_NNP_tags*100/(len(un_tags))), "%"
-	print "Percentage of 'NNP' tag in parsed sentences:", (par_NNP_tags*100/(len(par_tags))), "%"
-	print
 
 	citation_marks = [u"«", u"»", "\""]
-	un_cit = len([x for x in un_words if x in citation_marks])
-	par_cit = len([x for x in par_words if x in citation_marks])
+	un_cit = 0
+	for s in unparsed_sentences:
+		cit_found = False
+		for word in s:
+			if word[0].decode('utf-8', 'ignore') in citation_marks:
+				cit_found = True
+		if cit_found: un_cit += 1
 
-	print "Percentage of citations in unparsed sentences:", (un_cit*100/(len(un_tags))), "%"
-	print "Percentage of citations tag in parsed sentences:", (par_cit*100/(len(un_tags))), "%"
+	par_cit = 0
+	for s in parsed_sentences:
+		cit_found = False
+		for word in s:
+			if word[0].decode('utf-8', 'ignore') in citation_marks:
+				cit_found = True
+		if cit_found: par_cit += 1
+
+	print "Sentences parsed:", len(parsed_sentences)
+	print "Sentences not parsed:", len(unparsed_sentences)
+
+	print "Percentage of sentences with a quote:", ((un_cit+par_cit)*100/(len(unparsed_sentences+parsed_sentences)))
+	
+
+	print "Percentage of citations in unparsed sentences:", (un_cit*100/(len(unparsed_sentences))), "%"
+	print "Percentage of citations tag in parsed sentences:", (par_cit*100/(len(parsed_sentences))), "%"
 
 	all_tags = []
 	unique_un_tags = {}
@@ -351,17 +361,42 @@ def parser_accuracy_analysis():
 	# Parsed tags
 	x = [all_tags.index(i) for i in unique_par_tags.keys()]
 	y = unique_par_tags.values()
-	parsed_handle = plt.bar(x, y, align='center', color="red", label="Parsed sentences")
+	parsed_handle = plt.bar(x, y, align='center', color="red", label="Successfully parsed sentences")
 
 	# Design and plotting
 	plt.subplots_adjust(bottom=0.35)
 	plt.xticks(range(len(all_tags)), all_tags, rotation='vertical')
 	plt.legend(handles=[parsed_handle, unparsed_handle])
 	plt.xlim([-1,len(all_tags)])
-	plt.xlabel("tag")
-	plt.xlabel("count")
-	plt.show()
+	plt.title("Distribution of tags")
+	# plt.show()
 
+	plt.clf()
+	tmp = {}
+	for s in unparsed_sentences:
+		if len(s) in tmp: tmp[len(s)] += 1
+		else: tmp[len(s)] = 1
+
+	tmp2 = {}
+	for s in parsed_sentences:
+		if len(s) in tmp2: tmp2[len(s)] += 1
+		else: tmp2[len(s)] = 1
+
+	# portion*100/total
+	percentages = []
+	x = []
+	for n in tmp:
+		if n in tmp2:
+			x.append(n)
+			percentages.append(tmp[n]*100/(tmp[n]+tmp2[n]))
+
+	# plt.scatter(tmp.keys(), tmp.values(), color="blue")
+	# plt.scatter(tmp2.keys(), tmp2.values(), color="red")
+	plt.scatter(x, percentages, color="blue", linewidth=0)
+	plt.xlabel("Length of sentence")
+	plt.ylabel("% unparsable")
+
+	plt.show()
 
 
 parser_accuracy_analysis()
