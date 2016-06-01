@@ -1,0 +1,30 @@
+graph test_tree {
+
+node [shape=none]
+graph [ dpi = 300 ];
+
+a1 [label="a"]
+a2 [label="a"]
+Noun1 [label="Noun"]
+Noun2 [label="Noun"]
+Det1 [label="Det"]
+Det2 [label="Det"]
+
+Verb -- Is
+Det1 -- a1
+Adj -- semiotic
+Noun1 -- sign
+Det2 -- a2
+Noun2 -- NoneType
+Punct -- "?"
+
+"Noun Phrase" -- { Det1 Adj Noun1 }
+Nominal -- { Det2 Noun2 }
+"Verb Phrase" -- { Verb "Noun Phrase" }
+S -- { "Verb Phrase" Nominal Punct }
+
+Is -- a1 -- semiotic -- sign -- a2 -- NoneType -- "?" [style=invis]
+{rank=same; Is a1 semiotic sign a2 NoneType "?" }
+
+
+}

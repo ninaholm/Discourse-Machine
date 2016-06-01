@@ -15,19 +15,12 @@ starttime = time.time()
 if logChoice == True:
 	createLog(0)
 
-# corpora = [["indland.in", "udland.in", "debat.in", "kultur.in"], ["telegram.in"]]
-# corpora = [["indland.in", "udland.in", "debat.in", "kultur.in"]]
-# corpora = [["test_indland.in"], ["test_udland.in"]]
-# corpora = [["indland.in"],["udland.in"],["debat.in"],["kultur.in"]]
-# corpora = [["debat.in"]]
-corpora = [["indland.in"]]
-# corpora = [["telegram.in"]]
+
+corpora = [["indland.in", "udland.in", "debat.in", "kultur.in"], ["telegram.in"]]
 
 
 posc = PipelineHandler(corpora)
 posc.run()
-
-print "DONE."
 
 
 totalTime = round((time.time() - starttime), 3)

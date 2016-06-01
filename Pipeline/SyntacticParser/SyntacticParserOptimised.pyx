@@ -26,10 +26,9 @@ class SyntacticParser(object):
 		sentence_matrix = [[{} for x in range(n)] for y in range(n)] # Create CKY matrix
 		sentence_length = len(sentence)
 		
-
 		# Fill out the NTs resolving to terminals
 		for i in range(1, sentence_length+1):
-			if sentence[i-1][1] not in grammar_rules: # IGNORE NON-EXISTiNG TAGS
+			if sentence[i-1][1] not in grammar_rules: # ignore non-existing tags
 				print ">>PARSE: Encountered illegal tag: %s. Disregarding sentence." % sentence[i-1][1]
 				print sentence
 				return None
@@ -37,7 +36,7 @@ class SyntacticParser(object):
 			sentence_matrix[0][i][0] = (sentence[i-1][0]) # Enter word into sentence matrix
 			for j in range(len(grammar_rules[sentence[i-1][1]])):
 				r = grammar_rules[sentence[i-1][1]][j]
-				# 0: leftside | 1: probability | 2: left coordinates | 3: right coordinates
+				# 0: rulehead | 1: probability | 2: left coordinates | 3: right coordinates
 				sentence_matrix[1][i][r.rule_head] = ([r.rule_head, 1, None, None])
 
 		# Run the CKY algorithm
@@ -54,7 +53,6 @@ class SyntacticParser(object):
 							k = len(grammar_rules[bc])
 							bc_prob = float(b_dict[bc[0]][1]) * float(c_dict[bc[1]][1])
 
-							# DO NOT DO THE FUCKING COORDINATES
 							b_option_coord = [split_point, substring_start, bc[0]]
 							c_option_coord = [substring_length - split_point, substring_start + split_point, bc[1]]
 							
@@ -62,6 +60,7 @@ class SyntacticParser(object):
 							probs = [(x.prob * bc_prob) for x in grammar_rules[bc]]
 
 							for j in range(k):
+								# 0: rulehead | 1: probability | 2: left coordinates | 3: right coordinates
 								new_rule = [rules[j], probs[j], b_option_coord, c_option_coord]
 								if rules[j] in sentence_matrix[substring_length][substring_start]:
 									if sentence_matrix[substring_length][substring_start][rules[j]][1] < probs[j]:
@@ -89,8 +88,6 @@ class SyntacticParser(object):
 
 
 
-
-
 	# Returns a dictionary containing the grammar used by the CKY parser
 	def _import_grammar(self):
 		with open("SyntacticParser/grammar.in", "r") as gfile:
@@ -103,27 +100,3 @@ class SyntacticParser(object):
 		st = SentenceTree()
 		st.build_tree(sentence_matrix)
 		return st
-
-
-
-
-class Logger(object):
-	def __init__(self):
-		self.time_keeper = datetime.now()
-		self.starttime = datetime.now()
-		self.time_counter = None
-		self.timer = None
-
-	def time_since_last_check(self):
-		t = (datetime.now() - self.time_keeper)
-		self.time_keeper = datetime.now()
-		return t
-
-	def start_timer(self):
-		self.timer = datetime.now()
-
-	def stop_timer(self):
-		if self.time_counter is None:
-			self.time_counter = datetime.now() - self.timer
-		else:
-			self.time_counter += datetime.now() - self.timer

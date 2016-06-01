@@ -22,11 +22,6 @@ class SentenceTree(object):
 
 		# Finds the most probable sentence option
 		options = sentence_matrix[sentence_length][1]
-		# # Removes subrules from consideration - TESTING PURPOSES
-		# probs = [y[1] for y in options.values() if "@X" not in y[0]]
-		# if len(probs) == 0: return None
-		# maximum_prob = max(probs)
-		# max_option = [options[x] for x in options if options[x][1]==maximum_prob][0]
 		max_option = [options[x] for x in options if options[x][1]==max([y[1] for y in options.values()])][0]
 
 		# Builds the tree
@@ -42,8 +37,7 @@ class SentenceTree(object):
 		return self._nid
 
 
-	# Recursive function which builds the children nodes of a given parse_option
-	# and then builds their children
+	# Recursive function which builds the children nodes of a given parse_option and then builds their children
 	def _create_children(self, parse_option, pid):
 		if parse_option is None:
 			return None
@@ -83,7 +77,7 @@ class SentenceTree(object):
 	def get_sentiment_score(self, sentimentDict, term):
 		total_score = 0
 
-		# placeholder dictionaries -TESTING PURPOSES
+		# negation dictionary
 		negationList = ["ikke", "ej"]
 
 		# Check the term against every sentiment word

@@ -24,7 +24,6 @@ print ">>GRAMMARCREATOR: Appending the two grammars."
 for gr in terminal_grammar.rules:
 	counted_grammar.rules[gr] = 1
 
-# counted_grammar.print_counted_grammar()
 if test: counted_grammar.print_counted_grammar()
 if test: raw_input("Appended grammar printed. continue?")
 
@@ -37,10 +36,6 @@ compressed_grammar = compress(cnfgrammar)
 
 print ">>GRAMMARCREATOR: Converting to tuples."
 final_grammar = convertToTuples(compressed_grammar)
-
-
-# final_grammar.print_grammar()
-
 
 with open("grammar.out", 'w') as outputfile:
 	pickle.dump(final_grammar.rules, outputfile)

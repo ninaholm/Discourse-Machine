@@ -1,0 +1,37 @@
+graph test_tree {
+
+node [shape=none]
+
+noun1 [label="Noun"]
+noun2 [label="Noun"]
+noun3 [label="Noun"]
+
+adj1 [label="Adj"]
+adj2 [label="Adj"]
+adj3 [label="Adj"]
+adj4 [label="Adj"]
+
+np1 [label="NP"]
+np2 [label="NP"]
+
+adj1 -- Unsupervised 
+adj2 -- sentiment 
+noun1 -- analysis
+Prep -- for 
+Det -- the 
+adj3 -- Danish 
+noun2 -- language 
+Verb -- using 
+adj4 -- syntactic
+noun3 -- parsing
+
+np1 -- { adj1 adj2 noun1 }
+np2 -- { Det adj3 noun2 }
+VP -- { Verb adj4 noun3 }
+PP -- { Prep np2 }
+S -- { np1 PP VP }
+
+Unsupervised -- sentiment -- analysis -- for -- the -- Danish -- language -- using -- syntactic -- parsing [style=invis]
+{rank=same; Unsupervised sentiment analysis for the Danish language using syntactic parsing }
+
+}

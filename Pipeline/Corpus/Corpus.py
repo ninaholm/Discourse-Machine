@@ -114,7 +114,6 @@ class Corpus:
 		subset = []
 
 		term = str(searchTerm).strip()
-		# term = lemmatise_input_term(term)
 		if term in self.wordIndex:
 			articlehits = self.wordIndex[term]
 			doccount = len(articlehits)
@@ -126,7 +125,7 @@ class Corpus:
 				TF = wordcount / float(articlewordcount)
 				TFIDF = TF * IDF
 				subset.append((article, TFIDF))
-				# print "TFIDF: %s * %s = %s" % (TF, IDF, TFIDF)
+
 		else:
 			print ">>SEARCHARTICLES: '%s' has 0 articles. Search terminated." %term
 			return subset
@@ -218,7 +217,6 @@ class Corpus:
 								for j in range(len(comingwords)):
 									sentence[i+1+j] = "" # Nullifies comingwords from sentence
 								termhit = True
-							# print ">> TERMHIT", term
 						else:
 							termhit = True
 
@@ -315,9 +313,6 @@ class Corpus:
 					parsedSentencesCount += 1  # logging purposes
 					if sentimentscore == 0: sentimentscore = score
 					else: sentimentscore = (sentimentscore + score) / 2
-
-		# with open(os.getcwd() + "/manualsentences.in", "wb") as pickleSentences:
-		# 		pickle.dump(pickleSentences, rawsentences)
 		
 
 		# Set BOW score

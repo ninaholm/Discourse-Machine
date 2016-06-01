@@ -46,8 +46,6 @@ class PipelineHandler():
 			print entry[0] + "\t| BOW score: " + str(entry[1]) + "\t| Syntactic score: " + str(entry[2])
 
 
-			
-
 	def _getSentimentDict(self):
 		dict_path = "data/sentiment_dictionaries/information_manual_sent.csv"
 		dictionary = {}
